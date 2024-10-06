@@ -1,0 +1,832 @@
+scientificName,kingdom,family,vernacularName,previousIdentifications,individualCount,longitudeDecimal,latitudeDecimal,continent,country,countryCode,stateProvince,locality,eventDate,eventTime
+Argynnis pandora,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Cardinal,,1,74.7585296631,42.7306220914,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2007-06-01,
+Emberiza cia,Animalia,BUNTINGS_EMBERIZIDAE,Rock Bunting,,1,76.9731974602,42.648598811,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2007-05-24,
+Orthetrum brunneum,Animalia,SKIMMERS_LIBELLULIDAE,Southern Skimmer,,1,77.6770305634,42.718736573,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2007-05-26,
+Orthetrum brunneum,Animalia,SKIMMERS_LIBELLULIDAE,Southern Skimmer,,1,77.6770305634,42.718736573,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2007-05-26,
+Sympetrum sanguineum,Animalia,SKIMMERS_LIBELLULIDAE,Ruddy Darter,,10,76.4943695068,42.7631458669,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2013-06-30,
+Saxicola maurus,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Siberian Stonechat,,1,76.044452930253,42.702503583493,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2009-07-11,
+Ibidorhyncha struthersii,Animalia,IBISBILL_IBIDORHYNCHIDAE,Ibisbill,,2,76.2902941438,42.1544237127,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2012-06-30,
+Falco peregrinus babylonicus,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Peregrine Falcon ssp babylonicus,,1,78.9164919354,42.190486797,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2009-07-13,
+Saxicola maurus,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Siberian Stonechat,,1,76.040863464,42.7464081875,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2009-07-10,
+Oenanthe pleschanka,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Pied Wheatear,,2,75.9997505643,42.7411448701,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2009-07-08,
+Orthetrum albistylum,Animalia,SKIMMERS_LIBELLULIDAE,White-tailed Skimmer,,1,74.5806884766,43.006655666,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2007-05-20,
+Sympetrum fonscolombii,Animalia,SKIMMERS_LIBELLULIDAE,Red-veined Darter,,4,74.5806884766,43.006655666,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2007-05-20,
+Riparia riparia,Animalia,SWALLOWS_HIRUNDINIDAE,Sand Martin,,2,76.3285446167,42.1409371296,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2010-06-14,
+Carpodacus erythrinus,Animalia,FINCHES_FRINGILLIDAE,Common Rosefinch,,2,78.2748842239,42.2991309201,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2010-06-10,
+Motacilla alba personata,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,White Wagtail ssp personata,,1,76.1201477051,42.740936791,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2010-06-07,21:08
+Eremophila alpestris,Animalia,LARKS_ALAUDIDAE,Horned Lark,,1,75.2628707886,41.7780967365,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2010-06-16,
+Alectoris chukar,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Chukar Partridge,,2,76.3605,42.1313,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2010-06-14,
+Pastor roseus,Animalia,STARLINGS_STURNIDAE,Rosy Starling,,30,74.54087213,42.7363453,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2010-06-06,09:32
+Cecropis daurica,Animalia,SWALLOWS_HIRUNDINIDAE,Red-rumped Swallow,,2,74.61667715,42.89480563,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2010-06-07,12:31
+Emberiza bruniceps,Animalia,BUNTINGS_EMBERIZIDAE,Red-headed Bunting,,1,75.98567352,42.69665573,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2010-06-07,19:05
+Saxicola maurus,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Siberian Stonechat,,1,76.11794012,42.73984337,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2010-06-07,21:14
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,2,76.12718477,42.7364859,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2010-06-08,08:05
+Saxicola maurus,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Siberian Stonechat,,1,76.13729717,42.73607518,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2010-06-08,09:58
+Saxicola maurus,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Siberian Stonechat,,1,76.15081892,42.73244785,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2010-06-08,10:55
+Saxicola maurus,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Siberian Stonechat,,1,76.15039307,42.7328961,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2010-06-08,11:10
+Oenanthe isabellina,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Isabelline Wheatear,,6,77.80404032,42.73695395,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2010-06-09,17:56
+Hieraaetus pennatus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Booted Eagle,,3,78.22313947,42.37774513,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2010-06-10,11:28
+Serinus pusillus,Animalia,FINCHES_FRINGILLIDAE,Red-fronted Serin,,2,78.26821553,42.29951387,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2010-06-10,12:42
+Marmota baibacina,Animalia,SQUIRRELS_CHIPMUNKS_AND_PRAIRIEDOGS_SCIURIDAE,Gray Marmot,,1,78.26426315,42.302351,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2010-06-10,15:23
+Pyrrhocorax pyrrhocorax,Animalia,CROWS_AND_JAYS_CORVIDAE,Red-billed Chough,,4,76.83858972,42.1772311,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2010-06-10,21:00
+Emberiza buchanani,Animalia,BUNTINGS_EMBERIZIDAE,Grey-necked Bunting,,2,76.83891435,42.1726828,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2010-06-11,18:26
+Eremophila alpestris,Animalia,LARKS_ALAUDIDAE,Horned Lark,,1,76.82444228,42.15153182,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2010-06-12,10:26
+Emberiza buchanani,Animalia,BUNTINGS_EMBERIZIDAE,Grey-necked Bunting,,1,76.8323052,42.14050768,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2010-06-12,10:46
+Motacilla citreola,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Citrine Wagtail,,1,76.94135162,42.03079117,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2010-06-12,15:14
+Petronia petronia,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,Rock Sparrow,,2,76.93849935,42.03550577,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2010-06-13,11:11
+Alectoris chukar,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Chukar Partridge,,1,76.93528165,42.0346267,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2010-06-13,11:50
+Montifringilla nivalis,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,White-winged Snowfinch,,1,76.93728215,42.01314255,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2010-06-13,17:26
+Eremophila alpestris,Animalia,LARKS_ALAUDIDAE,Horned Lark,,4,76.93728187,42.01314517,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2010-06-13,17:27
+Cinclus cinclus,Animalia,DIPPERS_CINCLIDAE,White-throated Dipper,,1,76.9902241,42.0666111,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2010-06-14,10:40
+Ibidorhyncha struthersii,Animalia,IBISBILL_IBIDORHYNCHIDAE,Ibisbill,,1,76.30522902,42.15158653,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2010-06-14,16:53
+Charadrius mongolus,Animalia,PLOVERS_CHARADRIIDAE,Lesser Sand Plover,,55,75.1145566,41.75775848,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2010-06-16,17:08
+Grus virgo,Animalia,CRANES_GRUIDAE,Demoiselle Crane,,2,75.3474745,41.76685435,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2010-06-17,09:38
+Prunella himalayana,Animalia,ACCENTORS_PRUNELLIDAE,Altai Accentor,,2,75.4077223,41.90970505,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2010-06-17,11:58
+Aquila chrysaetos,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Golden Eagle,,1,75.41823525,41.94397927,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2010-06-17,13:19
+Carduelis carduelis caniceps,Animalia,FINCHES_FRINGILLIDAE,European Goldfinch ssp caniceps,,1,75.9786987305,42.7228037573,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2007-05-22,
+Neptis rivularis,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Hungarian Glider,,1,75.9484863281,42.7530628005,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2007-05-22,
+Coenonympha pamphilus,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Small Heath,,1,75.9484863281,42.7530628005,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2007-05-22,
+Aglais urticae,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Small Tortoiseshell,,2,75.9484863281,42.7530628005,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2007-05-22,
+Aporia crataegi,Animalia,WHITES_PIERIDAE,Black-veined White,,10,76.2506103516,42.7268391496,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2007-05-22,
+Parnassius apollo,Animalia,SWALLOWTAILS_PAPILIONIDAE,Apollo,,1,76.25,42.7,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2007-05-22,
+Issoria lathonia,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Queen of Spain Fritillary,,1,75.8798217773,42.7611293849,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-22,
+Spialia orbifer,Animalia,SKIPPERS_HESPERIIDAE,Hungarian Skipper,,1,75.8798217773,42.7611293849,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-22,
+Erebia turanica,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,75.8798217773,42.7611293849,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-22,
+Motacilla citreola,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Citrine Wagtail,,1,76.9921875,42.0584698443,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-31,
+Ibidorhyncha struthersii,Animalia,IBISBILL_IBIDORHYNCHIDAE,Ibisbill,,2,76.9921875,42.0584698443,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-31,
+Upupa epops,Animalia,HOOPOES_UPUPIDAE,Eurasian Hoopoe,,1,76.8974304199,42.0584698443,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-30,
+Falco subbuteo,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Eurasian Hobby,,1,76.8974304199,42.0584698443,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-30,
+Sympecma paedisca,Animalia,SPREADWINGS_LESTIDAE,Siberian Winter Damsel,,1,76.7120361328,42.2407187492,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-29,
+Oenanthe oenanthe,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Northern Wheatear,,1,76.7120361328,42.2407187492,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-29,
+Sylvia curruca,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Lesser Whitethroat,,1,76.7120361328,42.2407187492,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-29,
+Anthus trivialis,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Tree Pipit,,1,76.7120361328,42.2407187492,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-29,
+Gallinago gallinago,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Common Snipe,,1,76.7120361328,42.2407187492,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-29,
+Tringa totanus,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Common Redshank,,1,76.7120361328,42.2407187492,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-29,
+Falco subbuteo,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Eurasian Hobby,,1,76.7120361328,42.2407187492,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-29,
+Netta rufina,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Red-crested Pochard,,1,76.7120361328,42.2407187492,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-29,
+Anthus campestris,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Tawny Pipit,,10,76.9235229492,42.1532233124,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-28,
+Delichon urbicum,Animalia,SWALLOWS_HIRUNDINIDAE,Common House Martin,,1,76.9235229492,42.1532233124,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-28,
+Hirundo rustica,Animalia,SWALLOWS_HIRUNDINIDAE,Barn Swallow,,1,76.9235229492,42.1532233124,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-28,
+Galerida cristata,Animalia,LARKS_ALAUDIDAE,Crested Lark,,1,76.9235229492,42.1532233124,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-28,
+Emberiza cioides,Animalia,BUNTINGS_EMBERIZIDAE,Meadow Bunting,,1,78.1924438477,42.3991221599,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-27,
+Cinclus cinclus,Animalia,DIPPERS_CINCLIDAE,White-throated Dipper,,1,78.1924438477,42.3991221599,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-27,
+Mycerobas carnipes,Animalia,FINCHES_FRINGILLIDAE,White-winged Grosbeak,,1,78.1924438477,42.3991221599,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-27,
+Phoenicurus phoenicurus,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Common Redstart,,1,78.1924438477,42.3991221599,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-27,
+Sylvia communis,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Common Whitethroat,,1,78.1924438477,42.3991221599,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-27,
+Turdus viscivorus,Animalia,THRUSHES_TURDIDAE,Mistle Thrush,,1,78.1924438477,42.3991221599,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-27,
+Regulus regulus,Animalia,KINGLETS_REGULIDAE,Goldcrest,,1,78.1924438477,42.3991221599,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-27,
+Anthus campestris,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Tawny Pipit,,1,78.1924438477,42.3991221599,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-27,
+Anthus pratensis,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Meadow Pipit,,1,78.1924438477,42.3991221599,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-27,
+Upupa epops,Animalia,HOOPOES_UPUPIDAE,Eurasian Hoopoe,,1,78.1924438477,42.3991221599,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-27,
+Apus apus,Animalia,SWIFTS_APODIDAE,Common Swift,,1,78.1924438477,42.3991221599,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-27,
+Columba palumbus,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Common Wood Pigeon,,1,78.1924438477,42.3991221599,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-26,
+Phasianus colchicus,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Common Pheasant,,1,78.1924438477,42.3991221599,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-26,
+Accipiter gentilis,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Northern Goshawk,,1,78.1924438477,42.3991221599,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-26,
+Passer domesticus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow,,1,78.1512451172,42.7490291146,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-26,
+Emberiza calandra,Animalia,BUNTINGS_EMBERIZIDAE,Corn Bunting,,1,78.1512451172,42.7490291146,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-26,
+Corvus corax,Animalia,CROWS_AND_JAYS_CORVIDAE,Northern Raven,,1,78.1512451172,42.7490291146,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-26,
+Serinus pusillus,Animalia,FINCHES_FRINGILLIDAE,Red-fronted Serin,,1,77.442626953125,42.803461724171,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-25,
+Oenanthe oenanthe,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Northern Wheatear,,1,77.947998046875,42.759112837244,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-26,
+Sylvia communis,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Common Whitethroat,,1,77.9150390625,42.740960955168,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-26,
+Upupa epops,Animalia,HOOPOES_UPUPIDAE,Eurasian Hoopoe,,1,77.816162109375,42.728856747232,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-26,
+Columba palumbus,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Common Wood Pigeon,,1,77.816162109375,42.728856747232,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-26,
+Falco peregrinus babylonicus,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Peregrine Falcon ssp babylonicus,,1,77.791442871094,42.742978093466,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-26,
+Lanius isabellinus / Lanius phoenicuroides,Animalia,SHRIKES_LANIIDAE,Isabelline Shrike spec.,,1,74.586181640625,42.879989517715,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-20,
+Emberiza calandra,Animalia,BUNTINGS_EMBERIZIDAE,Corn Bunting,,1,76.821899414062,42.65416193034,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-24,
+Oenanthe oenanthe,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Northern Wheatear,,1,76.79443359375,42.59353262565,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-24,
+Anthus campestris,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Tawny Pipit,,1,76.79443359375,42.59353262565,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-24,
+Upupa epops,Animalia,HOOPOES_UPUPIDAE,Eurasian Hoopoe,,1,76.79443359375,42.59353262565,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-24,
+Galerida cristata,Animalia,LARKS_ALAUDIDAE,Crested Lark,,1,76.79443359375,42.59353262565,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-24,
+Pernis ptilorhynchus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Crested Honey Buzzard,,1,76.79443359375,42.59353262565,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-24,
+Saxicola maurus,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Siberian Stonechat,,1,76.036376953125,42.785322837302,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-23,
+Falco peregrinus babylonicus,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Peregrine Falcon ssp babylonicus,,1,75.9814453125,42.801446554843,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-22,
+Ixobrychus minutus,Animalia,HERONS_ARDEIDAE,Little Bittern,,1,75.5859375,42.815551361727,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-22,
+Nycticorax nycticorax,Animalia,HERONS_ARDEIDAE,Black-crowned Night Heron,,1,75.5859375,42.815551361727,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-22,
+Netta rufina,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Red-crested Pochard,,1,75.5859375,42.815551361727,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-22,
+Columba palumbus,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Common Wood Pigeon,,1,74.569702148438,43.026737435594,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-21,
+Phoenicurus phoenicurus,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Common Redstart,,1,74.569702148438,43.026737435594,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-21,
+Corvus corax,Animalia,CROWS_AND_JAYS_CORVIDAE,Northern Raven,,1,74.569702148438,43.026737435594,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-21,
+Turdus viscivorus,Animalia,THRUSHES_TURDIDAE,Mistle Thrush,,1,74.569702148438,43.026737435594,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-21,
+Regulus regulus,Animalia,KINGLETS_REGULIDAE,Goldcrest,,1,74.569702148438,43.026737435594,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-21,
+Myophonus caeruleus,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Blue Whistling Thrush,,1,74.569702148438,43.026737435594,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-21,
+Phoenicurus erythronotus,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Eversmann's Redstart,,10,74.5697021484,43.0267374356,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-21,
+Cinclus pallasii,Animalia,DIPPERS_CINCLIDAE,Brown Dipper,,1,74.569702148438,43.026737435594,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-21,
+Pica pica,Animalia,CROWS_AND_JAYS_CORVIDAE,Eurasian Magpie,,1,74.588928222656,42.974511174899,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-20,
+Lanius collurio,Animalia,SHRIKES_LANIIDAE,Red-backed Shrike,,1,74.588928222656,42.974511174899,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-20,
+Sylvia communis,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Common Whitethroat,,1,74.583435058594,42.996612318421,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-20,
+Hirundo rustica,Animalia,SWALLOWS_HIRUNDINIDAE,Barn Swallow,,1,74.583435058594,42.996612318421,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-20,
+Alcedo atthis,Animalia,KINGFISHERS_ALCEDINIDAE,Common Kingfisher,,1,74.583435058594,42.996612318421,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-20,
+Apus apus,Animalia,SWIFTS_APODIDAE,Common Swift,,1,74.583435058594,42.996612318421,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-20,
+Phasianus colchicus,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Common Pheasant,,1,74.583435058594,42.996612318421,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-20,
+Falco subbuteo,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Eurasian Hobby,,1,74.583435058594,42.996612318421,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-20,
+Circus aeruginosus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Western Marsh Harrier,,1,74.583435058594,42.996612318421,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-20,
+Ardea alba,Animalia,HERONS_ARDEIDAE,Great Egret,,1,74.583435058594,42.996612318421,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-20,
+Ardea cinerea,Animalia,HERONS_ARDEIDAE,Grey Heron,,1,74.583435058594,42.996612318421,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-20,
+Tachybaptus ruficollis,Animalia,GREBES_PODICIPEDIDAE,Little Grebe,,1,74.583435058594,42.996612318421,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-20,
+Phalacrocorax carbo,Animalia,CORMORANTS_PHALACROCORACIDAE,Great Cormorant,,1,74.583435058594,42.996612318421,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-20,
+Chlidonias niger,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black Tern,,1,74.583435058594,42.996612318421,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-20,
+Sterna hirundo,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Common Tern,,1,74.583435058594,42.996612318421,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-20,
+Ixobrychus minutus,Animalia,HERONS_ARDEIDAE,Little Bittern,,10,74.583435058594,42.996612318421,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-20,
+Hirundo rustica,Animalia,SWALLOWS_HIRUNDINIDAE,Barn Swallow,,1,74.5751953125,42.867912483915,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-19,
+Delichon urbicum,Animalia,SWALLOWS_HIRUNDINIDAE,Common House Martin,,1,74.5751953125,42.867912483915,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-19,
+Lanius schach,Animalia,SHRIKES_LANIIDAE,Long-tailed Shrike,,1,74.5751953125,42.867912483915,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-19,
+Passer domesticus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow,,1,74.59716796875,42.867912483915,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-19,
+Apus apus,Animalia,SWIFTS_APODIDAE,Common Swift,,1,74.59716796875,42.867912483915,Asia,Kyrgyzstan,KG,,Kyrgyzstan,2007-05-19,
+Vanessa cardui,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Painted Lady,,1,75.8079299926758,42.5979995727539,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2019-09-20,14:42
+Motacilla cinerea,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Grey Wagtail,,2,78.2741470336914,42.296802520752,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2019-09-23,11:27
+Corvus frugilegus,Animalia,CROWS_AND_JAYS_CORVIDAE,Rook,,100,78.39022659,42.50597377,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2019-08-03,
+Motacilla cinerea,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Grey Wagtail,,5,78.37535642,42.26223995,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2019-07-30,
+Motacilla cinerea,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Grey Wagtail,,3,78.37554954,42.26212878,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2019-07-29,
+Serinus pusillus,Animalia,FINCHES_FRINGILLIDAE,Red-fronted Serin,,2,78.30863044,42.2834998,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2019-07-29,
+Motacilla alba personata,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,White Wagtail ssp personata,,1,78.27532813,42.28857957,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2019-07-29,
+Motacilla cinerea,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Grey Wagtail,,2,78.27446982,42.29308752,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2019-07-29,
+Milvus migrans,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Black Kite,,4,78.28013465,42.29026215,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2019-07-29,
+Kirinia eversmanni,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,5,78.24510835,42.32544349,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2019-07-29,
+Orthetrum brunneum,Animalia,SKIMMERS_LIBELLULIDAE,Southern Skimmer,,1,78.24510835,42.32544349,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2019-07-29,
+Serinus pusillus,Animalia,FINCHES_FRINGILLIDAE,Red-fronted Serin,,1,78.24128889,42.33034538,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2019-07-29,
+Serinus pusillus,Animalia,FINCHES_FRINGILLIDAE,Red-fronted Serin,,2,78.23704027,42.33510414,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2019-07-29,
+Milvus migrans,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Black Kite,,10,78.23326372,42.33819713,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2019-07-29,
+Motacilla cinerea,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Grey Wagtail,,3,78.2354524,42.33659514,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2019-07-29,
+Phoenicurus ochruros phoenicuroides,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Eastern Black Redstart,,2,78.23491596,42.33791163,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2019-07-29,
+Chroicocephalus ridibundus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black-headed Gull,,1,75.11509967974864,41.761463326440904,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2019-07-17,16:47
+Chroicocephalus ridibundus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black-headed Gull,,40,75.11521141051792,41.91968314819216,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2019-07-15,19:06
+Chroicocephalus ridibundus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black-headed Gull,,3,75.12555819943093,41.917557162271734,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2019-07-15,13:53
+Chroicocephalus ridibundus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black-headed Gull,,1,75.11822562671743,41.91864534285098,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2019-07-15,13:40
+Upupa epops,Animalia,HOOPOES_UPUPIDAE,Eurasian Hoopoe,,4,75.12112727395736,41.989738969171405,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2019-07-14,18:47
+Upupa epops,Animalia,HOOPOES_UPUPIDAE,Eurasian Hoopoe,,1,75.12316600426577,41.995104518758126,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2019-07-14,14:54
+Chroicocephalus ridibundus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black-headed Gull,,60,75.11406988,41.92105473,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2019-07-26,
+Chroicocephalus ridibundus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black-headed Gull,,45,75.13096377,41.91294403,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2019-07-25,
+Lanius minor,Animalia,SHRIKES_LANIIDAE,Lesser Grey Shrike,,2,75.2055949,42.7009809,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2019-07-25,
+Kirinia eversmanni,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,10,74.49643224,42.55807406,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2019-07-21,
+Kirinia eversmanni,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,4,74.48379301,42.55929181,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2019-07-20,
+Pyrgus alpinus,Animalia,SKIPPERS_HESPERIIDAE,,,1,74.51782119,42.54708119,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2019-07-20,
+Kirinia eversmanni,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,74.48203348,42.5709708,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2019-07-19,
+Kirinia eversmanni,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,3,74.48203348,42.5709708,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2019-07-19,
+Lanius minor,Animalia,SHRIKES_LANIIDAE,Lesser Grey Shrike,,1,75.250278333333,42.747221666667,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-05-24,12:31
+Chloris chloris,Animalia,FINCHES_FRINGILLIDAE,European Greenfinch,,1,78.39019775,42.49032732,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-06-01,
+Oenanthe oenanthe,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Northern Wheatear,,1,77.99743652,42.34230528,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-06-01,
+Oenanthe isabellina,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Isabelline Wheatear,,1,76.63787842,42.56521874,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-06-01,
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,1,75.84136963,42.20410749,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2018-06-01,
+Tadorna ferruginea,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Ruddy Shelduck,,1,77.01347351,42.71473219,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-06-01,
+Phoenicurus coeruleocephala,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Blue-capped Redstart,,1,77.42340088,42.83770956,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-06-01,
+Phoenicurus erythrogastrus,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Güldenstädt's Redstart,,1,76.38244629,41.45919538,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2018-06-01,
+Montifringilla nivalis,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,White-winged Snowfinch,,1,76.38793945,41.46331198,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2018-06-01,
+Passer montanus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,Eurasian Tree Sparrow,,1,74.71801758,43.00464713,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-06-01,
+Passer domesticus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow,,1,77.21946716,42.17205523,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-06-01,
+Milvus migrans,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Black Kite,,1,78.34350586,42.73894375,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-06-01,
+Carpodacus erythrinus,Animalia,FINCHES_FRINGILLIDAE,Common Rosefinch,,1,74.97619629,42.02685389,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2018-06-01,
+Cyanistes cyanus,Animalia,TITS_PARIDAE,Azure Tit,,1,74.97619629,42.02685389,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2018-06-01,
+Upupa epops,Animalia,HOOPOES_UPUPIDAE,Eurasian Hoopoe,,1,75.13549805,41.91045348,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2018-06-01,
+Hirundo rustica,Animalia,SWALLOWS_HIRUNDINIDAE,Barn Swallow,,1,77.24770546,42.17275496,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-06-01,
+Gypaetus barbatus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Bearded Vulture,,2,76.38244629,41.45919538,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2018-06-01,
+Merops persicus,Animalia,BEEEATERS_MEROPIDAE,Blue-cheeked Bee-eater,,1,77.24774837,42.17253232,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-06-01,
+Turdus viscivorus,Animalia,THRUSHES_TURDIDAE,Mistle Thrush,,1,75.90454102,42.19596878,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2018-06-01,
+Chroicocephalus ridibundus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black-headed Gull,,1,75.19592285,41.89409956,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2018-06-01,
+Pastor roseus,Animalia,STARLINGS_STURNIDAE,Rosy Starling,,1,74.65759277,41.98807738,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2018-06-01,
+Pyrrhocorax pyrrhocorax,Animalia,CROWS_AND_JAYS_CORVIDAE,Red-billed Chough,,1,76.38793945,41.46125371,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2018-06-01,
+Corvus frugilegus,Animalia,CROWS_AND_JAYS_CORVIDAE,Rook,,1,78.3984375,42.46804499,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-06-01,
+Carduelis carduelis,Animalia,FINCHES_FRINGILLIDAE,European Goldfinch,,1,74.73999023,42.99259452,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-06-01,
+Emberiza calandra,Animalia,BUNTINGS_EMBERIZIDAE,Corn Bunting,,1,74.70153809,42.99259452,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-06-01,
+Emberiza cia,Animalia,BUNTINGS_EMBERIZIDAE,Rock Bunting,,1,76.4263916,41.66880856,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2018-06-01,
+Emberiza bruniceps,Animalia,BUNTINGS_EMBERIZIDAE,Red-headed Bunting,,1,75.32226563,42.81555136,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-06-01,
+Motacilla citreola,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Citrine Wagtail,,1,76.40167236,41.46948638,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2018-06-01,
+Motacilla cinerea,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Grey Wagtail,,1,74.65587616,43.07139581,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-06-01,
+Aquila chrysaetos,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Golden Eagle,,1,74.67956543,43.00464713,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-06-01,
+Lanius schach,Animalia,SHRIKES_LANIIDAE,Long-tailed Shrike,,1,73.2678070068359,40.7447395324707,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Osh,2018-08-28,14:14
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,77.83399712,41.95120874,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-10,15:28
+Boloria hegemone,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,77.83973571,41.96365531,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-10,15:23
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,5,77.35468554,42.00100982,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-05,17:04
+Fabriciana niobe,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Niobe Fritillary,,20,77.35,42.0,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-05,13:54
+Fabriciana niobe,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Niobe Fritillary,,10,77.35,42.0,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-05,12:00
+Chazara sartha,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,77.3556253,42.15651559,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-04,11:18
+Chazara briseis,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,The Hermit,,1,74.29853252,41.89617584,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2018-07-30,17:09
+Arethusana arethusa,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,False Grayling,,2,74.0906725,42.12114455,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-07-30,15:00
+Polycaena tamerlana,Animalia,METALMARKS_RIODINIDAE,,,1,74.51444729,42.54889337,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2018-07-29,13:39
+Speyeria aglaja,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Dark Green Fritillary,,1,75.17222087,41.93875934,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2018-08-02,12:38
+Neptis rivularis,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Hungarian Glider,,1,74.6631656492597,42.6061244102322,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-07-28,09:31
+Kirinia eversmanni,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,74.6632571905865,42.6062003407454,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-07-28,09:32
+Argynnis paphia,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Silver-washed Fritillary,,1,74.663222281621,42.606265482769,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-07-28,09:32
+Aporia leucodice,Animalia,WHITES_PIERIDAE,Himalayan Blackvein,,1,74.662784751833,42.6019678101412,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-07-28,09:42
+Argynnis paphia,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Silver-washed Fritillary,,2,74.6637025369808,42.5993679286488,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-07-28,09:48
+Neptis rivularis,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Hungarian Glider,,5,74.6635849696632,42.5992059613364,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-07-28,09:49
+Kirinia eversmanni,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,15,74.6627852446097,42.5947699706474,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-07-28,09:58
+Neptis rivularis,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Hungarian Glider,,10,74.6627560334464,42.5947205917047,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-07-28,09:58
+Aporia leucodice,Animalia,WHITES_PIERIDAE,Himalayan Blackvein,,10,74.6627264124956,42.5946390491975,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-07-28,09:58
+Argynnis paphia,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Silver-washed Fritillary,,5,74.6627409399165,42.594338776095,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-07-28,09:59
+Kirinia eversmanni,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,100,74.6616512234392,42.5824897173849,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-07-28,10:30
+Aporia leucodice,Animalia,WHITES_PIERIDAE,Himalayan Blackvein,,20,74.6616864643713,42.5824326244614,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-07-28,10:30
+Argynnis paphia,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Silver-washed Fritillary,,10,74.6616954749732,42.5823586651773,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-07-28,10:30
+Neptis rivularis,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Hungarian Glider,,10,74.6611356297665,42.5815931911207,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-07-28,10:32
+Nymphalis vaualbum,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,False Comma,,1,74.6602918056056,42.5774097704732,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-07-28,11:02
+Aporia leucodice,Animalia,WHITES_PIERIDAE,Himalayan Blackvein,,10,74.6636004503849,42.5646114831766,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-07-28,11:39
+Kirinia eversmanni,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,5,74.4846483028719,42.5596075874343,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2018-07-29,09:45
+Papilio machaon,Animalia,SWALLOWTAILS_PAPILIONIDAE,Swallowtail,,1,74.4925744526767,42.5560719833628,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2018-07-29,10:29
+Kirinia eversmanni,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,74.4977226312982,42.5563358582544,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2018-07-29,10:58
+Polycaena tamerlana,Animalia,METALMARKS_RIODINIDAE,,,1,74.5166726743698,42.5464019793011,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2018-07-29,12:54
+Pyrgus alpinus,Animalia,SKIPPERS_HESPERIIDAE,,,1,74.516668778497,42.5462474274157,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2018-07-29,13:03
+Fabriciana niobe,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Niobe Fritillary,,1,74.5,42.5,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2018-07-29,13:39
+Arethusana arethusa,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,False Grayling,,5,74.0468543550983,42.1814502515016,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-07-30,14:33
+Kirinia eversmanni,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,2,74.0562210306886,42.1758528589619,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-07-30,14:37
+Arethusana arethusa,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,False Grayling,,1,74.2975910872553,41.8961698393375,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2018-07-30,17:04
+Chazara briseis,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,The Hermit,,1,74.2977421598922,41.8965287979649,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2018-07-30,17:36
+Pontia chloridice,Animalia,WHITES_PIERIDAE,Small Bath White,,1,74.6708083942843,42.0129300803977,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2018-07-31,10:45
+Fabriciana niobe,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Niobe Fritillary,,1,75.15,42.0,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2018-08-01,09:23
+Coenonympha mahometana,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,3,75.16045148,41.99911261,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2018-08-01,13:50
+Coenonympha mahometana,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,75.14864094,42.00150622,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2018-08-01,15:29
+Coenonympha mahometana,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,5,75.16423688,41.99661183,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2018-08-01,16:09
+Coenonympha mahometana,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,75.16948164,41.99679998,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2018-08-01,16:29
+Pontia chloridice,Animalia,WHITES_PIERIDAE,Small Bath White,,1,75.1693278079264,41.99684654216,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2018-08-01,16:29
+Boloria hegemone,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,75.17192907,41.93948055,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2018-08-02,12:19
+Chroicocephalus ridibundus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black-headed Gull,,10,75.19513495,41.90258822,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2018-08-02,15:38
+Eremophila alpestris,Animalia,LARKS_ALAUDIDAE,Horned Lark,,10,75.1951349526644,41.9025882178246,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2018-08-02,15:38
+Upupa epops,Animalia,HOOPOES_UPUPIDAE,Eurasian Hoopoe,,2,75.1951349526644,41.9025882178246,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2018-08-02,15:38
+Lycaena phlaeas,Animalia,GOSSAMERWINGED_BUTTERFLIES_LYCAENIDAE,Small Copper,,1,75.7374581745232,41.9334528817591,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2018-08-03,11:29
+Chazara heydenreichi,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,2,75.8526992022152,42.2731319596777,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2018-08-03,14:16
+Coenonympha mahometana,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,3,75.85259967,42.27313824,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2018-08-03,14:17
+Pontia edusa,Animalia,WHITES_PIERIDAE,Eastern Bath White,,2,75.851897628936,42.2733099053138,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2018-08-03,14:19
+Chazara sartha,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,75.85318422,42.27281033,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2018-08-03,15:06
+Kirinia eversmanni,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,77.5655423743859,42.1842633548694,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-04,09:11
+Chazara sartha,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,77.35350758,42.16211791,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-04,10:41
+Chazara briseis,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,The Hermit,,1,77.5723119089905,42.1829571574497,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-04,15:07
+Coenonympha pamphilus,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Small Heath,,1,77.5718059838982,42.1838642414936,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-04,15:12
+Vanessa cardui,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Painted Lady,,1,77.5723589676386,42.1837326407446,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-04,15:23
+Polycaena tamerlana,Animalia,METALMARKS_RIODINIDAE,,,1,77.3621760804559,42.0646745742757,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-05,10:18
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,77.3636639733454,42.0569037001185,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-05,10:54
+Fabriciana niobe,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Niobe Fritillary,,5,77.35,42.05,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-05,11:04
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,77.3661925387109,42.0481983048829,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-05,11:35
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,77.3666008364152,42.0467454806981,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-05,11:41
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,77.3676874225698,42.0436977101919,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-05,11:52
+Eumedonia eumedon,Animalia,GOSSAMERWINGED_BUTTERFLIES_LYCAENIDAE,Geranium Argus,,1,77.35,42.0,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-05,11:56
+Eumedonia eumedon,Animalia,GOSSAMERWINGED_BUTTERFLIES_LYCAENIDAE,Geranium Argus,,1,77.35,42.0,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-05,12:00
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,77.3676618049088,42.0408733372501,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-05,12:00
+Boloria hegemone,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,77.37020486,42.03746636,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-05,12:34
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,2,77.3680062318897,42.0336926825767,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-05,12:55
+Fabriciana niobe,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Niobe Fritillary,,50,77.35,42.0,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-05,12:56
+Boloria hegemone,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,10,77.36649589,42.02938082,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-05,13:13
+Speyeria aglaja,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Dark Green Fritillary,,1,77.3665605594122,42.0291658909056,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-05,13:15
+Parnassius delphius,Animalia,SWALLOWTAILS_PAPILIONIDAE,Banded Apollo,,2,77.3662694328647,42.0284287956006,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-05,13:20
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,77.3639970824964,42.0235780508869,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-05,13:45
+Boloria hegemone,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,50,77.36165894,42.02054273,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-05,13:54
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,5,77.3607817569193,42.0199330567678,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-05,13:56
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,77.3607596943749,42.0199156288225,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-05,14:04
+Pontia callidice,Animalia,WHITES_PIERIDAE,Peak White,,1,77.3548762690453,42.011860375427,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-05,14:36
+Lycaena phlaeas,Animalia,GOSSAMERWINGED_BUTTERFLIES_LYCAENIDAE,Small Copper,,1,77.3531559737031,42.0112528735803,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-05,14:40
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,5,77.352292187085,42.0079890442257,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-05,14:48
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,5,77.3521252864123,42.0035079916359,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-05,15:02
+Parnassius delphius,Animalia,SWALLOWTAILS_PAPILIONIDAE,Banded Apollo,,3,77.3533311759182,42.0027447012134,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-05,16:18
+Boloria hegemone,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,5,77.35327541,42.00286256,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-05,16:19
+Pontia callidice,Animalia,WHITES_PIERIDAE,Peak White,,1,77.3567401761636,41.9545870174586,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-06,10:16
+Polycaena tamerlana,Animalia,METALMARKS_RIODINIDAE,,,2,77.3631524223221,41.9505723422812,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-06,11:01
+Polycaena tamerlana,Animalia,METALMARKS_RIODINIDAE,,,1,77.3665141732543,41.9490809073515,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-06,11:11
+Parnassius delphius,Animalia,SWALLOWTAILS_PAPILIONIDAE,Banded Apollo,,2,77.3682708376161,41.9471084675899,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-06,11:20
+Hesperia comma,Animalia,SKIPPERS_HESPERIIDAE,Silver-spotted Skipper,,1,77.3763168819826,41.9386371910784,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-06,11:52
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,77.3848477061462,41.9355384880701,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-06,12:09
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,5,77.3852611807553,41.9347449848371,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-06,12:42
+Issoria lathonia,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Queen of Spain Fritillary,,1,77.3886322178133,41.9340883973035,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-06,13:08
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,20,77.3910279285711,41.9339922575918,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-06,13:14
+Colias cocandica,Animalia,WHITES_PIERIDAE,,,1,77.39810476,41.9345424,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-06,13:24
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,50,77.4084868039974,41.9359442908151,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-06,13:41
+Lycaena phlaeas,Animalia,GOSSAMERWINGED_BUTTERFLIES_LYCAENIDAE,Small Copper,,1,77.5289797942386,41.9157623733296,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-07,09:13
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,5,77.5314306857134,41.9153148965443,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-07,09:18
+Lycaena phlaeas,Animalia,GOSSAMERWINGED_BUTTERFLIES_LYCAENIDAE,Small Copper,,1,77.5526128362992,41.9098471403644,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-07,10:13
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,5,77.5601979468217,41.9092714491007,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-07,10:32
+Fabriciana niobe,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Niobe Fritillary,,50,77.55,41.9,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-07,10:40
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,10,77.5641243868928,41.9080486182173,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-07,10:41
+Fabriciana niobe,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Niobe Fritillary,,50,77.55,41.9,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-07,11:48
+Boloria hegemone,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,10,77.57545377,41.90607942,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-07,11:51
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,5,77.690328619554,41.9442976232224,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-08,10:48
+Boloria hegemone,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,30,77.69247349,41.94440711,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-08,10:54
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,20,77.692807322837,41.9443955303785,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-08,10:54
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,5,77.6994595435165,41.9475674922111,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-08,11:12
+Boloria hegemone,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,20,77.70850085,41.95183575,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-08,12:16
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,77.7104644424785,41.9531579058834,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-08,12:29
+Pontia callidice,Animalia,WHITES_PIERIDAE,Peak White,,1,77.7129586538616,41.9551166357841,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-08,12:45
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,30,77.7150039657809,41.95650503981,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-08,12:53
+Colias cocandica,Animalia,WHITES_PIERIDAE,,,1,77.71534775,41.95737271,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-08,12:57
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,77.7303639498473,41.9645591887226,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-08,14:15
+Boloria hegemone,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,10,77.73623154,41.9659007,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-08,14:18
+Pyrgus alpinus,Animalia,SKIPPERS_HESPERIIDAE,,,1,77.7371508841007,41.9660069198436,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-08,14:25
+Boloria hegemone,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,10,77.73864193,41.96758823,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-08,14:26
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,77.7387004011817,41.9676343664037,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-08,14:33
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,20,77.7530295996925,41.9734235222227,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-09,08:09
+Hesperia comma,Animalia,SKIPPERS_HESPERIIDAE,Silver-spotted Skipper,,1,77.7771465575426,41.9865352708036,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-09,09:27
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,20,77.77949779162,41.9862498745733,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-09,09:33
+Hesperia comma,Animalia,SKIPPERS_HESPERIIDAE,Silver-spotted Skipper,,1,77.7800069165156,41.986564545903,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-09,09:34
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,5,77.808173725554,41.9941290928779,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-09,11:24
+Lycaena phlaeas,Animalia,GOSSAMERWINGED_BUTTERFLIES_LYCAENIDAE,Small Copper,,1,77.8232986353611,42.0085015686391,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-09,14:24
+Lycaena phlaeas,Animalia,GOSSAMERWINGED_BUTTERFLIES_LYCAENIDAE,Small Copper,,3,77.8228939738374,42.008606762557,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-09,14:31
+Eumedonia eumedon,Animalia,GOSSAMERWINGED_BUTTERFLIES_LYCAENIDAE,Geranium Argus,,3,77.8,42.0,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-09,14:50
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,77.8224803110352,42.0085240309401,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-09,14:54
+Hesperia comma,Animalia,SKIPPERS_HESPERIIDAE,Silver-spotted Skipper,,2,77.8234976157546,41.9867735271034,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-10,15:19
+Fabriciana niobe,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Niobe Fritillary,,10,77.8,41.95,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-10,15:21
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,5,77.8235526010394,41.9857203548157,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-10,15:22
+Hesperia comma,Animalia,SKIPPERS_HESPERIIDAE,Silver-spotted Skipper,,5,77.8397357091308,41.9636553064918,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-10,15:23
+Aglais urticae,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Small Tortoiseshell,,1,77.8824641220815,42.040302494035,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-11,09:39
+Pontia callidice,Animalia,WHITES_PIERIDAE,Peak White,,1,77.8849948435587,42.0406780870443,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-11,09:43
+Polycaena tamerlana,Animalia,METALMARKS_RIODINIDAE,,,1,77.8856004538348,42.0408368514863,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-11,09:43
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,77.9013082081996,42.0471891897119,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-11,10:17
+Aglais urticae,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Small Tortoiseshell,,1,77.9013304990744,42.0472567265965,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-11,10:17
+Papilio machaon,Animalia,SWALLOWTAILS_PAPILIONIDAE,Swallowtail,,1,77.9181810881011,42.0581377562284,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-11,10:43
+Speyeria aglaja,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Dark Green Fritillary,,1,77.9230820515471,42.0624323709845,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-11,10:52
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,77.9398721069516,42.0763542007359,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-11,11:38
+Polycaena tamerlana,Animalia,METALMARKS_RIODINIDAE,,,1,77.9605973305898,42.1015775524116,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-11,13:13
+Fabriciana niobe,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Niobe Fritillary,,1,77.95,42.1,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-11,13:16
+Aporia leucodice,Animalia,WHITES_PIERIDAE,Himalayan Blackvein,,2,77.9488161042772,42.1481689942548,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-11,16:33
+Fabriciana niobe,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Niobe Fritillary,,1,77.9,42.1,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-11,16:37
+Fabriciana niobe,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Niobe Fritillary,,5,77.95,42.15,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-11,16:54
+Nymphalis xanthomelas,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Yellow-legged Tortoiseshell,,1,77.9516905606959,42.1514474921879,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-11,17:02
+Plebejus argyrognomon,Animalia,GOSSAMERWINGED_BUTTERFLIES_LYCAENIDAE,Reverdin's Blue,,10,76.65,42.55,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2018-08-13,15:41
+Vanessa atalanta,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Red Admiral,,1,75.8155397504459,42.5998682171583,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-08-14,09:47
+Arethusana arethusa,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,False Grayling,,1,75.8121709840616,42.5995164069191,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-08-14,09:57
+Chazara sartha,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,75.81181223,42.59924412,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-08-14,09:59
+Arethusana arethusa,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,False Grayling,,3,75.8118122290221,42.5992441167053,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-08-14,10:08
+Chazara sartha,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,75.81181223,42.59924412,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-08-14,10:20
+Chazara sartha,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,2,75.81181223,42.59924412,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-08-14,10:22
+Chazara sartha,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,75.81181223,42.59924412,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-08-14,10:26
+Arethusana arethusa,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,False Grayling,,2,75.8118122290221,42.5992441167053,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-08-14,10:28
+Arethusana arethusa,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,False Grayling,,1,75.8118122290221,42.5992441167053,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-08-14,10:32
+Chazara sartha,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,75.81181223,42.59924412,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-08-14,10:33
+Chazara heydenreichi,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,75.8118122290221,42.5992441167053,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-08-14,10:50
+Kirinia eversmanni,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,75.8118122290221,42.5992441167053,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-08-14,10:58
+Chazara heydenreichi,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,75.8118122290221,42.5992441167053,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-08-14,11:00
+Chazara heydenreichi,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,75.8118122290221,42.5992441167053,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-08-14,11:02
+Chazara heydenreichi,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,2,75.8118122290221,42.5992441167053,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-08-14,11:05
+Chazara sartha,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,2,75.81181223,42.59924412,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-08-14,11:05
+Vanessa cardui,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Painted Lady,,1,75.8118122290221,42.5992441167053,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-08-14,11:08
+Chazara heydenreichi,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,75.7771806824639,42.5929673889631,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-08-14,11:46
+Chazara sartha,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,75.77689269,42.59295276,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-08-14,11:47
+Chazara sartha,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,75.77307811,42.59286231,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-08-14,11:57
+Arethusana arethusa,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,False Grayling,,1,75.7721451514012,42.5920791193773,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-08-14,12:01
+Chazara sartha,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,75.78290098,42.59344546,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-08-14,12:15
+Arethusana arethusa,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,False Grayling,,1,75.7833608910977,42.5937610555598,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-08-14,12:19
+Chazara heydenreichi,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,75.7833608910977,42.5937610555598,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-08-14,12:27
+Chazara sartha,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,75.78336089,42.59376106,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-08-14,12:31
+Chazara heydenreichi,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,75.7833608910977,42.5937610555598,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-08-14,12:38
+Chazara sartha,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,75.78336089,42.59376106,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-08-14,12:51
+Arethusana arethusa,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,False Grayling,,1,75.7833608910977,42.5937610555598,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-08-14,12:55
+Chazara sartha,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,3,75.78336089,42.59376106,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-08-14,12:55
+Arethusana arethusa,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,False Grayling,,1,75.7833608910977,42.5937610555598,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-08-14,12:55
+Chazara heydenreichi,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,75.7833608910977,42.5937610555598,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-08-14,12:57
+Kirinia eversmanni,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,75.7833608910977,42.5937610555598,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-08-14,12:57
+Chazara heydenreichi,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,75.7833608910977,42.5937610555598,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-08-14,12:58
+Kirinia eversmanni,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,75.7833608910977,42.5937610555598,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-08-14,13:04
+Chazara heydenreichi,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,75.7833608910977,42.5937610555598,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-08-14,13:18
+Chazara heydenreichi,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,75.7833608910977,42.5937610555598,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-08-14,13:19
+Chazara sartha,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,2,75.78336089,42.59376106,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-08-14,13:21
+Passer montanus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,Eurasian Tree Sparrow,,6,74.6998097606772,43.022439790053,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2018-05-28,10:45
+Coracias garrulus,Animalia,ROLLERS_CORACIIDAE,European Roller,,1,78.60351518,42.7384057,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-08-21,
+Linaria cannabina,Animalia,FINCHES_FRINGILLIDAE,Common Linnet,,20,75.24719227,40.9071471,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2017-08-18,
+Phoenicurus ochruros,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Black Redstart,,1,75.24719227,40.9071471,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2017-08-18,
+Tichodroma muraria,Animalia,Tichodromidae,Wallcreeper,,1,75.24719227,40.9071471,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2017-08-18,
+Chroicocephalus ridibundus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black-headed Gull,,1,75.16113276,41.77704703,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2017-08-16,
+Merops apiaster,Animalia,BEEEATERS_MEROPIDAE,European Bee-eater,,1,74.80773915,41.41993734,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2017-08-15,
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,1,73.30810536,40.80743416,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Osh,2017-08-14,
+Lanius schach,Animalia,SHRIKES_LANIIDAE,Long-tailed Shrike,,1,73.30810536,40.80743416,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Osh,2017-08-14,
+Falco peregrinus babylonicus,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Peregrine Falcon ssp babylonicus,,1,77.07670391,42.90878677,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,1995-08-14,
+Corvus frugilegus,Animalia,CROWS_AND_JAYS_CORVIDAE,Rook,,1,75.87589414,41.21108099,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2017-06-26,
+Oenanthe isabellina,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Isabelline Wheatear,,1,75.28928605,40.82206643,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2017-06-25,
+Carpodacus erythrinus,Animalia,FINCHES_FRINGILLIDAE,Common Rosefinch,,1,75.28928605,40.82206643,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2017-06-25,
+Motacilla alba personata,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,White Wagtail ssp personata,,1,75.28928605,40.82206643,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2017-06-25,
+Phoenicurus erythrogastrus,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Güldenstädt's Redstart,,1,75.28750075,40.82305368,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2017-06-25,
+Montifringilla nivalis,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,White-winged Snowfinch,,1,75.28750075,40.82305368,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2017-06-25,
+Montifringilla nivalis,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,White-winged Snowfinch,,1,75.28750075,40.82305368,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2017-06-25,
+Montifringilla nivalis,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,White-winged Snowfinch,,1,75.28750075,40.82305368,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2017-06-25,
+Oenanthe isabellina,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Isabelline Wheatear,,1,75.28750075,40.82305368,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2017-06-25,
+Motacilla citreola calcarata,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Black-backed Citrine Wagtail,,1,75.28750075,40.82305368,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2017-06-25,
+Oenanthe isabellina,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Isabelline Wheatear,,1,75.26642761,41.86401788,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2017-06-25,
+Eremophila alpestris,Animalia,LARKS_ALAUDIDAE,Horned Lark,,1,75.26635208,41.86290819,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2017-06-25,
+Alauda arvensis,Animalia,LARKS_ALAUDIDAE,Eurasian Skylark,,1,75.26690138,41.86285705,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2017-06-24,
+Eremophila alpestris,Animalia,LARKS_ALAUDIDAE,Horned Lark,,1,75.26427155,41.8623917,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2017-06-24,
+Prunella collaris,Animalia,ACCENTORS_PRUNELLIDAE,Alpine Accentor,,1,78.58635177,42.33854442,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-06-17,
+Motacilla cinerea,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Grey Wagtail,,1,78.26920567,42.29620403,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-06-15,
+Serinus pusillus,Animalia,FINCHES_FRINGILLIDAE,Red-fronted Serin,,1,78.25603924,42.29353753,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-06-15,
+Motacilla alba personata,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,White Wagtail ssp personata,,1,78.26874218,42.29567074,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-06-15,
+Phoenicurus ochruros phoenicuroides,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Eastern Black Redstart,,1,78.25099411,42.32189447,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-06-15,
+Phoenicurus ochruros,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Black Redstart,,1,78.24348564,42.326796,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-06-15,
+Lanius cristatus,Animalia,SHRIKES_LANIIDAE,Brown Shrike,,1,77.06040938,42.63697684,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-06-14,
+Buteo rufinus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Long-legged Buzzard,,1,77.05660686,42.65774605,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-06-14,
+Galerida cristata,Animalia,LARKS_ALAUDIDAE,Crested Lark,,1,77.05667553,42.65778392,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-06-14,
+Oenanthe isabellina,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Isabelline Wheatear,,1,77.05679569,42.65791017,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-06-14,
+Montifringilla nivalis,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,White-winged Snowfinch,,1,75.2889925,40.82277179,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2017-06-26,
+Parus major,Animalia,TITS_PARIDAE,Great Tit,,1,74.6145063200825,42.8522292559291,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2017-09-16,08:00
+Troglodytes troglodytes,Animalia,WRENS_TROGLODYTIDAE,Eurasian Wren,,1,76.09305573506,42.6963490589304,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2017-09-18,18:20
+Troglodytes troglodytes,Animalia,WRENS_TROGLODYTIDAE,Eurasian Wren,,2,76.0865545896123,42.6998449635196,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2017-09-19,08:03
+Streptopelia orientalis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Oriental Turtle Dove,,1,77.5474104242589,42.1480635610167,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-09-20,16:28
+Sciurus vulgaris,Animalia,SQUIRRELS_CHIPMUNKS_AND_PRAIRIEDOGS_SCIURIDAE,Eurasian Red Squirrel,,1,77.5466473363059,42.1463575832297,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-09-21,08:25
+Corvus frugilegus,Animalia,CROWS_AND_JAYS_CORVIDAE,Rook,,1,78.3081748818886,42.4754389120681,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-09-29,12:18
+Corvus frugilegus,Animalia,CROWS_AND_JAYS_CORVIDAE,Rook,,15,78.3470056195102,42.4806217792873,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-09-29,12:20
+Corvus frugilegus,Animalia,CROWS_AND_JAYS_CORVIDAE,Rook,,1,78.3634416380347,42.4826436943241,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-09-29,12:22
+Corvus frugilegus,Animalia,CROWS_AND_JAYS_CORVIDAE,Rook,,1,78.3899179008909,42.5094501057797,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-09-29,13:01
+Panurus biarmicus,Animalia,Panuridae,Bearded Reedling,,1,76.4727260975865,42.3076942938014,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-10-02,11:16
+Parus major,Animalia,TITS_PARIDAE,Great Tit,,1,74.6144339073518,42.8521453510882,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2017-10-03,07:54
+Falco peregrinus babylonicus,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Peregrine Falcon ssp babylonicus,,1,74.5400460027109,43.0293516094488,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2017-10-03,09:34
+Parus major,Animalia,TITS_PARIDAE,Great Tit,,1,74.61325971383,42.8669714964489,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2017-10-03,13:58
+Bombus spec.,Animalia,Apidae,Bumblebee unknown,,1,77.61258915,42.00858441,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-08-06,10:26
+Campanula spec.,Plantae,CAMPANULACEAE,,,1,78.57385257,42.41276208,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-08-08,08:48
+Pilosella aurantiaca,Plantae,Asteraceae,Fox-and-cubs,,1,78.57385257,42.41276208,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-08-08,08:48
+Polistes spec.,Animalia,Vespidae,,,1,75.24941774,42.74782325,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2017-08-05,10:35
+Kirinia eversmanni,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,3,78.2835136,42.29037279,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-08-06,16:39
+Kirinia eversmanni,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,78.59916729,42.37866809,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-08-08,12:02
+Carcharodus lavatherae,Animalia,SKIPPERS_HESPERIIDAE,Marbled Skipper,,3,75.24906284,42.7487317,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2017-08-05,10:39
+Coenonympha pamphilus,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Small Heath,,3,75.24906284,42.7487317,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2017-08-05,10:39
+Orthetrum brunneum,Animalia,SKIMMERS_LIBELLULIDAE,Southern Skimmer,,1,76.6069455,42.22987453,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-08-05,16:05
+Sympetrum pedemontanum,Animalia,SKIMMERS_LIBELLULIDAE,Banded Darter,,1,76.6069455,42.22987453,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-08-05,16:05
+Sciurus vulgaris,Animalia,SQUIRRELS_CHIPMUNKS_AND_PRAIRIEDOGS_SCIURIDAE,Eurasian Red Squirrel,,2,77.54612263,42.14569877,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-08-06,07:40
+Argynnis pandora,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Cardinal,,1,77.6133926,42.00752746,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-08-06,10:43
+Sciurus vulgaris,Animalia,SQUIRRELS_CHIPMUNKS_AND_PRAIRIEDOGS_SCIURIDAE,Eurasian Red Squirrel,,1,77.6133926,42.00752746,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-08-06,10:43
+Milvus migrans,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Black Kite,,1,78.22094969,42.40031382,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-08-06,12:56
+Milvus migrans,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Black Kite,,1,78.2242125,42.3536969,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-08-06,13:01
+Milvus migrans,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Black Kite,,1,78.23965881,42.33301619,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-08-06,13:19
+Milvus migrans,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Black Kite,,2,78.2529621,42.31859543,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-08-06,13:33
+Sciurus vulgaris,Animalia,SQUIRRELS_CHIPMUNKS_AND_PRAIRIEDOGS_SCIURIDAE,Eurasian Red Squirrel,,1,78.27992,42.29093872,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-08-06,16:23
+Sympetrum flaveolum,Animalia,SKIMMERS_LIBELLULIDAE,Yellow-winged Darter,,6,78.25,42.25,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-08-06,16:23
+Orthetrum brunneum,Animalia,SKIMMERS_LIBELLULIDAE,Southern Skimmer,,3,78.27837474,42.29216566,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-08-06,16:23
+Argynnis paphia,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Silver-washed Fritillary,,1,78.57385257,42.41276208,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-08-08,08:48
+Nymphalis vaualbum,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,False Comma,,1,78.59916729,42.37866809,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-08-08,13:26
+Aglais urticae,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Small Tortoiseshell,,5,78.55523903,42.44124493,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-08-08,15:17
+Corvus frugilegus,Animalia,CROWS_AND_JAYS_CORVIDAE,Rook,,1,78.39347873,42.49128193,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-08-08,17:49
+Corvus frugilegus,Animalia,CROWS_AND_JAYS_CORVIDAE,Rook,,40,78.38600049,42.51604827,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2017-08-09,07:17
+Parus major,Animalia,TITS_PARIDAE,Great Tit,,2,74.61653515,42.87711622,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2017-08-04,17:03
+Parus major,Animalia,TITS_PARIDAE,Great Tit,,2,74.60389701,42.878729,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2017-08-04,18:21
+Cecropis daurica,Animalia,SWALLOWS_HIRUNDINIDAE,Red-rumped Swallow,,2,74.61667715,42.89480563,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2010-06-07,12:31
+Saxicola maurus,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Siberian Stonechat,,1,76.15039307,42.7328961,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2010-06-08,11:10
+Oenanthe isabellina,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Isabelline Wheatear,,6,77.80404032,42.73695395,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2010-06-09,17:56
+Carpodacus erythrinus,Animalia,FINCHES_FRINGILLIDAE,Common Rosefinch,,2,78.2748842239,42.2991309201,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2010-06-10,
+Hieraaetus pennatus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Booted Eagle,,3,78.22313947,42.37774513,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2010-06-10,11:28
+Serinus pusillus,Animalia,FINCHES_FRINGILLIDAE,Red-fronted Serin,,2,78.26821553,42.29951387,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2010-06-10,12:42
+Pyrrhocorax pyrrhocorax,Animalia,CROWS_AND_JAYS_CORVIDAE,Red-billed Chough,,4,76.83858972,42.1772311,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2010-06-10,21:00
+Emberiza buchanani,Animalia,BUNTINGS_EMBERIZIDAE,Grey-necked Bunting,,2,76.83891435,42.1726828,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2010-06-11,18:26
+Emberiza buchanani,Animalia,BUNTINGS_EMBERIZIDAE,Grey-necked Bunting,,1,76.8323052,42.14050768,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2010-06-12,10:46
+Petronia petronia,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,Rock Sparrow,,2,76.93849935,42.03550577,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2010-06-13,11:11
+Alectoris chukar,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Chukar Partridge,,1,76.93528165,42.0346267,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2010-06-13,11:50
+Alectoris chukar,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Chukar Partridge,,2,76.3605,42.1313,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2010-06-14,
+Riparia riparia,Animalia,SWALLOWS_HIRUNDINIDAE,Sand Martin,,2,76.3285446167,42.1409371296,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2010-06-14,
+Ibidorhyncha struthersii,Animalia,IBISBILL_IBIDORHYNCHIDAE,Ibisbill,,1,76.30522902,42.15158653,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2010-06-14,16:53
+Charadrius mongolus,Animalia,PLOVERS_CHARADRIIDAE,Lesser Sand Plover,,55,75.1145566,41.75775848,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2010-06-16,17:08
+Grus virgo,Animalia,CRANES_GRUIDAE,Demoiselle Crane,,2,75.3474745,41.76685435,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2010-06-17,09:38
+Prunella himalayana,Animalia,ACCENTORS_PRUNELLIDAE,Altai Accentor,,2,75.4077223,41.90970505,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2010-06-17,11:58
+Aquila chrysaetos,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Golden Eagle,,1,75.41823525,41.94397927,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2010-06-17,13:19
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,1,74.6104,42.8588,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2016-07-23,07:45
+Corvus frugilegus,Animalia,CROWS_AND_JAYS_CORVIDAE,Rook,,1,78.3946,42.492,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-22,09:37
+Phoenicurus coeruleocephala,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Blue-capped Redstart,,1,78.4428,42.4236,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-21,08:11
+Serinus pusillus,Animalia,FINCHES_FRINGILLIDAE,Red-fronted Serin,,1,78.2395,42.3315,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-20,16:21
+Milvus migrans,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Black Kite,,1,78.2309,42.3437,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-20,15:57
+Phoenicurus erythronotus,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Eversmann's Redstart,,1,77.6424,41.9632,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-20,12:39
+Bombus spec.,Animalia,Apidae,Bumblebee unknown,,1,77.6553,41.9375,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-20,10:53
+Emberiza buchanani,Animalia,BUNTINGS_EMBERIZIDAE,Grey-necked Bunting,,1,77.3532,42.171,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-19,18:26
+Panurus biarmicus,Animalia,Panuridae,Bearded Reedling,,1,76.4693,42.3131,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-19,17:06
+Eremophila alpestris,Animalia,LARKS_ALAUDIDAE,Horned Lark,,1,75.2777,41.8747,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-07-18,18:13
+Corvus frugilegus,Animalia,CROWS_AND_JAYS_CORVIDAE,Rook,,1,75.3351,41.8747,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-07-18,17:43
+Eremophila alpestris,Animalia,LARKS_ALAUDIDAE,Horned Lark,,1,75.3453,41.8623,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-07-18,17:20
+Chroicocephalus ridibundus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black-headed Gull,,1,75.139,41.7646,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-07-18,14:38
+Corvus frugilegus,Animalia,CROWS_AND_JAYS_CORVIDAE,Rook,,1,75.3468,41.861,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-07-18,11:14
+Linaria flavirostris,Animalia,FINCHES_FRINGILLIDAE,Twite,,1,75.4201,41.9378,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-07-18,09:55
+Oenanthe oenanthe,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Northern Wheatear,,1,73.053,42.2453,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Talas,2016-07-16,17:55
+Montifringilla nivalis,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,White-winged Snowfinch,,1,73.0527,42.2453,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Talas,2016-07-16,13:47
+Pastor roseus,Animalia,STARLINGS_STURNIDAE,Rosy Starling,,1,72.9115,41.7433,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Talas,2016-07-16,09:15
+Coracias garrulus,Animalia,ROLLERS_CORACIIDAE,European Roller,,1,72.2365,41.3906,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-16,06:46
+Coracias garrulus,Animalia,ROLLERS_CORACIIDAE,European Roller,,1,72.2052,41.4142,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-16,06:24
+Alectoris chukar,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Chukar Partridge,,1,72.2199,41.4494,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-16,06:00
+Coracias garrulus,Animalia,ROLLERS_CORACIIDAE,European Roller,,1,72.2195,41.4492,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-16,05:55
+Ischnura elegans,Animalia,POND_DAMSELS_COENAGRIONIDAE,Common Bluetail,,1,71.9756,41.8666,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,12:09
+Ischnura elegans,Animalia,POND_DAMSELS_COENAGRIONIDAE,Common Bluetail,,1,71.9765,41.8674,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,11:57
+Episyrphus balteatus,Animalia,HOVER_FLIES_OR_FLOWER_FLIES_SYRPHIDAE,Marmalade hoverfly,,1,71.9729,41.8702,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,09:33
+Graphosoma italicum,Animalia,Pentatomidae,Striped shield bug,,1,71.9811,41.8757,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,07:30
+Apis mellifera,Animalia,Apidae,Western Honey Bee,,1,71.9809,41.8757,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,07:27
+Sphaerophoria spec.,Animalia,HOVER_FLIES_OR_FLOWER_FLIES_SYRPHIDAE,,,1,71.957,41.7987,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-14,14:45
+Coracias garrulus,Animalia,ROLLERS_CORACIIDAE,European Roller,,1,72.2056,41.4168,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-14,09:51
+Coracias garrulus,Animalia,ROLLERS_CORACIIDAE,European Roller,,1,72.2055,41.4168,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-14,09:14
+Hieraaetus pennatus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Booted Eagle,,1,72.972,41.2412,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-12,13:01
+Vanessa cardui,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Painted Lady,,1,72.62,40.056,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Osh,2016-07-10,10:47
+Lycaena dispar,Animalia,GOSSAMERWINGED_BUTTERFLIES_LYCAENIDAE,Large Copper,,1,74.52118635,42.99409338,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2007-05-20,
+Eremophila alpestris,Animalia,LARKS_ALAUDIDAE,Horned Lark,,1,75.27351629,41.84876677,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-10-12,11:14
+Cervus canadensis songaricus,Animalia,DEER_CERVIDAE,Tian Shan Wapiti,,20,76.878491342723,41.473625527874,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-09-30,
+Sphaerophoria scripta,Animalia,HOVER_FLIES_OR_FLOWER_FLIES_SYRPHIDAE,,,1,72.103865258396,41.594744485378,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-14,
+Megascolia rubida,Animalia,Scoliidae,,,1,72.207527607679,41.416147930108,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-14,
+Polistes spec.,Animalia,Vespidae,,,1,72.207527607679,41.416147930108,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-14,
+Coracias garrulus,Animalia,ROLLERS_CORACIIDAE,European Roller,,1,72.207413613796,41.415503758552,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-14,
+Orthetrum coerulescens,Animalia,SKIMMERS_LIBELLULIDAE,Keeled Skimmer,,1,72.20799213,41.2497333,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-14,
+Polistes bucharensis,Animalia,Vespidae,,,1,72.20799213,41.2497333,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-14,
+Helophilus trivittatus,Animalia,HOVER_FLIES_OR_FLOWER_FLIES_SYRPHIDAE,,,1,72.207992132753,41.24973330376,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-14,
+Bembix spec.,Animalia,Crabronidae,,,1,72.207992132753,41.24973330376,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-14,
+Bembicini indet.,Animalia,Crabronidae,Sand Wasp (Bembicini) unknown,,1,72.208428494632,41.249878435761,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-14,
+Orthetrum brunneum,Animalia,SKIMMERS_LIBELLULIDAE,Southern Skimmer,,1,72.208428494632,41.249878435761,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-14,
+Sympetrum fonscolombii,Animalia,SKIMMERS_LIBELLULIDAE,Red-veined Darter,,1,72.205939739943,41.415568628577,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-14,
+Galerida cristata,Animalia,LARKS_ALAUDIDAE,Crested Lark,,1,72.093773111701,41.616083757473,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-14,
+Fabriciana adippe,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,High Brown Fritillary,,1,71.973524987698,41.857223001306,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Kirinia eversmanni,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,71.973524987698,41.857223001306,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Fabriciana adippe,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,High Brown Fritillary,,1,71.97352499,41.857223,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Fabriciana adippe,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,High Brown Fritillary,,1,71.97352499,41.857223,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Fabriciana adippe,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,High Brown Fritillary,,1,71.97352499,41.857223,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Ochlodes sylvanus,Animalia,SKIPPERS_HESPERIIDAE,Large Skipper,,1,71.973524987698,41.857223001306,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Bombus lucorum-gr.,Animalia,Apidae,Bombus lucorum-complex,,1,71.973524987698,41.857223001306,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2015-07-15,
+Coccinella septempunctata,Animalia,LADYBIRDS_LADYBUGS_OR_LADY_BEETLES_COCCINELLIDAE,7-spot Ladybird,,1,71.973524987698,41.857223001306,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2015-07-15,
+Fabriciana adippe,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,High Brown Fritillary,,1,71.9762139,41.86201789,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Coccinella septempunctata,Animalia,LADYBIRDS_LADYBUGS_OR_LADY_BEETLES_COCCINELLIDAE,7-spot Ladybird,,1,71.976213902235,41.862017887237,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Apis mellifera,Animalia,Apidae,Western Honey Bee,,2,71.976213902235,41.862017887237,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Coccinella septempunctata,Animalia,LADYBIRDS_LADYBUGS_OR_LADY_BEETLES_COCCINELLIDAE,7-spot Ladybird,,1,71.976213902235,41.862017887237,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Apis mellifera,Animalia,Apidae,Western Honey Bee,,1,71.976213902235,41.862017887237,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Fabriciana adippe,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,High Brown Fritillary,,1,71.976213902235,41.862017887237,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Bombus lucorum-gr.,Animalia,Apidae,Bombus lucorum-complex,,1,71.9764713943,41.860739419317,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Kirinia eversmanni,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,71.9764713943,41.860739419317,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Enallagma cyathigerum,Animalia,POND_DAMSELS_COENAGRIONIDAE,Common Bluet,,1,71.976299397647,41.867004042401,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Ischnura elegans,Animalia,POND_DAMSELS_COENAGRIONIDAE,Common Bluetail,,1,71.976771466434,41.867739092554,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Calopteryx splendens,Animalia,BROADWINGED_DAMSELS_CALOPTERYGIDAE,Banded Demoiselle,,1,71.976771466434,41.867739092554,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Calopteryx splendens,Animalia,BROADWINGED_DAMSELS_CALOPTERYGIDAE,Banded Demoiselle,,1,71.976771466434,41.867739092554,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Calopteryx splendens,Animalia,BROADWINGED_DAMSELS_CALOPTERYGIDAE,Banded Demoiselle,,1,71.976771466434,41.867739092554,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Kirinia eversmanni,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,71.976943463087,41.867994385679,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Lasioglossum spec.,Animalia,HALICTIDAE,,,1,71.976943463087,41.867994385679,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Ophiogomphus reductus,Animalia,CLUBTAILS_GOMPHIDAE,,,1,71.976943463087,41.867994385679,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Kirinia eversmanni,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,71.976728886366,41.868953130219,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Fabriciana adippe,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,High Brown Fritillary,,1,71.976728886366,41.868953130219,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Kirinia eversmanni,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,71.976378187537,41.86936883139,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Kirinia eversmanni,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,71.976378187537,41.86936883139,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Kirinia eversmanni,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,71.976378187537,41.86936883139,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Ophiogomphus reductus,Animalia,CLUBTAILS_GOMPHIDAE,,,1,71.975155100226,41.870535276939,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Kirinia eversmanni,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,71.975155100226,41.870535276939,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Kirinia eversmanni,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,71.975155100226,41.870535276939,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Enallagma cyathigerum,Animalia,POND_DAMSELS_COENAGRIONIDAE,Common Bluet,,1,71.972902044654,41.870167768994,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Lestes virens,Animalia,SPREADWINGS_LESTIDAE,Small Spreadwing,,1,71.972902044654,41.870167768994,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Neptis rivularis,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Hungarian Glider,,1,71.973003800958,41.870451576691,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Epipactis helleborine,Plantae,ORCHIDACEAE,Broad-leaved Helleborine,,1,71.97,41.87,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Lestes sponsa,Animalia,SPREADWINGS_LESTIDAE,Common Spreadwing,,1,71.973003800958,41.870451576691,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Ochlodes sylvanus,Animalia,SKIPPERS_HESPERIIDAE,Large Skipper,,1,71.973003800958,41.870451576691,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Lestes sponsa,Animalia,SPREADWINGS_LESTIDAE,Common Spreadwing,,1,71.973003800958,41.870451576691,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Neptis rivularis,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Hungarian Glider,,1,71.973003800958,41.870451576691,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Ochlodes sylvanus,Animalia,SKIPPERS_HESPERIIDAE,Large Skipper,,1,71.973003800958,41.870451576691,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Neptis rivularis,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Hungarian Glider,,1,71.973003800958,41.870451576691,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Neptis rivularis,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Hungarian Glider,,1,71.973003800958,41.870451576691,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Ophiogomphus reductus,Animalia,CLUBTAILS_GOMPHIDAE,,,1,71.973024336621,41.870525508795,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Ischnura elegans,Animalia,POND_DAMSELS_COENAGRIONIDAE,Common Bluetail,,1,71.983423680067,41.876910154951,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Vanessa cardui,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Painted Lady,,1,71.983423680067,41.876910154951,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Aeshna juncea,Animalia,DARNERS_AESHNIDAE,Common Hawker,,1,71.983423680067,41.876910154951,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,1,71.983423680067,41.876910154951,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Graphosoma italicum,Animalia,Pentatomidae,Striped shield bug,,1,71.983423680067,41.876910154951,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Apis mellifera,Animalia,Apidae,Western Honey Bee,,1,71.983423680067,41.876910154951,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Ischnura elegans,Animalia,POND_DAMSELS_COENAGRIONIDAE,Common Bluetail,,1,71.983423680067,41.876910154951,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Coccinella septempunctata,Animalia,LADYBIRDS_LADYBUGS_OR_LADY_BEETLES_COCCINELLIDAE,7-spot Ladybird,,1,71.980224307626,41.875081202956,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Episyrphus balteatus,Animalia,HOVER_FLIES_OR_FLOWER_FLIES_SYRPHIDAE,Marmalade hoverfly,,1,71.980224307626,41.875081202956,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-15,
+Coenonympha pamphilus,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Small Heath,,1,72.643947824836,41.619259996539,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Talas,2016-07-16,
+Vanessa cardui,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Painted Lady,,1,72.643947824836,41.619259996539,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Talas,2016-07-16,
+Capparis spinosa s.l.,Plantae,CAPPARACEAE,Caper,,1,72.09277164191,41.609257647872,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-16,
+Megachile (Eutricharaea) spec.,Animalia,MEGACHILIDAE,,,1,72.09277164191,41.609257647872,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-16,
+Issoria lathonia,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Queen of Spain Fritillary,,1,72.804823033512,42.121710139007,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Talas,2016-07-16,
+Vanessa cardui,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Painted Lady,,1,72.804844491184,42.121829506061,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Talas,2016-07-16,
+Aporia crataegi,Animalia,WHITES_PIERIDAE,Black-veined White,,1,72.804844491184,42.121829506061,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Talas,2016-07-16,
+Argynnis pandora,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Cardinal,,1,72.804844491184,42.121829506061,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Talas,2016-07-16,
+Argynnis pandora,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Cardinal,,1,72.804844491184,42.121829506061,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Talas,2016-07-16,
+Pastor roseus,Animalia,STARLINGS_STURNIDAE,Rosy Starling,,1,72.898292988539,41.738463922907,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Talas,2016-07-16,
+Coenonympha pamphilus,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Small Heath,,1,72.89829299,41.73846392,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Talas,2016-07-16,
+Oenanthe oenanthe,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Northern Wheatear,,1,73.053038343787,42.244864531135,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Talas,2016-07-16,
+Montifringilla nivalis,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,White-winged Snowfinch,,1,73.053038343787,42.244864531135,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Talas,2016-07-16,
+Montifringilla nivalis,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,White-winged Snowfinch,,1,73.053038343787,42.244864531135,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Talas,2016-07-16,
+Eupeodes corollae,Animalia,HOVER_FLIES_OR_FLOWER_FLIES_SYRPHIDAE,,,1,75.721253268421,42.206197515489,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-07-18,
+Marmota caudata,Animalia,SQUIRRELS_CHIPMUNKS_AND_PRAIRIEDOGS_SCIURIDAE,Long-tailed Marmot,,1,75.65621137619,42.15830561981,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-07-18,
+Hemipenthes morio,Animalia,BEE_FLIES_BOMBYLIIDAE,,,1,72.631992213428,40.0573395087,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Osh,2016-07-10,
+Volucella pellucens,Animalia,HOVER_FLIES_OR_FLOWER_FLIES_SYRPHIDAE,,,1,72.631992213428,40.0573395087,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Osh,2016-07-10,
+Eristalis tenax,Animalia,HOVER_FLIES_OR_FLOWER_FLIES_SYRPHIDAE,Drone Fly,,1,72.631992213428,40.0573395087,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Osh,2016-07-10,
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,1,72.624224536121,40.056132354661,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Osh,2016-07-10,
+Campanula spec.,Plantae,CAMPANULACEAE,,,1,72.619471661747,40.055910630166,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Osh,2016-07-10,
+Coccinella septempunctata,Animalia,LADYBIRDS_LADYBUGS_OR_LADY_BEETLES_COCCINELLIDAE,7-spot Ladybird,,1,72.586291059852,40.036469850745,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Osh,2016-07-10,
+Hippodamia heydeni,Animalia,LADYBIRDS_LADYBUGS_OR_LADY_BEETLES_COCCINELLIDAE,,,1,72.586291059852,40.036469850745,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Osh,2016-07-10,
+Adalia bipunctata,Animalia,LADYBIRDS_LADYBUGS_OR_LADY_BEETLES_COCCINELLIDAE,2-spot Ladybird,,1,72.593819014728,40.089341818424,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Osh,2016-07-10,
+Mesembrina meridiana,Animalia,HOUSE_FLIES_OR_STABLE_FLIES_MUSCIDAE,Noon fly,,1,72.593819014728,40.089341818424,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Osh,2016-07-10,
+Coccinella septempunctata,Animalia,LADYBIRDS_LADYBUGS_OR_LADY_BEETLES_COCCINELLIDAE,7-spot Ladybird,,1,73.818054646254,42.332439030344,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2016-07-17,
+Sphaerophoria spec.,Animalia,HOVER_FLIES_OR_FLOWER_FLIES_SYRPHIDAE,,,1,73.81805465,42.33243903,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2016-07-17,
+Eristalis spec.,Animalia,HOVER_FLIES_OR_FLOWER_FLIES_SYRPHIDAE,,,1,73.818054646254,42.332439030344,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2016-07-17,
+Polistes mongolicus,Animalia,Vespidae,,,1,73.81805465,42.33243903,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2016-07-17,
+Chrysotoxum spec.,Animalia,HOVER_FLIES_OR_FLOWER_FLIES_SYRPHIDAE,,,1,73.817339166999,42.332233064283,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2016-07-17,
+Scaeva pyrastri,Animalia,HOVER_FLIES_OR_FLOWER_FLIES_SYRPHIDAE,Pied hoverfly,,1,73.817339166999,42.332233064283,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2016-07-17,
+Corvus frugilegus,Animalia,CROWS_AND_JAYS_CORVIDAE,Rook,,1,75.335547924042,41.862905308727,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-07-18,
+Cirsium spec.,Plantae,Asteraceae,,,1,75.01519292593,41.85658372261,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-07-18,
+Bupleurum spec.,Plantae,Apiaceae,,,1,75.01519292593,41.85658372261,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-07-18,
+Motacilla alba personata,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,White Wagtail ssp personata,,1,77.610612362623,42.024175508958,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-20,
+Phoenicurus erythronotus,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Eversmann's Redstart,,1,77.610612362623,42.024175508958,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-20,
+Leontopodium spec.,Plantae,Asteraceae,,,1,75.369762182236,41.76797889789,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-07-18,
+Taraxacum spec.,Plantae,Asteraceae,,,1,79.124479293823,42.23458657311,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-21,
+Allium spec.,Plantae,AMARYLLIDACEAE,Wild onion,,1,74.48701903224,42.542962611158,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2016-07-23,
+Geranium spec.,Plantae,GERANIACEAE,Unidentified Geranium,,1,74.48701903224,42.542962611158,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2016-07-23,
+Issoria lathonia,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Queen of Spain Fritillary,,1,72.935944497585,41.374682142475,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-13,
+Coenonympha pamphilus,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Small Heath,,1,72.98825763166,41.305665759835,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-12,
+Lycaena phlaeas,Animalia,GOSSAMERWINGED_BUTTERFLIES_LYCAENIDAE,Small Copper,,1,73.124960772693,40.695135141535,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Osh,2016-07-12,
+Pieris brassicae,Animalia,WHITES_PIERIDAE,Large White,,1,73.124574534595,40.701894562296,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Osh,2016-07-12,
+Coenonympha pamphilus,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Small Heath,,1,73.124295584857,40.702154839153,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Osh,2016-07-12,
+Aporia leucodice,Animalia,WHITES_PIERIDAE,Himalayan Blackvein,,1,72.62953530997,40.056879643016,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Osh,2016-07-10,
+Vanessa cardui,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Painted Lady,,1,72.61940728873,40.056050234562,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Osh,2016-07-10,
+Aporia leucodice,Animalia,WHITES_PIERIDAE,Himalayan Blackvein,,1,72.592599447817,40.076507462158,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Osh,2016-07-10,
+Pontia callidice,Animalia,WHITES_PIERIDAE,Peak White,,1,77.649092674255,41.954367918996,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-20,
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,75.013334155083,41.847056714068,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-07-18,
+Vanessa cardui,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Painted Lady,,1,75.244733691216,41.879656636377,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-07-18,
+Coccinella septempunctata,Animalia,LADYBIRDS_LADYBUGS_OR_LADY_BEETLES_COCCINELLIDAE,7-spot Ladybird,,1,77.393647134304,42.169382482232,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-19,
+Coccinella undecimpunctata,Animalia,LADYBIRDS_LADYBUGS_OR_LADY_BEETLES_COCCINELLIDAE,11-spot Ladybird,,1,77.393647134304,42.169382482232,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-19,
+Coccinella septempunctata,Animalia,LADYBIRDS_LADYBUGS_OR_LADY_BEETLES_COCCINELLIDAE,7-spot Ladybird,,1,77.393460720778,42.169732858377,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-19,
+Clematis spec.,Plantae,RANUNCULACEAE,,,1,77.392988651991,42.169701051261,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-19,
+Panurus biarmicus,Animalia,Panuridae,Bearded Reedling,,2,76.470224261284,42.314637206805,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-19,
+Carpodacus erythrinus,Animalia,FINCHES_FRINGILLIDAE,Common Rosefinch,,1,78.454106077552,42.396539001159,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-23,
+Phoenicurus coeruleocephala,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Blue-capped Redstart,,1,78.472538888454,42.347633053231,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-23,
+Phoenicurus coeruleocephala,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Blue-capped Redstart,,1,78.48618529737,42.299753869565,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-23,
+Gypaetus barbatus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Bearded Vulture,,1,78.501878231764,42.299785363223,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-21,
+Anthus spinoletta,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Water Pipit,,1,78.501878231764,42.299785363223,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-21,
+Calliope pectoralis,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Himalayan Rubythroat,,2,78.465500771999,42.284102548953,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-20,
+Phoenicurus erythronotus,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Eversmann's Redstart,,1,78.401337973773,42.248923053001,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-19,
+Gypaetus barbatus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Bearded Vulture,,1,78.383517712355,42.255521983399,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-19,
+Serinus pusillus,Animalia,FINCHES_FRINGILLIDAE,Red-fronted Serin,,2,78.241854161024,42.329551974018,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-18,
+Emberiza cia,Animalia,BUNTINGS_EMBERIZIDAE,Rock Bunting,,10,78.241854161024,42.329551974018,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-18,
+Emberiza buchanani,Animalia,BUNTINGS_EMBERIZIDAE,Grey-necked Bunting,,1,77.35389277339,42.156881481517,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-15,
+Emberiza buchanani,Animalia,BUNTINGS_EMBERIZIDAE,Grey-necked Bunting,,2,77.351739630103,42.167824651604,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-15,
+Oenanthe pleschanka,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Pied Wheatear,,1,77.35319506377,42.170925986417,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-15,
+Tadorna ferruginea,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Ruddy Shelduck,,1,75.260396115482,41.858310634419,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-07-12,
+Eremophila alpestris,Animalia,LARKS_ALAUDIDAE,Horned Lark,,5,75.20425580442,41.891926988639,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-07-11,
+Chroicocephalus ridibundus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black-headed Gull,,15,75.201573595405,41.891974908257,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-07-11,
+Petronia petronia,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,Rock Sparrow,,2,75.148215740919,41.992510592727,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-07-10,
+Rhodopechys sanguineus,Animalia,FINCHES_FRINGILLIDAE,Asian Crimson-winged Finch,,7,75.148215740919,41.992510592727,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-07-10,
+Enallagma cyathigerum,Animalia,POND_DAMSELS_COENAGRIONIDAE,Common Bluet,,1,76.471396386623,42.31394004348,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-19,
+Sympetrum sanguineum,Animalia,SKIMMERS_LIBELLULIDAE,Ruddy Darter,,1,76.471396386623,42.31394004348,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-19,
+Enallagma cyathigerum,Animalia,POND_DAMSELS_COENAGRIONIDAE,Common Bluet,,1,76.471396386623,42.31394004348,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-19,
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,75.422888696194,41.914029340015,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-07-19,
+Volucella bombylans,Animalia,HOVER_FLIES_OR_FLOWER_FLIES_SYRPHIDAE,,,1,75.422888696194,41.914029340015,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-07-19,
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,75.422888696194,41.914029340015,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-07-19,
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,75.422888696194,41.914029340015,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-07-19,
+Polycaena tamerlana,Animalia,METALMARKS_RIODINIDAE,,,1,75.422888696194,41.914029340015,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-07-19,
+Linaria flavirostris,Animalia,FINCHES_FRINGILLIDAE,Twite,,2,75.416572093964,41.913511386171,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-07-19,
+Anthus spinoletta,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Water Pipit,,1,75.416572093964,41.913511386171,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-07-19,
+Monticola saxatilis,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Common Rock Thrush,,1,75.416572093964,41.913511386171,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-07-19,
+Coccinella undecimpunctata,Animalia,LADYBIRDS_LADYBUGS_OR_LADY_BEETLES_COCCINELLIDAE,11-spot Ladybird,,1,77.607751116157,42.028575072933,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-20,
+Polycaena tamerlana,Animalia,METALMARKS_RIODINIDAE,,,1,77.607751116157,42.028575072933,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-20,
+Coenonympha sunbecca,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,78.945066332817,42.430803685427,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-21,
+Issoria lathonia,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Queen of Spain Fritillary,,1,78.939573168755,42.456518916331,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-21,
+Aglais urticae,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Small Tortoiseshell,,1,78.887565135956,42.579369392331,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-21,
+Aglais urticae,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Small Tortoiseshell,,1,78.887565135956,42.579369392331,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-21,
+Aglais urticae,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Small Tortoiseshell,,1,78.887565135956,42.579369392331,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-21,
+Phoenicurus coeruleocephala,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Blue-capped Redstart,,1,78.451023548841,42.422854114962,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-21,
+Kirinia eversmanni,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,74.486160725355,42.556904927885,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2016-07-23,
+Volucella pellucens,Animalia,HOVER_FLIES_OR_FLOWER_FLIES_SYRPHIDAE,,,1,74.486031979322,42.555577222373,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2016-07-23,
+Kirinia eversmanni,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,74.485388249159,42.557221044081,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2016-07-23,
+Kirinia eversmanni,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,74.485388249159,42.557221044081,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2016-07-23,
+Kirinia eversmanni,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,74.485388249159,42.557221044081,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2016-07-23,
+Kirinia eversmanni,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,74.485388249159,42.557221044081,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2016-07-23,
+Kirinia eversmanni,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,74.485388249159,42.557221044081,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2016-07-23,
+Carpodacus erythrinus,Animalia,FINCHES_FRINGILLIDAE,Common Rosefinch,,1,78.467846202693,42.405252581138,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-22,
+Phoenicurus erythronotus,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Eversmann's Redstart,,1,77.640847731382,41.963013103937,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-20,
+Alectoris chukar,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Chukar Partridge,,1,77.392988489592,42.168920676985,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-19,
+Emberiza buchanani,Animalia,BUNTINGS_EMBERIZIDAE,Grey-necked Bunting,,1,77.392988489592,42.168920676985,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-19,
+Panurus biarmicus,Animalia,Panuridae,Bearded Reedling,,1,76.470623585628,42.310499646629,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-19,
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,1,75.748905952787,42.210439714244,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-07-19,
+Linaria flavirostris,Animalia,FINCHES_FRINGILLIDAE,Twite,,1,75.413136288989,41.910172435304,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-07-19,
+Eremophila alpestris,Animalia,LARKS_ALAUDIDAE,Horned Lark,,30,75.278553790413,41.848311885195,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-07-19,
+Alauda arvensis,Animalia,LARKS_ALAUDIDAE,Eurasian Skylark,,1,75.278553790413,41.848311885195,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-07-19,
+Ciconia nigra,Animalia,STORKS_CICONIIDAE,Black Stork,,1,75.279240435921,41.861609285926,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-07-19,
+Chroicocephalus ridibundus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black-headed Gull,,1,75.196842974983,41.892285043406,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-07-19,
+Chroicocephalus ridibundus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black-headed Gull,,1,75.127491778694,41.75976262167,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-07-18,
+Corvus frugilegus,Animalia,CROWS_AND_JAYS_CORVIDAE,Rook,,100,75.346531653777,41.883252539988,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-07-18,
+Linaria flavirostris,Animalia,FINCHES_FRINGILLIDAE,Twite,,1,75.409155466477,41.909034171615,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-07-18,
+Montifringilla nivalis,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,White-winged Snowfinch,,1,73.039416577667,42.25205372546,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Talas,2016-07-16,
+Oenanthe oenanthe,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Northern Wheatear,,1,73.039416577667,42.25205372546,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Talas,2016-07-16,
+Coracias garrulus,Animalia,ROLLERS_CORACIIDAE,European Roller,,1,72.221604542574,41.384594728445,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-16,
+Sympecma spec.,Animalia,SPREADWINGS_LESTIDAE,,,1,74.483671635389,42.559655085155,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2016-07-23,
+Kirinia eversmanni,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,74.483671635389,42.559655085155,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2016-07-23,
+Neptis rivularis,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Hungarian Glider,,1,74.483671635389,42.559655085155,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2016-07-23,
+Dendrocopos leucopterus,Animalia,WOODPECKERS_PICIDAE,White-winged Woodpecker,,1,72.9773428917,41.309291068681,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-14,
+Dendrocopos leucopterus,Animalia,WOODPECKERS_PICIDAE,White-winged Woodpecker,,1,72.977128318744,41.308463560629,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-12,
+Hieraaetus pennatus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Booted Eagle,,1,72.994097974151,41.299372757936,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-12,
+Sciurus vulgaris,Animalia,SQUIRRELS_CHIPMUNKS_AND_PRAIRIEDOGS_SCIURIDAE,Eurasian Red Squirrel,,1,74.483242146671,42.561314974601,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2016-07-23,
+Kirinia eversmanni,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,74.501498937607,42.56142177993,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2016-07-23,
+Issoria lathonia,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Queen of Spain Fritillary,,1,74.483617655933,42.554368407884,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2016-07-23,
+Issoria lathonia,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Queen of Spain Fritillary,,1,74.484647624195,42.553578078264,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2016-07-23,
+Coccinella septempunctata,Animalia,LADYBIRDS_LADYBUGS_OR_LADY_BEETLES_COCCINELLIDAE,7-spot Ladybird,,1,74.481625780463,42.579345445211,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2016-07-23,
+Papilio machaon,Animalia,SWALLOWTAILS_PAPILIONIDAE,Swallowtail,,1,74.482419714332,42.5710340047,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2016-07-23,
+Parnassius delphius,Animalia,SWALLOWTAILS_PAPILIONIDAE,Banded Apollo,,1,73.821015805006,42.359875311671,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2016-07-17,
+Ibidorhyncha struthersii,Animalia,IBISBILL_IBIDORHYNCHIDAE,Ibisbill,,1,78.37339262,42.26333139,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-19,12:40
+Phoenicurus erythronotus,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Eversmann's Redstart,,1,78.37647145,42.2600469,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-19,14:35
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,1,74.59980582,42.92698794,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2016-06-26,18:50
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,3,74.60515748,42.87607051,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2016-06-26,20:11
+Hieraaetus pennatus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Booted Eagle,,1,72.93261268,41.34807676,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2016-07-03,10:36
+Chroicocephalus ridibundus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black-headed Gull,,1,75.19226846,41.91760151,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2016-07-11,14:10
+Leontopodium spec.,Plantae,Asteraceae,,,1,78.265449889004,42.019768143073,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-06-25,16:24
+Persicaria vivipara,Plantae,POLYGONACEAE,Alpine Bistort,,1,78.2718135137111,42.0145839359611,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-06-25,17:07
+Ursus arctos isabellinus,Animalia,BEARS_URSIDAE,Himalayan Brown Bear,,1,78.4291309397668,42.0612632157281,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-06-27,09:18
+Rosaceae spec.,Plantae,ROSACEAE,,,1,78.4333798103035,42.0514363143593,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-06-27,17:42
+Valeriana spec.,Plantae,CAPRIFOLIACEAE,,,1,78.4374144393951,42.0657125394791,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-06-28,12:26
+Anthophora plagiata,Animalia,Apidae,,,1,78.5,42.0,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-06-30,09:59
+Pedicularis spec.,Plantae,OROBANCHACEAE,,,1,78.5,42.0,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-06-30,12:25
+Lamiaceae spec.,Plantae,Lamiaceae,,,1,78.532929411158,42.019664417021,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-06-30,12:59
+Fabaceae spec.,Plantae,Fabaceae,,,1,78.5338853672147,42.0194648439065,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-06-30,13:12
+Valeriana spec.,Plantae,CAPRIFOLIACEAE,,,1,78.5100372601301,41.9983555655926,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-01,10:25
+Ursus arctos isabellinus,Animalia,BEARS_URSIDAE,Himalayan Brown Bear,,1,78.5018823388964,41.9559110328555,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-01,13:26
+Limonium spec.,Plantae,PLUMBAGINACEAE,,,1,78.574524940923,41.897466997616,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-02,17:48
+Fabaceae spec.,Plantae,Fabaceae,,,1,78.5281060449779,41.9418740691617,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-03,14:07
+Lonicera spec.,Plantae,CAPRIFOLIACEAE,,,1,78.5335407033563,41.940826876089,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-03,15:44
+Limonium spec.,Plantae,PLUMBAGINACEAE,,,1,78.5376762505621,41.9381157075986,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-03,16:10
+Lonicera spec.,Plantae,CAPRIFOLIACEAE,,,1,78.5469271894544,41.924261637032,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-03,16:55
+Corvus frugilegus,Animalia,CROWS_AND_JAYS_CORVIDAE,Rook,,1,78.3942540083081,42.4913258012384,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2016-07-07,12:23
+Parus major,Animalia,TITS_PARIDAE,Great Tit,,1,74.603399829939,42.8811922157183,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2016-06-17,18:59
+Parus major,Animalia,TITS_PARIDAE,Great Tit,,1,74.5789152849466,42.87691924721,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2016-06-19,11:25
+Boloria erubescens,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,74.48391521,42.5603289,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2016-06-20,12:51
+Erebia turanica,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,74.4838223420084,42.5598454289138,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2016-06-20,13:06
+Aquilegia spec.,Plantae,RANUNCULACEAE,,,1,74.4841843564063,42.5598354125395,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2016-06-20,13:09
+Erebia turanica,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,74.4846031162888,42.5597426248714,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2016-06-20,13:14
+Erebia turanica,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,74.485063618049,42.5589536782354,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2016-06-20,13:18
+Phlomis spec.,Plantae,Lamiaceae,,,1,74.49578223,42.55641606,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2016-06-20,15:09
+Allium spec.,Plantae,AMARYLLIDACEAE,Wild onion,,1,74.4958850741386,42.5564580922946,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2016-06-20,15:10
+Lamium album,Plantae,Lamiaceae,White Dead-nettle,,1,74.4925898965448,42.5559861492366,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2016-06-20,15:30
+Aconitum spec.,Plantae,RANUNCULACEAE,,,1,74.4875853974372,42.5572190852836,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2016-06-20,15:55
+Asteraceae spec.,Plantae,Asteraceae,Composite unknown,,1,74.4874947890639,42.5574033614248,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2016-06-20,16:04
+Echium vulgare,Plantae,BORAGINACEAE,Viper's-bugloss,,1,74.495259784162,42.6557909371331,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2016-06-20,17:41
+Capsella bursa-pastoris,Plantae,Brassicaceae,Shepherd's-purse,,1,74.4954149331898,42.6558799529448,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2016-06-20,17:44
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,1,74.603327326477,42.887142193504,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2016-06-17,09:33
+Parus major,Animalia,TITS_PARIDAE,Great Tit,,1,74.5984466280788,42.8840439068154,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2016-06-17,10:08
+Parus major,Animalia,TITS_PARIDAE,Great Tit,,2,74.6028479654342,42.8780709626153,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2016-06-16,14:08
+Parus major,Animalia,TITS_PARIDAE,Great Tit,,1,74.6066305506974,42.8766934806481,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2016-06-16,17:02
+Plantago major,Plantae,PLANTAGINACEAE,Greater Plantain,,1,74.6027958299965,42.875909479335,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2016-06-16,17:35
+Parus major,Animalia,TITS_PARIDAE,Great Tit,,1,74.6031376440078,42.8801308572292,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2016-06-16,17:43
+Parus major,Animalia,TITS_PARIDAE,Great Tit,,1,74.603965273127,42.8880291245878,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2016-06-16,18:45
+Capra sibirica,Animalia,BOVIDS_BOVIDAE,Siberian Ibex,,5,74.51188121,42.55055427,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ala-Archa NP,2016-05-04,10:00
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,12,74.56910529,42.83048285,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2016-05-04,15:05
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,8,74.5919674,42.875335,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2016-05-03,08:19
+Ursus arctos isabellinus,Animalia,BEARS_URSIDAE,Himalayan Brown Bear,,1,78.4297388792,42.0606344996,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-09-07,
+Ursus arctos isabellinus,Animalia,BEARS_URSIDAE,Himalayan Brown Bear,,1,78.4297388792,42.0606344996,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-09-07,
+Ursus arctos isabellinus,Animalia,BEARS_URSIDAE,Himalayan Brown Bear,,1,78.381845355,42.0435542199,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-09-06,
+Calliope pectoralis,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Himalayan Rubythroat,,2,78.4654444456,42.2841650558,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-15,
+Phoenicurus erythronotus,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Eversmann's Redstart,,2,78.2873189449,42.2882268771,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-14,
+Ibidorhyncha struthersii,Animalia,IBISBILL_IBIDORHYNCHIDAE,Ibisbill,,5,78.3851659298,42.2531679341,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-14,
+Prunella collaris,Animalia,ACCENTORS_PRUNELLIDAE,Alpine Accentor,,1,74.6777629852,42.4639611414,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2015-07-29,
+Parus major,Animalia,TITS_PARIDAE,Great Tit,,1,74.6266937256,42.8273868421,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2015-06-30,
+Oenanthe isabellina,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Isabelline Wheatear,,1,76.396651268,42.7116893086,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-31,
+Merops apiaster,Animalia,BEEEATERS_MEROPIDAE,European Bee-eater,,1,76.295478344,42.7717073076,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2015-07-30,
+Emberiza bruniceps,Animalia,BUNTINGS_EMBERIZIDAE,Red-headed Bunting,,5,76.295478344,42.7717073076,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2015-07-30,
+Alectoris chukar,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Chukar Partridge,,12,74.6649205685,42.54801795,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2015-07-29,
+Leptopoecile sophiae,Animalia,LONGTAILED_TITS_AEGITHALIDAE,White-browed Tit-warbler,,5,74.6649205685,42.54801795,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2015-07-29,
+Phoenicurus erythrogastrus,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Güldenstädt's Redstart,,8,74.6590840816,42.4900701989,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2015-07-29,
+Ochotona rutila,Animalia,PIKAS_OCHOTONIDAE,Turkestan Red Pika,,1,74.6590840816,42.4900701989,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2015-07-28,
+Capra sibirica,Animalia,BOVIDS_BOVIDAE,Siberian Ibex,,1,74.6590840816,42.4900701989,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2015-07-28,
+Phoenicurus erythrogastrus,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Güldenstädt's Redstart,,4,74.6768778563,42.4494261138,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2015-07-28,
+Capra sibirica,Animalia,BOVIDS_BOVIDAE,Siberian Ibex,,30,74.6745336056,42.4528439791,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2015-07-27,
+Calliope pectoralis,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Himalayan Rubythroat,,1,72.9233622551,39.4658762287,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Osh,2015-07-24,
+Motacilla citreola,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Citrine Wagtail,,5,72.9283940792,39.4542173568,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Osh,2015-07-23,
+Marmota caudata,Animalia,SQUIRRELS_CHIPMUNKS_AND_PRAIRIEDOGS_SCIURIDAE,Long-tailed Marmot,,1,72.9283940792,39.4542173568,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Osh,2015-07-23,
+Pyrrhocorax pyrrhocorax,Animalia,CROWS_AND_JAYS_CORVIDAE,Red-billed Chough,,1,72.9283940792,39.4542173568,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Osh,2015-07-23,
+Oenanthe isabellina,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Isabelline Wheatear,,15,72.932857275,39.5027120494,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Osh,2015-07-22,
+Lanius schach,Animalia,SHRIKES_LANIIDAE,Long-tailed Shrike,,4,72.9297673702,41.3451093045,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2015-07-20,
+Hieraaetus pennatus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Booted Eagle,,1,72.9627263546,41.3164930367,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2015-07-20,
+Dendrocopos leucopterus,Animalia,WOODPECKERS_PICIDAE,White-winged Woodpecker,,3,72.9627263546,41.3164930367,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2015-07-20,
+Dendrocopos leucopterus,Animalia,WOODPECKERS_PICIDAE,White-winged Woodpecker,,1,72.9493367672,41.3507795047,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2015-07-19,
+Dendrocopos leucopterus,Animalia,WOODPECKERS_PICIDAE,White-winged Woodpecker,,1,72.9558598995,41.3507795047,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2015-07-18,
+Hieraaetus pennatus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Booted Eagle,,1,72.9373204708,41.3487176708,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2015-07-18,
+Cecropis daurica,Animalia,SWALLOWS_HIRUNDINIDAE,Red-rumped Swallow,,10,72.8924846649,41.1496738596,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Jalal-Abad,2015-07-17,
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,1,74.610042572,42.851743172,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2015-07-17,
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,1,74.610042572,42.851743172,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Bishkek,2015-07-16,
+Passer domesticus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow,,10,76.3964098692,41.4679408263,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2015-07-15,
+Carpodacus erythrinus,Animalia,FINCHES_FRINGILLIDAE,Common Rosefinch,,1,76.4388102293,41.4720568683,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2015-07-15,
+Emberiza leucocephalos,Animalia,BUNTINGS_EMBERIZIDAE,Pine Bunting,,1,76.4388102293,41.4720568683,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2015-07-15,
+Luscinia svecica,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Bluethroat,,1,76.4609545469,41.4653681674,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2015-07-15,
+Serinus pusillus,Animalia,FINCHES_FRINGILLIDAE,Red-fronted Serin,,1,76.4532887936,41.460477824,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2015-07-14,
+Carduelis carduelis paropanisi,Animalia,FINCHES_FRINGILLIDAE,European Goldfinch ssp paropanisi,,1,76.4532887936,41.460477824,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2015-07-14,
+Pastor roseus,Animalia,STARLINGS_STURNIDAE,Rosy Starling,,1,75.2799296379,41.8618825506,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2015-07-13,
+Alauda arvensis,Animalia,LARKS_ALAUDIDAE,Eurasian Skylark,,1,75.2661967278,41.8521655328,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2015-07-13,
+Ciconia nigra,Animalia,STORKS_CICONIIDAE,Black Stork,,1,75.3019022942,41.8378430261,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2015-07-13,
+Tadorna ferruginea,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Ruddy Shelduck,,5,75.1659464836,41.9084014814,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2015-07-12,
+Eremophila alpestris,Animalia,LARKS_ALAUDIDAE,Horned Lark,,1,75.1288676262,41.9262843585,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2015-07-12,
+Rhodopechys sanguineus,Animalia,FINCHES_FRINGILLIDAE,Asian Crimson-winged Finch,,5,75.109641552,41.9799029213,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2015-07-11,
+Petronia petronia,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,Rock Sparrow,,5,75.109641552,41.9799029213,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2015-07-11,
+Motacilla citreola calcarata,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Black-backed Citrine Wagtail,,30,75.0123041868,41.9931789115,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2015-07-11,
+Upupa epops,Animalia,HOOPOES_UPUPIDAE,Eurasian Hoopoe,,3,75.7645243406,42.2084287743,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Naryn,2015-07-10,
+Lepus tolai,Animalia,HARES_AND_RABBITS_LEPORIDAE,Tolai Hare,,3,77.3673681915,42.1566587861,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-10,
+Emberiza buchanani,Animalia,BUNTINGS_EMBERIZIDAE,Grey-necked Bunting,,1,77.3673681915,42.1566587861,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-10,
+Oenanthe pleschanka,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Pied Wheatear,,1,77.3673681915,42.1566587861,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-10,
+Monticola saxatilis,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Common Rock Thrush,,1,77.3673681915,42.1566587861,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-10,
+Alectoris chukar,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Chukar Partridge,,3,77.3673681915,42.1566587861,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-10,
+Ptyonoprogne rupestris,Animalia,SWALLOWS_HIRUNDINIDAE,Eurasian Crag Martin,,1,77.3673681915,42.1566587861,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-09,
+Emberiza buchanani,Animalia,BUNTINGS_EMBERIZIDAE,Grey-necked Bunting,,3,77.3673681915,42.1566587861,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-09,
+Lepus tolai,Animalia,HARES_AND_RABBITS_LEPORIDAE,Tolai Hare,,1,77.3673681915,42.1566587861,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-09,
+Oenanthe pleschanka,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Pied Wheatear,,5,77.3673681915,42.1566587861,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-09,
+Streptopelia orientalis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Oriental Turtle Dove,,1,77.5267705321,42.1554493576,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-09,
+Tadorna ferruginea,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Ruddy Shelduck,,5,77.5241956115,42.159775953,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-09,
+Emberiza cia,Animalia,BUNTINGS_EMBERIZIDAE,Rock Bunting,,1,78.4481066465,42.4095141333,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-08,
+Phoenicurus coeruleocephala,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Blue-capped Redstart,,1,78.464242816,42.3756640798,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-08,
+Phoenicurus coeruleocephala,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Blue-capped Redstart,,1,78.4740275145,42.318064401,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-07,
+Capra sibirica,Animalia,BOVIDS_BOVIDAE,Siberian Ibex,,4,78.492051959,42.3204760183,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-07,
+Marmota baibacina,Animalia,SQUIRRELS_CHIPMUNKS_AND_PRAIRIEDOGS_SCIURIDAE,Gray Marmot,,1,78.4918802977,42.3250451451,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-07,
+Carpodacus erythrinus,Animalia,FINCHES_FRINGILLIDAE,Common Rosefinch,,1,78.4716242552,42.3431914551,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-07,
+Calliope pectoralis,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Himalayan Rubythroat,,1,78.4877604246,42.3223798615,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-07,
+Cuculus canorus,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,Common Cuckoo,,1,78.4877604246,42.3223798615,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-07,
+Carpodacus erythrinus,Animalia,FINCHES_FRINGILLIDAE,Common Rosefinch,,1,78.4930819273,42.3207298674,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-06,
+Calliope pectoralis,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Himalayan Rubythroat,,1,78.4930819273,42.3207298674,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-06,
+Carpodacus erythrinus,Animalia,FINCHES_FRINGILLIDAE,Common Rosefinch,,1,78.4681910276,42.3341824032,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-05,
+Emberiza cia,Animalia,BUNTINGS_EMBERIZIDAE,Rock Bunting,,1,78.4681910276,42.3341824032,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-05,
+Cinclus cinclus leucogaster,Animalia,DIPPERS_CINCLIDAE,White-throated Dipper ssp leucogaster,,1,78.2801091671,42.2922904205,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-04,
+Cyanistes cyanus flavipectus,Animalia,TITS_PARIDAE,Azure Tit ssp flavipectus,,1,78.28010917,42.29229042,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-04,
+Emberiza cia,Animalia,BUNTINGS_EMBERIZIDAE,Rock Bunting,,1,78.3366984129,42.2747665017,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-04,
+Ibidorhyncha struthersii,Animalia,IBISBILL_IBIDORHYNCHIDAE,Ibisbill,,2,78.3935183287,42.2507557242,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-03,
+Cinclus cinclus leucogaster,Animalia,DIPPERS_CINCLIDAE,White-throated Dipper ssp leucogaster,,1,78.4079378843,42.250374527,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-03,
+Anthus spinoletta,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Water Pipit,,1,78.4079378843,42.250374527,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-03,
+Gypaetus barbatus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Bearded Vulture,,1,78.4079378843,42.250374527,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-03,
+Marmota baibacina,Animalia,SQUIRRELS_CHIPMUNKS_AND_PRAIRIEDOGS_SCIURIDAE,Gray Marmot,,1,78.3928316832,42.2513910477,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-03,
+Marmota baibacina,Animalia,SQUIRRELS_CHIPMUNKS_AND_PRAIRIEDOGS_SCIURIDAE,Gray Marmot,,5,78.3845919371,42.2555840223,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-02,
+Prunella atrogularis,Animalia,ACCENTORS_PRUNELLIDAE,Black-throated Accentor,,1,78.3845919371,42.2555840223,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-02,
+Ibidorhyncha struthersii,Animalia,IBISBILL_IBIDORHYNCHIDAE,Ibisbill,,3,78.3845919371,42.2555840223,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-02,
+Phoenicurus erythronotus,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Eversmann's Redstart,,1,78.3844792843,42.2546926415,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-02,
+Mycerobas carnipes,Animalia,FINCHES_FRINGILLIDAE,White-winged Grosbeak,,1,78.3844792843,42.2546926415,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-02,
+Cinclus cinclus leucogaster,Animalia,DIPPERS_CINCLIDAE,White-throated Dipper ssp leucogaster,,1,78.3395040035,42.2740024106,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-02,
+Serinus pusillus,Animalia,FINCHES_FRINGILLIDAE,Red-fronted Serin,,8,78.3247411251,42.2722241265,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-02,
+Myophonus caeruleus,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Blue Whistling Thrush,,1,78.3048284054,42.2823850741,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-01,
+Motacilla alba personata,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,White Wagtail ssp personata,,1,78.2661509514,42.3042215959,Asia,Kyrgyzstan,KG,,Kyrgyzstan - Ysyk-Köl,2015-07-01,

@@ -1,0 +1,657 @@
+scientificName,kingdom,family,vernacularName,previousIdentifications,individualCount,longitudeDecimal,latitudeDecimal,continent,country,countryCode,stateProvince,locality,eventDate,eventTime
+Emberiza calandra,Animalia,BUNTINGS_EMBERIZIDAE,Corn Bunting,,1,47.7830386162,29.5853722133,Asia,Kuwait,KW,,Kuwait,2010-04-15,
+Monticola saxatilis,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Common Rock Thrush,,3,47.7830386162,29.5853722133,Asia,Kuwait,KW,,Kuwait,2010-04-15,
+Circus pygargus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Montagu's Harrier,,1,47.7830386162,29.5853722133,Asia,Kuwait,KW,,Kuwait,2010-04-15,
+Ardeola ralloides,Animalia,HERONS_ARDEIDAE,Squacco Heron,,2,47.7830386162,29.5853722133,Asia,Kuwait,KW,,Kuwait,2010-04-15,
+Anas platyrhynchos,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Mallard,,2,47.7830386162,29.5853722133,Asia,Kuwait,KW,,Kuwait,2010-04-15,
+Phoenicurus phoenicurus,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Common Redstart,,14,47.6745271683,29.3518899752,Asia,Kuwait,KW,,Kuwait - Kuwait city,2010-04-14,
+Halcyon smyrnensis,Animalia,KINGFISHERS_ALCEDINIDAE,White-throated Kingfisher,,2,47.6745271683,29.3518899752,Asia,Kuwait,KW,,Kuwait - Kuwait city,2010-04-14,
+Motacilla cinerea,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Grey Wagtail,,1,47.6745271683,29.3518899752,Asia,Kuwait,KW,,Kuwait - Kuwait city,2010-04-14,
+Ardeola ralloides,Animalia,HERONS_ARDEIDAE,Squacco Heron,,1,47.6745271683,29.3518899752,Asia,Kuwait,KW,,Kuwait - Kuwait city,2010-04-14,
+Passer domesticus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow,,501,46.958656311,29.3676647836,Asia,Kuwait,KW,,Kuwait,2010-04-14,
+Riparia riparia,Animalia,SWALLOWS_HIRUNDINIDAE,Sand Martin,,1,46.958656311,29.368263187,Asia,Kuwait,KW,,Kuwait,2010-04-14,
+Coracias garrulus,Animalia,ROLLERS_CORACIIDAE,European Roller,,1,46.958656311,29.368263187,Asia,Kuwait,KW,,Kuwait,2010-04-14,
+Ardeola ralloides,Animalia,HERONS_ARDEIDAE,Squacco Heron,,1,46.958656311,29.368263187,Asia,Kuwait,KW,,Kuwait,2010-04-14,
+Bubulcus ibis,Animalia,HERONS_ARDEIDAE,Western Cattle Egret,,13,46.958656311,29.368263187,Asia,Kuwait,KW,,Kuwait,2010-04-14,
+Hypocolius ampelinus,Animalia,Hypocoliidae,Grey Hypocolius,,5,46.958656311,29.368263187,Asia,Kuwait,KW,,Kuwait,2010-04-14,
+Hirundo rustica,Animalia,SWALLOWS_HIRUNDINIDAE,Barn Swallow,,501,46.958656311,29.368263187,Asia,Kuwait,KW,,Kuwait,2010-04-14,
+Lanius nubicus,Animalia,SHRIKES_LANIIDAE,Masked Shrike,,3,46.958656311,29.368263187,Asia,Kuwait,KW,,Kuwait,2010-04-14,
+Monticola solitarius,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Blue Rock Thrush,,1,46.9591712952,29.3681883868,Asia,Kuwait,KW,,Kuwait,2010-04-14,
+Merops apiaster,Animalia,BEEEATERS_MEROPIDAE,European Bee-eater,,21,46.9591712952,29.3681883868,Asia,Kuwait,KW,,Kuwait,2010-04-14,
+Pycnonotus cafer,Animalia,BULBULS_PYCNONOTIDAE,Red-vented Bulbul,,4,48.0270123482,29.3650280266,Asia,Kuwait,KW,,Kuwait - Green Island,2010-04-13,
+Ardeola ralloides,Animalia,HERONS_ARDEIDAE,Squacco Heron,,6,48.0270123482,29.3650280266,Asia,Kuwait,KW,,Kuwait - Green Island,2010-04-13,
+Phoenicopterus roseus,Animalia,FLAMINGOS_PHOENICOPTERIDAE,Greater Flamingo,,20,47.8200101852,29.365158931,Asia,Kuwait,KW,,Kuwait - Doha Spit,2010-04-13,
+Dromas ardeola,Animalia,CRABPLOVER_DROMADIDAE,Crab-plover,,2,47.8200101852,29.365158931,Asia,Kuwait,KW,,Kuwait - Doha Spit,2010-04-13,
+Coracias garrulus,Animalia,ROLLERS_CORACIIDAE,European Roller,,2,47.7558517456,29.256001101,Asia,Kuwait,KW,,Kuwait - Kuwait city,2010-04-13,
+Upupa epops,Animalia,HOOPOES_UPUPIDAE,Eurasian Hoopoe,,4,47.7558517456,29.256001101,Asia,Kuwait,KW,,Kuwait - Kuwait city,2010-04-13,
+Saxicola rubetra,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Whinchat,,14,47.756280899,29.2558326151,Asia,Kuwait,KW,,Kuwait - Kuwait city,2010-04-13,
+Anthus richardi,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Richard's Pipit,,4,47.756023407,29.2567124827,Asia,Kuwait,KW,,Kuwait - Kuwait city,2010-04-13,
+Oenanthe oenanthe,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Northern Wheatear,,8,47.756023407,29.2567124827,Asia,Kuwait,KW,,Kuwait - Kuwait city,2010-04-13,
+Merops apiaster,Animalia,BEEEATERS_MEROPIDAE,European Bee-eater,,17,47.756023407,29.2567124827,Asia,Kuwait,KW,,Kuwait - Kuwait city,2010-04-13,
+Ciconia ciconia,Animalia,STORKS_CICONIIDAE,White Stork,,2,47.7561092377,29.2559262184,Asia,Kuwait,KW,,Kuwait - Kuwait city,2010-04-13,
+Oena capensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Namaqua Dove,,1,47.7690696716,29.2591835594,Asia,Kuwait,KW,,Kuwait - Kuwait city,2010-04-13,
+Oena capensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Namaqua Dove,,2,47.7534484863,29.2569371285,Asia,Kuwait,KW,,Kuwait - Kuwait city,2010-04-13,
+Milvus migrans,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Black Kite,,46,47.7557659149,29.2557015704,Asia,Kuwait,KW,,Kuwait - Kuwait city,2010-04-13,
+Ardeola ralloides,Animalia,HERONS_ARDEIDAE,Squacco Heron,,3,47.6921653748,29.3623537991,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2010-04-14,
+Remiz pendulinus,Animalia,PENDULINE_TITS_REMIZIDAE,Eurasian Penduline Tit,,9,47.65,29.35,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2010-04-14,
+Vanellus leucurus,Animalia,PLOVERS_CHARADRIIDAE,White-tailed Lapwing,,1,47.6921653748,29.3623537991,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2010-04-14,
+Charadrius dubius,Animalia,PLOVERS_CHARADRIIDAE,Little Ringed Plover,,13,47.6921653748,29.3623537991,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2010-04-14,
+Phalaropus lobatus,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Red-necked Phalarope,,103,47.6921653748,29.3623537991,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2010-04-14,
+Tringa glareola,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Wood Sandpiper,,3,47.6921653748,29.3623537991,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2010-04-14,
+Tringa ochropus,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Green Sandpiper,,10,47.6921653748,29.3623537991,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2010-04-14,
+Bubulcus ibis,Animalia,HERONS_ARDEIDAE,Western Cattle Egret,,15,47.6921653748,29.3623537991,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2010-04-14,
+Himantopus himantopus,Animalia,STILTS_AND_AVOCETS_RECURVIROSTRIDAE,Black-winged Stilt,,16,47.6921653748,29.3623537991,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2010-04-14,
+Porphyrio poliocephalus,Animalia,RAILS_RALLIDAE,Grey-headed Swamphen,,2,47.65,29.35,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2010-04-14,
+Himantopus himantopus,Animalia,STILTS_AND_AVOCETS_RECURVIROSTRIDAE,Black-winged Stilt,,30,47.6926803589,29.3622041899,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2010-04-12,
+Ardeola ralloides,Animalia,HERONS_ARDEIDAE,Squacco Heron,,3,47.6926803589,29.3622041899,Asia,Kuwait,KW,,Kuwait - Kuwait city,2010-04-12,
+Motacilla cinerea,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Grey Wagtail,,1,47.6926803589,29.3622041899,Asia,Kuwait,KW,,Kuwait - Kuwait city,2010-04-12,
+Porphyrio poliocephalus,Animalia,RAILS_RALLIDAE,Grey-headed Swamphen,,2,47.65,29.35,Asia,Kuwait,KW,,Kuwait - Kuwait city,2010-04-12,
+Upupa epops,Animalia,HOOPOES_UPUPIDAE,Eurasian Hoopoe,,1,47.6926803589,29.3622041899,Asia,Kuwait,KW,,Kuwait - Kuwait city,2010-04-12,
+Lanius senator,Animalia,SHRIKES_LANIIDAE,Woodchat Shrike,,2,47.6926803589,29.3622041899,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2010-04-12,
+Bubulcus ibis,Animalia,HERONS_ARDEIDAE,Western Cattle Egret,,2,47.6926803589,29.3622041899,Asia,Kuwait,KW,,Kuwait - Kuwait city,2010-04-12,
+Vanellus leucurus,Animalia,PLOVERS_CHARADRIIDAE,White-tailed Lapwing,,3,47.6926803589,29.3622041899,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2010-04-12,
+Anthus cervinus,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Red-throated Pipit,,14,47.6926803589,29.3622041899,Asia,Kuwait,KW,,Kuwait - Kuwait city,2010-04-12,
+Chroicocephalus ridibundus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black-headed Gull,,2,47.6926803589,29.3622041899,Asia,Kuwait,KW,,Kuwait - Kuwait city,2010-04-12,
+Tringa glareola,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Wood Sandpiper,,3,47.6926803589,29.3622041899,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2010-04-12,
+Tringa ochropus,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Green Sandpiper,,2,47.6926803589,29.3622041899,Asia,Kuwait,KW,,Kuwait - Kuwait city,2010-04-12,
+Motacilla flava lutea,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Yellow-headed Wagtail,,3,47.6926803589,29.3622041899,Asia,Kuwait,KW,,Kuwait - Kuwait city,2010-04-12,
+Motacilla flava feldegg,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Black-headed Wagtail,,9,47.6926803589,29.3622041899,Asia,Kuwait,KW,,Kuwait - Kuwait city,2010-04-12,
+Phalaropus lobatus,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Red-necked Phalarope,,650,47.6926803589,29.3622041899,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2010-04-12,
+Glareola pratincola,Animalia,COURSERS_AND_PRATINCOLES_GLAREOLIDAE,Collared Pratincole,,1,47.6909637451,29.3612317246,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2010-04-12,
+Charadrius dubius,Animalia,PLOVERS_CHARADRIIDAE,Little Ringed Plover,,4,47.6920151711,29.3614000366,Asia,Kuwait,KW,,Kuwait - Kuwait city,2010-04-12,
+Emberiza hortulana,Animalia,BUNTINGS_EMBERIZIDAE,Ortolan Bunting,,7,47.8216409683,29.367851785,Asia,Kuwait,KW,,Kuwait - Kuwait city,2010-04-12,
+Phoenicopterus roseus,Animalia,FLAMINGOS_PHOENICOPTERIDAE,Greater Flamingo,,4,47.8216409683,29.367851785,Asia,Kuwait,KW,,Kuwait - Kuwait city,2010-04-12,
+Ardea purpurea,Animalia,HERONS_ARDEIDAE,Purple Heron,,1,46.9595575333,29.3683753873,Asia,Kuwait,KW,,Kuwait,2010-04-11,
+Lanius nubicus,Animalia,SHRIKES_LANIIDAE,Masked Shrike,,1,46.9595575333,29.3683753873,Asia,Kuwait,KW,,Kuwait,2010-04-11,
+Bubulcus ibis,Animalia,HERONS_ARDEIDAE,Western Cattle Egret,,2,46.9595575333,29.3683753873,Asia,Kuwait,KW,,Kuwait,2010-04-11,
+Hypocolius ampelinus,Animalia,Hypocoliidae,Grey Hypocolius,,14,46.9595575333,29.3683753873,Asia,Kuwait,KW,,Kuwait,2010-04-11,
+Merops apiaster,Animalia,BEEEATERS_MEROPIDAE,European Bee-eater,,5,46.9595575333,29.3683753873,Asia,Kuwait,KW,,Kuwait,2010-04-11,
+Hirundo rustica,Animalia,SWALLOWS_HIRUNDINIDAE,Barn Swallow,,4,46.9595575333,29.3683753873,Asia,Kuwait,KW,,Kuwait,2010-04-11,
+Ardeola ralloides,Animalia,HERONS_ARDEIDAE,Squacco Heron,,14,46.9595575333,29.3683753873,Asia,Kuwait,KW,,Kuwait,2010-04-11,
+Passer domesticus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow,,400,46.9595575333,29.3683753873,Asia,Kuwait,KW,,Kuwait,2010-04-11,
+Monticola saxatilis,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Common Rock Thrush,,2,46.9595575333,29.3683753873,Asia,Kuwait,KW,,Kuwait,2010-04-11,
+Upupa epops,Animalia,HOOPOES_UPUPIDAE,Eurasian Hoopoe,,2,47.6745700836,29.3517309991,Asia,Kuwait,KW,,Kuwait,2010-04-10,
+Phoenicurus phoenicurus,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Common Redstart,,4,47.6745700836,29.3517309991,Asia,Kuwait,KW,,Kuwait,2010-04-10,
+Motacilla flava lutea,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Yellow-headed Wagtail,,2,47.6745700836,29.3517309991,Asia,Kuwait,KW,,Kuwait,2010-04-10,
+Halcyon smyrnensis,Animalia,KINGFISHERS_ALCEDINIDAE,White-throated Kingfisher,,2,47.6745700836,29.3517309991,Asia,Kuwait,KW,,Kuwait,2010-04-10,
+Ardeola ralloides,Animalia,HERONS_ARDEIDAE,Squacco Heron,,3,47.6745700836,29.3517309991,Asia,Kuwait,KW,,Kuwait,2010-04-10,
+Dicrurus leucophaeus,Animalia,DRONGOS_DICRURIDAE,Ashy Drongo,,1,47.6745700836,29.3517309991,Asia,Kuwait,KW,,Kuwait,2010-04-10,
+Pycnonotus leucotis,Animalia,BULBULS_PYCNONOTIDAE,White-eared Bulbul,,25,47.8800487518,29.3250194898,Asia,Kuwait,KW,,Kuwait,2010-04-10,
+Emberiza hortulana,Animalia,BUNTINGS_EMBERIZIDAE,Ortolan Bunting,,4,47.8800487518,29.3250194898,Asia,Kuwait,KW,,Kuwait,2010-04-10,
+Merops apiaster,Animalia,BEEEATERS_MEROPIDAE,European Bee-eater,,20,47.8800487518,29.3250194898,Asia,Kuwait,KW,,Kuwait,2010-04-10,
+Phoenicopterus roseus,Animalia,FLAMINGOS_PHOENICOPTERIDAE,Greater Flamingo,,200,47.8801345825,29.3256929752,Asia,Kuwait,KW,,Kuwait,2010-04-10,
+Crex crex,Animalia,RAILS_RALLIDAE,Corn Crake,,1,47.783510685,29.5853255632,Asia,Kuwait,KW,,Kuwait,2010-04-15,
+Vanellus indicus,Animalia,PLOVERS_CHARADRIIDAE,Red-wattled Lapwing,,2,47.809946537,29.9649640619,Asia,Kuwait,KW,,Kuwait,2010-04-12,
+Argya huttoni,Animalia,Leiothrichidae,Afghan Babbler,,11,47.8123390675,29.9659028245,Asia,Kuwait,KW,,Kuwait,2010-04-12,
+Anthus cervinus,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Red-throated Pipit,,40,47.7290725708,29.3611569192,Asia,Kuwait,KW,,Kuwait,2010-04-10,
+Motacilla flava lutea,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Yellow-headed Wagtail,,2,47.7296733856,29.3607080857,Asia,Kuwait,KW,,Kuwait,2010-04-10,
+Motacilla flava feldegg,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Black-headed Wagtail,,3,47.7296733856,29.3607080857,Asia,Kuwait,KW,,Kuwait,2010-04-10,
+Lanius senator,Animalia,SHRIKES_LANIIDAE,Woodchat Shrike,,1,47.7296733856,29.3607080857,Asia,Kuwait,KW,,Kuwait,2010-04-10,
+Himantopus himantopus,Animalia,STILTS_AND_AVOCETS_RECURVIROSTRIDAE,Black-winged Stilt,,1,47.7296733856,29.3607080857,Asia,Kuwait,KW,,Kuwait,2010-04-10,
+Ardeola ralloides,Animalia,HERONS_ARDEIDAE,Squacco Heron,,6,47.7296733856,29.3607080857,Asia,Kuwait,KW,,Kuwait,2010-04-10,
+Emberiza hortulana,Animalia,BUNTINGS_EMBERIZIDAE,Ortolan Bunting,,12,47.7296733856,29.3607080857,Asia,Kuwait,KW,,Kuwait,2010-04-10,
+Streptopelia decaocto,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Eurasian Collared Dove,,1,48.0079917907715,29.3697738647461,Asia,Kuwait,KW,,Kuwait - Kuwait city,2020-02-25,12:03
+Passer domesticus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow,,1,48.0110511779785,29.3679046630859,Asia,Kuwait,KW,,Kuwait - Kuwait city,2020-02-27,12:29
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,1,48.0111274719238,29.3676052093506,Asia,Kuwait,KW,,Kuwait - Kuwait city,2020-02-27,12:31
+Chroicocephalus ridibundus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black-headed Gull,,1,48.0137596130371,29.3705272674561,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2020-02-28,12:41
+Ricinus communis,Plantae,EUPHORBIACEAE,Castor-oil-plant,,1,47.961966,29.370068,Asia,Kuwait,KW,,Kuwait - Kuwait city,2020-01-17,11:14
+Vanessa cardui,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Painted Lady,,1,47.961966,29.370068,Asia,Kuwait,KW,,Kuwait - Kuwait city,2020-01-17,11:26
+Motacilla alba,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,White Wagtail,,1,47.692595,29.361232,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2020-01-18,13:04
+Chroicocephalus ridibundus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black-headed Gull,,1,47.981694,29.388831,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2020-01-14,12:19
+Chroicocephalus ridibundus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black-headed Gull,,1,47.981694,29.388831,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2020-01-14,12:19
+Tadorna tadorna,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Common Shelduck,,1,47.703602,29.366094,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2020-01-18,13:37
+Aquila heliaca,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Eastern Imperial Eagle,,1,47.74028949378867,29.26755842768904,Asia,Kuwait,KW,,Kuwait - Kuwait city,2020-02-13,08:42
+Oena capensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Namaqua Dove,,1,47.74141934207736,29.2692763063638,Asia,Kuwait,KW,,Kuwait - Kuwait city,2020-02-13,08:33
+Halcyon smyrnensis,Animalia,KINGFISHERS_ALCEDINIDAE,White-throated Kingfisher,,1,47.74465722393285,29.274872050036592,Asia,Kuwait,KW,,Kuwait - Kuwait city,2020-02-13,08:16
+Porphyrio poliocephalus,Animalia,RAILS_RALLIDAE,Grey-headed Swamphen,,2,47.65,29.35,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2020-02-12,16:39
+Phoeniconaias minor,Animalia,FLAMINGOS_PHOENICOPTERIDAE,Lesser Flamingo,,1,47.86364603142114,29.321632874532607,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2020-02-12,13:51
+Argya huttoni,Animalia,Leiothrichidae,Afghan Babbler,,12,47.81223218251866,29.968011727226962,Asia,Kuwait,KW,,Kuwait - Jahra,2020-02-12,08:57
+Hypocolius ampelinus,Animalia,Hypocoliidae,Grey Hypocolius,,1,47.812345662584534,29.96767542805667,Asia,Kuwait,KW,,Kuwait - Jahra,2020-02-12,08:47
+Halcyon smyrnensis,Animalia,KINGFISHERS_ALCEDINIDAE,White-throated Kingfisher,,1,47.673444609069286,29.350182262891167,Asia,Kuwait,KW,,Kuwait - Kuwait city,2020-02-11,12:30
+Himantopus himantopus,Animalia,STILTS_AND_AVOCETS_RECURVIROSTRIDAE,Black-winged Stilt,,3,47.68365995987925,29.359262308610408,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2020-02-11,09:50
+Egretta gularis,Animalia,HERONS_ARDEIDAE,Western Reef Heron,,2,47.863211203256256,29.319764460636787,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2020-02-11,08:03
+Vanellus leucurus,Animalia,PLOVERS_CHARADRIIDAE,White-tailed Lapwing,,8,47.697681782824894,29.364024935246285,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2020-02-10,16:26
+Porphyrio poliocephalus,Animalia,RAILS_RALLIDAE,Grey-headed Swamphen,,2,47.65,29.35,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2020-02-10,16:26
+Pycnonotus leucotis,Animalia,BULBULS_PYCNONOTIDAE,White-eared Bulbul,,2,48.10536055390424,29.21630947828152,Asia,Kuwait,KW,,Kuwait - Kuwait city,2020-02-10,08:52
+Apis florea,Animalia,Apidae,Dwarf Honeybee,,1,47.979532,29.387401,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2020-01-17,11:36
+Columba livia domestica,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Feral Pigeon,,1,47.979532,29.387401,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2020-01-14,10:51
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,1,47.979532,29.387401,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2020-01-14,10:45
+Vanessa cardui,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Painted Lady,,1,47.979532,29.387401,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2020-01-17,11:26
+Passer domesticus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow,,1,47.979532,29.387401,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2020-01-14,12:00
+Pycnonotus leucotis,Animalia,BULBULS_PYCNONOTIDAE,White-eared Bulbul,,1,47.979532,29.387401,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2020-01-14,12:15
+Streptopelia decaocto,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Eurasian Collared Dove,,1,47.979532,29.387401,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2020-01-14,11:59
+Thalasseus sandvicensis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Sandwich Tern,,1,47.979532,29.387401,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2020-01-14,11:15
+Thalasseus sandvicensis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Sandwich Tern,,1,47.979532,29.387401,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2020-01-14,11:20
+Passer domesticus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow,,1,47.979532,29.387401,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2020-01-14,12:12
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,1,47.979532,29.387401,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2020-01-14,12:12
+Pycnonotus leucotis,Animalia,BULBULS_PYCNONOTIDAE,White-eared Bulbul,,1,47.979532,29.387401,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2020-01-14,11:55
+Anas platyrhynchos,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Mallard,,1,47.693732,29.362503,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2020-01-18,12:22
+Himantopus himantopus,Animalia,STILTS_AND_AVOCETS_RECURVIROSTRIDAE,Black-winged Stilt,,1,47.693732,29.362503,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2020-01-18,12:45
+Himantopus himantopus,Animalia,STILTS_AND_AVOCETS_RECURVIROSTRIDAE,Black-winged Stilt,,1,47.693732,29.362503,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2020-01-18,12:48
+Phoenicopterus roseus,Animalia,FLAMINGOS_PHOENICOPTERIDAE,Greater Flamingo,,1,47.693732,29.362503,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2020-01-18,12:44
+Hirundo rustica,Animalia,SWALLOWS_HIRUNDINIDAE,Barn Swallow,,1,47.693732,29.362503,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2020-01-18,12:25
+Circus aeruginosus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Western Marsh Harrier,,1,47.693732,29.362503,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2020-01-18,12:20
+Halcyon smyrnensis,Animalia,KINGFISHERS_ALCEDINIDAE,White-throated Kingfisher,,1,47.693732,29.362503,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2020-01-18,12:53
+Podiceps nigricollis,Animalia,GREBES_PODICIPEDIDAE,Black-necked Grebe,,1,47.693732,29.362503,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2020-01-18,13:21
+Gallinula chloropus,Animalia,RAILS_RALLIDAE,Common Moorhen,,1,47.693732,29.362503,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2020-01-18,13:26
+Porphyrio poliocephalus,Animalia,RAILS_RALLIDAE,Grey-headed Swamphen,,1,47.690513,29.360708,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2020-01-18,13:33
+Fulica atra,Animalia,RAILS_RALLIDAE,Eurasian Coot,,1,47.690513,29.360708,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2020-01-18,12:24
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,40,47.976015939028045,29.373972997106133,Asia,Kuwait,KW,,Kuwait - Kuwait city,2020-01-13,16:18
+Streptopelia decaocto,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Eurasian Collared Dove,,10,47.98249849122761,29.39103530256952,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2020-01-13,14:46
+Chroicocephalus ridibundus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black-headed Gull,,7,47.98258214262126,29.39105361702795,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2020-01-13,14:46
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,1,47.675139298706945,29.351679040146387,Asia,Kuwait,KW,,Kuwait - Kuwait city,2020-01-13,10:20
+Turdus philomelos,Animalia,THRUSHES_TURDIDAE,Song Thrush,,3,47.67431611199647,29.35196218083552,Asia,Kuwait,KW,,Kuwait - Kuwait city,2020-01-13,10:13
+Halcyon smyrnensis,Animalia,KINGFISHERS_ALCEDINIDAE,White-throated Kingfisher,,1,47.67424285416275,29.351397911114013,Asia,Kuwait,KW,,Kuwait - Kuwait city,2020-01-13,10:08
+Bubulcus ibis,Animalia,HERONS_ARDEIDAE,Western Cattle Egret,,2,47.67347121615677,29.350047712241626,Asia,Kuwait,KW,,Kuwait - Kuwait city,2020-01-13,10:02
+Motacilla alba,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,White Wagtail,,1,47.64554573227432,29.36406954660021,Asia,Kuwait,KW,,Kuwait - Kuwait city,2020-01-13,09:40
+Pycnonotus leucotis,Animalia,BULBULS_PYCNONOTIDAE,White-eared Bulbul,,1,47.64711968605187,29.362295893979596,Asia,Kuwait,KW,,Kuwait - Kuwait city,2020-01-11,07:12
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,4,47.645764835223225,29.363411567201243,Asia,Kuwait,KW,,Kuwait - Kuwait city,2020-01-10,07:15
+Phoenicopterus roseus,Animalia,FLAMINGOS_PHOENICOPTERIDAE,Greater Flamingo,,50,47.70846194,29.3618671,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2019-11-07,10:45
+Anas platyrhynchos,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Mallard,,1,47.7061716,29.35926783,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2019-11-07,10:55
+Circus aeruginosus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Western Marsh Harrier,,1,47.70194726,29.36006277,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2019-11-07,10:30
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,3,47.67456279140681,29.350806106840587,Asia,Kuwait,KW,,Kuwait - Kuwait city,2019-11-07,12:02
+Turdus atrogularis,Animalia,THRUSHES_TURDIDAE,Black-throated Thrush,,1,47.67479589213401,29.35133844151101,Asia,Kuwait,KW,,Kuwait - Kuwait city,2019-11-07,11:47
+Pycnonotus leucotis,Animalia,BULBULS_PYCNONOTIDAE,White-eared Bulbul,,1,47.67474702563852,29.348863055956873,Asia,Kuwait,KW,,Kuwait - Kuwait city,2019-11-07,11:22
+Lanius excubitor pallidirostris,Animalia,SHRIKES_LANIIDAE,Steppe Grey Shrike,,1,47.71532457326326,29.354528384310523,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2019-11-07,10:56
+Halcyon smyrnensis,Animalia,KINGFISHERS_ALCEDINIDAE,White-throated Kingfisher,,1,47.71166369323405,29.3570387643104,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2019-11-07,10:54
+Tringa glareola,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Wood Sandpiper,,1,47.70253479,29.35953456,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2019-11-07,10:36
+Clanga clanga,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Greater Spotted Eagle,,1,47.70224469718309,29.35956410600744,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2019-11-07,10:18
+Halcyon smyrnensis,Animalia,KINGFISHERS_ALCEDINIDAE,White-throated Kingfisher,,1,47.70225676712366,29.359534434070213,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2019-11-07,09:50
+Charadrius alexandrinus,Animalia,PLOVERS_CHARADRIIDAE,Kentish Plover,,2,47.72548863668714,29.399992246208154,Asia,Kuwait,KW,,Kuwait - Jahra,2019-11-07,08:29
+Egretta garzetta,Animalia,HERONS_ARDEIDAE,Little Egret,,1,47.71768625830087,29.39634875862803,Asia,Kuwait,KW,,Kuwait - Jahra,2019-11-07,08:19
+Calidris alba,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Sanderling,,5,47.71582933147225,29.394421800998405,Asia,Kuwait,KW,,Kuwait - Jahra,2019-11-07,08:12
+Motacilla alba,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,White Wagtail,,2,47.64925229367581,29.359234320027156,Asia,Kuwait,KW,,Kuwait - Kuwait city,2019-11-04,16:52
+Pycnonotus leucotis,Animalia,BULBULS_PYCNONOTIDAE,White-eared Bulbul,,2,47.648303713693885,29.366620956016114,Asia,Kuwait,KW,,Kuwait - Kuwait city,2019-11-04,16:20
+Lanius excubitor pallidirostris,Animalia,SHRIKES_LANIIDAE,Steppe Grey Shrike,,1,47.70193059,29.35959017,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2019-11-01,10:45
+Pycnonotus leucotis,Animalia,BULBULS_PYCNONOTIDAE,White-eared Bulbul,,1,47.64551033,29.36480125,Asia,Kuwait,KW,,Kuwait - Kuwait city,2019-10-30,06:30
+Streptopelia decaocto,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Eurasian Collared Dove,,1,47.972023459196066,29.37172930690401,Asia,Kuwait,KW,,Kuwait - Kuwait city,2019-11-01,14:38
+Halcyon smyrnensis,Animalia,KINGFISHERS_ALCEDINIDAE,White-throated Kingfisher,,1,47.67580658201843,29.351128852022207,Asia,Kuwait,KW,,Kuwait - Kuwait city,2019-11-01,11:40
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,1,47.675482370003756,29.351693247472262,Asia,Kuwait,KW,,Kuwait - Kuwait city,2019-11-01,11:35
+Circus aeruginosus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Western Marsh Harrier,,1,47.70227805715771,29.359668251154346,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2019-11-01,10:58
+Phoenicopterus roseus,Animalia,FLAMINGOS_PHOENICOPTERIDAE,Greater Flamingo,,240,47.71087646,29.36571995,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2019-11-01,10:57
+Vanellus leucurus,Animalia,PLOVERS_CHARADRIIDAE,White-tailed Lapwing,,1,47.70228375685187,29.35976636133097,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2019-11-01,10:50
+Clanga clanga,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Greater Spotted Eagle,,1,47.70242826086255,29.359564441283567,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2019-11-01,10:48
+Hirundo rustica,Animalia,SWALLOWS_HIRUNDINIDAE,Barn Swallow,,1,47.7055739053038,29.35611604249976,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2019-11-01,10:40
+Anthus campestris,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Tawny Pipit,,1,47.71358205941293,29.352072654319322,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2019-11-01,10:38
+Oenanthe oenanthe,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Northern Wheatear,,1,47.72113784220789,29.35253940059743,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2019-11-01,10:36
+Oena capensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Namaqua Dove,,1,47.717877868607374,29.336364716318748,Asia,Kuwait,KW,,Kuwait - Kuwait city,2019-11-01,10:14
+Clanga clanga,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Greater Spotted Eagle,,1,47.71233935844871,29.340923884910847,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2019-11-01,10:13
+Oenanthe deserti,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Desert Wheatear,,1,47.87380448546994,29.550144905251962,Asia,Kuwait,KW,,Kuwait - Jahra,2019-11-01,09:07
+Oenanthe deserti,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Desert Wheatear,,2,47.884706659287104,29.55959654881578,Asia,Kuwait,KW,,Kuwait - Jahra,2019-11-01,09:00
+Merops persicus,Animalia,BEEEATERS_MEROPIDAE,Blue-cheeked Bee-eater,,2,47.89508705963184,29.569103512940526,Asia,Kuwait,KW,,Kuwait - Jahra,2019-11-01,08:56
+Hypocolius ampelinus,Animalia,Hypocoliidae,Grey Hypocolius,,1,47.90739940483859,29.572005243999484,Asia,Kuwait,KW,,Kuwait - Jahra,2019-11-01,08:32
+Egretta garzetta,Animalia,HERONS_ARDEIDAE,Little Egret,,1,47.714138450145455,29.39241555056478,Asia,Kuwait,KW,,Kuwait - Jahra,2019-11-01,07:41
+Charadrius alexandrinus,Animalia,PLOVERS_CHARADRIIDAE,Kentish Plover,,1,47.71371206273112,29.392666127560094,Asia,Kuwait,KW,,Kuwait - Jahra,2019-11-01,07:28
+Motacilla alba,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,White Wagtail,,1,47.6457367558476,29.364809878197836,Asia,Kuwait,KW,,Kuwait - Kuwait city,2019-11-01,07:02
+Pycnonotus leucotis,Animalia,BULBULS_PYCNONOTIDAE,White-eared Bulbul,,1,47.645409610166816,29.364528791074978,Asia,Kuwait,KW,,Kuwait - Kuwait city,2019-11-01,06:55
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,1,47.6456762385067,29.364616968696343,Asia,Kuwait,KW,,Kuwait - Kuwait city,2019-11-01,06:55
+Motacilla alba,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,White Wagtail,,1,47.645902633711366,29.36467040332906,Asia,Kuwait,KW,,Kuwait - Kuwait city,2019-10-30,06:25
+Pycnonotus leucotis,Animalia,BULBULS_PYCNONOTIDAE,White-eared Bulbul,,1,47.64596547967514,29.36444272651487,Asia,Kuwait,KW,,Kuwait - Kuwait city,2019-10-26,07:07
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,4,47.645926149864174,29.364334721367047,Asia,Kuwait,KW,,Kuwait - Kuwait city,2019-10-26,07:01
+Streptopelia decaocto,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Eurasian Collared Dove,,40,47.99853575420379,29.37719393058622,Asia,Kuwait,KW,,Kuwait - Kuwait city,2019-01-28,07:32
+Chroicocephalus ridibundus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black-headed Gull,,60,48.025200851306344,29.365113135454585,Asia,Kuwait,KW,,Kuwait - Green Island,2019-01-25,12:48
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,2,47.98710384410619,29.363519190837966,Asia,Kuwait,KW,,Kuwait - Kuwait city,2019-01-25,10:58
+Pycnonotus leucotis,Animalia,BULBULS_PYCNONOTIDAE,White-eared Bulbul,,8,47.99411329445242,29.37011629345768,Asia,Kuwait,KW,,Kuwait - Kuwait city,2019-01-25,10:07
+Lanius nubicus,Animalia,SHRIKES_LANIIDAE,Masked Shrike,,1,47.995375860527155,29.372281506684953,Asia,Kuwait,KW,,Kuwait - Kuwait city,2019-01-25,09:54
+Passer domesticus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow,,10,47.99418462444841,29.373690881793735,Asia,Kuwait,KW,,Kuwait - Kuwait city,2019-01-25,09:43
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,1,47.994094016075124,29.374012704966006,Asia,Kuwait,KW,,Kuwait - Kuwait city,2019-01-25,09:31
+Streptopelia decaocto,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Eurasian Collared Dove,,12,47.99554827627539,29.375308756743905,Asia,Kuwait,KW,,Kuwait - Kuwait city,2019-01-25,09:23
+Pycnonotus leucotis,Animalia,BULBULS_PYCNONOTIDAE,White-eared Bulbul,,1,47.99561323602497,29.37524626965576,Asia,Kuwait,KW,,Kuwait - Kuwait city,2019-01-25,09:25
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,1,47.9956619348824,29.375404268530545,Asia,Kuwait,KW,,Kuwait - Kuwait city,2019-01-25,09:23
+Pycnonotus leucotis,Animalia,BULBULS_PYCNONOTIDAE,White-eared Bulbul,,2,47.98195651736854,29.379924000268222,Asia,Kuwait,KW,,Kuwait - Kuwait city,2019-01-18,14:01
+Pycnonotus leucotis,Animalia,BULBULS_PYCNONOTIDAE,White-eared Bulbul,,1,47.98899446618556,29.390495466095757,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2019-01-18,11:43
+Chroicocephalus ridibundus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black-headed Gull,,3,48.00334545788169,29.380299593349342,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2019-01-18,10:17
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,8,48.0022569001168,29.378807195489646,Asia,Kuwait,KW,,Kuwait - Kuwait city,2019-01-18,10:14
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,1,47.998129416811125,29.37431047455479,Asia,Kuwait,KW,,Kuwait - Kuwait city,2019-01-18,07:49
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,2,47.998001743152734,29.374350621392367,Asia,Kuwait,KW,,Kuwait - Kuwait city,2019-01-18,07:40
+Pycnonotus leucotis,Animalia,BULBULS_PYCNONOTIDAE,White-eared Bulbul,,2,47.99812434124393,29.37430835948148,Asia,Kuwait,KW,,Kuwait - Kuwait city,2019-01-18,07:21
+Streptopelia decaocto,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Eurasian Collared Dove,,6,47.99812024751724,29.374311389291865,Asia,Kuwait,KW,,Kuwait - Kuwait city,2019-01-18,07:10
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,1,47.66645723958282,29.375923988436696,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2019-01-16,06:40
+Calidris alpina,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Dunlin,,100,47.8623046875,29.3197135925293,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2018-12-03,09:03
+Streptopelia decaocto,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Eurasian Collared Dove,,20,47.9941264539957,29.3776723846671,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-02,09:50
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,1,47.9941264539957,29.3776723846671,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-02,09:50
+Passer domesticus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow,,1,47.9941711425781,29.3782997131348,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-02,10:08
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,2,47.9946327209473,29.3742637634277,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-02,10:42
+Pycnonotus leucotis,Animalia,BULBULS_PYCNONOTIDAE,White-eared Bulbul,,10,47.9950637817383,29.3736782073975,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-02,10:46
+Lanius collurio,Animalia,SHRIKES_LANIIDAE,Red-backed Shrike,,1,47.9946556091309,29.3700065612793,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-02,11:00
+Lanius nubicus,Animalia,SHRIKES_LANIIDAE,Masked Shrike,,1,47.9925689697266,29.3674221038818,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-02,11:18
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,1,47.993522644043,29.3671169281006,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-02,11:27
+Lanius nubicus,Animalia,SHRIKES_LANIIDAE,Masked Shrike,,1,47.9949531555176,29.3702087402344,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-02,11:34
+Lanius collurio,Animalia,SHRIKES_LANIIDAE,Red-backed Shrike,,1,47.9940338134766,29.3703079223633,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-02,11:40
+Chroicocephalus ridibundus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black-headed Gull,,40,48.0265502929688,29.3634490966797,Asia,Kuwait,KW,,Kuwait - Green Island,2018-12-02,12:48
+Halcyon smyrnensis,Animalia,KINGFISHERS_ALCEDINIDAE,White-throated Kingfisher,,1,48.0268630981445,29.3645420074463,Asia,Kuwait,KW,,Kuwait - Green Island,2018-12-02,13:00
+Nycticorax nycticorax,Animalia,HERONS_ARDEIDAE,Black-crowned Night Heron,,1,48.0273666381836,29.3650417327881,Asia,Kuwait,KW,,Kuwait - Green Island,2018-12-02,13:05
+Halcyon smyrnensis,Animalia,KINGFISHERS_ALCEDINIDAE,White-throated Kingfisher,,1,48.0275115966797,29.3642292022705,Asia,Kuwait,KW,,Kuwait - Green Island,2018-12-02,13:27
+Dromas ardeola,Animalia,CRABPLOVER_DROMADIDAE,Crab-plover,,4,47.8649940490723,29.3229141235352,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2018-12-02,16:14
+Calidris alpina,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Dunlin,,30,47.8649940490723,29.3229141235352,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2018-12-02,16:16
+Gallinula chloropus,Animalia,RAILS_RALLIDAE,Common Moorhen,,20,47.6927490234375,29.3603229522705,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-04,06:39
+Tachybaptus ruficollis,Animalia,GREBES_PODICIPEDIDAE,Little Grebe,,2,47.6928291320801,29.360294342041,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-04,06:39
+Circus aeruginosus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Western Marsh Harrier,,1,47.692928314209,29.3602066040039,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-04,06:40
+Aythya nyroca,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Ferruginous Duck,,5,47.6907844543457,29.3608512878418,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-04,06:45
+Porphyrio poliocephalus,Animalia,RAILS_RALLIDAE,Grey-headed Swamphen,,5,47.65,29.35,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-04,06:46
+Acrocephalus stentoreus,Animalia,Acrocephalidae,Clamorous Reed Warbler,,2,47.6907119750977,29.3607597351074,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-04,06:53
+Clanga clanga,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Greater Spotted Eagle,,1,47.6907501220703,29.3607654571533,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-04,07:20
+Alcedo atthis,Animalia,KINGFISHERS_ALCEDINIDAE,Common Kingfisher,,1,47.6850318908691,29.3581733703613,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-04,07:28
+Egretta garzetta,Animalia,HERONS_ARDEIDAE,Little Egret,,1,47.6842842102051,29.3587474822998,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-04,07:29
+Anas platyrhynchos,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Mallard,,1,47.6836433410645,29.359354019165,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-04,07:32
+Clanga clanga,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Greater Spotted Eagle,,3,47.6917495727539,29.3637714385986,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-04,07:47
+Aythya nyroca,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Ferruginous Duck,,11,47.691722869873,29.3637447357178,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-04,07:48
+Alcedo atthis,Animalia,KINGFISHERS_ALCEDINIDAE,Common Kingfisher,,1,47.6912460327148,29.3587493896484,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-04,08:06
+Crocothemis spec.,Animalia,SKIMMERS_LIBELLULIDAE,,,2,47.67489624,29.35234261,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-03,10:24
+Egretta gularis,Animalia,HERONS_ARDEIDAE,Western Reef Heron,,30,47.8620452880859,29.319637298584,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2018-12-03,09:04
+Dromas ardeola,Animalia,CRABPLOVER_DROMADIDAE,Crab-plover,,31,47.861988067627,29.319637298584,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2018-12-03,09:06
+Halcyon smyrnensis,Animalia,KINGFISHERS_ALCEDINIDAE,White-throated Kingfisher,,10,47.67489624,29.35234261,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-03,10:24
+Turdus philomelos,Animalia,THRUSHES_TURDIDAE,Song Thrush,,1,47.6756248474121,29.3523578643799,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-03,10:27
+Turdus philomelos,Animalia,THRUSHES_TURDIDAE,Song Thrush,,1,47.6745529174805,29.3523406982422,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-03,10:44
+Bubulcus ibis,Animalia,HERONS_ARDEIDAE,Western Cattle Egret,,7,47.673770904541,29.3517913818359,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-03,10:44
+Bubulcus ibis,Animalia,HERONS_ARDEIDAE,Western Cattle Egret,,4,47.6738471984863,29.351598739624,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-03,10:46
+Motacilla alba,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,White Wagtail,,1,47.716609954834,29.3983840942383,Asia,Kuwait,KW,,Kuwait - Jahra,2018-12-03,14:07
+Clanga clanga,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Greater Spotted Eagle,,3,47.6939582824707,29.3590087890625,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-04,08:09
+Clanga clanga,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Greater Spotted Eagle,,2,47.6980667114258,29.3642597198486,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-04,08:28
+Vanellus leucurus,Animalia,PLOVERS_CHARADRIIDAE,White-tailed Lapwing,,1,47.7006683349609,29.3657207489014,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-04,08:34
+Vanellus leucurus,Animalia,PLOVERS_CHARADRIIDAE,White-tailed Lapwing,,8,47.7028961181641,29.3641242980957,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-04,08:44
+Hypocolius ampelinus,Animalia,Hypocoliidae,Grey Hypocolius,,3,47.8112754821777,29.9688549041748,Asia,Kuwait,KW,,Kuwait - Jahra,2018-12-04,14:57
+Argya huttoni salvadorii,Animalia,Leiothrichidae,Afghan Babbler ssp salvadorii,,10,47.8107681274414,29.968433380127,Asia,Kuwait,KW,,Kuwait - Jahra,2018-12-04,15:09
+Hypocolius ampelinus,Animalia,Hypocoliidae,Grey Hypocolius,,1,47.8107566833496,29.9684276580811,Asia,Kuwait,KW,,Kuwait - Jahra,2018-12-04,15:20
+Oena capensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Namaqua Dove,,3,47.7364654541016,29.2609252929688,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-06,08:21
+Aquila heliaca,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Eastern Imperial Eagle,,2,47.7358894348145,29.2444553375244,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-06,08:55
+Halcyon smyrnensis,Animalia,KINGFISHERS_ALCEDINIDAE,White-throated Kingfisher,,2,47.6744766235352,29.3526554107666,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-06,09:31
+Turdus philomelos,Animalia,THRUSHES_TURDIDAE,Song Thrush,,1,47.6748390197754,29.3522281646729,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-06,09:38
+Pycnonotus leucotis,Animalia,BULBULS_PYCNONOTIDAE,White-eared Bulbul,,10,47.6748352050781,29.3522338867188,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-06,09:38
+Motacilla alba,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,White Wagtail,,5,47.6740684509277,29.3524150848389,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-06,09:43
+Clanga clanga,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Greater Spotted Eagle,,1,47.6927490234375,29.3602752685547,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-06,11:09
+Clanga clanga,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Greater Spotted Eagle,,3,47.6905364990234,29.3602523803711,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-06,11:32
+Circus aeruginosus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Western Marsh Harrier,,2,47.6887512207031,29.3584384918213,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-06,11:33
+Circus aeruginosus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Western Marsh Harrier,,4,47.6844749450684,29.3603992462158,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-06,11:36
+Alcedo atthis,Animalia,KINGFISHERS_ALCEDINIDAE,Common Kingfisher,,1,47.6861572265625,29.3609256744385,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-06,11:37
+Coracias benghalensis,Animalia,ROLLERS_CORACIIDAE,Indian Roller,,1,48.1017189025879,29.1347713470459,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-05,09:23
+Thalasseus bergii,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Greater Crested Tern,,2,48.1089859008789,29.220193862915,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-05,14:24
+Buteo rufinus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Long-legged Buzzard,,1,47.7748870849609,29.2632808685303,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-05,15:44
+Aquila heliaca,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Eastern Imperial Eagle,,1,47.7736625671387,29.2636413574219,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-05,16:06
+Lanius nubicus,Animalia,SHRIKES_LANIIDAE,Masked Shrike,,1,47.9957008361816,29.372371673584,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-07,07:19
+Lanius nubicus,Animalia,SHRIKES_LANIIDAE,Masked Shrike,,1,47.9921951293945,29.3671226501465,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-07,07:43
+Egretta gularis,Animalia,HERONS_ARDEIDAE,Western Reef Heron,,20,47.8946914672852,29.3310394287109,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2018-12-07,09:12
+Dromas ardeola,Animalia,CRABPLOVER_DROMADIDAE,Crab-plover,,26,47.8325271606445,29.32155418396,Asia,Kuwait,KW,,Kuwait - Doha Spit,2018-12-07,09:48
+Dromas ardeola,Animalia,CRABPLOVER_DROMADIDAE,Crab-plover,,10,47.8263473510742,29.3249034881592,Asia,Kuwait,KW,,Kuwait - Doha Spit,2018-12-07,10:22
+Emberiza calandra,Animalia,BUNTINGS_EMBERIZIDAE,Corn Bunting,,1,47.6893196105957,29.1671485900879,Asia,Kuwait,KW,,Kuwait - Jahra,2018-12-07,11:51
+Ixobrychus minutus,Animalia,HERONS_ARDEIDAE,Little Bittern,,1,47.6859741210938,29.3565559387207,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-07,13:50
+Halcyon smyrnensis,Animalia,KINGFISHERS_ALCEDINIDAE,White-throated Kingfisher,,1,47.6955680847168,29.3602962493896,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-06,12:16
+Hypocolius ampelinus,Animalia,Hypocoliidae,Grey Hypocolius,,2,47.8096618652344,29.9678134918213,Asia,Kuwait,KW,,Kuwait - Jahra,2018-12-06,15:26
+Buteo rufinus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Long-legged Buzzard,,1,47.7736968994141,29.2636413574219,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-08,09:15
+Aquila heliaca,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Eastern Imperial Eagle,,1,47.774772644043,29.2633972167969,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-08,09:34
+Oena capensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Namaqua Dove,,1,47.7361526489258,29.25537109375,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-08,10:26
+Aquila heliaca,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Eastern Imperial Eagle,,1,47.7360420227051,29.2493171691895,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-08,10:32
+Dromas ardeola,Animalia,CRABPLOVER_DROMADIDAE,Crab-plover,,71,47.8322982788086,29.3215465545654,Asia,Kuwait,KW,,Kuwait - Doha Spit,2018-12-08,11:22
+Dromas ardeola,Animalia,CRABPLOVER_DROMADIDAE,Crab-plover,,2,47.847785949707,29.3186683654785,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2018-12-08,12:07
+Buteo rufinus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Long-legged Buzzard,,1,47.7736968994141,29.2636413574219,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-08,09:15
+Aquila heliaca,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Eastern Imperial Eagle,,1,47.774772644043,29.2633972167969,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-08,09:34
+Oena capensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Namaqua Dove,,1,47.7361526489258,29.25537109375,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-08,10:26
+Aquila heliaca,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Eastern Imperial Eagle,,1,47.7360420227051,29.2493171691895,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-08,10:32
+Dromas ardeola,Animalia,CRABPLOVER_DROMADIDAE,Crab-plover,,71,47.8322982788086,29.3215465545654,Asia,Kuwait,KW,,Kuwait - Doha Spit,2018-12-08,11:22
+Dromas ardeola,Animalia,CRABPLOVER_DROMADIDAE,Crab-plover,,2,47.847785949707,29.3186683654785,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2018-12-08,12:07
+Calidris alpina,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Dunlin,,5500,47.8380546569824,29.3778800964355,Asia,Kuwait,KW,,Kuwait - Doha Spit,2018-12-08,14:09
+Lanius nubicus,Animalia,SHRIKES_LANIIDAE,Masked Shrike,,1,47.9957008361816,29.372371673584,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-07,07:19
+Lanius nubicus,Animalia,SHRIKES_LANIIDAE,Masked Shrike,,1,47.9921951293945,29.3671226501465,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-07,07:43
+Egretta gularis,Animalia,HERONS_ARDEIDAE,Western Reef Heron,,20,47.8946914672852,29.3310394287109,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2018-12-07,09:12
+Dromas ardeola,Animalia,CRABPLOVER_DROMADIDAE,Crab-plover,,26,47.8325271606445,29.32155418396,Asia,Kuwait,KW,,Kuwait - Doha Spit,2018-12-07,09:48
+Dromas ardeola,Animalia,CRABPLOVER_DROMADIDAE,Crab-plover,,10,47.8263473510742,29.3249034881592,Asia,Kuwait,KW,,Kuwait - Doha Spit,2018-12-07,10:22
+Emberiza calandra,Animalia,BUNTINGS_EMBERIZIDAE,Corn Bunting,,1,47.6893196105957,29.1671485900879,Asia,Kuwait,KW,,Kuwait - Jahra,2018-12-07,11:51
+Ixobrychus minutus,Animalia,HERONS_ARDEIDAE,Little Bittern,,1,47.6859741210938,29.3565559387207,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-07,13:50
+Oena capensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Namaqua Dove,,3,47.7364654541016,29.2609252929688,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-06,08:21
+Aquila heliaca,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Eastern Imperial Eagle,,2,47.7358894348145,29.2444553375244,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-06,08:55
+Halcyon smyrnensis,Animalia,KINGFISHERS_ALCEDINIDAE,White-throated Kingfisher,,2,47.6744766235352,29.3526554107666,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-06,09:31
+Turdus philomelos,Animalia,THRUSHES_TURDIDAE,Song Thrush,,1,47.6748390197754,29.3522281646729,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-06,09:38
+Pycnonotus leucotis,Animalia,BULBULS_PYCNONOTIDAE,White-eared Bulbul,,10,47.6748352050781,29.3522338867188,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-06,09:38
+Motacilla alba,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,White Wagtail,,5,47.6740684509277,29.3524150848389,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-06,09:43
+Clanga clanga,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Greater Spotted Eagle,,3,47.6905364990234,29.3602523803711,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-06,11:32
+Circus aeruginosus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Western Marsh Harrier,,2,47.6887512207031,29.3584384918213,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-06,11:33
+Circus aeruginosus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Western Marsh Harrier,,4,47.6844749450684,29.3603992462158,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-06,11:36
+Alcedo atthis,Animalia,KINGFISHERS_ALCEDINIDAE,Common Kingfisher,,1,47.6861572265625,29.3609256744385,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-06,11:37
+Halcyon smyrnensis,Animalia,KINGFISHERS_ALCEDINIDAE,White-throated Kingfisher,,1,47.6955680847168,29.3602962493896,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-06,12:16
+Hypocolius ampelinus,Animalia,Hypocoliidae,Grey Hypocolius,,2,47.8096618652344,29.9678134918213,Asia,Kuwait,KW,,Kuwait - Jahra,2018-12-06,15:26
+Coracias benghalensis,Animalia,ROLLERS_CORACIIDAE,Indian Roller,,1,48.1017189025879,29.1347713470459,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-05,09:23
+Buteo rufinus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Long-legged Buzzard,,1,47.7748870849609,29.2632808685303,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-05,15:44
+Aquila heliaca,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Eastern Imperial Eagle,,1,47.7736625671387,29.2636413574219,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-05,16:06
+Gallinula chloropus,Animalia,RAILS_RALLIDAE,Common Moorhen,,20,47.6927490234375,29.3603229522705,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-04,06:39
+Tachybaptus ruficollis,Animalia,GREBES_PODICIPEDIDAE,Little Grebe,,2,47.6928291320801,29.360294342041,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-04,06:39
+Circus aeruginosus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Western Marsh Harrier,,1,47.692928314209,29.3602066040039,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-04,06:40
+Aythya nyroca,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Ferruginous Duck,,5,47.6907844543457,29.3608512878418,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-04,06:45
+Porphyrio poliocephalus,Animalia,RAILS_RALLIDAE,Grey-headed Swamphen,,5,47.65,29.35,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-04,06:46
+Acrocephalus stentoreus,Animalia,Acrocephalidae,Clamorous Reed Warbler,,2,47.6907119750977,29.3607597351074,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-04,06:53
+Clanga clanga,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Greater Spotted Eagle,,1,47.6907501220703,29.3607654571533,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-04,07:20
+Alcedo atthis,Animalia,KINGFISHERS_ALCEDINIDAE,Common Kingfisher,,1,47.6850318908691,29.3581733703613,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-04,07:28
+Egretta garzetta,Animalia,HERONS_ARDEIDAE,Little Egret,,1,47.6842842102051,29.3587474822998,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-04,07:29
+Anas platyrhynchos,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Mallard,,1,47.6836433410645,29.359354019165,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-04,07:32
+Clanga clanga,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Greater Spotted Eagle,,1,47.6859436035156,29.3609523773193,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-04,07:40
+Clanga clanga,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Greater Spotted Eagle,,3,47.6917495727539,29.3637714385986,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-04,07:47
+Aythya nyroca,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Ferruginous Duck,,11,47.691722869873,29.3637447357178,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-04,07:48
+Alcedo atthis,Animalia,KINGFISHERS_ALCEDINIDAE,Common Kingfisher,,1,47.6912460327148,29.3587493896484,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-04,08:06
+Vanellus leucurus,Animalia,PLOVERS_CHARADRIIDAE,White-tailed Lapwing,,1,47.7006683349609,29.3657207489014,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-04,08:34
+Vanellus leucurus,Animalia,PLOVERS_CHARADRIIDAE,White-tailed Lapwing,,8,47.7028961181641,29.3641242980957,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-12-04,08:44
+Hypocolius ampelinus,Animalia,Hypocoliidae,Grey Hypocolius,,3,47.8112754821777,29.9688549041748,Asia,Kuwait,KW,,Kuwait - Jahra,2018-12-04,14:57
+Argya huttoni salvadorii,Animalia,Leiothrichidae,Afghan Babbler ssp salvadorii,,10,47.8107681274414,29.968433380127,Asia,Kuwait,KW,,Kuwait - Jahra,2018-12-04,15:09
+Hypocolius ampelinus,Animalia,Hypocoliidae,Grey Hypocolius,,1,47.8107566833496,29.9684276580811,Asia,Kuwait,KW,,Kuwait - Jahra,2018-12-04,15:20
+Calidris alpina,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Dunlin,,100,47.8623046875,29.3197135925293,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2018-12-03,09:03
+Egretta gularis,Animalia,HERONS_ARDEIDAE,Western Reef Heron,,30,47.8620452880859,29.319637298584,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2018-12-03,09:04
+Dromas ardeola,Animalia,CRABPLOVER_DROMADIDAE,Crab-plover,,31,47.861988067627,29.319637298584,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2018-12-03,09:06
+Halcyon smyrnensis,Animalia,KINGFISHERS_ALCEDINIDAE,White-throated Kingfisher,,10,47.67489624,29.35234261,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-03,10:24
+Turdus philomelos,Animalia,THRUSHES_TURDIDAE,Song Thrush,,1,47.6756248474121,29.3523578643799,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-03,10:27
+Turdus philomelos,Animalia,THRUSHES_TURDIDAE,Song Thrush,,1,47.6745529174805,29.3523406982422,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-03,10:44
+Bubulcus ibis,Animalia,HERONS_ARDEIDAE,Western Cattle Egret,,7,47.673770904541,29.3517913818359,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-03,10:44
+Bubulcus ibis,Animalia,HERONS_ARDEIDAE,Western Cattle Egret,,4,47.6738471984863,29.351598739624,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-03,10:46
+Pernis ptilorhynchus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Crested Honey Buzzard,,1,47.6743927,29.35082436,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-03,11:13
+Motacilla alba,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,White Wagtail,,1,47.716609954834,29.3983840942383,Asia,Kuwait,KW,,Kuwait - Jahra,2018-12-03,14:07
+Streptopelia decaocto,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Eurasian Collared Dove,,20,47.9941264539957,29.3776723846671,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-02,09:50
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,1,47.9941264539957,29.3776723846671,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-02,09:50
+Passer domesticus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow,,1,47.9941711425781,29.3782997131348,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-02,10:08
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,2,47.9946327209473,29.3742637634277,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-02,10:42
+Pycnonotus leucotis,Animalia,BULBULS_PYCNONOTIDAE,White-eared Bulbul,,10,47.9950637817383,29.3736782073975,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-02,10:46
+Lanius collurio,Animalia,SHRIKES_LANIIDAE,Red-backed Shrike,,1,47.9946556091309,29.3700065612793,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-02,11:00
+Lanius nubicus,Animalia,SHRIKES_LANIIDAE,Masked Shrike,,1,47.9925689697266,29.3674221038818,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-02,11:18
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,1,47.993522644043,29.3671169281006,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-02,11:27
+Lanius nubicus,Animalia,SHRIKES_LANIIDAE,Masked Shrike,,1,47.9949531555176,29.3702087402344,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-02,11:34
+Lanius collurio,Animalia,SHRIKES_LANIIDAE,Red-backed Shrike,,1,47.9940338134766,29.3703079223633,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-12-02,11:40
+Chroicocephalus ridibundus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black-headed Gull,,40,48.0265502929688,29.3634490966797,Asia,Kuwait,KW,,Kuwait - Green Island,2018-12-02,12:48
+Halcyon smyrnensis,Animalia,KINGFISHERS_ALCEDINIDAE,White-throated Kingfisher,,1,48.0268630981445,29.3645420074463,Asia,Kuwait,KW,,Kuwait - Green Island,2018-12-02,13:00
+Nycticorax nycticorax,Animalia,HERONS_ARDEIDAE,Black-crowned Night Heron,,1,48.0273666381836,29.3650417327881,Asia,Kuwait,KW,,Kuwait - Green Island,2018-12-02,13:05
+Halcyon smyrnensis,Animalia,KINGFISHERS_ALCEDINIDAE,White-throated Kingfisher,,1,48.0275115966797,29.3642292022705,Asia,Kuwait,KW,,Kuwait - Green Island,2018-12-02,13:27
+Dromas ardeola,Animalia,CRABPLOVER_DROMADIDAE,Crab-plover,,4,47.8649940490723,29.3229141235352,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2018-12-02,16:14
+Calidris alpina,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Dunlin,,30,47.8649940490723,29.3229141235352,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2018-12-02,16:16
+Chroicocephalus ridibundus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black-headed Gull,,100,48.02484894,29.36273575,Asia,Kuwait,KW,,Kuwait - Green Island,2018-11-26,11:01
+Bubulcus ibis,Animalia,HERONS_ARDEIDAE,Western Cattle Egret,,7,47.6746673583984,29.3508205413818,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-11-27,14:52
+Halcyon smyrnensis,Animalia,KINGFISHERS_ALCEDINIDAE,White-throated Kingfisher,,4,47.6747894287109,29.3509693145752,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-11-27,14:59
+Hypocolius ampelinus,Animalia,Hypocoliidae,Grey Hypocolius,,5,47.6758079528809,29.3509788513184,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-11-27,15:46
+Turdus philomelos,Animalia,THRUSHES_TURDIDAE,Song Thrush,,3,47.6752548217773,29.3467998504639,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-11-27,16:20
+Lanius nubicus,Animalia,SHRIKES_LANIIDAE,Masked Shrike,,4,47.9946250915527,29.368932723999,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-11-26,07:13
+Hypocolius ampelinus,Animalia,Hypocoliidae,Grey Hypocolius,,27,47.995418548584,29.3724060058594,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-11-26,07:25
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,10,47.9954299926758,29.3734474182129,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-11-26,07:50
+Egretta gularis,Animalia,HERONS_ARDEIDAE,Western Reef Heron,,35,47.8547782897949,29.3188858032227,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2018-11-25,13:11
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,2,47.8548164367676,29.3188724517822,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2018-11-25,13:13
+Dromas ardeola,Animalia,CRABPLOVER_DROMADIDAE,Crab-plover,,10,47.86065674,29.31961441,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2018-11-25,14:51
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,2,47.9608917236328,29.2818756103516,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-11-25,08:57
+Egretta gularis,Animalia,HERONS_ARDEIDAE,Western Reef Heron,,4,47.7027626,29.36594582,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-21,13:51
+Clanga clanga,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Greater Spotted Eagle,,3,47.6936988830566,29.367847442627,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-24,08:28
+Anas platyrhynchos,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Mallard,,5,47.6954231262207,29.3687286376953,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-24,08:42
+Porphyrio poliocephalus,Animalia,RAILS_RALLIDAE,Grey-headed Swamphen,,3,47.65,29.35,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-24,08:42
+Alcedo atthis,Animalia,KINGFISHERS_ALCEDINIDAE,Common Kingfisher,,3,47.6957969665527,29.3663806915283,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-24,08:54
+Tachybaptus ruficollis,Animalia,GREBES_PODICIPEDIDAE,Little Grebe,,1,47.6963233947754,29.3634910583496,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-24,09:07
+Phoenicopterus roseus,Animalia,FLAMINGOS_PHOENICOPTERIDAE,Greater Flamingo,,9,47.6963500976563,29.3635139465332,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-24,09:08
+Acrocephalus stentoreus,Animalia,Acrocephalidae,Clamorous Reed Warbler,,1,47.6963081359863,29.3634624481201,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-24,09:22
+Halcyon smyrnensis,Animalia,KINGFISHERS_ALCEDINIDAE,White-throated Kingfisher,,2,47.6964950561523,29.363166809082,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-24,09:26
+Porphyrio poliocephalus,Animalia,RAILS_RALLIDAE,Grey-headed Swamphen,,1,47.65,29.35,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-24,09:37
+Vanellus leucurus,Animalia,PLOVERS_CHARADRIIDAE,White-tailed Lapwing,,17,47.699047088623,29.3648490905762,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-24,09:43
+Charadrius alexandrinus,Animalia,PLOVERS_CHARADRIIDAE,Kentish Plover,,1,47.7038841247559,29.3656692504883,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-24,10:16
+Himantopus himantopus,Animalia,STILTS_AND_AVOCETS_RECURVIROSTRIDAE,Black-winged Stilt,,2,47.6837425231934,29.3594532012939,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-24,11:42
+Fulica atra,Animalia,RAILS_RALLIDAE,Eurasian Coot,,20,47.691780090332,29.3637580871582,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-24,12:05
+Aythya nyroca,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Ferruginous Duck,,2,47.6928787231445,29.3643913269043,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-24,12:09
+Spatula clypeata,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Northern Shoveler,,10,47.6928787231445,29.3644180297852,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-24,12:09
+Porphyrio poliocephalus,Animalia,RAILS_RALLIDAE,Grey-headed Swamphen,,3,47.65,29.35,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-24,12:26
+Gallinula chloropus,Animalia,RAILS_RALLIDAE,Common Moorhen,,50,47.6928443908691,29.3602924346924,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-24,12:26
+Coracias benghalensis,Animalia,ROLLERS_CORACIIDAE,Indian Roller,,1,48.1015281677246,29.1348934173584,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-11-21,06:47
+Coracias benghalensis,Animalia,ROLLERS_CORACIIDAE,Indian Roller,,1,48.1015281677246,29.1348934173584,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-11-21,06:47
+Hypocolius ampelinus,Animalia,Hypocoliidae,Grey Hypocolius,,5,47.8117065429688,29.968053817749,Asia,Kuwait,KW,,Kuwait - Jahra,2018-11-22,10:06
+Argya huttoni,Animalia,Leiothrichidae,Afghan Babbler,,4,47.81158829,29.96871185,Asia,Kuwait,KW,,Kuwait - Jahra,2018-11-22,10:17
+Lanius excubitor pallidirostris,Animalia,SHRIKES_LANIIDAE,Steppe Grey Shrike,,1,47.7734146118164,29.2632656097412,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-11-22,13:18
+Lanius nubicus,Animalia,SHRIKES_LANIIDAE,Masked Shrike,,2,47.9952812194824,29.3737697601318,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-11-22,14:53
+Lanius collurio,Animalia,SHRIKES_LANIIDAE,Red-backed Shrike,,1,47.993824005127,29.370304107666,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-11-22,15:21
+Egretta garzetta,Animalia,HERONS_ARDEIDAE,Little Egret,,20,47.7027626,29.36594582,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-21,13:51
+Coracias benghalensis,Animalia,ROLLERS_CORACIIDAE,Indian Roller,,1,48.10152817,29.13489342,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-11-21,06:47
+Pycnonotus leucotis,Animalia,BULBULS_PYCNONOTIDAE,White-eared Bulbul,,2,48.1218681335449,29.1669940948486,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-11-21,07:33
+Thalasseus bergii,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Greater Crested Tern,,6,48.11624527,29.18911552,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-11-21,08:31
+Dromas ardeola,Animalia,CRABPLOVER_DROMADIDAE,Crab-plover,,4,47.86081314,29.31954002,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2018-11-21,09:54
+Egretta gularis,Animalia,HERONS_ARDEIDAE,Western Reef Heron,,40,47.8608093261719,29.3195571899414,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2018-11-21,10:05
+Circus aeruginosus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Western Marsh Harrier,,2,47.692756652832,29.3602962493896,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-21,11:20
+Gallinula chloropus,Animalia,RAILS_RALLIDAE,Common Moorhen,,20,47.6927642822266,29.3603057861328,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-21,11:20
+Fulica atra,Animalia,RAILS_RALLIDAE,Eurasian Coot,,10,47.6927680969238,29.3603057861328,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-21,11:20
+Tachybaptus ruficollis,Animalia,GREBES_PODICIPEDIDAE,Little Grebe,,3,47.6927680969238,29.3603057861328,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-21,11:20
+Clanga clanga,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Greater Spotted Eagle,,3,47.6907692,29.36076355,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-21,11:36
+Aythya nyroca,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Ferruginous Duck,,4,47.6907615661621,29.3607521057129,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-21,11:36
+Ixobrychus minutus,Animalia,HERONS_ARDEIDAE,Little Bittern,,1,47.6907958984375,29.3607120513916,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-21,11:50
+Aythya nyroca,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Ferruginous Duck,,7,47.6928558349609,29.3643646240234,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-21,12:19
+Anas platyrhynchos,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Mallard,,2,47.6928558349609,29.3643646240234,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-21,12:19
+Spatula clypeata,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Northern Shoveler,,3,47.6928558349609,29.3643646240234,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-21,12:19
+Halcyon smyrnensis,Animalia,KINGFISHERS_ALCEDINIDAE,White-throated Kingfisher,,4,47.68901825,29.361866,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-21,12:41
+Lanius excubitor pallidirostris,Animalia,SHRIKES_LANIIDAE,Steppe Grey Shrike,,1,47.684513092041,29.3604621887207,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-21,12:46
+Motacilla alba,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,White Wagtail,,1,47.6836967468262,29.3592662811279,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-21,12:48
+Alcedo atthis,Animalia,KINGFISHERS_ALCEDINIDAE,Common Kingfisher,,1,47.683780670166,29.3592014312744,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-21,12:49
+Hydroprogne caspia,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Caspian Tern,,1,47.6862716674805,29.3582134246826,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-21,12:56
+Clanga clanga,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Greater Spotted Eagle,,2,47.7014312744141,29.3597946166992,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-21,13:23
+Alcedo atthis,Animalia,KINGFISHERS_ALCEDINIDAE,Common Kingfisher,,1,47.6963729858398,29.3630542755127,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-21,13:28
+Porphyrio poliocephalus,Animalia,RAILS_RALLIDAE,Grey-headed Swamphen,,4,47.65,29.35,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-21,13:31
+Vanellus leucurus,Animalia,PLOVERS_CHARADRIIDAE,White-tailed Lapwing,,10,47.6980934143066,29.3642921447754,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-21,13:40
+Himantopus himantopus,Animalia,STILTS_AND_AVOCETS_RECURVIROSTRIDAE,Black-winged Stilt,,2,47.7001075744629,29.3655643463135,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-21,13:47
+Phoenicopterus roseus,Animalia,FLAMINGOS_PHOENICOPTERIDAE,Greater Flamingo,,1,47.7001037597656,29.3655834197998,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-11-21,13:47
+Hypocolius ampelinus,Animalia,Hypocoliidae,Grey Hypocolius,,8,47.67507553,29.35124779,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-11-21,14:54
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,10,47.676097869873,29.3513317108154,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-11-21,15:03
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,100,47.674991607666,29.3508148193359,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-11-21,15:08
+Pycnonotus leucotis,Animalia,BULBULS_PYCNONOTIDAE,White-eared Bulbul,,50,47.6749229431152,29.3508224487305,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-11-21,15:08
+Oenanthe deserti,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Desert Wheatear,,2,47.8578186035156,29.5431041717529,Asia,Kuwait,KW,,Kuwait - Jahra,2018-11-21,16:29
+Egretta gularis,Animalia,HERONS_ARDEIDAE,Western Reef Heron,,2,47.70242214,29.35984782,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-01-27,12:16
+Spatula clypeata,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Northern Shoveler,,1,47.69104958,29.36096991,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-01-27,11:57
+Gallinula chloropus,Animalia,RAILS_RALLIDAE,Common Moorhen,,5,47.69104958,29.36096991,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-01-27,11:57
+Gallinago gallinago,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Common Snipe,,1,47.69912968,29.3651813,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-01-27,12:12
+Chlidonias leucopterus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White-winged Tern,,1,47.69152164,29.36390598,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-01-27,11:57
+Hydroprogne caspia,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Caspian Tern,,1,47.69378018,29.35906568,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-01-27,12:58
+Tachybaptus ruficollis,Animalia,GREBES_PODICIPEDIDAE,Little Grebe,,2,47.6941813757585,29.3649406868684,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-01-27,11:57
+Fulica atra,Animalia,RAILS_RALLIDAE,Eurasian Coot,,20,47.6941115484195,29.3659252386002,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-01-27,11:57
+Porphyrio poliocephalus,Animalia,RAILS_RALLIDAE,Grey-headed Swamphen,,4,47.69527257,29.36875337,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-01-27,11:58
+Luscinia svecica svecica,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Red-spotted Bluethroat,,1,47.6962614686944,29.3634290087581,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-01-27,12:05
+Alcedo atthis,Animalia,KINGFISHERS_ALCEDINIDAE,Common Kingfisher,,1,47.6967143083559,29.3633452256269,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-01-27,12:07
+Vanellus leucurus,Animalia,PLOVERS_CHARADRIIDAE,White-tailed Lapwing,,9,47.699129676023,29.3651812998814,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-01-27,12:12
+Circus aeruginosus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Western Marsh Harrier,,2,47.6991566800807,29.3657882390851,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-01-27,12:12
+Egretta garzetta,Animalia,HERONS_ARDEIDAE,Little Egret,,10,47.70255089,29.3596608,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-01-27,12:16
+Aythya nyroca,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Ferruginous Duck,,1,47.69147873,29.36411169,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-01-27,12:27
+Clanga clanga,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Greater Spotted Eagle,,4,47.7008410484693,29.3657680103222,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-01-27,12:27
+Egretta gularis,Animalia,HERONS_ARDEIDAE,Western Reef Heron,,1,47.70240068,29.36005339,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-01-02,
+Egretta garzetta,Animalia,HERONS_ARDEIDAE,Little Egret,,15,47.70240068,29.36005339,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-01-02,
+Vanellus leucurus,Animalia,PLOVERS_CHARADRIIDAE,White-tailed Lapwing,,6,47.69726157,29.36356922,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-01-02,
+Acrocephalus stentoreus,Animalia,Acrocephalidae,Clamorous Reed Warbler,,1,47.69651055,29.36344766,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-01-02,
+Porphyrio poliocephalus,Animalia,RAILS_RALLIDAE,Grey-headed Swamphen,,2,47.65,29.35,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-01-02,
+Hirundo rustica,Animalia,SWALLOWS_HIRUNDINIDAE,Barn Swallow,,4,47.69272327,29.36048308,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-01-02,
+Halcyon smyrnensis,Animalia,KINGFISHERS_ALCEDINIDAE,White-throated Kingfisher,,2,47.69272327,29.36048308,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-01-02,
+Fulica atra,Animalia,RAILS_RALLIDAE,Eurasian Coot,,60,47.69272327,29.36048308,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-01-02,
+Gallinula chloropus,Animalia,RAILS_RALLIDAE,Common Moorhen,,10,47.69272327,29.36048308,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-01-02,
+Circus aeruginosus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Western Marsh Harrier,,3,47.69272327,29.36048308,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-01-02,
+Clanga clanga,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Greater Spotted Eagle,,6,47.69272327,29.36048308,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-01-02,
+Tachybaptus ruficollis,Animalia,GREBES_PODICIPEDIDAE,Little Grebe,,6,47.69272327,29.36048308,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-01-02,
+Aythya nyroca,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Ferruginous Duck,,8,47.69272327,29.36048308,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-01-02,
+Spatula clypeata,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Northern Shoveler,,16,47.69272327,29.36048308,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-01-02,
+Anas platyrhynchos,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Mallard,,4,47.69272327,29.36048308,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2018-01-02,
+Fringilla coelebs,Animalia,FINCHES_FRINGILLIDAE,Common Chaffinch,,1,47.70678341,29.55258116,Asia,Kuwait,KW,,Kuwait - Jahra,2018-01-02,
+Calidris alpina,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Dunlin,,20,47.83421516,29.32284905,Asia,Kuwait,KW,,Kuwait - Doha Spit,2018-01-02,
+Egretta gularis,Animalia,HERONS_ARDEIDAE,Western Reef Heron,,60,47.83421516,29.32284905,Asia,Kuwait,KW,,Kuwait - Doha Spit,2018-01-02,
+Aquila heliaca,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Eastern Imperial Eagle,,2,47.75507927,29.24633963,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-01-02,
+Anthus cervinus,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Red-throated Pipit,,1,47.73941517,29.25188189,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-01-02,
+Anthus cervinus,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Red-throated Pipit,,1,47.73890018,29.26880463,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-01-02,
+Anthus campestris,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Tawny Pipit,,4,47.73890018,29.26880463,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-01-02,
+Lanius isabellinus,Animalia,SHRIKES_LANIIDAE,Isabelline Shrike,,1,47.73890018,29.26880463,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-01-02,
+Oena capensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Namaqua Dove,,2,47.73890018,29.26880463,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-01-02,
+Vanellus indicus,Animalia,PLOVERS_CHARADRIIDAE,Red-wattled Lapwing,,4,47.76129127,29.28117711,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-01-02,
+Buteo rufinus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Long-legged Buzzard,,1,47.73881435,29.26865488,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-01-02,
+Aquila heliaca,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Eastern Imperial Eagle,,2,47.73881435,29.26865488,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-01-02,
+Egretta gularis,Animalia,HERONS_ARDEIDAE,Western Reef Heron,,3,47.84065247,29.37828125,Asia,Kuwait,KW,,Kuwait - Doha Spit,2018-01-01,
+Pycnonotus leucotis,Animalia,BULBULS_PYCNONOTIDAE,White-eared Bulbul,,2,48.11869293,29.1864748,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-01-01,
+Thalasseus bergii,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Greater Crested Tern,,4,48.11869293,29.1864748,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-01-01,
+Egretta gularis,Animalia,HERONS_ARDEIDAE,Western Reef Heron,,2,47.89311647,29.33027601,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2018-01-01,
+Phoeniconaias minor,Animalia,FLAMINGOS_PHOENICOPTERIDAE,Lesser Flamingo,,1,47.89311647,29.33027601,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2018-01-01,
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,6,47.94924974,29.35127263,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-01-01,
+Pycnonotus leucotis,Animalia,BULBULS_PYCNONOTIDAE,White-eared Bulbul,,15,47.94924974,29.35127263,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-01-01,
+Lanius nubicus,Animalia,SHRIKES_LANIIDAE,Masked Shrike,,1,47.94924974,29.35127263,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-01-01,
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,10,47.94924974,29.35127263,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-01-01,
+Streptopelia decaocto,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Eurasian Collared Dove,,15,47.94924974,29.35127263,Asia,Kuwait,KW,,Kuwait - Kuwait city,2018-01-01,
+Pycnonotus cafer,Animalia,BULBULS_PYCNONOTIDAE,Red-vented Bulbul,,2,48.02862301,29.36329585,Asia,Kuwait,KW,,Kuwait - Green Island,2017-12-31,
+Egretta gularis,Animalia,HERONS_ARDEIDAE,Western Reef Heron,,10,47.82327175,29.33452212,Asia,Kuwait,KW,,Kuwait - Doha Spit,2017-12-31,
+Tringa nebularia,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Common Greenshank,,3,47.83859253,29.37828358,Asia,Kuwait,KW,,Kuwait - Doha Spit,2017-12-31,
+Dromas ardeola,Animalia,CRABPLOVER_DROMADIDAE,Crab-plover,,3,47.83859253,29.37828358,Asia,Kuwait,KW,,Kuwait - Doha Spit,2017-12-31,
+Egretta gularis,Animalia,HERONS_ARDEIDAE,Western Reef Heron,,3,47.83927917,29.37618936,Asia,Kuwait,KW,,Kuwait - Doha Spit,2017-12-31,
+Motacilla alba,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,White Wagtail,,15,47.69383907,29.35917426,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-12-31,
+Acrocephalus stentoreus,Animalia,Acrocephalidae,Clamorous Reed Warbler,,1,47.69383907,29.35917426,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-12-31,
+Alcedo atthis,Animalia,KINGFISHERS_ALCEDINIDAE,Common Kingfisher,,1,47.69383907,29.35917426,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-12-31,
+Vanellus leucurus,Animalia,PLOVERS_CHARADRIIDAE,White-tailed Lapwing,,1,47.69796968,29.36439206,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-12-31,
+Halcyon smyrnensis,Animalia,KINGFISHERS_ALCEDINIDAE,White-throated Kingfisher,,1,47.69270718,29.36049762,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-12-31,
+Fulica atra,Animalia,RAILS_RALLIDAE,Eurasian Coot,,100,47.69270718,29.36049762,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-12-31,
+Gallinula chloropus,Animalia,RAILS_RALLIDAE,Common Moorhen,,10,47.69270718,29.36049762,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-12-31,
+Porphyrio poliocephalus,Animalia,RAILS_RALLIDAE,Grey-headed Swamphen,,3,47.65,29.35,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-12-31,
+Circus aeruginosus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Western Marsh Harrier,,2,47.69270718,29.36049762,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-12-31,
+Egretta garzetta,Animalia,HERONS_ARDEIDAE,Little Egret,,5,47.69270718,29.36049762,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-12-31,
+Tachybaptus ruficollis,Animalia,GREBES_PODICIPEDIDAE,Little Grebe,,3,47.69270718,29.36049762,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-12-31,
+Spatula clypeata,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Northern Shoveler,,1,47.69270718,29.36049762,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-12-31,
+Motacilla alba,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,White Wagtail,,10,47.67615795,29.35126313,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-31,
+Turdus philomelos,Animalia,THRUSHES_TURDIDAE,Song Thrush,,15,47.67615795,29.35126313,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-31,
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,3,47.67615795,29.35126313,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-31,
+Acridotheres ginginianus,Animalia,STARLINGS_STURNIDAE,Bank Myna,,38,47.67615795,29.35126313,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-31,
+Pycnonotus leucotis,Animalia,BULBULS_PYCNONOTIDAE,White-eared Bulbul,,10,47.67615795,29.35126313,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-31,
+Hypocolius ampelinus,Animalia,Hypocoliidae,Grey Hypocolius,,22,47.67615795,29.35126313,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-31,
+Bubulcus ibis,Animalia,HERONS_ARDEIDAE,Western Cattle Egret,,10,47.67615795,29.35126313,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-31,
+Oenanthe chrysopygia,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Red-tailed Wheatear,,1,47.84760475,29.38374507,Asia,Kuwait,KW,,Kuwait - Doha Spit,2017-12-30,
+Dromas ardeola,Animalia,CRABPLOVER_DROMADIDAE,Crab-plover,,18,47.84803391,29.38247365,Asia,Kuwait,KW,,Kuwait - Doha Spit,2017-12-30,
+Egretta gularis,Animalia,HERONS_ARDEIDAE,Western Reef Heron,,2,47.84309864,29.37899616,Asia,Kuwait,KW,,Kuwait - Doha Spit,2017-12-30,
+Anthus campestris,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Tawny Pipit,,15,47.7350378,29.26547272,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-30,
+Lanius isabellinus,Animalia,SHRIKES_LANIIDAE,Isabelline Shrike,,2,47.7350378,29.26547272,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-30,
+Coracias benghalensis,Animalia,ROLLERS_CORACIIDAE,Indian Roller,,1,47.7350378,29.26547272,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-30,
+Vanellus indicus,Animalia,PLOVERS_CHARADRIIDAE,Red-wattled Lapwing,,5,47.76117325,29.28123282,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-30,
+Buteo rufinus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Long-legged Buzzard,,1,47.7389431,29.26902866,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-30,
+Aquila heliaca,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Eastern Imperial Eagle,,1,47.7389431,29.26902866,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-30,
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,10,47.94939995,29.35135679,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-30,
+Pycnonotus leucotis,Animalia,BULBULS_PYCNONOTIDAE,White-eared Bulbul,,30,47.94939995,29.35135679,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-30,
+Hypocolius ampelinus,Animalia,Hypocoliidae,Grey Hypocolius,,1,47.94939995,29.35135679,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-30,
+Lanius nubicus,Animalia,SHRIKES_LANIIDAE,Masked Shrike,,1,47.94939995,29.35135679,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-30,
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,10,47.94939995,29.35135679,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-30,
+Streptopelia decaocto,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Eurasian Collared Dove,,5,47.94939995,29.35135679,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-30,
+Hirundo rustica,Animalia,SWALLOWS_HIRUNDINIDAE,Barn Swallow,,3,47.6982379,29.36454152,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-12-29,
+Vanellus leucurus,Animalia,PLOVERS_CHARADRIIDAE,White-tailed Lapwing,,3,47.6982379,29.36454152,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-12-29,
+Gallinula chloropus,Animalia,RAILS_RALLIDAE,Common Moorhen,,2,47.69242287,29.36175419,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-12-29,
+Circus aeruginosus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Western Marsh Harrier,,3,47.69242287,29.36175419,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-12-29,
+Clanga clanga,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Greater Spotted Eagle,,4,47.69242287,29.36175419,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-12-29,
+Egretta garzetta,Animalia,HERONS_ARDEIDAE,Little Egret,,10,47.69242287,29.36175419,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-12-29,
+Argya huttoni,Animalia,Leiothrichidae,Afghan Babbler,,6,47.81162024,29.96872828,Asia,Kuwait,KW,,Kuwait - Jahra,2017-12-29,
+Hypocolius ampelinus,Animalia,Hypocoliidae,Grey Hypocolius,,1,47.81162024,29.96872828,Asia,Kuwait,KW,,Kuwait - Jahra,2017-12-29,
+Anthus campestris,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Tawny Pipit,,10,47.73898602,29.26891694,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-28,
+Lanius isabellinus,Animalia,SHRIKES_LANIIDAE,Isabelline Shrike,,8,47.75396347,29.27842538,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-28,
+Vanellus indicus,Animalia,PLOVERS_CHARADRIIDAE,Red-wattled Lapwing,,9,47.76170969,29.2822812,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-28,
+Buteo rufinus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Long-legged Buzzard,,3,47.73842812,29.26910354,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-28,
+Anthus campestris,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Tawny Pipit,,40,47.7599287,29.25820953,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-28,
+Lanius excubitor pallidirostris,Animalia,SHRIKES_LANIIDAE,Steppe Grey Shrike,,1,47.7599287,29.25820953,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-28,
+Lanius isabellinus,Animalia,SHRIKES_LANIIDAE,Isabelline Shrike,,12,47.7599287,29.25820953,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-28,
+Buteo rufinus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Long-legged Buzzard,,3,47.75679588,29.25337959,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-28,
+Aquila heliaca,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Eastern Imperial Eagle,,6,47.75679588,29.25337959,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-28,
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,100,47.89354563,29.33067835,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2017-12-28,
+Calidris alpina,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Dunlin,,30,47.89354563,29.33067835,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2017-12-28,
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,1,48.02701235,29.36531774,Asia,Kuwait,KW,,Kuwait - Green Island,2017-12-28,
+Pycnonotus leucotis,Animalia,BULBULS_PYCNONOTIDAE,White-eared Bulbul,,80,48.02701235,29.36531774,Asia,Kuwait,KW,,Kuwait - Green Island,2017-12-28,
+Hypocolius ampelinus,Animalia,Hypocoliidae,Grey Hypocolius,,60,48.02701235,29.36531774,Asia,Kuwait,KW,,Kuwait - Green Island,2017-12-28,
+Turdus philomelos,Animalia,THRUSHES_TURDIDAE,Song Thrush,,30,47.67630279,29.35107632,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-27,
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,15,47.67630279,29.35107632,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-27,
+Pycnonotus leucotis,Animalia,BULBULS_PYCNONOTIDAE,White-eared Bulbul,,30,47.67630279,29.35107632,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-27,
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,5,47.67630279,29.35107632,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-27,
+Bubulcus ibis,Animalia,HERONS_ARDEIDAE,Western Cattle Egret,,15,47.67630279,29.35107632,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-27,
+Porphyrio poliocephalus,Animalia,RAILS_RALLIDAE,Grey-headed Swamphen,,3,47.65,29.35,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-12-27,
+Charadrius alexandrinus,Animalia,PLOVERS_CHARADRIIDAE,Kentish Plover,,10,47.70551205,29.36497163,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-12-27,
+Hirundo rustica,Animalia,SWALLOWS_HIRUNDINIDAE,Barn Swallow,,8,47.68864632,29.35913686,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-12-27,
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,10,47.693367,29.36254023,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-12-27,
+Chlidonias leucopterus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White-winged Tern,,1,47.70059824,29.36605626,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-12-27,
+Vanellus leucurus,Animalia,PLOVERS_CHARADRIIDAE,White-tailed Lapwing,,3,47.69717574,29.36377493,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-12-27,
+Gallinula chloropus,Animalia,RAILS_RALLIDAE,Common Moorhen,,10,47.69165039,29.36250224,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-12-27,
+Haliaeetus albicilla,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,White-tailed Eagle,,1,47.69165039,29.36250224,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-12-27,
+Circus aeruginosus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Western Marsh Harrier,,3,47.69165039,29.36250224,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-12-27,
+Clanga clanga,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Greater Spotted Eagle,,7,47.69165039,29.36250224,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-12-27,
+Egretta garzetta,Animalia,HERONS_ARDEIDAE,Little Egret,,30,47.69165039,29.36250224,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-12-27,
+Phoenicopterus roseus,Animalia,FLAMINGOS_PHOENICOPTERIDAE,Greater Flamingo,,60,47.70598412,29.3664668,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-12-27,
+Tachybaptus ruficollis,Animalia,GREBES_PODICIPEDIDAE,Little Grebe,,5,47.69216537,29.36149296,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-12-27,
+Aythya nyroca,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Ferruginous Duck,,45,47.69216537,29.36149296,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-12-27,
+Pycnonotus leucotis,Animalia,BULBULS_PYCNONOTIDAE,White-eared Bulbul,,10,47.90306747,29.33518203,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2017-12-27,
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,3,47.95039237,29.35134751,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-27,
+Pycnonotus leucotis,Animalia,BULBULS_PYCNONOTIDAE,White-eared Bulbul,,20,47.95039237,29.35134751,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-27,
+Lanius nubicus,Animalia,SHRIKES_LANIIDAE,Masked Shrike,,1,47.95039237,29.35134751,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-27,
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,15,47.95039237,29.35134751,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-27,
+Streptopelia decaocto,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Eurasian Collared Dove,,50,47.95039237,29.35134751,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-27,
+Phoeniconaias minor,Animalia,FLAMINGOS_PHOENICOPTERIDAE,Lesser Flamingo,,1,47.89510613,29.33143895,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2017-12-28,09:52
+Oena capensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Namaqua Dove,,22,47.7375748,29.25477937,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-28,12:16
+Asio flammeus,Animalia,OWLS_STRIGIDAE,Short-eared Owl,,1,47.74898461,29.28210152,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-12-28,14:19
+Alaemon alaudipes,Animalia,LARKS_ALAUDIDAE,Greater Hoopoe-Lark,,2,47.68710157,29.54172323,Asia,Kuwait,KW,,Kuwait - Jahra,2017-12-29,13:11
+Felis catus,Animalia,CATS_FELIDAE,Domesticated Cat,,1,48.00029218,29.37399459,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-07-08,06:15
+Pycnonotus leucotis mesopotamia,Animalia,BULBULS_PYCNONOTIDAE,White-eared Bulbul ssp mesopotamia,,1,48.01399492,29.37011418,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2017-07-08,07:15
+Motacilla flava,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Western Yellow Wagtail,,1,48.01399492,29.37011418,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2017-07-08,07:15
+Felis catus,Animalia,CATS_FELIDAE,Domesticated Cat,,1,47.9994259062595,29.3739989124869,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-07-08,06:07
+Columba livia domestica,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Feral Pigeon,,200,47.99954937,29.37354458,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-07-08,06:08
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,1,47.9997051816533,29.3733290973694,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-07-08,06:10
+Passer domesticus hufufae,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow ssp hufufae,,1,47.99976274,29.37382884,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-07-08,06:11
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,2,48.00485975,29.37656743,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-07-08,06:27
+Streptopelia decaocto,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Eurasian Collared Dove,,1,48.0048597518798,29.3765674303705,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-07-08,06:30
+Pycnonotus leucotis mesopotamia,Animalia,BULBULS_PYCNONOTIDAE,White-eared Bulbul ssp mesopotamia,,1,48.00598984,29.37630134,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-07-08,06:33
+Passer domesticus hufufae,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow ssp hufufae,,1,48.00625205,29.37432182,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-07-08,06:37
+Scoliidae indet.,Animalia,Scoliidae,Scoliid unknown,,1,48.01033781,29.37112591,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-07-08,07:05
+Pycnonotus leucotis mesopotamia,Animalia,BULBULS_PYCNONOTIDAE,White-eared Bulbul ssp mesopotamia,,1,48.00331291,29.38930964,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2017-07-08,10:55
+Passer domesticus hufufae,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow ssp hufufae,,1,47.93689045,29.30413124,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-07-08,14:27
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,1,47.93668754,29.30432498,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-07-08,14:33
+Bombyliidae indet.,Animalia,BEE_FLIES_BOMBYLIIDAE,Unidentified Bee fly,,1,47.93543334,29.30438171,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-07-08,14:41
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,1,47.9356837,29.3044849,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-07-08,14:45
+Euphorbia hirta,Plantae,EUPHORBIACEAE,Pill-bearing spurge,,1,47.93620917,29.30483737,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-07-08,14:49
+Erigeron bonariensis,Plantae,Asteraceae,Argentine Fleabane,,1,47.93639478,29.30468303,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-07-08,14:52
+Pycnonotus leucotis,Animalia,BULBULS_PYCNONOTIDAE,White-eared Bulbul,,1,47.9363947765056,29.3046830344558,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-07-08,14:53
+Pycnonotus leucotis mesopotamia,Animalia,BULBULS_PYCNONOTIDAE,White-eared Bulbul ssp mesopotamia,,2,48.00551176,29.39243948,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2017-08-05,18:24
+Calidris pugnax,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Ruff,,2,48.00596975,29.39049483,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2017-08-05,18:19
+Numenius phaeopus,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Eurasian Whimbrel,,2,48.00596975,29.39049483,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2017-08-05,18:15
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,1,48.00603412,29.37505079,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-08-05,16:20
+Pycnonotus leucotis mesopotamia,Animalia,BULBULS_PYCNONOTIDAE,White-eared Bulbul ssp mesopotamia,,1,48.0018658,29.37499491,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-08-05,16:20
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,1,48.00046217,29.37429363,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-08-05,16:15
+Felis catus,Animalia,CATS_FELIDAE,Domesticated Cat,,2,48.00017249,29.37408794,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-08-05,16:15
+Passer domesticus hufufae,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow ssp hufufae,,1,47.99919248,29.37385435,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-08-05,16:10
+Streptopelia decaocto,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Eurasian Collared Dove,,10,48.0002439,29.3726763,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-08-05,16:00
+Cercotrichas podobe,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Black Scrub Robin,,1,47.70594858,29.55453149,Asia,Kuwait,KW,,Kuwait - Jahra,2017-04-14,
+Clanga clanga,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Greater Spotted Eagle,,1,47.7134635618416,29.3581456837597,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-01-07,17:09
+Phoeniconaias minor,Animalia,FLAMINGOS_PHOENICOPTERIDAE,Lesser Flamingo,,1,47.8636762378772,29.321687110093,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2017-01-06,17:25
+Egretta gularis,Animalia,HERONS_ARDEIDAE,Western Reef Heron,,48,47.8636762378772,29.321687110093,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2017-01-06,17:26
+Clanga clanga,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Greater Spotted Eagle,,5,47.6927891761517,29.3643431037255,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-01-05,08:33
+Porphyrio poliocephalus,Animalia,RAILS_RALLIDAE,Grey-headed Swamphen,,1,47.65,29.35,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-01-05,08:33
+Tachybaptus ruficollis,Animalia,GREBES_PODICIPEDIDAE,Little Grebe,,5,47.6927891761517,29.3643431037255,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-01-05,08:33
+Phoeniconaias minor,Animalia,FLAMINGOS_PHOENICOPTERIDAE,Lesser Flamingo,,1,47.891579273343,29.3286976507215,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2017-01-04,17:44
+Hypocolius ampelinus,Animalia,Hypocoliidae,Grey Hypocolius,,15,48.0273100534159,29.3631944733302,Asia,Kuwait,KW,,Kuwait - Green Island,2017-01-04,12:03
+Ichthyaetus ichthyaetus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Pallas's Gull,,1,48.0263361214614,29.3662208952938,Asia,Kuwait,KW,,Kuwait - Green Island,2017-01-04,12:34
+Thalasseus bergii,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Greater Crested Tern,,1,48.1039119511843,29.221101056853,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-01-04,10:30
+Pycnonotus leucotis,Animalia,BULBULS_PYCNONOTIDAE,White-eared Bulbul,,10,48.1220443311048,29.1649912462989,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-01-04,07:45
+Coracias benghalensis,Animalia,ROLLERS_CORACIIDAE,Indian Roller,,1,47.760598,30.047774,Asia,Kuwait,KW,,Kuwait,2017-01-03,15:00
+Lanius excubitor pallidirostris,Animalia,SHRIKES_LANIIDAE,Steppe Grey Shrike,,1,47.751397306788,30.0553538194,Asia,Kuwait,KW,,Kuwait,2017-01-03,09:51
+Lanius excubitor pallidirostris,Animalia,SHRIKES_LANIIDAE,Steppe Grey Shrike,,1,47.7054721760171,30.0224550974363,Asia,Kuwait,KW,,Kuwait,2017-01-03,10:41
+Argya huttoni salvadorii,Animalia,Leiothrichidae,Afghan Babbler ssp salvadorii,,8,47.8114713057755,29.9644478266895,Asia,Kuwait,KW,,Kuwait,2017-01-03,08:15
+Pycnonotus leucotis,Animalia,BULBULS_PYCNONOTIDAE,White-eared Bulbul,,10,47.81133803,29.96455759,Asia,Kuwait,KW,,Kuwait,2017-01-03,08:15
+Dromas ardeola,Animalia,CRABPLOVER_DROMADIDAE,Crab-plover,,65,47.8574170341051,29.3200709066678,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2017-01-02,17:27
+Egretta gularis,Animalia,HERONS_ARDEIDAE,Western Reef Heron,,5,47.8574170341051,29.3200709066678,Asia,Kuwait,KW,,Kuwait - Kuwait Bay,2017-01-02,17:27
+Egretta gularis,Animalia,HERONS_ARDEIDAE,Western Reef Heron,,2,47.8373341398994,29.3770654208589,Asia,Kuwait,KW,,Kuwait - Doha Spit,2017-01-02,16:21
+Oena capensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Namaqua Dove,,1,47.7460340051667,29.2646078078876,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-01-02,11:55
+Anthus richardi,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Richard's Pipit,,1,47.7361904765414,29.2524877699811,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-01-02,13:05
+Turdus atrogularis,Animalia,THRUSHES_TURDIDAE,Black-throated Thrush,,10,47.6751039107122,29.3509121100976,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-01-02,08:20
+Pernis ptilorhynchus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Crested Honey Buzzard,,1,47.6751039107122,29.3509121100976,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-01-02,08:20
+Hypocolius ampelinus,Animalia,Hypocoliidae,Grey Hypocolius,,1,47.6751039107122,29.3509121100976,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-01-02,08:20
+Bubulcus ibis,Animalia,HERONS_ARDEIDAE,Western Cattle Egret,,20,47.6751039107122,29.3509121100976,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-01-02,08:21
+Motacilla alba,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,White Wagtail,,50,47.6751039107122,29.3509121100976,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-01-02,08:21
+Thalasseus bergii,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Greater Crested Tern,,1,48.1162848501355,29.1890509059592,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-01-01,16:07
+Pycnonotus leucotis,Animalia,BULBULS_PYCNONOTIDAE,White-eared Bulbul,,2,48.1162848501355,29.1890509059592,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-01-01,16:08
+Turdus atrogularis,Animalia,THRUSHES_TURDIDAE,Black-throated Thrush,,2,47.6749016219404,29.3520702042155,Asia,Kuwait,KW,,Kuwait - Kuwait city,2017-01-01,14:07
+Porphyrio poliocephalus,Animalia,RAILS_RALLIDAE,Grey-headed Swamphen,,1,47.65,29.35,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-01-01,08:57
+Tachybaptus ruficollis,Animalia,GREBES_PODICIPEDIDAE,Little Grebe,,1,47.690103792126,29.3630037886427,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-01-01,09:09
+Clanga clanga,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Greater Spotted Eagle,,1,47.6869320629573,29.3607708593868,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-01-01,09:17
+Acrocephalus stentoreus,Animalia,Acrocephalidae,Clamorous Reed Warbler,,1,47.6907543836975,29.3607289382496,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-01-01,10:14
+Aythya nyroca,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Ferruginous Duck,,20,47.6907543836975,29.3607289382496,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-01-01,10:16
+Spatula clypeata,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Northern Shoveler,,3,47.6907543836975,29.3607289382496,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-01-01,10:16
+Porphyrio poliocephalus,Animalia,RAILS_RALLIDAE,Grey-headed Swamphen,,1,47.65,29.35,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-01-01,10:16
+Clanga clanga,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Greater Spotted Eagle,,5,47.6907543836975,29.3607289382496,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-01-01,10:16
+Vanellus leucurus,Animalia,PLOVERS_CHARADRIIDAE,White-tailed Lapwing,,3,47.6964111848162,29.3632082339574,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-01-01,07:43
+Alcedo atthis,Animalia,KINGFISHERS_ALCEDINIDAE,Common Kingfisher,,1,47.6964111848162,29.3632082339574,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-01-01,07:43
+Clanga clanga,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Greater Spotted Eagle,,20,47.6964111848162,29.3632082339574,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-01-01,07:44
+Motacilla alba,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,White Wagtail,,3,47.6990032779329,29.3648096038373,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-01-01,07:52
+Clanga clanga,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Greater Spotted Eagle,,1,47.7034223736805,29.3640664266245,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2017-01-01,08:24
+Bubulcus ibis,Animalia,HERONS_ARDEIDAE,Western Cattle Egret,,1,47.7035,29.3658,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2016-04-14,17:43
+Egretta gularis,Animalia,HERONS_ARDEIDAE,Western Reef Heron,,3,47.7035,29.3658,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2016-04-14,17:42
+Egretta garzetta,Animalia,HERONS_ARDEIDAE,Little Egret,,30,47.7035,29.3657,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2016-04-14,17:42
+Vanellus leucurus,Animalia,PLOVERS_CHARADRIIDAE,White-tailed Lapwing,,1,47.7006,29.3657,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2016-04-14,17:29
+Clanga clanga,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Greater Spotted Eagle,,2,47.7001,29.3657,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2016-04-14,17:29
+Argya huttoni,Animalia,Leiothrichidae,Afghan Babbler,,2,47.8105,29.9672,Asia,Kuwait,KW,,Kuwait,2016-04-14,11:25
+Aythya nyroca,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Ferruginous Duck,,3,47.6917,29.3637,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2016-04-13,16:26
+Spatula clypeata,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Northern Shoveler,,4,47.6918,29.3637,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2016-04-13,16:26
+Porphyrio poliocephalus,Animalia,RAILS_RALLIDAE,Grey-headed Swamphen,,1,47.65,29.35,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2016-04-13,15:17
+Ixobrychus minutus,Animalia,HERONS_ARDEIDAE,Little Bittern,,1,47.6907,29.3608,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2016-04-13,15:16
+Aythya nyroca,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Ferruginous Duck,,2,47.6913,29.3634,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2016-04-12,15:44
+Alcedo atthis,Animalia,KINGFISHERS_ALCEDINIDAE,Common Kingfisher,,1,47.6905,29.3604,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2016-04-12,15:29
+Porphyrio poliocephalus,Animalia,RAILS_RALLIDAE,Grey-headed Swamphen,,3,47.65,29.35,Asia,Kuwait,KW,,Kuwait - Jahra Pools,2016-04-12,15:28
+Oena capensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Namaqua Dove,,1,47.7362,29.2545,Asia,Kuwait,KW,,Kuwait - Kuwait city,2016-04-11,15:39

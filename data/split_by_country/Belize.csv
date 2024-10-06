@@ -1,0 +1,213 @@
+scientificName,kingdom,family,vernacularName,previousIdentifications,individualCount,longitudeDecimal,latitudeDecimal,continent,country,countryCode,stateProvince,locality,eventDate,eventTime
+Urocyon cinereoargenteus,Animalia,DOGS_CANIDAE,Grey Fox,,1,-88.939961493,17.3090143817,North America,Belize,BZ,,Belize - Cayo,2015-01-18,
+Didelphis marsupialis,Animalia,OPOSSUMS_DIDELPHIDAE,Common Opossum,,1,-88.9830062538,17.2213351386,North America,Belize,BZ,,Belize - Cayo,2015-01-16,
+Leopardus pardalis,Animalia,CATS_FELIDAE,Ocelot,,1,-88.9423261955,17.3002268238,North America,Belize,BZ,,Belize - Cayo,2015-01-07,
+Ascia monuste,Animalia,WHITES_PIERIDAE,,,1,-89.0677211434,17.1573160421,North America,Belize,BZ,,Belize - Cayo,2015-01-03,
+Panthiades bathildes,Animalia,GOSSAMERWINGED_BUTTERFLIES_LYCAENIDAE,Zebra-striped Hairstreak,,1,-89.0677211434,17.1573160421,North America,Belize,BZ,,Belize - Cayo,2015-01-03,
+Anartia jatrophae,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,White Peacock,,1,-89.0677211434,17.1573160421,North America,Belize,BZ,,Belize - Cayo,2015-01-03,
+Heliconius erato,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Red Postman,,1,-89.0677211434,17.1573160421,North America,Belize,BZ,,Belize - Cayo,2015-01-03,
+Danaus plexippus,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,American Monarch,,1,-89.0677211434,17.1573160421,North America,Belize,BZ,,Belize - Cayo,2015-01-03,
+Chaetodon striatus,Animalia,Butterflyfishes,Banded butterflyfish,,1,-88.0091857945,17.7390077368,North America,Belize,BZ,,Belize - Cay Caulker,2014-11-03,11:00
+Stelgidopteryx serripennis,Animalia,SWALLOWS_HIRUNDINIDAE,Northern Rough-winged Swallow,,1,-88.0366864801,17.7286063044,North America,Belize,BZ,,Belize - Cay Caulker,2014-11-04,11:17
+Passerculus sandwichensis,Animalia,PASSERELLIDAE,Savannah Sparrow,,4,-88.0283796788,17.734903849,North America,Belize,BZ,,Belize - Cay Caulker,2014-11-04,10:24
+Mycteroperca bonaci,Animalia,GROUPERS_AND_FAIRY_BASSLETS,Black grouper,,1,-88.008499149,17.737209232,North America,Belize,BZ,,Belize - Cay Caulker,2014-11-03,11:00
+Dumetella carolinensis,Animalia,THRASHERS_MIMIDAE,Grey Catbird,,1,-88.0259187505559,17.7424039228068,North America,Belize,BZ,,Belize - Cay Caulker,2014-11-04,09:51
+Eudocimus albus,Animalia,IBISSES_AND_SPOONBILLS_THRESKIORNITHIDAE,American White Ibis,,3,-88.0261081059502,17.7424955247282,North America,Belize,BZ,,Belize - Cay Caulker,2014-11-04,09:54
+Streptopelia decaocto,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Eurasian Collared Dove,,6,-88.0260642503893,17.7414715957509,North America,Belize,BZ,,Belize - Cay Caulker,2014-11-04,09:58
+Amazilia rutila,Animalia,HUMMINGBIRDS_TROCHILIDAE,Cinnamon Hummingbird,,1,-88.0265256512267,17.741051884651,North America,Belize,BZ,,Belize - Cay Caulker,2014-11-04,10:05
+Setophaga ruticilla,Animalia,NEW_WORLD_WARBLERS_PARULIDAE,American Redstart,,1,-88.0263626585023,17.7408914594111,North America,Belize,BZ,,Belize - Cay Caulker,2014-11-04,10:07
+Pluvialis squatarola,Animalia,PLOVERS_CHARADRIIDAE,Grey Plover,,1,-88.0278013487945,17.7334131959722,North America,Belize,BZ,,Belize - Cay Caulker,2014-11-04,10:44
+Charadrius semipalmatus,Animalia,PLOVERS_CHARADRIIDAE,Semipalmated Plover,,1,-88.0278013487945,17.7334131959722,North America,Belize,BZ,,Belize - Cay Caulker,2014-11-04,10:44
+Setophaga petechia,Animalia,NEW_WORLD_WARBLERS_PARULIDAE,Mangrove Warbler,,1,-88.027851312741,17.7334446847291,North America,Belize,BZ,,Belize - Cay Caulker,2014-11-04,10:45
+Geothlypis trichas,Animalia,NEW_WORLD_WARBLERS_PARULIDAE,Common Yellowthroat,,1,-88.027851312741,17.7334446847291,North America,Belize,BZ,,Belize - Cay Caulker,2014-11-04,10:45
+Pluvialis squatarola,Animalia,PLOVERS_CHARADRIIDAE,Grey Plover,,1,-88.0305199436194,17.7308369351987,North America,Belize,BZ,,Belize - Cay Caulker,2014-11-04,11:04
+Arenaria interpres,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Ruddy Turnstone,,5,-88.0304605299988,17.7308411508495,North America,Belize,BZ,,Belize - Cay Caulker,2014-11-04,11:05
+Actitis macularius,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Spotted Sandpiper,,1,-88.0366612969737,17.7287488900474,North America,Belize,BZ,,Belize - Cay Caulker,2014-11-04,11:21
+Coereba flaveola,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Bananaquit,,1,-88.032652649156,17.7295333980605,North America,Belize,BZ,,Belize - Cay Caulker,2014-11-04,11:34
+Tringa semipalmata,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Willet,,1,-88.0300024915227,17.7310954830333,North America,Belize,BZ,,Belize - Cay Caulker,2014-11-04,11:51
+Calidris minutilla,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Least Sandpiper,,2,-88.0300295029129,17.7311236055851,North America,Belize,BZ,,Belize - Cay Caulker,2014-11-04,11:51
+Actitis macularius,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Spotted Sandpiper,,1,-88.0300295029129,17.7311236055851,North America,Belize,BZ,,Belize - Cay Caulker,2014-11-04,11:51
+Egretta rufescens,Animalia,HERONS_ARDEIDAE,Reddish Egret,,1,-88.0298777895211,17.7315964886088,North America,Belize,BZ,,Belize - Cay Caulker,2014-11-04,11:54
+Nyctanassa violacea,Animalia,HERONS_ARDEIDAE,Yellow-crowned Night Heron,,1,-88.0279704360436,17.7332056059897,North America,Belize,BZ,,Belize - Cay Caulker,2014-11-04,12:02
+Zenaida asiatica,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,White-winged Dove,,1,-88.0272269817834,17.7381783118935,North America,Belize,BZ,,Belize - Cay Caulker,2014-11-03,14:54
+Eudocimus albus,Animalia,IBISSES_AND_SPOONBILLS_THRESKIORNITHIDAE,American White Ibis,,3,-88.0259727399083,17.7421443624363,North America,Belize,BZ,,Belize - Cay Caulker,2014-11-03,15:03
+Arenaria interpres,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Ruddy Turnstone,,4,-88.0236111170629,17.7465918531466,North America,Belize,BZ,,Belize - Cay Caulker,2014-11-03,15:40
+Ginglymostoma cirratum,Animalia,NURSE_SHARKS,Nurse Shark,,10,-88.0065527558,17.7383034092,North America,Belize,BZ,,Belize - Cay Caulker,2014-11-03,11:00
+Fregata magnificens,Animalia,FRIGATEBIRDS_FREGATTIDAE,Magnificent Frigatebird,,8,-88.0243550839835,17.7423266413489,North America,Belize,BZ,,Belize - Cay Caulker,2014-11-03,07:27
+Setophaga dominica,Animalia,NEW_WORLD_WARBLERS_PARULIDAE,Yellow-throated Warbler,,1,-88.024355084,17.7423266413,North America,Belize,BZ,,Belize - Cay Caulker,2014-11-02,16:30
+Parkesia noveboracensis,Animalia,NEW_WORLD_WARBLERS_PARULIDAE,Northern Waterthrush,,1,-88.564659822199,17.3234474750113,North America,Belize,BZ,,Belize - Cayo,2014-11-02,13:23
+Charadrius vociferus,Animalia,PLOVERS_CHARADRIIDAE,Killdeer,,1,-88.6,17.3,North America,Belize,BZ,,Belize - Cayo,2014-11-02,13:23
+Psilorhinus morio,Animalia,CROWS_AND_JAYS_CORVIDAE,Brown Jay,,1,-88.5648412491638,17.3237338532495,North America,Belize,BZ,,Belize - Cayo,2014-11-02,13:56
+Setophaga magnolia,Animalia,NEW_WORLD_WARBLERS_PARULIDAE,Magnolia Warbler,,1,-88.5648412491638,17.3237338532495,North America,Belize,BZ,,Belize - Cayo,2014-11-02,13:56
+Sporophila morelleti,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Morelet's Seedeater,,5,-88.53904118,17.36566315,North America,Belize,BZ,,Belize - Belize,2014-07-21,14:41
+Schiffornis veraepacis veraepacis,Animalia,Tityridae,Northern Schiffornis ssp veraepacis,,1,-88.640441894531,16.783505561928,North America,Belize,BZ,,Belize - Belize,2005-08-10,
+Pyrocephalus obscurus,Animalia,TYRANT_FLYCATCHERS_TYRANNIDAE,Vermilion Flycatcher,,1,-88.544311523438,17.698978562262,North America,Belize,BZ,,Belize - Orange Walk,2005-08-10,
+Sporophila morelleti,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Morelet's Seedeater,,10,-88.65966796875,16.736167140985,North America,Belize,BZ,,Belize - Belize,2005-07-15,
+Myiobius sulphureipygius sulphureipygius,Animalia,Tityridae,Sulphur-rumped Myiobius ssp sulphureipygius,,2,-88.648681640625,16.730906589734,North America,Belize,BZ,,Belize - Belize,2005-07-15,
+Pelecanus occidentalis,Animalia,PELICANS_PELECANIDAE,Brown Pelican,,1,-88.0163405919,17.763700183,North America,Belize,BZ,,Belize - Cay Caulker,2012-01-12,
+Leucophaeus atricilla,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Laughing Gull,,1,-88.0324602127,17.7409315713,North America,Belize,BZ,,Belize - Cay Caulker,2012-01-10,
+Pelecanus occidentalis,Animalia,PELICANS_PELECANIDAE,Brown Pelican,,1,-88.0324602127,17.7409315713,North America,Belize,BZ,,Belize - Cay Caulker,2012-01-10,
+Egretta caerulea,Animalia,HERONS_ARDEIDAE,Little Blue Heron,,1,-88.01522717506519,17.7696989586,North America,Belize,BZ,,Belize - Cay Caulker,2012-01-06,
+Calidris minutilla,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Least Sandpiper,,10,-88.03211689,17.7389695862,North America,Belize,BZ,,Belize - Cay Caulker,2012-01-06,
+Himantopus mexicanus,Animalia,STILTS_AND_AVOCETS_RECURVIROSTRIDAE,Black-necked Stilt,,1,-88.033490181,17.7363535728,North America,Belize,BZ,,Belize - Cay Caulker,2012-01-06,
+Sphyrapicus varius,Animalia,WOODPECKERS_PICIDAE,Yellow-bellied Sapsucker,,1,-88.030743599,17.7379885857,North America,Belize,BZ,,Belize - Cay Caulker,2012-01-06,
+Mimus gilvus,Animalia,THRASHERS_MIMIDAE,Tropical Mockingbird,,1,-88.01472112994463,17.7718704758,North America,Belize,BZ,,Belize - Cay Caulker,2012-01-06,
+Dumetella carolinensis,Animalia,THRASHERS_MIMIDAE,Grey Catbird,,1,-88.0300569534,17.7386425867,North America,Belize,BZ,,Belize - Cay Caulker,2012-01-06,
+Patagioenas leucocephala,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,White-crowned Pigeon,,1,-88.0286836624,17.7396235836,North America,Belize,BZ,,Belize - Cay Caulker,2012-01-06,
+Eudocimus albus,Animalia,IBISSES_AND_SPOONBILLS_THRESKIORNITHIDAE,American White Ibis,,1,-88.0163405919,17.763700183,North America,Belize,BZ,,Belize - Cay Caulker,2012-01-06,
+Coereba flaveola,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Bananaquit,,1,-88.0252504349,17.7392965852,North America,Belize,BZ,,Belize - Cay Caulker,2012-01-06,
+Setophaga petechia bryanti,Animalia,NEW_WORLD_WARBLERS_PARULIDAE,Mangrove Warbler ssp bryanti,,1,-88.0283403397,17.7428935348,North America,Belize,BZ,,Belize - Cay Caulker,2012-01-06,
+Thalasseus acuflavidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Cabot's Tern,,1,-88.0276536942,17.7520490803,North America,Belize,BZ,,Belize - Cay Caulker,2012-01-06,
+Fregata magnificens,Animalia,FRIGATEBIRDS_FREGATTIDAE,Magnificent Frigatebird,,30,-88.0194139481,17.7631658987,North America,Belize,BZ,,Belize - Cay Caulker,2012-01-06,
+Turdus assimilis,Animalia,THRUSHES_TURDIDAE,White-throated Thrush,,1,-88.6061401367,16.7550886204,North America,Belize,BZ,,Belize - Belize,2003-07-09,
+Melanerpes santacruzi,Animalia,WOODPECKERS_PICIDAE,Velasquez's Woodpecker,,1,-88.6061401367,16.7550886204,North America,Belize,BZ,,Belize - Belize,2003-07-09,
+Phaethornis striigularis saturatus,Animalia,HUMMINGBIRDS_TROCHILIDAE,Stripe-throated Hermit ssp saturatus,,1,-88.6061401367,16.7550886204,North America,Belize,BZ,,Belize - Belize,2003-07-09,
+Phaethornis striigularis saturatus,Animalia,HUMMINGBIRDS_TROCHILIDAE,Stripe-throated Hermit ssp saturatus,,1,-88.6061401367,16.7550886204,North America,Belize,BZ,,Belize - Belize,2003-07-09,
+Sporophila morelleti,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Morelet's Seedeater,,1,-88.85518043898628,17.820400585263002,North America,Belize,BZ,,Belize - Orange Walk,2003-07-01,
+Pyrocephalus obscurus,Animalia,TYRANT_FLYCATCHERS_TYRANNIDAE,Vermilion Flycatcher,,1,-88.85518043898628,17.820400585263002,North America,Belize,BZ,,Belize - Orange Walk,2003-07-01,
+Melanerpes santacruzi,Animalia,WOODPECKERS_PICIDAE,Velasquez's Woodpecker,,1,-88.85518043898628,17.820400585263002,North America,Belize,BZ,,Belize - Orange Walk,2003-07-01,
+Erythrodiplax berenice,Animalia,SKIMMERS_LIBELLULIDAE,Seaside Dragonlet,,1,-87.8317451477,18.301728693,North America,Belize,BZ,,Belize - Corozal,2011-10-18,
+Falco columbarius,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Merlin,,1,-87.8360366821,18.262935575,North America,Belize,BZ,,Belize - Corozal,2011-10-18,
+Cyanocorax yucatanicus,Animalia,CROWS_AND_JAYS_CORVIDAE,Yucatan Jay,,1,-87.8307151794,18.3028695357,North America,Belize,BZ,,Belize - Corozal,2011-10-18,
+Melanerpes santacruzi,Animalia,WOODPECKERS_PICIDAE,Velasquez's Woodpecker,,1,-87.8307151794,18.3028695357,North America,Belize,BZ,,Belize - Corozal,2011-10-18,
+Megaceryle alcyon,Animalia,KINGFISHERS_ALCEDINIDAE,Belted Kingfisher,,1,-87.8307151794,18.3028695357,North America,Belize,BZ,,Belize - Corozal,2011-10-18,
+Calidris minutilla,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Least Sandpiper,,1,-87.8307151794,18.3028695357,North America,Belize,BZ,,Belize - Corozal,2011-10-18,
+Falco sparverius,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,American Kestrel,,1,-87.8307151794,18.3028695357,North America,Belize,BZ,,Belize - Corozal,2011-10-18,
+Pandion haliaetus,Animalia,OSPREY_PANDIONIDAE,Western Osprey,,1,-87.8307151794,18.3028695357,North America,Belize,BZ,,Belize - Corozal,2011-10-18,
+Nyctanassa violacea,Animalia,HERONS_ARDEIDAE,Yellow-crowned Night Heron,,1,-87.8307151794,18.3028695357,North America,Belize,BZ,,Belize - Corozal,2011-10-18,
+Pelecanus occidentalis,Animalia,PELICANS_PELECANIDAE,Brown Pelican,,1,-87.8307151794,18.3028695357,North America,Belize,BZ,,Belize - Corozal,2011-10-18,
+Spatula discors,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Blue-winged Teal,,30,-87.8307151794,18.3028695357,North America,Belize,BZ,,Belize - Corozal,2011-10-18,
+Nyctanassa violacea,Animalia,HERONS_ARDEIDAE,Yellow-crowned Night Heron,,1,-87.8351783752,18.2840039227,North America,Belize,BZ,,Belize - Corozal,2011-10-17,
+Triacanthagyna caribbea,Animalia,DARNERS_AESHNIDAE,Caribbean Duskhawker,,1,-88.98333,16.96667,North America,Belize,BZ,,Belize - Cayo,1996-01-05,
+Tramea calverti,Animalia,SKIMMERS_LIBELLULIDAE,Striped Saddlebags,,1,-88.8,16.1,North America,Belize,BZ,,Belize - Toledo,1996-01-08,
+Tholymis citrina,Animalia,SKIMMERS_LIBELLULIDAE,Evening Skimmer,,1,-88.98333,16.96667,North America,Belize,BZ,,Belize - Cayo,1996-01-05,
+Orthemis ferruginea,Animalia,SKIMMERS_LIBELLULIDAE,Roseate Skimmer,,1,-88.76667,17.25,North America,Belize,BZ,,Belize - Cayo,1996-01-04,
+Ischnura ramburii,Animalia,POND_DAMSELS_COENAGRIONIDAE,Rambur's Forktail,,1,-88.76667,17.25,North America,Belize,BZ,,Belize - Cayo,1996-01-04,
+Ischnura hastata,Animalia,POND_DAMSELS_COENAGRIONIDAE,Citrine Forktail,,1,-88.76667,17.25,North America,Belize,BZ,,Belize - Cayo,1996-01-04,
+Gynacantha nervosa,Animalia,DARNERS_AESHNIDAE,Twilight Darner,,1,-88.98333,16.96667,North America,Belize,BZ,,Belize - Cayo,1996-01-05,
+Erythrodiplax umbrata,Animalia,SKIMMERS_LIBELLULIDAE,Band-winged Dragonlet,,1,-88.98333,16.96667,North America,Belize,BZ,,Belize - Cayo,1996-01-05,
+Cannaphila insularis,Animalia,SKIMMERS_LIBELLULIDAE,Gray-waisted Skimmer,,1,-88.9833,16.9667,North America,Belize,BZ,,Belize - Cayo,1983-07-22,
+Pyrocephalus obscurus,Animalia,TYRANT_FLYCATCHERS_TYRANNIDAE,Vermilion Flycatcher,,1,-87.9589462281,17.930808804,North America,Belize,BZ,,Belize - Corozal,2009-12-14,
+Conocarpus erectus,Plantae,Combretaceae,Button Mangrove,,1,-87.8749662638,18.2636283854,North America,Belize,BZ,,Belize - Corozal,2011-04-28,
+Lantana camara,Plantae,VERBENACEAE,Largeleaf lantana,,1,-87.8488951921,18.3135136429,North America,Belize,BZ,,Belize - Corozal,2011-04-28,
+Fregata magnificens,Animalia,FRIGATEBIRDS_FREGATTIDAE,Magnificent Frigatebird,,1,-88.0334472656,17.7774587142,North America,Belize,BZ,,Belize - Cay Caulker,2007-04-25,
+Sporophila morelleti,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Morelet's Seedeater,,1,-88.6782073974,16.903113921,North America,Belize,BZ,,Belize - Cayo,2005-08-07,
+Myiobius sulphureipygius sulphureipygius,Animalia,Tityridae,Sulphur-rumped Myiobius ssp sulphureipygius,,1,-88.8663482666,16.6098739195,North America,Belize,BZ,,Belize - Toledo,2005-08-04,
+Amazona guatemalae guatemalae,Animalia,PARROTS_PSITTACIDAE,Northern Mealy Amazon ssp guatemalae,,1,-88.8320159912,17.1867150062,North America,Belize,BZ,,Belize - Cayo,2005-08-01,
+Rissa tridactyla,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black-legged Kittiwake,,1,-88.0232334137,17.7472969748,North America,Belize,BZ,,Belize - Cay Caulker,2000-01-09,
+Eudocimus albus,Animalia,IBISSES_AND_SPOONBILLS_THRESKIORNITHIDAE,American White Ibis,,1,-88.0285549164,17.7333178594,North America,Belize,BZ,,Belize - Cay Caulker,2004-12-01,
+Pandion haliaetus ridgwayi,Animalia,OSPREY_PANDIONIDAE,Western Osprey ssp ridgwayi,,1,-88.0285549164,17.7333178594,North America,Belize,BZ,,Belize - Cay Caulker,2004-12-01,
+Egretta caerulea,Animalia,HERONS_ARDEIDAE,Little Blue Heron,,1,-88.0285549164,17.7333178594,North America,Belize,BZ,,Belize - Cay Caulker,2004-12-01,
+Fregata magnificens,Animalia,FRIGATEBIRDS_FREGATTIDAE,Magnificent Frigatebird,,2,-88.0285549164,17.7333178594,North America,Belize,BZ,,Belize - Cay Caulker,2004-12-01,
+Nyctanassa violacea violacea,Animalia,HERONS_ARDEIDAE,Yellow-crowned Night Heron ssp violacea,,1,-88.0285549164,17.7333178594,North America,Belize,BZ,,Belize - Cay Caulker,2004-12-01,
+Leucophaeus atricilla,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Laughing Gull,,1,-88.0285549164,17.7333178594,North America,Belize,BZ,,Belize - Cay Caulker,2004-12-01,
+Basiliscus vittatus,Animalia,Corytophanidae,Striped Basilisk,,1,-88.0288982391,17.7320752189,North America,Belize,BZ,,Belize - Cay Caulker,2004-11-30,
+Pandion haliaetus ridgwayi,Animalia,OSPREY_PANDIONIDAE,Western Osprey ssp ridgwayi,,1,-88.0319023132,17.7307126638,North America,Belize,BZ,,Belize - Cay Caulker,2004-11-30,
+Melanerpes santacruzi,Animalia,WOODPECKERS_PICIDAE,Velasquez's Woodpecker,,1,-88.0319023132,17.7307126638,North America,Belize,BZ,,Belize - Cay Caulker,2004-11-30,
+Eudocimus albus,Animalia,IBISSES_AND_SPOONBILLS_THRESKIORNITHIDAE,American White Ibis,,1,-88.0303573608,17.731175934,North America,Belize,BZ,,Belize - Cay Caulker,2004-11-30,
+Egretta caerulea,Animalia,HERONS_ARDEIDAE,Little Blue Heron,,1,-88.0303573608,17.731175934,North America,Belize,BZ,,Belize - Cay Caulker,2004-11-30,
+Fregata magnificens,Animalia,FRIGATEBIRDS_FREGATTIDAE,Magnificent Frigatebird,,1,-88.0303573608,17.731175934,North America,Belize,BZ,,Belize - Cay Caulker,2004-11-30,
+Fregata magnificens,Animalia,FRIGATEBIRDS_FREGATTIDAE,Magnificent Frigatebird,,1,-88.0279541016,17.7331380043,North America,Belize,BZ,,Belize - Cay Caulker,2004-11-29,
+Fregata magnificens,Animalia,FRIGATEBIRDS_FREGATTIDAE,Magnificent Frigatebird,,10,-88.02498458627,17.746397904568724,North America,Belize,BZ,,Belize - Cay Caulker,2020-01-18,14:35
+Buteo plagiatus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Grey Hawk,,1,-88.30992937,17.58724872,North America,Belize,BZ,,Belize - Belize,1995-03-09,
+Caretta caretta,Animalia,Cheloniidae,Loggerhead,,1,-87.99470812,17.83541789,North America,Belize,BZ,,Belize - Belize,2019-09-24,
+Trichechus manatus manatus,Animalia,MANATEES_TRICHECHIDAE,Caribbean Manatee,,1,-88.00454915,17.806267,North America,Belize,BZ,,Belize - Cay Caulker,2019-09-24,
+Pelecanus occidentalis,Animalia,PELICANS_PELECANIDAE,Brown Pelican,,12,-88.0237731933594,17.7478923797607,North America,Belize,BZ,,Belize - Cay Caulker,2019-09-23,06:56
+Calidris minutilla,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Least Sandpiper,,4,-88.0237731933594,17.7478923797607,North America,Belize,BZ,,Belize - Cay Caulker,2019-09-23,06:57
+Actitis macularius,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Spotted Sandpiper,,1,-88.0237731933594,17.7478923797607,North America,Belize,BZ,,Belize - Cay Caulker,2019-09-23,06:57
+Thalasseus acuflavidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Cabot's Tern,,1,-88.0237731933594,17.7478923797607,North America,Belize,BZ,,Belize - Cay Caulker,2019-09-23,06:57
+Thalasseus maximus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Royal Tern,,2,-88.0237731933594,17.7478923797607,North America,Belize,BZ,,Belize - Cay Caulker,2019-09-23,06:58
+Fregata magnificens,Animalia,FRIGATEBIRDS_FREGATTIDAE,Magnificent Frigatebird,,15,-88.0237731933594,17.7478923797607,North America,Belize,BZ,,Belize - Cay Caulker,2019-09-23,06:58
+Pandion haliaetus carolinensis,Animalia,OSPREY_PANDIONIDAE,American Osprey,,1,-88.0237731933594,17.7478923797607,North America,Belize,BZ,,Belize - Cay Caulker,2019-09-23,06:58
+Melanerpes santacruzi dubius,Animalia,WOODPECKERS_PICIDAE,Velasquez's Woodpecker ssp dubius,,15,-89.0699920654297,17.1493511199951,North America,Belize,BZ,,Belize - Cayo,2019-09-20,16:34
+Melanerpes santacruzi,Animalia,WOODPECKERS_PICIDAE,Velasquez's Woodpecker,,2,-88.3617443,16.530847,North America,Belize,BZ,,Belize - Belize,2019-01-14,06:00
+Melanerpes santacruzi,Animalia,WOODPECKERS_PICIDAE,Velasquez's Woodpecker,,1,-88.3603468,16.5935845,North America,Belize,BZ,,Belize - Belize,2019-01-18,06:00
+Melanerpes santacruzi,Animalia,WOODPECKERS_PICIDAE,Velasquez's Woodpecker,,1,-88.3613815,16.5287292,North America,Belize,BZ,,Belize - Belize,2019-01-17,06:17
+Thalasseus acuflavidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Cabot's Tern,,4,-88.3603468,16.5935845,North America,Belize,BZ,,Belize - Belize,2019-01-18,06:00
+Sula leucogaster,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Brown Booby,,1,-88.36761017,16.53580243,North America,Belize,BZ,,Belize - Belize,2002-12-06,
+Myiobius sulphureipygius sulphureipygius,Animalia,Tityridae,Sulphur-rumped Myiobius ssp sulphureipygius,,1,-88.4590239822865,16.7804567340078,North America,Belize,BZ,,Belize - Cockscomb Basin Wildlife Sanctuary,2019-04-30,10:30
+Tyto furcata pratincola,Animalia,BARN_OWLS_TYTONIDAE,American Barn Owl ssp pratincola,,1,-89.0614642202854,17.0478554244329,North America,Belize,BZ,,Belize - Cayo,2019-05-05,21:35
+Melanerpes santacruzi,Animalia,WOODPECKERS_PICIDAE,Velasquez's Woodpecker,,1,-89.0614642202854,17.0478554244329,North America,Belize,BZ,,Belize - Cayo,2019-05-06,06:05
+Amazilia candida,Animalia,HUMMINGBIRDS_TROCHILIDAE,White-bellied Emerald,,1,-89.0926513671875,17.5901889801025,North America,Belize,BZ,,Belize - Orange Walk,2019-05-08,16:28
+Amazona oratrix belizensis,Animalia,PARROTS_PSITTACIDAE,Yellow-headed Amazon ssp belizensis,,1,-89.1140594482422,17.54319190979,North America,Belize,BZ,,Belize - Orange Walk,2019-05-09,07:10
+Aramides albiventris albiventris,Animalia,RAILS_RALLIDAE,Rufous-naped Wood Rail ssp albiventris,,1,-88.5287399291992,17.7702922821045,North America,Belize,BZ,,Belize - Belize,2019-05-11,05:47
+Thalasseus acuflavidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Cabot's Tern,,5,-88.800704,16.102722,North America,Belize,BZ,,Belize - Toledo,2017-05-26,09:15
+Actitis macularius,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Spotted Sandpiper,,6,-88.0234654247761,17.7467356086188,North America,Belize,BZ,,Belize - Cay Caulker,2018-08-17,17:22
+Sporophila morelleti,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Morelet's Seedeater,,1,-88.5352031705523,17.5542630315063,North America,Belize,BZ,,Belize - Belize,2018-08-18,15:42
+Pelecanus occidentalis,Animalia,PELICANS_PELECANIDAE,Brown Pelican,,11,-88.02349005,17.74393391,North America,Belize,BZ,,Belize - Cay Caulker,2006-03-05,
+Mimus gilvus,Animalia,THRASHERS_MIMIDAE,Tropical Mockingbird,,1,-88.18558645,17.49746144,North America,Belize,BZ,,Belize - Belize-city,2006-03-04,
+Numenius hudsonicus hudsonicus,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Hudsonian Whimbrel ssp hudsonicus,,1,-88.02398615,17.74606097,North America,Belize,BZ,,Belize - Cay Caulker,2006-03-05,
+Pandion haliaetus ridgwayi,Animalia,OSPREY_PANDIONIDAE,Western Osprey ssp ridgwayi,,1,-88.0236909,17.74595225,North America,Belize,BZ,,Belize - Cay Caulker,2006-03-08,
+Pyrisitia lisa,Animalia,WHITES_PIERIDAE,Little Yellow,,1,-89.07440186,17.13812478,North America,Belize,BZ,,Belize - Cayo,2016-03-30,13:00
+Chelonia mydas,Animalia,Cheloniidae,Green Turtle,,1,-88.01994324,17.79341214,North America,Belize,BZ,,Belize - Cay Caulker,2010-07-31,
+Trichechus manatus,Animalia,MANATEES_TRICHECHIDAE,West Indian Manatee,,1,-88.01994324,17.79341214,North America,Belize,BZ,,Belize - Cay Caulker,2010-07-31,
+Fregata magnificens,Animalia,FRIGATEBIRDS_FREGATTIDAE,Magnificent Frigatebird,,1,-88.01994324,17.79341214,North America,Belize,BZ,,Belize - Cay Caulker,2010-07-31,
+Pelecanus occidentalis,Animalia,PELICANS_PELECANIDAE,Brown Pelican,,1,-88.01994324,17.79341214,North America,Belize,BZ,,Belize - Cay Caulker,2010-07-31,
+Aramides albiventris albiventris,Animalia,RAILS_RALLIDAE,Rufous-naped Wood Rail ssp albiventris,,1,-89.01798249,17.83906329,North America,Belize,BZ,,Belize - Orange Walk,2010-07-28,
+Amazona guatemalae guatemalae,Animalia,PARROTS_PSITTACIDAE,Northern Mealy Amazon ssp guatemalae,,1,-89.01798249,17.83906329,North America,Belize,BZ,,Belize - Orange Walk,2010-07-28,
+Boa constrictor,Animalia,Boidae,Boa Constrictor,,1,-88.5262298305,16.781182753,North America,Belize,BZ,,Belize - Belize,2015-12-25,14:00
+Panthera onca,Animalia,CATS_FELIDAE,Jaguar,,87,-88.73715964524295,16.68725811201,North America,Belize,BZ,,Belize - Cockscomb Basin Wildlife Sanctuary,2015-12-25,14:00
+Pecari tajacu,Animalia,PECCARIES_TAYASSUIDAE,Collared Peccary,,8,-88.5262298305,16.781182753,North America,Belize,BZ,,Belize - Belize,2015-12-25,14:00
+Rupornis magnirostris,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Roadside Hawk,,3,-88.5262298305,16.781182753,North America,Belize,BZ,,Belize - Belize,2015-12-25,14:00
+Cathartes aura,Animalia,NEW_WORLD_VULTURES_CATHARTIDAE,Turkey Vulture,,3,-88.5262298305,16.781182753,North America,Belize,BZ,,Belize - Belize,2015-12-25,14:00
+Thalasseus maximus maximus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,,,1,-88.3740234375,17.7486866517,North America,Belize,BZ,,Belize - Belize,1996-08-17,
+Phalacrocorax brasilianus,Animalia,CORMORANTS_PHALACROCORACIDAE,Neotropic Cormorant,,1,-89.1291656494,17.0874271393,North America,Belize,BZ,,Belize - Cayo,2003-05-09,14:47
+Pyrocephalus obscurus,Animalia,TYRANT_FLYCATCHERS_TYRANNIDAE,Vermilion Flycatcher,,2,-88.5209655762,17.7362609218,North America,Belize,BZ,,Belize - Belize,2003-11-29,
+Pyrocephalus obscurus,Animalia,TYRANT_FLYCATCHERS_TYRANNIDAE,Vermilion Flycatcher,,2,-88.5353851318,17.718928859,North America,Belize,BZ,,Belize - Orange Walk,2003-11-28,
+Melanerpes santacruzi,Animalia,WOODPECKERS_PICIDAE,Velasquez's Woodpecker,,1,-88.5353851318,17.718928859,North America,Belize,BZ,,Belize - Orange Walk,2003-11-28,
+Sporophila morelleti,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Morelet's Seedeater,,15,-88.5353851318,17.718928859,North America,Belize,BZ,,Belize - Orange Walk,2003-11-28,
+Tetragonisca angustula,Animalia,Apidae,,,50,-89.0685617919,17.0951087441,North America,Belize,BZ,,Belize - Cayo,2015-04-17,
+Crotophaga sulcirostris,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,Groove-billed Ani,,1,-88.5357034209,17.7901589419,North America,Belize,BZ,,Belize - Orange Walk,2015-03-16,
+Piaya cayana,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,Squirrel Cuckoo,,1,-88.1650829333,18.3254254392,North America,Belize,BZ,,Belize - Corozal,2015-03-18,
+Herpetotheres cachinnans,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Laughing Falcon,,1,-88.5310363778,17.7702361627,North America,Belize,BZ,,Belize - Orange Walk,2015-03-16,
+Platalea ajaja,Animalia,IBISSES_AND_SPOONBILLS_THRESKIORNITHIDAE,Roseate Spoonbill,,5,-88.5270881662,17.7242948895,North America,Belize,BZ,,Belize - Belize,2015-03-16,
+Nycticorax nycticorax,Animalia,HERONS_ARDEIDAE,Black-crowned Night Heron,,1,-88.5270881662,17.7242948895,North America,Belize,BZ,,Belize - Belize,2015-03-16,
+Heliornis fulica,Animalia,FINFOOTS_HELIORNITHIDAE,Sungrebe,,1,-88.5270881662,17.7242948895,North America,Belize,BZ,,Belize - Belize,2015-03-16,
+Porphyrio martinica,Animalia,RAILS_RALLIDAE,Purple Gallinule,,1,-88.5270881662,17.7242948895,North America,Belize,BZ,,Belize - Belize,2015-03-16,
+Mycteria americana,Animalia,STORKS_CICONIIDAE,Wood Stork,,5,-88.5270881662,17.7242948895,North America,Belize,BZ,,Belize - Belize,2015-03-16,
+Buteogallus urubitinga,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Great Black Hawk,,1,-88.5270881662,17.7242948895,North America,Belize,BZ,,Belize - Belize,2015-03-16,
+Tigrisoma mexicanum,Animalia,HERONS_ARDEIDAE,Bare-throated Tiger Heron,,1,-88.5270881662,17.7242948895,North America,Belize,BZ,,Belize - Belize,2015-03-16,
+Rostrhamus sociabilis,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Snail Kite,,4,-88.5270881662,17.7242948895,North America,Belize,BZ,,Belize - Belize,2015-03-16,
+Cardinalis cardinalis,Animalia,GROSBEAKS_SALTATORS_ALLIES_CARDINALIDAE,Northern Cardinal,,1,-88.5270881662,17.7242948895,North America,Belize,BZ,,Belize - Belize,2015-03-16,
+Cathartes burrovianus,Animalia,NEW_WORLD_VULTURES_CATHARTIDAE,Lesser Yellow-headed Vulture,,1,-88.5270881662,17.7242948895,North America,Belize,BZ,,Belize - Belize,2015-03-16,
+Megaceryle torquata,Animalia,KINGFISHERS_ALCEDINIDAE,Ringed Kingfisher,,1,-88.528404235,17.7462042969,North America,Belize,BZ,,Belize - Belize,2015-03-16,
+Chloroceryle americana,Animalia,KINGFISHERS_ALCEDINIDAE,Green Kingfisher,,1,-88.5290908805,17.7609180658,North America,Belize,BZ,,Belize - Orange Walk,2015-03-16,
+Spatula discors,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Blue-winged Teal,,20,-88.5296630868,17.7686559394,North America,Belize,BZ,,Belize - Orange Walk,2015-03-16,
+Plegadis falcinellus,Animalia,IBISSES_AND_SPOONBILLS_THRESKIORNITHIDAE,Glossy Ibis,,1,-88.5296630868,17.7686559394,North America,Belize,BZ,,Belize - Orange Walk,2015-03-16,
+Iguana iguana,Animalia,Iguanidae,Common Green Iguana,,5,-88.5296630868,17.7686559394,North America,Belize,BZ,,Belize - Orange Walk,2015-03-16,
+Egretta tricolor,Animalia,HERONS_ARDEIDAE,Tricolored Heron,,1,-88.5293197634,17.7731193601,North America,Belize,BZ,,Belize - Orange Walk,2015-03-16,
+Jacana spinosa,Animalia,JACANAS_JACANIDAE,Northern Jacana,,2,-88.5332250604,17.7859511729,North America,Belize,BZ,,Belize - Orange Walk,2015-03-16,
+Protonotaria citrea,Animalia,NEW_WORLD_WARBLERS_PARULIDAE,Prothonotary Warbler,,2,-88.5332250604,17.7859511729,North America,Belize,BZ,,Belize - Orange Walk,2015-03-16,
+Eudocimus albus,Animalia,IBISSES_AND_SPOONBILLS_THRESKIORNITHIDAE,American White Ibis,,1,-88.5324954995,17.785005165,North America,Belize,BZ,,Belize - Orange Walk,2015-03-16,
+Aramides albiventris albiventris,Animalia,RAILS_RALLIDAE,Rufous-naped Wood Rail ssp albiventris,,2,-88.5324954995,17.785005165,North America,Belize,BZ,,Belize - Orange Walk,2015-03-16,
+Pyrocephalus obscurus,Animalia,TYRANT_FLYCATCHERS_TYRANNIDAE,Vermilion Flycatcher,,1,-88.5361772777,17.7912563709,North America,Belize,BZ,,Belize - Orange Walk,2015-03-16,
+Pteroglossus torquatus,Animalia,TOUCANS_BARBETS_RAMPHASTIDAE,Collared Aracari,,4,-89.068547487,17.0952739322,North America,Belize,BZ,,Belize - Cayo,2015-03-14,
+Thraupis episcopus,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Blue-grey Tanager,,2,-88.5364347697,17.7911882659,North America,Belize,BZ,,Belize - Orange Walk,2015-03-15,
+Tachycineta albilinea,Animalia,SWALLOWS_HIRUNDINIDAE,Mangrove Swallow,,2,-88.2682254911,16.8215335372,North America,Belize,BZ,,Belize - Belize,2015-03-12,
+Tringa melanoleuca,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Greater Yellowlegs,,1,-88.289752007,16.8625029991,North America,Belize,BZ,,Belize - Belize,2015-03-12,
+Egretta tricolor,Animalia,HERONS_ARDEIDAE,Tricolored Heron,,1,-88.289752007,16.8625029991,North America,Belize,BZ,,Belize - Belize,2015-03-12,
+Pseudastur albicollis,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,White Hawk,,1,-88.4468650835,16.7870938163,North America,Belize,BZ,,Belize - Belize,2015-03-11,
+Rupornis magnirostris,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Roadside Hawk,,1,-88.4449768031,16.7911599647,North America,Belize,BZ,,Belize - Belize,2015-03-11,
+Chloroceryle amazona,Animalia,KINGFISHERS_ALCEDINIDAE,Amazon Kingfisher,,1,-88.2903742791,16.8620306919,North America,Belize,BZ,,Belize - Belize,2015-03-12,
+Ramphastos sulfuratus,Animalia,TOUCANS_BARBETS_RAMPHASTIDAE,Keel-billed Toucan,,1,-88.4569716445,16.7833959963,North America,Belize,BZ,,Belize - Belize,2015-03-11,
+Pecari tajacu,Animalia,PECCARIES_TAYASSUIDAE,Collared Peccary,,5,-88.4533882132,16.7843204577,North America,Belize,BZ,,Belize - Belize,2015-03-11,
+Sciurus deppei,Animalia,SQUIRRELS_CHIPMUNKS_AND_PRAIRIEDOGS_SCIURIDAE,Deppe's Squirrel,,1,-88.46158505,16.77938994,North America,Belize,BZ,,Belize - Belize,2015-03-11,
+Penelope purpurascens,Animalia,CURASSOWS_GUANS_AND_CHACHALACAS_CRACIDAE,Crested Guan,,1,-88.4623789805,16.7789790611,North America,Belize,BZ,,Belize - Belize,2015-03-11,
+Galbula ruficauda,Animalia,JACAMARS_GALBULIDAE,Rufous-tailed Jacamar,,1,-88.4607911127,16.7795337516,North America,Belize,BZ,,Belize - Belize,2015-03-11,
+Habia fuscicauda,Animalia,GROSBEAKS_SALTATORS_ALLIES_CARDINALIDAE,Red-throated Ant Tanager,,1,-88.4084987645,16.7975294939,North America,Belize,BZ,,Belize - Belize,2015-03-10,
+Pteroglossus torquatus,Animalia,TOUCANS_BARBETS_RAMPHASTIDAE,Collared Aracari,,3,-88.3835864068,16.79746787,North America,Belize,BZ,,Belize - Belize,2015-03-10,
+Trogon massena,Animalia,TROGONS_TROGONIDAE,Slaty-tailed Trogon,,1,-88.3835864068,16.79746787,North America,Belize,BZ,,Belize - Belize,2015-03-10,
+Elanoides forficatus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Swallow-tailed Kite,,1,-88.3838653566,16.7981663009,North America,Belize,BZ,,Belize - Belize,2015-03-10,
+Ramphastos sulfuratus,Animalia,TOUCANS_BARBETS_RAMPHASTIDAE,Keel-billed Toucan,,1,-88.3838653566,16.7981663009,North America,Belize,BZ,,Belize - Belize,2015-03-09,
+Pteroglossus torquatus,Animalia,TOUCANS_BARBETS_RAMPHASTIDAE,Collared Aracari,,1,-88.9380884179,16.1657405706,North America,Belize,BZ,,Belize - Toledo,2015-03-09,
+Ramphocelus sanguinolentus,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Crimson-collared Tanager,,1,-88.9663338666,16.1764533078,North America,Belize,BZ,,Belize - Toledo,2015-03-08,
+Tyrannus savana,Animalia,TYRANT_FLYCATCHERS_TYRANNIDAE,Fork-tailed Flycatcher,,1,-88.9663338666,16.1764533078,North America,Belize,BZ,,Belize - Toledo,2015-03-08,
+Himantopus mexicanus,Animalia,STILTS_AND_AVOCETS_RECURVIROSTRIDAE,Black-necked Stilt,,3,-88.9663338666,16.1764533078,North America,Belize,BZ,,Belize - Toledo,2015-03-08,
+Calidris alpina,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Dunlin,,3,-88.9662051192,16.1773394559,North America,Belize,BZ,,Belize - Toledo,2015-03-08,
+Tityra semifasciata,Animalia,Tityridae,Masked Tityra,,1,-88.9406919484,16.1702089477,North America,Belize,BZ,,Belize - Toledo,2015-03-08,
+Sporophila morelleti,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Morelet's Seedeater,,1,-88.9406919484,16.1702089477,North America,Belize,BZ,,Belize - Toledo,2015-03-08,
+Psilorhinus morio,Animalia,CROWS_AND_JAYS_CORVIDAE,Brown Jay,,1,-88.9125823979,16.1857885687,North America,Belize,BZ,,Belize - Toledo,2015-03-08,
+Egretta caerulea,Animalia,HERONS_ARDEIDAE,Little Blue Heron,,1,-88.0268955248,17.7348016614,North America,Belize,BZ,,Belize - Cay Caulker,2015-03-03,
+Tringa semipalmata,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Willet,,2,-88.0277860166,17.7335110845,North America,Belize,BZ,,Belize - Cay Caulker,2015-03-03,
+Coereba flaveola,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Bananaquit,,1,-88.0277860166,17.7335110845,North America,Belize,BZ,,Belize - Cay Caulker,2015-03-03,
+Nyctanassa violacea,Animalia,HERONS_ARDEIDAE,Yellow-crowned Night Heron,,1,-88.0277860166,17.7335110845,North America,Belize,BZ,,Belize - Cay Caulker,2015-03-03,

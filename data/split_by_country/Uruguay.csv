@@ -1,0 +1,295 @@
+scientificName,kingdom,family,vernacularName,previousIdentifications,individualCount,longitudeDecimal,latitudeDecimal,continent,country,countryCode,stateProvince,locality,eventDate,eventTime
+Thalasseus acuflavidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Cabot's Tern,,2,-56.19386673,-34.91479244,South America,Uruguay,UY,,Uruguay,1996-04-21,
+Thalasseus acuflavidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Cabot's Tern,,1,-56.19386673,-34.91479244,South America,Uruguay,UY,,Uruguay,1996-04-22,
+Podiceps major major,Animalia,GREBES_PODICIPEDIDAE,Great Grebe ssp major,,1,-56.2191581796,-34.9132674866,South America,Uruguay,UY,,Uruguay,2013-02-25,
+Haematopus palliatus palliatus,Animalia,OYSTERCATCHERS_HAEMATOPODIDAE,American Oystercatcher ssp palliatus,,4,-54.149837497389,-34.661451941266,South America,Uruguay,UY,,Uruguay,2013-02-23,
+Colaptes campestris campestroides,Animalia,WOODPECKERS_PICIDAE,Campo Flicker ssp campestroides,,1,-54.1554451006,-34.6671372427,South America,Uruguay,UY,,Uruguay,2013-02-22,
+Ciconia maguari,Animalia,STORKS_CICONIIDAE,Maguari Stork,,1,-53.794069288415,-34.400767478186,South America,Uruguay,UY,,Uruguay,2013-02-21,
+Thalasseus acuflavidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Cabot's Tern,,5,-53.77595901,-34.40061167,South America,Uruguay,UY,,Uruguay,2013-02-21,
+Zonotrichia capensis subtorquata,Animalia,PASSERELLIDAE,Rufous-collared Sparrow ssp subtorquata,,6,-57.8507709512,-34.4736324943,South America,Uruguay,UY,,Uruguay,2013-02-18,
+Vanellus chilensis lampronotus,Animalia,PLOVERS_CHARADRIIDAE,Southern Lapwing ssp lampronotus,,4,-54.155087471,-34.6677349292,South America,Uruguay,UY,,Uruguay,2013-02-22,
+Egretta thula,Animalia,HERONS_ARDEIDAE,Snowy Egret,,2,-56.223068,-34.904044,South America,Uruguay,UY,,Uruguay,2012-04-24,08:08
+Chroicocephalus maculipennis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Brown-hooded Gull,,10,-56.220801,-34.902898,South America,Uruguay,UY,,Uruguay,2012-04-24,08:10
+Larus dominicanus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Kelp Gull,,100,-56.221109,-34.903099,South America,Uruguay,UY,,Uruguay,2012-04-24,08:10
+Vanellus chilensis,Animalia,PLOVERS_CHARADRIIDAE,Southern Lapwing,,2,-56.213951,-34.901292,South America,Uruguay,UY,,Uruguay,2012-04-24,10:27
+Vanellus chilensis,Animalia,PLOVERS_CHARADRIIDAE,Southern Lapwing,,2,-56.201604,-34.910634,South America,Uruguay,UY,,Uruguay,2012-04-24,13:54
+Egretta thula,Animalia,HERONS_ARDEIDAE,Snowy Egret,,1,-56.201598,-34.910639,South America,Uruguay,UY,,Uruguay,2012-04-24,13:54
+Vanellus chilensis,Animalia,PLOVERS_CHARADRIIDAE,Southern Lapwing,,4,-56.172338,-34.920229,South America,Uruguay,UY,,Uruguay,2012-04-24,17:21
+Vanellus chilensis,Animalia,PLOVERS_CHARADRIIDAE,Southern Lapwing,,4,-56.172338,-34.920229,South America,Uruguay,UY,,Uruguay,2012-04-24,
+Vanellus chilensis,Animalia,PLOVERS_CHARADRIIDAE,Southern Lapwing,,2,-56.201604,-34.910634,South America,Uruguay,UY,,Uruguay,2012-04-24,
+Egretta thula,Animalia,HERONS_ARDEIDAE,Snowy Egret,,2,-56.223068,-34.904044,South America,Uruguay,UY,,Uruguay,2012-04-24,
+Larus dominicanus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Kelp Gull,,100,-56.221109,-34.903099,South America,Uruguay,UY,,Uruguay,2012-04-24,
+Egretta thula,Animalia,HERONS_ARDEIDAE,Snowy Egret,,2,-56.223068,-34.904044,South America,Uruguay,UY,,Uruguay,2012-04-24,08:08
+Larus dominicanus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Kelp Gull,,100,-56.221109,-34.903099,South America,Uruguay,UY,,Uruguay,2012-04-24,08:10
+Chroicocephalus maculipennis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Brown-hooded Gull,,10,-56.220801,-34.902898,South America,Uruguay,UY,,Uruguay,2012-04-24,08:10
+Vanellus chilensis,Animalia,PLOVERS_CHARADRIIDAE,Southern Lapwing,,2,-56.213951,-34.901292,South America,Uruguay,UY,,Uruguay,2012-04-24,10:27
+Vanellus chilensis,Animalia,PLOVERS_CHARADRIIDAE,Southern Lapwing,,2,-56.201604,-34.910634,South America,Uruguay,UY,,Uruguay,2012-04-24,13:54
+Egretta thula,Animalia,HERONS_ARDEIDAE,Snowy Egret,,1,-56.201598,-34.910639,South America,Uruguay,UY,,Uruguay,2012-04-24,13:54
+Vanellus chilensis,Animalia,PLOVERS_CHARADRIIDAE,Southern Lapwing,,4,-56.172338,-34.920229,South America,Uruguay,UY,,Uruguay,2012-04-24,17:21
+Podiceps major,Animalia,GREBES_PODICIPEDIDAE,Great Grebe,,1,-57.8944358826,-34.4381276477,South America,Uruguay,UY,,Uruguay,2010-05-12,
+Larus dominicanus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Kelp Gull,,2,-56.1215171814,-34.9045812637,South America,Uruguay,UY,,Uruguay,2010-05-12,
+Chroicocephalus maculipennis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Brown-hooded Gull,,10,-56.1215171814,-34.9045812637,South America,Uruguay,UY,,Uruguay,2010-05-12,
+Vanellus chilensis,Animalia,PLOVERS_CHARADRIIDAE,Southern Lapwing,,10,-56.1215171814,-34.9045812637,South America,Uruguay,UY,,Uruguay,2010-05-12,
+Egretta thula,Animalia,HERONS_ARDEIDAE,Snowy Egret,,1,-56.1215171814,-34.9045812637,South America,Uruguay,UY,,Uruguay,2010-05-12,
+Rupornis magnirostris,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Roadside Hawk,,1,-57.8445625305,-34.4556864168,South America,Uruguay,UY,,Uruguay,2010-05-11,
+Charadrius collaris,Animalia,PLOVERS_CHARADRIIDAE,Collared Plover,,1,-57.8445625305,-34.4556864168,South America,Uruguay,UY,,Uruguay,2010-05-12,
+Didelphis albiventris,Animalia,OPOSSUMS_DIDELPHIDAE,White-eared Opossum,,1,-56.8834648132324,-31.014217376709,South America,Uruguay,UY,,Uruguay - Salto,2020-02-02,13:42
+Lycalopex gymnocercus,Animalia,DOGS_CANIDAE,Pampas Fox,,1,-56.7118301391602,-30.7113399505615,South America,Uruguay,UY,,Uruguay - Artigas,2020-02-02,14:50
+Larus dominicanus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Kelp Gull,,1,-56.1306381225586,-34.9042587280273,South America,Uruguay,UY,,Uruguay - Montevideo,2019-08-13,09:58
+Egretta thula,Animalia,HERONS_ARDEIDAE,Snowy Egret,,1,-56.1331787109375,-34.9073104858398,South America,Uruguay,UY,,Uruguay - Montevideo,2019-08-04,08:04
+Podiceps major,Animalia,GREBES_PODICIPEDIDAE,Great Grebe,,1,-56.0795402526855,-34.8987655639648,South America,Uruguay,UY,,Uruguay - Montevideo,2019-08-04,08:23
+Myiopsitta monachus,Animalia,PARROTS_PSITTACIDAE,Monk Parakeet,,1,-56.2023735046387,-34.9067001342773,South America,Uruguay,UY,,Uruguay - Montevideo,2019-08-03,12:10
+Parabuteo unicinctus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Harris's Hawk,,1,-56.2597618103027,-34.8885955810547,South America,Uruguay,UY,,Uruguay - Montevideo,2019-08-03,14:00
+Nycticorax nycticorax,Animalia,HERONS_ARDEIDAE,Black-crowned Night Heron,,1,-56.1693115234375,-34.9218254089355,South America,Uruguay,UY,,Uruguay - Montevideo,2019-08-03,16:57
+Zonotrichia capensis,Animalia,PASSERELLIDAE,Rufous-collared Sparrow,,1,-56.1689109802246,-34.9228630065918,South America,Uruguay,UY,,Uruguay - Montevideo,2019-08-03,17:10
+Larus dominicanus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Kelp Gull,,1,-56.1690559387207,-34.9254264831543,South America,Uruguay,UY,,Uruguay - Montevideo,2019-08-03,17:48
+Vanellus chilensis,Animalia,PLOVERS_CHARADRIIDAE,Southern Lapwing,,4,-56.172338,-34.920229,South America,Uruguay,UY,,Uruguay,2012-04-24,
+Vanellus chilensis,Animalia,PLOVERS_CHARADRIIDAE,Southern Lapwing,,2,-56.213951,-34.901292,South America,Uruguay,UY,,Uruguay,2012-04-24,
+Vanellus chilensis,Animalia,PLOVERS_CHARADRIIDAE,Southern Lapwing,,2,-56.201604,-34.910634,South America,Uruguay,UY,,Uruguay,2012-04-24,
+Egretta thula,Animalia,HERONS_ARDEIDAE,Snowy Egret,,1,-56.201598,-34.910639,South America,Uruguay,UY,,Uruguay,2012-04-24,
+Egretta thula,Animalia,HERONS_ARDEIDAE,Snowy Egret,,2,-56.223068,-34.904044,South America,Uruguay,UY,,Uruguay,2012-04-24,
+Larus dominicanus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Kelp Gull,,100,-56.221109,-34.903099,South America,Uruguay,UY,,Uruguay,2012-04-24,
+Chroicocephalus maculipennis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Brown-hooded Gull,,10,-56.220801,-34.902898,South America,Uruguay,UY,,Uruguay,2012-04-24,
+Platalea ajaja,Animalia,IBISSES_AND_SPOONBILLS_THRESKIORNITHIDAE,Roseate Spoonbill,,3,-54.27135468,-33.64102554,South America,Uruguay,UY,,Uruguay - Rocha,2018-11-28,12:31
+Egretta thula,Animalia,HERONS_ARDEIDAE,Snowy Egret,,2,-56.223068,-34.904044,South America,Uruguay,UY,,Uruguay,2012-04-24,08:08
+Larus dominicanus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Kelp Gull,,100,-56.221109,-34.903099,South America,Uruguay,UY,,Uruguay,2012-04-24,08:10
+Chroicocephalus maculipennis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Brown-hooded Gull,,10,-56.220801,-34.902898,South America,Uruguay,UY,,Uruguay,2012-04-24,08:10
+Vanellus chilensis,Animalia,PLOVERS_CHARADRIIDAE,Southern Lapwing,,2,-56.213951,-34.901292,South America,Uruguay,UY,,Uruguay,2012-04-24,10:27
+Vanellus chilensis,Animalia,PLOVERS_CHARADRIIDAE,Southern Lapwing,,2,-56.201604,-34.910634,South America,Uruguay,UY,,Uruguay,2012-04-24,13:54
+Egretta thula,Animalia,HERONS_ARDEIDAE,Snowy Egret,,1,-56.201598,-34.910639,South America,Uruguay,UY,,Uruguay,2012-04-24,13:54
+Vanellus chilensis,Animalia,PLOVERS_CHARADRIIDAE,Southern Lapwing,,4,-56.172338,-34.920229,South America,Uruguay,UY,,Uruguay,2012-04-24,17:21
+Cotula coronopifolia,Plantae,Asteraceae,Buttonweed,,1,-56.15931273,-34.93288787,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Chelonia mydas,Animalia,Cheloniidae,Green Turtle,,1,-56.16024256,-34.93165433,South America,Uruguay,UY,,Uruguay - Montevideo,2012-04-24,
+Pomacea spec.,Animalia,AMPULLARIIDAE,,,1,-56.16913676,-34.91449331,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Egretta thula,Animalia,HERONS_ARDEIDAE,Snowy Egret,,1,-56.2193,-34.902,South America,Uruguay,UY,,Uruguay,2018-01-19,17:18
+Parabuteo unicinctus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Harris's Hawk,,4,-56.1993,-34.8596,South America,Uruguay,UY,,Uruguay - Montevideo,2018-01-19,09:00
+Myiopsitta monachus,Animalia,PARROTS_PSITTACIDAE,Monk Parakeet,,1,-56.1986,-34.8609,South America,Uruguay,UY,,Uruguay - Montevideo,2018-01-19,08:37
+Zonotrichia capensis,Animalia,PASSERELLIDAE,Rufous-collared Sparrow,,1,-56.1986,-34.8609,South America,Uruguay,UY,,Uruguay - Montevideo,2018-01-19,08:37
+Eriopis connexa,Animalia,LADYBIRDS_LADYBUGS_OR_LADY_BEETLES_COCCINELLIDAE,,,1,-56.16180182,-34.91671969,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Xylocopa augusti,Animalia,Apidae,,,1,-56.25965595,-34.88835992,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-15,
+Eriopis connexa,Animalia,LADYBIRDS_LADYBUGS_OR_LADY_BEETLES_COCCINELLIDAE,,,1,-56.17386818,-34.91462088,South America,Uruguay,UY,,Uruguay,2017-11-15,
+Larus dominicanus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Kelp Gull,,1,-56.17482662,-34.91483701,South America,Uruguay,UY,,Uruguay,2017-11-15,
+Phalacrocorax brasilianus,Animalia,CORMORANTS_PHALACROCORACIDAE,Neotropic Cormorant,,1,-56.17482662,-34.91483701,South America,Uruguay,UY,,Uruguay,2017-11-15,
+Furnarius rufus,Animalia,OVENBIRDS_FURNARIIDAE,Rufous Hornero,,1,-56.25942707,-34.8883787,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-15,
+Egretta thula,Animalia,HERONS_ARDEIDAE,Snowy Egret,,2,-56.17007732,-34.92385473,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Phalacrocorax brasilianus,Animalia,CORMORANTS_PHALACROCORACIDAE,Neotropic Cormorant,,1,-56.15727425,-34.928131,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Phalacrocorax brasilianus,Animalia,CORMORANTS_PHALACROCORACIDAE,Neotropic Cormorant,,1,-56.16113663,-34.93275183,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Progne chalybea,Animalia,SWALLOWS_HIRUNDINIDAE,Grey-breasted Martin,,1,-55.27843595,-34.86452054,South America,Uruguay,UY,,Uruguay - Maldonado,2017-11-15,
+Mimus saturninus,Animalia,THRASHERS_MIMIDAE,Chalk-browed Mockingbird,,1,-55.27684808,-34.86370185,South America,Uruguay,UY,,Uruguay - Maldonado,2017-11-15,
+Zonotrichia capensis,Animalia,PASSERELLIDAE,Rufous-collared Sparrow,,1,-55.27769923,-34.86157557,South America,Uruguay,UY,,Uruguay - Maldonado,2017-11-15,
+Furnarius rufus,Animalia,OVENBIRDS_FURNARIIDAE,Rufous Hornero,,1,-55.27772427,-34.8619635,South America,Uruguay,UY,,Uruguay - Maldonado,2017-11-15,
+Vanellus chilensis,Animalia,PLOVERS_CHARADRIIDAE,Southern Lapwing,,4,-55.27772427,-34.8619635,South America,Uruguay,UY,,Uruguay - Maldonado,2017-11-15,
+Cathartes aura,Animalia,NEW_WORLD_VULTURES_CATHARTIDAE,Turkey Vulture,,1,-55.31959534,-34.81380332,South America,Uruguay,UY,,Uruguay - Maldonado,2017-11-15,
+Leistes superciliaris,Animalia,ICTERIDS_ICTERIDAE,White-browed Blackbird,,1,-56.13271773,-34.91128648,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-17,
+Progne tapera,Animalia,SWALLOWS_HIRUNDINIDAE,Brown-chested Martin,,1,-56.13594532,-34.91128267,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-17,
+Progne chalybea,Animalia,SWALLOWS_HIRUNDINIDAE,Grey-breasted Martin,,1,-56.13594532,-34.91128267,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-17,
+Tachycineta leucorrhoa,Animalia,SWALLOWS_HIRUNDINIDAE,White-rumped Swallow,,1,-56.13594532,-34.91128267,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-17,
+Zonotrichia capensis,Animalia,PASSERELLIDAE,Rufous-collared Sparrow,,1,-56.13294125,-34.91124748,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-17,
+Sturnus vulgaris,Animalia,STARLINGS_STURNIDAE,Common Starling,,1,-56.13294125,-34.91124748,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-17,
+Furnarius rufus,Animalia,OVENBIRDS_FURNARIIDAE,Rufous Hornero,,1,-56.13266766,-34.91139,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-17,
+Colaptes campestris,Animalia,WOODPECKERS_PICIDAE,Campo Flicker,,1,-56.13266766,-34.91139,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-17,
+Patagioenas picazuro,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Picazuro Pigeon,,1,-56.14774704,-34.9204603,South America,Uruguay,UY,,Uruguay,2017-11-17,
+Myiopsitta monachus,Animalia,PARROTS_PSITTACIDAE,Monk Parakeet,,1,-56.14774704,-34.9204603,South America,Uruguay,UY,,Uruguay,2017-11-17,
+Larus dominicanus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Kelp Gull,,1,-56.12903595,-34.90959811,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-17,
+Nycticorax nycticorax,Animalia,HERONS_ARDEIDAE,Black-crowned Night Heron,,1,-56.13650322,-34.91080757,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-17,
+Egretta thula,Animalia,HERONS_ARDEIDAE,Snowy Egret,,1,-56.1329627,-34.91064921,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-17,
+Ardea alba,Animalia,HERONS_ARDEIDAE,Great Egret,,1,-56.1329627,-34.91064921,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-17,
+Ardea alba,Animalia,HERONS_ARDEIDAE,Great Egret,,1,-56.14740372,-34.91884162,South America,Uruguay,UY,,Uruguay,2017-11-17,
+Podiceps major,Animalia,GREBES_PODICIPEDIDAE,Great Grebe,,2,-56.13146782,-34.90669816,South America,Uruguay,UY,,Uruguay,2017-11-17,
+Molothrus bonariensis,Animalia,ICTERIDS_ICTERIDAE,Shiny Cowbird,,1,-56.16578579,-34.92557887,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-17,
+Progne tapera,Animalia,SWALLOWS_HIRUNDINIDAE,Brown-chested Martin,,1,-56.16578579,-34.92557887,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-17,
+Tachycineta leucorrhoa,Animalia,SWALLOWS_HIRUNDINIDAE,White-rumped Swallow,,1,-56.15964174,-34.93177022,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-17,
+Paroaria coronata,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Red-crested Cardinal,,1,-56.16578579,-34.92557887,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-17,
+Sicalis flaveola,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Saffron Finch,,1,-56.16578579,-34.92557887,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-17,
+Zonotrichia capensis,Animalia,PASSERELLIDAE,Rufous-collared Sparrow,,1,-56.16578579,-34.92557887,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-17,
+Sturnus vulgaris,Animalia,STARLINGS_STURNIDAE,Common Starling,,1,-56.16578579,-34.92557887,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-17,
+Turdus amaurochalinus,Animalia,THRUSHES_TURDIDAE,Creamy-bellied Thrush,,1,-56.16073966,-34.93011746,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-17,
+Turdus rufiventris,Animalia,THRUSHES_TURDIDAE,Rufous-bellied Thrush,,1,-56.16053939,-34.92970492,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-17,
+Tyrannus savana,Animalia,TYRANT_FLYCATCHERS_TYRANNIDAE,Fork-tailed Flycatcher,,2,-56.15985632,-34.93205169,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-17,
+Machetornis rixosa,Animalia,TYRANT_FLYCATCHERS_TYRANNIDAE,Cattle Tyrant,,2,-56.16317511,-34.92864821,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-17,
+Pitangus sulphuratus,Animalia,TYRANT_FLYCATCHERS_TYRANNIDAE,Great Kiskadee,,1,-56.16087914,-34.92949265,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-17,
+Xolmis cinereus,Animalia,TYRANT_FLYCATCHERS_TYRANNIDAE,Grey Monjita,,2,-56.15922689,-34.93313416,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-17,
+Patagioenas maculosa,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Spot-winged Pigeon,,1,-56.16145134,-34.92951962,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-17,
+Patagioenas picazuro,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Picazuro Pigeon,,1,-56.16145134,-34.92951962,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-17,
+Myiopsitta monachus,Animalia,PARROTS_PSITTACIDAE,Monk Parakeet,,1,-56.16145134,-34.92951962,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-17,
+Vanellus chilensis,Animalia,PLOVERS_CHARADRIIDAE,Southern Lapwing,,1,-56.16053581,-34.93174442,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-17,
+Larus dominicanus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Kelp Gull,,1,-56.16053581,-34.93174442,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-17,
+Egretta thula,Animalia,HERONS_ARDEIDAE,Snowy Egret,,1,-56.16045713,-34.93189336,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-17,
+Podiceps major,Animalia,GREBES_PODICIPEDIDAE,Great Grebe,,1,-56.16045713,-34.93189336,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-17,
+Phalacrocorax brasilianus,Animalia,CORMORANTS_PHALACROCORACIDAE,Neotropic Cormorant,,1,-56.16045713,-34.93189336,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-17,
+Vanellus chilensis,Animalia,PLOVERS_CHARADRIIDAE,Southern Lapwing,,4,-56.17152214,-34.92390868,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-16,
+Phalacrocorax brasilianus,Animalia,CORMORANTS_PHALACROCORACIDAE,Neotropic Cormorant,,1,-56.17160797,-34.92388522,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-16,
+Colaptes campestris,Animalia,WOODPECKERS_PICIDAE,Campo Flicker,,2,-56.01373673,-34.83901408,South America,Uruguay,UY,,Uruguay - Canelones,2017-11-19,
+Progne tapera,Animalia,SWALLOWS_HIRUNDINIDAE,Brown-chested Martin,,1,-56.16743088,-34.91345518,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-19,
+Tachycineta leucorrhoa,Animalia,SWALLOWS_HIRUNDINIDAE,White-rumped Swallow,,1,-56.16730213,-34.91331441,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-19,
+Sporophila caerulescens,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Double-collared Seedeater,,4,-56.16750419,-34.91390621,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-19,
+Zonotrichia capensis,Animalia,PASSERELLIDAE,Rufous-collared Sparrow,,1,-56.16818905,-34.91393143,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-19,
+Sturnus vulgaris,Animalia,STARLINGS_STURNIDAE,Common Starling,,1,-56.16818905,-34.91393143,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-19,
+Troglodytes aedon bonariae,Animalia,WRENS_TROGLODYTIDAE,House Wren ssp bonariae,,1,-56.16818905,-34.91393143,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-19,
+Tyrannus savana,Animalia,TYRANT_FLYCATCHERS_TYRANNIDAE,Fork-tailed Flycatcher,,2,-56.17106438,-34.92204845,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-19,
+Hylocharis chrysura,Animalia,HUMMINGBIRDS_TROCHILIDAE,Gilded Sapphire,,1,-56.1675024,-34.91410211,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-19,
+Myiopsitta monachus,Animalia,PARROTS_PSITTACIDAE,Monk Parakeet,,1,-56.16826058,-34.91403231,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-19,
+Egretta thula,Animalia,HERONS_ARDEIDAE,Snowy Egret,,1,-56.17106438,-34.91884631,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-19,
+Progne tapera,Animalia,SWALLOWS_HIRUNDINIDAE,Brown-chested Martin,,1,-56.16454125,-34.9204298,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-13,
+Sicalis luteola,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Grassland Yellow Finch,,4,-56.1711216,-34.92492675,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-14,
+Furnarius rufus,Animalia,OVENBIRDS_FURNARIIDAE,Rufous Hornero,,1,-56.16502762,-34.92014126,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-13,
+Molothrus bonariensis,Animalia,ICTERIDS_ICTERIDAE,Shiny Cowbird,,1,-56.16617203,-34.92542405,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Progne chalybea,Animalia,SWALLOWS_HIRUNDINIDAE,Grey-breasted Martin,,1,-56.15999222,-34.93147585,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Progne tapera,Animalia,SWALLOWS_HIRUNDINIDAE,Brown-chested Martin,,1,-56.15999222,-34.93147585,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Tachycineta leucorrhoa,Animalia,SWALLOWS_HIRUNDINIDAE,White-rumped Swallow,,1,-56.16136551,-34.92930851,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Paroaria coronata,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Red-crested Cardinal,,1,-56.16136551,-34.92930851,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Sporophila caerulescens,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Double-collared Seedeater,,1,-56.15926266,-34.9332139,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Sicalis flaveola,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Saffron Finch,,1,-56.16763115,-34.92480477,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Sicalis luteola,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Grassland Yellow Finch,,1,-56.16395473,-34.92770643,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Zonotrichia capensis,Animalia,PASSERELLIDAE,Rufous-collared Sparrow,,1,-56.169734,-34.9231158,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Sturnus vulgaris,Animalia,STARLINGS_STURNIDAE,Common Starling,,1,-56.169734,-34.9231158,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Troglodytes aedon bonariae,Animalia,WRENS_TROGLODYTIDAE,House Wren ssp bonariae,,1,-56.169734,-34.9231158,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Turdus rufiventris,Animalia,THRUSHES_TURDIDAE,Rufous-bellied Thrush,,1,-56.169734,-34.9231158,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Turdus amaurochalinus,Animalia,THRUSHES_TURDIDAE,Creamy-bellied Thrush,,2,-56.169734,-34.9231158,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Tyrannus melancholicus,Animalia,TYRANT_FLYCATCHERS_TYRANNIDAE,Tropical Kingbird,,1,-56.15972757,-34.93217483,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Tyrannus savana,Animalia,TYRANT_FLYCATCHERS_TYRANNIDAE,Fork-tailed Flycatcher,,1,-56.15972757,-34.93217483,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Machetornis rixosa,Animalia,TYRANT_FLYCATCHERS_TYRANNIDAE,Cattle Tyrant,,1,-56.15926981,-34.93153332,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Pitangus sulphuratus,Animalia,TYRANT_FLYCATCHERS_TYRANNIDAE,Great Kiskadee,,1,-56.15926981,-34.93153332,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Furnarius rufus,Animalia,OVENBIRDS_FURNARIIDAE,Rufous Hornero,,1,-56.16667271,-34.92532318,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Guira guira,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,Guira Cuckoo,,4,-56.16667271,-34.92532318,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Zenaida auriculata,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Eared Dove,,1,-56.15980625,-34.93023152,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Patagioenas maculosa,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Spot-winged Pigeon,,1,-56.15980625,-34.93023152,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Patagioenas picazuro,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Picazuro Pigeon,,1,-56.15980625,-34.93023152,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Myiopsitta monachus,Animalia,PARROTS_PSITTACIDAE,Monk Parakeet,,1,-56.16117954,-34.92947505,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Vanellus chilensis,Animalia,PLOVERS_CHARADRIIDAE,Southern Lapwing,,1,-56.15920544,-34.93084724,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Pluvialis dominica,Animalia,PLOVERS_CHARADRIIDAE,American Golden Plover,,1,-56.1581111,-34.92810285,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Calidris fuscicollis,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,White-rumped Sandpiper,,1,-56.1581111,-34.92810285,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Larus dominicanus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Kelp Gull,,1,-56.16033554,-34.93141956,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Nycticorax nycticorax,Animalia,HERONS_ARDEIDAE,Black-crowned Night Heron,,1,-56.16062164,-34.92987967,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Egretta thula,Animalia,HERONS_ARDEIDAE,Snowy Egret,,1,-56.16183937,-34.93249822,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Podiceps major,Animalia,GREBES_PODICIPEDIDAE,Great Grebe,,4,-56.16183937,-34.93249822,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Phalacrocorax brasilianus,Animalia,CORMORANTS_PHALACROCORACIDAE,Neotropic Cormorant,,1,-56.16999865,-34.92383948,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Progne tapera,Animalia,SWALLOWS_HIRUNDINIDAE,Brown-chested Martin,,1,-56.16793871,-34.9127229,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Tachycineta leucorrhoa,Animalia,SWALLOWS_HIRUNDINIDAE,White-rumped Swallow,,1,-56.16804779,-34.91397864,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Paroaria coronata,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Red-crested Cardinal,,2,-56.16804779,-34.91397864,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Sicalis flaveola,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Saffron Finch,,2,-56.16804779,-34.91397864,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Zonotrichia capensis,Animalia,PASSERELLIDAE,Rufous-collared Sparrow,,1,-56.16804779,-34.91397864,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Sturnus vulgaris,Animalia,STARLINGS_STURNIDAE,Common Starling,,1,-56.16804779,-34.91397864,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Setophaga pitiayumi,Animalia,NEW_WORLD_WARBLERS_PARULIDAE,Tropical Parula,,1,-56.16804779,-34.91397864,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Troglodytes aedon bonariae,Animalia,WRENS_TROGLODYTIDAE,House Wren ssp bonariae,,1,-56.16798878,-34.91405343,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Hylocharis chrysura,Animalia,HUMMINGBIRDS_TROCHILIDAE,Gilded Sapphire,,1,-56.16736293,-34.9141109,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Myiopsitta monachus,Animalia,PARROTS_PSITTACIDAE,Monk Parakeet,,1,-56.16818905,-34.91382586,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Vanellus chilensis,Animalia,PLOVERS_CHARADRIIDAE,Southern Lapwing,,1,-56.17006302,-34.91644873,South America,Uruguay,UY,,Uruguay,2017-11-18,
+Larus dominicanus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Kelp Gull,,1,-56.17006302,-34.91644873,South America,Uruguay,UY,,Uruguay,2017-11-18,
+Caracara plancus,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Southern Crested Caracara,,3,-56.16759896,-34.9141285,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Parabuteo unicinctus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Harris's Hawk,,3,-56.16759896,-34.9141285,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-18,
+Tachycineta leucorrhoa,Animalia,SWALLOWS_HIRUNDINIDAE,White-rumped Swallow,,1,-56.17102146,-34.9216262,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-14,
+Progne tapera,Animalia,SWALLOWS_HIRUNDINIDAE,Brown-chested Martin,,2,-56.25898361,-34.88822146,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-15,
+Zonotrichia capensis,Animalia,PASSERELLIDAE,Rufous-collared Sparrow,,1,-56.25898361,-34.88822146,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-15,
+Tyrannus savana,Animalia,TYRANT_FLYCATCHERS_TYRANNIDAE,Fork-tailed Flycatcher,,2,-56.2583828,-34.89392401,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-15,
+Vanellus chilensis,Animalia,PLOVERS_CHARADRIIDAE,Southern Lapwing,,1,-56.25904083,-34.88854297,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-15,
+Molothrus bonariensis,Animalia,ICTERIDS_ICTERIDAE,Shiny Cowbird,,1,-56.16774559,-34.91370386,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-15,
+Progne chalybea,Animalia,SWALLOWS_HIRUNDINIDAE,Grey-breasted Martin,,1,-56.16774559,-34.91370386,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-15,
+Tachycineta leucorrhoa,Animalia,SWALLOWS_HIRUNDINIDAE,White-rumped Swallow,,1,-56.16774559,-34.91370386,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-15,
+Sicalis flaveola,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Saffron Finch,,1,-56.16774559,-34.91370386,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-15,
+Zonotrichia capensis,Animalia,PASSERELLIDAE,Rufous-collared Sparrow,,3,-56.16774559,-34.91370386,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-15,
+Passer domesticus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow,,1,-56.16774559,-34.91370386,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-15,
+Troglodytes aedon bonariae,Animalia,WRENS_TROGLODYTIDAE,House Wren ssp bonariae,,1,-56.16774559,-34.91370386,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-15,
+Turdus amaurochalinus,Animalia,THRUSHES_TURDIDAE,Creamy-bellied Thrush,,2,-56.16774559,-34.91370386,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-15,
+Turdus rufiventris,Animalia,THRUSHES_TURDIDAE,Rufous-bellied Thrush,,1,-56.16774559,-34.91370386,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-15,
+Tyrannus savana,Animalia,TYRANT_FLYCATCHERS_TYRANNIDAE,Fork-tailed Flycatcher,,1,-56.17160797,-34.92130481,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-15,
+Myiopsitta monachus,Animalia,PARROTS_PSITTACIDAE,Monk Parakeet,,1,-56.16714478,-34.91386339,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-15,
+Progne tapera,Animalia,SWALLOWS_HIRUNDINIDAE,Brown-chested Martin,,2,-56.17052078,-34.92063389,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-14,
+Parabuteo unicinctus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Harris's Hawk,,1,-56.1691153,-34.91448452,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-15,
+Tringa solitaria,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Solitary Sandpiper,,1,-56.1691153,-34.91448452,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-15,
+Turdus rufiventris,Animalia,THRUSHES_TURDIDAE,Rufous-bellied Thrush,,1,-56.16434097,-34.92077465,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-13,
+Pitangus sulphuratus,Animalia,TYRANT_FLYCATCHERS_TYRANNIDAE,Great Kiskadee,,1,-56.16219521,-34.92387115,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-13,
+Zenaida auriculata,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Eared Dove,,1,-56.16219521,-34.92387115,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-13,
+Patagioenas maculosa,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Spot-winged Pigeon,,1,-56.16142273,-34.92520824,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-13,
+Myiopsitta monachus,Animalia,PARROTS_PSITTACIDAE,Monk Parakeet,,1,-56.16190911,-34.9251754,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-13,
+Molothrus bonariensis,Animalia,ICTERIDS_ICTERIDAE,Shiny Cowbird,,1,-56.16847515,-34.91779298,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-14,
+Progne chalybea,Animalia,SWALLOWS_HIRUNDINIDAE,Grey-breasted Martin,,1,-56.17047072,-34.92159335,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-14,
+Paroaria coronata,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Red-crested Cardinal,,1,-56.17100716,-34.92465464,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-14,
+Sporophila caerulescens,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Double-collared Seedeater,,1,-56.17066383,-34.92521176,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-14,
+Zonotrichia capensis,Animalia,PASSERELLIDAE,Rufous-collared Sparrow,,1,-56.16886139,-34.92544047,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-14,
+Sturnus vulgaris,Animalia,STARLINGS_STURNIDAE,Common Starling,,1,-56.16632938,-34.91731792,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-14,
+Troglodytes aedon bonariae,Animalia,WRENS_TROGLODYTIDAE,House Wren ssp bonariae,,1,-56.16848946,-34.91783755,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-14,
+Mimus saturninus,Animalia,THRASHERS_MIMIDAE,Chalk-browed Mockingbird,,2,-56.17106438,-34.92462884,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-14,
+Tyrannus savana,Animalia,TYRANT_FLYCATCHERS_TYRANNIDAE,Fork-tailed Flycatcher,,1,-56.17110729,-34.92451155,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-14,
+Pitangus sulphuratus,Animalia,TYRANT_FLYCATCHERS_TYRANNIDAE,Great Kiskadee,,1,-56.17076397,-34.92209537,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-14,
+Furnarius rufus,Animalia,OVENBIRDS_FURNARIIDAE,Rufous Hornero,,1,-56.16801739,-34.91790793,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-14,
+Patagioenas maculosa,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Spot-winged Pigeon,,1,-56.16801739,-34.91790793,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-14,
+Patagioenas picazuro,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Picazuro Pigeon,,1,-56.16801739,-34.91790793,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-14,
+Myiopsitta monachus,Animalia,PARROTS_PSITTACIDAE,Monk Parakeet,,1,-56.16801739,-34.91790793,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-14,
+Vanellus chilensis,Animalia,PLOVERS_CHARADRIIDAE,Southern Lapwing,,1,-56.17137909,-34.92175991,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-14,
+Tringa melanoleuca,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Greater Yellowlegs,,1,-56.17175818,-34.92335273,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-14,
+Larus dominicanus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Kelp Gull,,2,-56.17062807,-34.91685107,South America,Uruguay,UY,,Uruguay,2017-11-14,
+Syrigma sibilatrix,Animalia,HERONS_ARDEIDAE,Whistling Heron,,3,-56.17208004,-34.92470742,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-14,
+Nycticorax nycticorax,Animalia,HERONS_ARDEIDAE,Black-crowned Night Heron,,1,-56.17125034,-34.92172472,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-14,
+Egretta thula,Animalia,HERONS_ARDEIDAE,Snowy Egret,,3,-56.17137909,-34.92197104,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-14,
+Podiceps major,Animalia,GREBES_PODICIPEDIDAE,Great Grebe,,3,-56.17137909,-34.92197104,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-14,
+Phalacrocorax brasilianus,Animalia,CORMORANTS_PHALACROCORACIDAE,Neotropic Cormorant,,1,-56.17137909,-34.92197104,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-14,
+Agelaioides badius,Animalia,ICTERIDS_ICTERIDAE,Greyish Baywing,,2,-56.16624355,-34.91265516,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-15,
+Caracara plancus,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Southern Crested Caracara,,1,-56.16205931,-34.92618524,South America,Uruguay,UY,,Uruguay - Montevideo,2017-11-17,
+Larus dominicanus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Kelp Gull,,1,-56.12524509,-34.90595908,South America,Uruguay,UY,,Uruguay - Montevideo,2017-06-05,
+Podiceps major,Animalia,GREBES_PODICIPEDIDAE,Great Grebe,,1,-56.12524509,-34.90595908,South America,Uruguay,UY,,Uruguay - Montevideo,2017-06-05,
+Egretta thula,Animalia,HERONS_ARDEIDAE,Snowy Egret,,1,-56.12524509,-34.90595908,South America,Uruguay,UY,,Uruguay - Montevideo,2017-06-05,
+Zonotrichia capensis,Animalia,PASSERELLIDAE,Rufous-collared Sparrow,,1,-56.12597466,-34.89944783,South America,Uruguay,UY,,Uruguay - Montevideo,2017-06-05,
+Myiopsitta monachus,Animalia,PARROTS_PSITTACIDAE,Monk Parakeet,,1,-56.12597466,-34.89944783,South America,Uruguay,UY,,Uruguay - Montevideo,2017-06-05,
+Cathartes aura ruficollis,Animalia,NEW_WORLD_VULTURES_CATHARTIDAE,Turkey Vulture ssp ruficollis,,10,-54.45896365,-32.92473517,South America,Uruguay,UY,,Uruguay - Treinta y Tres,2016-11-25,17:05
+Paroaria coronata,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Red-crested Cardinal,,2,-56.40323594,-33.42399209,South America,Uruguay,UY,,Uruguay - Florida,2016-11-04,16:05
+Hydrochoerus hydrochaeris,Animalia,CAVIES_CAVIIDAE,Capybara,,2,-53.59045205,-33.99472503,South America,Uruguay,UY,,Uruguay - Rocha,2016-12-12,13:23
+Aramides ypecaha,Animalia,RAILS_RALLIDAE,Giant Wood Rail,,4,-53.84371335,-34.38289141,South America,Uruguay,UY,,Uruguay - Rocha,2016-12-12,06:51
+Arctocephalus australis,Animalia,FUR_SEALS_OTARIIDAE,South American Fur Seal,,100,-53.77705333,-34.40501539,South America,Uruguay,UY,,Uruguay - Rocha,2016-12-11,05:46
+Poospiza cabanisi,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Grey-throated Warbling Finch,,1,-56.401,-33.4143,South America,Uruguay,UY,,Uruguay - Florida,2016-12-05,10:45
+Paroaria coronata,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Red-crested Cardinal,,1,-56.4,-33.4183,South America,Uruguay,UY,,Uruguay - Florida,2016-12-05,09:42
+Aramus guarauna guarauna,Animalia,LIMPKIN_ARAMIDAE,Limpkin ssp guarauna,,4,-56.51104683,-33.40681075,South America,Uruguay,UY,,Uruguay - Durazno,2016-12-04,17:25
+Sturnus vulgaris,Animalia,STARLINGS_STURNIDAE,Common Starling,,1,-56.1672,-34.9117,South America,Uruguay,UY,,Uruguay - Montevideo,2016-12-03,14:23
+Paroaria coronata,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Red-crested Cardinal,,5,-56.399,-33.4259,South America,Uruguay,UY,,Uruguay - Florida,2016-12-01,07:28
+Poospiza cabanisi,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Grey-throated Warbling Finch,,1,-56.3991,-33.4132,South America,Uruguay,UY,,Uruguay - Florida,2016-11-30,08:01
+Poospiza cabanisi,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Grey-throated Warbling Finch,,1,-56.3978,-33.4212,South America,Uruguay,UY,,Uruguay - Florida,2016-11-30,05:40
+Rhea americana intermedia,Animalia,RHEIDAE_RHEAS,Greater Rhea ssp intermedia,,1,-56.39811862,-33.42097159,South America,Uruguay,UY,,Uruguay - Florida,2016-11-29,01:06
+Chauna torquata,Animalia,SCREAMERS_ANHIMIDAE,Southern Screamer,,1,-56.45333106,-33.40343747,South America,Uruguay,UY,,Uruguay - Durazno,2016-11-27,15:32
+Dendrocygna viduata,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,White-faced Whistling Duck,,6,-54.68609311,-33.57455993,South America,Uruguay,UY,,Uruguay - Lavalleja,2016-11-26,12:55
+Netta peposaca,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Rosy-billed Pochard,,2,-54.6859,-33.5744,South America,Uruguay,UY,,Uruguay - Lavalleja,2016-11-26,12:55
+Chloroceryle amazona,Animalia,KINGFISHERS_ALCEDINIDAE,Amazon Kingfisher,,1,-56.39634484,-33.42062018,South America,Uruguay,UY,,Uruguay - Florida,2016-11-24,12:08
+Stephanophorus diadematus,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Diademed Tanager,,1,-56.3968,-33.4209,South America,Uruguay,UY,,Uruguay - Florida,2016-11-24,11:58
+Poospiza cabanisi,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Grey-throated Warbling Finch,,1,-56.3977,-33.4213,South America,Uruguay,UY,,Uruguay - Florida,2016-11-23,05:32
+Rhea americana intermedia,Animalia,RHEIDAE_RHEAS,Greater Rhea ssp intermedia,,1,-56.3996743,-33.42004028,South America,Uruguay,UY,,Uruguay - Florida,2016-11-22,10:40
+Vanellus chilensis lampronotus,Animalia,PLOVERS_CHARADRIIDAE,Southern Lapwing ssp lampronotus,,1,-54.96605781,-34.9126568,South America,Uruguay,UY,,Uruguay - Maldonado,2016-11-20,11:44
+Mareca sibilatrix,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Chiloe Wigeon,,24,-55.00671297,-34.89759995,South America,Uruguay,UY,,Uruguay - Maldonado,2016-11-19,06:43
+Vanellus chilensis lampronotus,Animalia,PLOVERS_CHARADRIIDAE,Southern Lapwing ssp lampronotus,,4,-55.00233628,-34.89733624,South America,Uruguay,UY,,Uruguay - Maldonado,2016-11-19,06:43
+Rollandia rolland chilensis,Animalia,GREBES_PODICIPEDIDAE,White-tufted Grebe ssp chilensis,,36,-55.00694096,-34.89701918,South America,Uruguay,UY,,Uruguay - Maldonado,2016-11-19,06:43
+Podilymbus podiceps antarcticus,Animalia,GREBES_PODICIPEDIDAE,Pied-billed Grebe ssp antarcticus,,14,-55.00659764,-34.89772314,South America,Uruguay,UY,,Uruguay - Maldonado,2016-11-19,06:43
+Butorides striata striata,Animalia,HERONS_ARDEIDAE,Striated Heron ssp striata,,4,-55.0042031,-34.89550123,South America,Uruguay,UY,,Uruguay - Maldonado,2016-11-19,06:43
+Mareca sibilatrix,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Chiloe Wigeon,,23,-55.004282,-34.89667423,South America,Uruguay,UY,,Uruguay - Maldonado,2016-11-18,07:01
+Rollandia rolland chilensis,Animalia,GREBES_PODICIPEDIDAE,White-tufted Grebe ssp chilensis,,30,-55.00715733,-34.89674463,South America,Uruguay,UY,,Uruguay - Maldonado,2016-11-18,07:01
+Vanellus chilensis lampronotus,Animalia,PLOVERS_CHARADRIIDAE,Southern Lapwing ssp lampronotus,,5,-55.00173915,-34.89756489,South America,Uruguay,UY,,Uruguay - Maldonado,2016-11-16,17:51
+Mareca sibilatrix,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Chiloe Wigeon,,17,-55.00467539,-34.89469957,South America,Uruguay,UY,,Uruguay - Maldonado,2016-11-16,18:23
+Butorides striata striata,Animalia,HERONS_ARDEIDAE,Striated Heron ssp striata,,4,-55.00344694,-34.89653168,South America,Uruguay,UY,,Uruguay - Maldonado,2016-11-16,18:04
+Podilymbus podiceps antarcticus,Animalia,GREBES_PODICIPEDIDAE,Pied-billed Grebe ssp antarcticus,,5,-55.00602722,-34.89647712,South America,Uruguay,UY,,Uruguay - Maldonado,2016-11-16,18:17
+Rollandia rolland chilensis,Animalia,GREBES_PODICIPEDIDAE,White-tufted Grebe ssp chilensis,,4,-55.00604153,-34.89692062,South America,Uruguay,UY,,Uruguay - Maldonado,2016-11-16,17:52
+Mareca sibilatrix,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Chiloe Wigeon,,3,-55.00237405,-34.89772402,South America,Uruguay,UY,,Uruguay - Maldonado,2016-11-16,17:51
+Spatula versicolor versicolor,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Silver Teal ssp versicolor,,3,-55.00234187,-34.89770202,South America,Uruguay,UY,,Uruguay - Maldonado,2016-11-16,17:51
+Chloroceryle amazona,Animalia,KINGFISHERS_ALCEDINIDAE,Amazon Kingfisher,,1,-56.404770612935,-33.395199925883,South America,Uruguay,UY,,Uruguay - Florida,2016-11-12,15:45
+Rhea americana intermedia,Animalia,RHEIDAE_RHEAS,Greater Rhea ssp intermedia,,6,-56.40727758,-33.42485474,South America,Uruguay,UY,,Uruguay - Florida,2016-11-11,09:38
+Rhea americana intermedia,Animalia,RHEIDAE_RHEAS,Greater Rhea ssp intermedia,,2,-56.41739845,-33.41068596,South America,Uruguay,UY,,Uruguay - Florida,2016-11-10,14:32
+Rhea americana intermedia,Animalia,RHEIDAE_RHEAS,Greater Rhea ssp intermedia,,4,-56.41460851,-33.41488436,South America,Uruguay,UY,,Uruguay - Florida,2016-11-09,15:49
+Rhea americana intermedia,Animalia,RHEIDAE_RHEAS,Greater Rhea ssp intermedia,,1,-56.4099,-33.4268,South America,Uruguay,UY,,Uruguay - Florida,2016-11-09,08:20
+Poospiza cabanisi,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Grey-throated Warbling Finch,,1,-56.3976,-33.4229,South America,Uruguay,UY,,Uruguay - Florida,2016-11-09,06:54
+Chauna torquata,Animalia,SCREAMERS_ANHIMIDAE,Southern Screamer,,1,-56.41012419,-33.4121865,South America,Uruguay,UY,,Uruguay - Florida,2016-11-08,10:05
+Rhea americana intermedia,Animalia,RHEIDAE_RHEAS,Greater Rhea ssp intermedia,,3,-56.40760291,-33.41482839,South America,Uruguay,UY,,Uruguay - Florida,2016-11-08,09:31
+Poospiza cabanisi,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Grey-throated Warbling Finch,,1,-56.398,-33.4198,South America,Uruguay,UY,,Uruguay - Florida,2016-11-08,06:18
+Stephanophorus diadematus,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Diademed Tanager,,1,-56.40237445,-33.41263659,South America,Uruguay,UY,,Uruguay - Florida,2016-11-04,08:03
+Caracara plancus,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Southern Crested Caracara,,2,-56.4052533,-33.42570196,South America,Uruguay,UY,,Uruguay - Florida,2016-11-03,07:37
+Rhea americana intermedia,Animalia,RHEIDAE_RHEAS,Greater Rhea ssp intermedia,,1,-56.40285708,-33.42391542,South America,Uruguay,UY,,Uruguay - Florida,2016-11-03,07:20
+Rhea americana intermedia,Animalia,RHEIDAE_RHEAS,Greater Rhea ssp intermedia,,1,-56.39857108,-33.42152342,South America,Uruguay,UY,,Uruguay - Florida,2016-11-02,21:34
+Rhea americana intermedia,Animalia,RHEIDAE_RHEAS,Greater Rhea ssp intermedia,,1,-56.39914859,-33.4215626,South America,Uruguay,UY,,Uruguay - Florida,2016-11-02,18:23
+Aramus guarauna guarauna,Animalia,LIMPKIN_ARAMIDAE,Limpkin ssp guarauna,,2,-56.41796697,-33.41490241,South America,Uruguay,UY,,Uruguay - Florida,2016-10-31,17:34
+Chauna torquata,Animalia,SCREAMERS_ANHIMIDAE,Southern Screamer,,2,-56.410016566515,-33.418645550127,South America,Uruguay,UY,,Uruguay - Florida,2016-10-31,08:10
+Aramus guarauna guarauna,Animalia,LIMPKIN_ARAMIDAE,Limpkin ssp guarauna,,1,-56.48673512,-33.39645665,South America,Uruguay,UY,,Uruguay - Durazno,2016-10-31,07:34
+Rhea americana intermedia,Animalia,RHEIDAE_RHEAS,Greater Rhea ssp intermedia,,2,-56.41285636,-33.42502577,South America,Uruguay,UY,,Uruguay - Florida,2016-10-29,15:58
+Poospiza cabanisi,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Grey-throated Warbling Finch,,1,-56.398,-33.4197,South America,Uruguay,UY,,Uruguay - Florida,2016-10-23,15:39
+Rhea americana intermedia,Animalia,RHEIDAE_RHEAS,Greater Rhea ssp intermedia,,1,-56.40959479,-33.42653009,South America,Uruguay,UY,,Uruguay - Florida,2016-10-25,13:12
+Paroaria coronata,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Red-crested Cardinal,,1,-56.4097,-33.4246,South America,Uruguay,UY,,Uruguay - Florida,2016-10-25,08:08
+Rhea americana intermedia,Animalia,RHEIDAE_RHEAS,Greater Rhea ssp intermedia,,1,-56.4048,-33.415,South America,Uruguay,UY,,Uruguay - Florida,2016-10-23,13:33
+Caracara plancus,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Southern Crested Caracara,,9,-56.40646197,-33.4262125,South America,Uruguay,UY,,Uruguay - Florida,2016-10-22,09:14
+Rhea americana intermedia,Animalia,RHEIDAE_RHEAS,Greater Rhea ssp intermedia,,6,-56.4003,-33.4219,South America,Uruguay,UY,,Uruguay - Florida,2016-10-17,09:49
+Paroaria coronata,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Red-crested Cardinal,,2,-56.4173,-33.4156,South America,Uruguay,UY,,Uruguay - Florida,2016-10-17,09:25
+Donacospiza albifrons,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Long-tailed Reed Finch,,2,-55.35869474,-34.8047962,South America,Uruguay,UY,,Uruguay - Maldonado,2016-10-14,15:25
+Cyphonia clavata,Animalia,MEMBRACIDAE,,,1,-56.1953540146,-31.8311913225,South America,Uruguay,UY,,Uruguay - Tacuarembó,2015-04-04,

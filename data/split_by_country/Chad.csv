@@ -1,0 +1,153 @@
+scientificName,kingdom,family,vernacularName,previousIdentifications,individualCount,longitudeDecimal,latitudeDecimal,continent,country,countryCode,stateProvince,locality,eventDate,eventTime
+Sus domesticus,Animalia,PIGS_SUIDAE,Domesticated Pig,,3,16.3763,13.8263,Africa,Chad,TD,,Chad - Barh el Gazel,2020-01-23,18:00
+Phacochoerus africanus africanus,Animalia,PIGS_SUIDAE,Northern Warthog,,1,16.2463,16.3764,Africa,Chad,TD,,Chad - Kanem,2020-01-18,15:45
+Rhinopomastus aterrimus,Animalia,WOOD_HOOPOES_PHOENICULIDAE,Black Scimitarbill,,1,21.398,12.194,Africa,Chad,TD,,Chad - Goz-Beida NP,2017-12-16,16:00
+Vidua orientalis,Animalia,INDIGOBIRDS_AND_WHYDAHS_VIDUIDAE,Sahel Paradise Whydah,,1,21.398,12.194,Africa,Chad,TD,,Chad - Goz-Beida NP,2017-12-16,11:30
+Cercotrichas galactotes,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Rufous-tailed Scrub Robin,,1,21.398,12.194,Africa,Chad,TD,,Chad - Goz-Beida NP,2017-12-16,11:30
+Lamprotornis caudatus,Animalia,STARLINGS_STURNIDAE,Long-tailed Glossy Starling,,1,21.395,12.193,Africa,Chad,TD,,Chad - Goz-Beida NP,2017-12-16,09:30
+Alcelaphus buselaphus lelwel,Animalia,BOVIDS_BOVIDAE,Lelwel Hartebeest,,1,19.799,10.851,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-13,07:30
+Merops orientalis,Animalia,BEEEATERS_MEROPIDAE,Green Bee-eater,,1,19.799,10.851,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-13,07:08
+Canis adustus,Animalia,DOGS_CANIDAE,Side-striped Jackal,,1,19.799,10.851,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-13,06:20
+Oena capensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Namaqua Dove,,1,19.78,10.837,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-11,09:00
+Estrilda astrild,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Common Waxbill,,1,19.78,10.837,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-11,09:00
+Streptopelia roseogrisea,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,African Collared Dove,,1,20.101,14.89,Africa,Chad,TD,,Chad - Wadi Fira,2017-12-22,07:15
+Alaemon alaudipes,Animalia,LARKS_ALAUDIDAE,Greater Hoopoe-Lark,,3,20.101,14.89,Africa,Chad,TD,,Chad - Wadi Fira,2017-12-22,07:15
+Lanius excubitor leucopygos,Animalia,SHRIKES_LANIIDAE,Great Grey Shrike ssp leucopygos,,1,20.101,14.89,Africa,Chad,TD,,Chad - Wadi Fira,2017-12-22,07:15
+Neotis nuba,Animalia,BUSTARDS_OTIDIDAE,Nubian Bustard,,3,20.101,14.89,Africa,Chad,TD,,Chad - Wadi Fira,2017-12-22,07:15
+Torgos tracheliotos,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Lappet-faced Vulture,,1,20.101,14.89,Africa,Chad,TD,,Chad - Wadi Fira,2017-12-22,07:15
+Eremomela icteropygialis,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Yellow-bellied Eremomela,,1,21.015,13.828,Africa,Chad,TD,,Chad - Ouaddaï,2017-12-18,10:00
+Merops orientalis,Animalia,BEEEATERS_MEROPIDAE,Green Bee-eater,,1,21.015,13.828,Africa,Chad,TD,,Chad - Ouaddaï,2017-12-18,09:50
+Emberiza goslingi,Animalia,BUNTINGS_EMBERIZIDAE,Gosling's Bunting,,1,21.015,13.828,Africa,Chad,TD,,Chad - Ouaddaï,2017-12-18,08:30
+Sporopipes frontalis,Animalia,WEAVERS_PLOCEIDAE,Speckle-fronted Weaver,,1,21.015,13.828,Africa,Chad,TD,,Chad - Ouaddaï,2017-12-19,08:47
+Cercotrichas podobe,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Black Scrub Robin,,1,21.808,16.76,Africa,Chad,TD,,Chad - Borkou,2017-12-24,08:20
+Pternistis clappertoni,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Clapperton's Spurfowl,,1,15.77636719,17.73560691,Africa,Chad,TD,,Chad - Borkou,2017-12-27,09:00
+Merops albicollis,Animalia,BEEEATERS_MEROPIDAE,White-throated Bee-eater,,1,21.808,16.76,Africa,Chad,TD,,Chad - Borkou,2017-12-24,09:22
+Upupa epops,Animalia,HOOPOES_UPUPIDAE,Eurasian Hoopoe,,1,19.866,10.663,Africa,Chad,TD,,Chad - Salamat,2017-12-14,07:00
+Xerus erythropus,Animalia,SQUIRRELS_CHIPMUNKS_AND_PRAIRIEDOGS_SCIURIDAE,Striped Ground Squirrel,,1,19.866,10.663,Africa,Chad,TD,,Chad - Salamat,2017-12-14,06:00
+Quelea quelea,Animalia,WEAVERS_PLOCEIDAE,Red-billed Quelea,,1,19.542,9.891,Africa,Chad,TD,,Chad - Moyen-Chari,2017-12-10,12:00
+Scopus umbretta,Animalia,HAMERKOP_SCOPIDAE,Hamerkop,,1,19.78,10.837,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-11,09:58
+Lagonosticta senegala,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Red-billed Firefinch,,1,19.78363037,10.82140247,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-11,
+Kobus ellipsiprymnus defassa,Animalia,BOVIDS_BOVIDAE,Defassa Waterbuck,,1,19.75891113,10.8645632,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-13,
+Anastomus lamelligerus,Animalia,STORKS_CICONIIDAE,African Openbill,,1,19.75891113,10.8645632,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-13,
+Tragelaphus scriptus,Animalia,BOVIDS_BOVIDAE,Bushbuck,,1,19.76165771,10.85916845,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-13,
+Coracias abyssinicus,Animalia,ROLLERS_CORACIIDAE,Abyssinian Roller,,1,19.72869873,10.91311156,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-13,
+Erythrocebus patas,Animalia,OLD_WORLD_MONKEYS_CERCOPITHECIDAE,Patas Monkey,,1,19.906,10.901,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-13,13:00
+Chlorocebus tantalus,Animalia,OLD_WORLD_MONKEYS_CERCOPITHECIDAE,Tantalus Monkey,,2,19.75204468,10.83923229,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-11,
+Merops bulocki,Animalia,BEEEATERS_MEROPIDAE,Red-throated Bee-eater,,1,19.76406097,10.83667379,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-11,
+Balearica pavonina,Animalia,CRANES_GRUIDAE,Black Crowned Crane,,1,19.716,10.025,Africa,Chad,TD,,Chad - Salamat,2017-12-10,
+Bucorvus abyssinicus,Animalia,GROUND_HORNBILLS_BUCORVIDAE,Abyssinian Ground Hornbill,,1,19.716,10.025,Africa,Chad,TD,,Chad - Salamat,2017-12-10,
+Motacilla flava,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Western Yellow Wagtail,,1,19.716,10.025,Africa,Chad,TD,,Chad - Salamat,2017-12-10,
+Leptotes spec.,Animalia,GOSSAMERWINGED_BUTTERFLIES_LYCAENIDAE,,,1,16.875,8.333,Africa,Chad,TD,,Chad - Logone Oriental,2017-12-09,
+Papilio demodocus,Animalia,SWALLOWTAILS_PAPILIONIDAE,Christmas Butterfly,,1,15.826,8.721,Africa,Chad,TD,,Chad - Logone Occidental,2017-12-06,10:00
+Junonia chorimene,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Golden Pansy,,1,15.826,8.721,Africa,Chad,TD,,Chad - Logone Occidental,2017-12-06,10:00
+Acraea serena,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Small Orange Acraea,,1,15.859,8.714,Africa,Chad,TD,,Chad - Logone Occidental,2017-12-06,12:00
+Hedydipna platura,Animalia,SUNBIRDS_NECTARINIIDAE,Pygmy Sunbird,,1,15.42,10.328,Africa,Chad,TD,,Chad - Mayo-Kebbi,2017-12-05,12:00
+Eurema hecabe,Animalia,WHITES_PIERIDAE,Common Grass Yellow,,1,16.864,8.377,Africa,Chad,TD,,Chad - Logone Oriental,2017-12-08,
+Papilio demodocus,Animalia,SWALLOWTAILS_PAPILIONIDAE,Christmas Butterfly,,1,16.864,8.377,Africa,Chad,TD,,Chad - Logone Oriental,2017-12-08,
+Acraea serena,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Small Orange Acraea,,1,16.864,8.377,Africa,Chad,TD,,Chad - Logone Oriental,2017-12-08,
+Sceliphron spirifex,Animalia,Sphecidae,,,1,16.875,8.33312103,Africa,Chad,TD,,Chad - Logone Oriental,2017-12-09,
+Papilio demodocus,Animalia,SWALLOWTAILS_PAPILIONIDAE,Christmas Butterfly,,1,15.04062653,12.08350022,Africa,Chad,TD,,Chad - Chari-Baguirmi,2017-12-04,
+Lanius excubitor leucopygos,Animalia,SHRIKES_LANIIDAE,Great Grey Shrike ssp leucopygos,,1,17.1749,14.8007,Africa,Chad,TD,,Chad - Kanem,2017-12-29,07:34
+Aquila chrysaetos,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Golden Eagle,,1,21.6775,16.8215,Africa,Chad,TD,,Chad - Borkou,2017-12-25,11:26
+Ptilopachus petrosus,Animalia,NEW_WORLD_QUAILS_ODONTOPHORIDAE,Stone Partridge,,1,21.8085,16.7596,Africa,Chad,TD,,Chad - Borkou,2017-12-24,20:10
+Lanius excubitor leucopygos,Animalia,SHRIKES_LANIIDAE,Great Grey Shrike ssp leucopygos,,1,21.8085,16.7596,Africa,Chad,TD,,Chad - Borkou,2017-12-24,20:09
+Oenanthe leucopyga,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,White-crowned Wheatear,,1,21.8084,16.7596,Africa,Chad,TD,,Chad - Borkou,2017-12-24,20:09
+Sylvia cantillans,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Subalpine Warbler,,1,22.3203,16.5455,Africa,Chad,TD,,Chad - Borkou,2017-12-23,18:41
+Oenanthe deserti,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Desert Wheatear,,1,22.3203,16.5455,Africa,Chad,TD,,Chad - Borkou,2017-12-23,18:40
+Pterocles lichtensteinii,Animalia,SANDGROUSE_PTEROCLIDAE,Lichtenstein's Sandgrouse,,50,22.3202,16.5457,Africa,Chad,TD,,Chad - Borkou,2017-12-23,18:38
+Ardeotis arabs,Animalia,BUSTARDS_OTIDIDAE,Arabian Bustard,,1,20.0678,14.8912,Africa,Chad,TD,,Chad - Wadi Fira,2017-12-21,17:26
+Neotis nuba,Animalia,BUSTARDS_OTIDIDAE,Nubian Bustard,,3,20.0784,14.9209,Africa,Chad,TD,,Chad - Wadi Fira,2017-12-21,16:19
+Anthus campestris,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Tawny Pipit,,1,20.0768,14.884,Africa,Chad,TD,,Chad - Wadi Fira,2017-12-21,12:42
+Lanius excubitor leucopygos,Animalia,SHRIKES_LANIIDAE,Great Grey Shrike ssp leucopygos,,1,20.0767,14.8839,Africa,Chad,TD,,Chad - Wadi Fira,2017-12-21,11:56
+Alaemon alaudipes,Animalia,LARKS_ALAUDIDAE,Greater Hoopoe-Lark,,1,20.0767,14.8839,Africa,Chad,TD,,Chad - Wadi Fira,2017-12-21,11:54
+Torgos tracheliotos,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Lappet-faced Vulture,,1,20.0767,14.8839,Africa,Chad,TD,,Chad - Wadi Fira,2017-12-21,11:54
+Gyps rueppelli,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Rüppell's Vulture,,1,20.0767,14.8839,Africa,Chad,TD,,Chad - Wadi Fira,2017-12-21,11:53
+Ardeotis arabs,Animalia,BUSTARDS_OTIDIDAE,Arabian Bustard,,1,20.0767,14.8839,Africa,Chad,TD,,Chad - Wadi Fira,2017-12-21,11:53
+Neotis nuba,Animalia,BUSTARDS_OTIDIDAE,Nubian Bustard,,5,20.0768,14.884,Africa,Chad,TD,,Chad - Wadi Fira,2017-12-21,11:53
+Canis lupaster,Animalia,DOGS_CANIDAE,African Golden Wolf,,2,20.0767,14.884,Africa,Chad,TD,,Chad - Wadi Fira,2017-12-21,11:51
+Canis lupaster,Animalia,DOGS_CANIDAE,African Golden Wolf,,1,20.0767,14.884,Africa,Chad,TD,,Chad - Wadi Fira,2017-12-20,18:03
+Lanius excubitor leucopygos,Animalia,SHRIKES_LANIIDAE,Great Grey Shrike ssp leucopygos,,1,20.0766,14.8838,Africa,Chad,TD,,Chad - Wadi Fira,2017-12-20,17:28
+Passer cordofanicus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,Kordofan Sparrow,,2,21.0152,13.8275,Africa,Chad,TD,,Chad - Ouaddaï,2017-12-19,08:47
+Emberiza goslingi,Animalia,BUNTINGS_EMBERIZIDAE,Gosling's Bunting,,1,21.0297,13.8293,Africa,Chad,TD,,Chad - Ouaddaï,2017-12-19,07:23
+Emberiza flaviventris,Animalia,BUNTINGS_EMBERIZIDAE,Golden-breasted Bunting,,1,20.9536,13.8083,Africa,Chad,TD,,Chad - Ouaddaï,2017-12-18,16:12
+Falco alopex,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Fox Kestrel,,1,20.9471,13.8263,Africa,Chad,TD,,Chad - Ouaddaï,2017-12-18,11:23
+Lanius excubitor leucopygos,Animalia,SHRIKES_LANIIDAE,Great Grey Shrike ssp leucopygos,,1,20.9537,13.837,Africa,Chad,TD,,Chad - Ouaddaï,2017-12-18,08:30
+Gyps rueppelli,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Rüppell's Vulture,,3,20.949,13.8378,Africa,Chad,TD,,Chad - Ouaddaï,2017-12-18,07:52
+Spiloptila clamans,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Cricket Warbler,,1,20.9482,13.8307,Africa,Chad,TD,,Chad - Ouaddaï,2017-12-18,07:23
+Ciconia nigra,Animalia,STORKS_CICONIIDAE,Black Stork,,2,21.2249,12.86,Africa,Chad,TD,,Chad - Ouaddaï,2017-12-17,10:29
+Oenanthe oenanthe,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Northern Wheatear,,1,21.4433,12.1977,Africa,Chad,TD,,Chad - Goz-Beida NP,2017-12-16,16:08
+Emberiza hortulana,Animalia,BUNTINGS_EMBERIZIDAE,Ortolan Bunting,,1,21.4463,12.207,Africa,Chad,TD,,Chad - Goz-Beida NP,2017-12-16,15:27
+Tchagra senegalus,Animalia,HELMETSHRIKES_BUSHSHRIKES_MALACONOTIDAE,Black-crowned Tchagra,,1,21.3953,12.1928,Africa,Chad,TD,,Chad - Goz-Beida NP,2017-12-16,09:49
+Oenanthe oenanthe,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Northern Wheatear,,1,21.4083,12.2058,Africa,Chad,TD,,Chad - Goz-Beida NP,2017-12-16,07:21
+Melierax metabates,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Dark Chanting Goshawk,,1,21.4101,12.204,Africa,Chad,TD,,Chad - Goz-Beida NP,2017-12-16,06:58
+Pternistis clappertoni,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Clapperton's Spurfowl,,1,19.8519,10.6368,Africa,Chad,TD,,Chad - Salamat,2017-12-14,08:44
+Vidua chalybeata,Animalia,INDIGOBIRDS_AND_WHYDAHS_VIDUIDAE,Village Indigobird,,1,19.8451,10.6202,Africa,Chad,TD,,Chad - Salamat,2017-12-14,08:06
+Pterocles quadricinctus,Animalia,SANDGROUSE_PTEROCLIDAE,Four-banded Sandgrouse,,1,19.8564,10.6419,Africa,Chad,TD,,Chad - Salamat,2017-12-14,07:24
+Sagittarius serpentarius,Animalia,Sagittariidae,Secretarybird,,2,19.8106,10.8623,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-14,05:38
+Galago senegalensis,Animalia,GALAGOS_GALAGIDAE,Northern Lesser Galago,,2,19.7813,10.8399,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-13,23:28
+Felis silvestris lybica,Animalia,CATS_FELIDAE,African Wildcat,,1,19.7992,10.8496,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-13,23:13
+Bubo cinerascens,Animalia,OWLS_STRIGIDAE,Greyish Eagle-Owl,,1,19.7993,10.8496,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-13,23:12
+Ptilopsis leucotis,Animalia,OWLS_STRIGIDAE,Northern White-faced Owl,,1,19.8425,10.874,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-13,22:18
+Burhinus capensis,Animalia,THICKKNEES_BURHINIDAE,Spotted Thick-knee,,2,19.8168,10.8899,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-13,20:49
+Burhinus senegalensis,Animalia,THICKKNEES_BURHINIDAE,Senegal Thick-knee,,1,19.7856,10.8441,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-13,20:10
+Caprimulgus climacurus,Animalia,NIGHTJARS_CAPRIMULGIDAE,Long-tailed Nightjar,,3,19.7857,10.8443,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-13,20:09
+Neotis denhami,Animalia,BUSTARDS_OTIDIDAE,Denham's Bustard,,6,19.8803,10.9196,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-13,07:45
+Merops nubicus,Animalia,BEEEATERS_MEROPIDAE,Northern Carmine Bee-eater,,1,19.8557,10.9123,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-13,07:02
+Lophaetus occipitalis,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Long-crested Eagle,,1,19.8427,10.908,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-13,06:56
+Pterocles quadricinctus,Animalia,SANDGROUSE_PTEROCLIDAE,Four-banded Sandgrouse,,1,19.7991,10.8507,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-13,06:18
+Pterocles quadricinctus,Animalia,SANDGROUSE_PTEROCLIDAE,Four-banded Sandgrouse,,1,19.835,10.8817,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-12,17:23
+Tringa glareola,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Wood Sandpiper,,1,19.8504,10.8886,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-12,16:34
+Lophaetus occipitalis,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Long-crested Eagle,,1,19.8386,10.8872,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-12,16:16
+Ephippiorhynchus senegalensis,Animalia,STORKS_CICONIIDAE,Saddle-billed Stork,,2,19.8311,10.8795,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-12,16:07
+Ciconia nigra,Animalia,STORKS_CICONIIDAE,Black Stork,,1,19.8309,10.8794,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-12,16:07
+Lophaetus occipitalis,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Long-crested Eagle,,1,19.8565,10.6419,Africa,Chad,TD,,Chad - Salamat,2017-12-12,08:11
+Pterocles quadricinctus,Animalia,SANDGROUSE_PTEROCLIDAE,Four-banded Sandgrouse,,2,19.874,10.7158,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-12,06:36
+Ephippiorhynchus senegalensis,Animalia,STORKS_CICONIIDAE,Saddle-billed Stork,,3,19.8,10.8508,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-12,05:29
+Anastomus lamelligerus,Animalia,STORKS_CICONIIDAE,African Openbill,,1,19.7803,10.8376,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-11,20:55
+Genetta genetta,Animalia,CIVETS_VIVERRIDAE,Common Genet,,1,19.7798,10.84,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-11,17:59
+Syncerus caffer brachyceros,Animalia,BOVIDS_BOVIDAE,Lake Chad Buffalo,,1,19.7799,10.8398,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-11,17:58
+Merops orientalis,Animalia,BEEEATERS_MEROPIDAE,Green Bee-eater,,1,19.7812,10.8399,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-11,17:57
+Pterocles quadricinctus,Animalia,SANDGROUSE_PTEROCLIDAE,Four-banded Sandgrouse,,2,19.783,10.8389,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-11,17:57
+Himantopus himantopus,Animalia,STILTS_AND_AVOCETS_RECURVIROSTRIDAE,Black-winged Stilt,,1,19.8364,10.8861,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-11,16:31
+Actitis hypoleucos,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Common Sandpiper,,1,19.8367,10.8862,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-11,16:30
+Ciconia nigra,Animalia,STORKS_CICONIIDAE,Black Stork,,1,19.8312,10.8786,Africa,Chad,TD,,Chad - Zakouma NP,2017-12-11,16:20
+Chalcomitra senegalensis,Animalia,SUNBIRDS_NECTARINIIDAE,Scarlet-chested Sunbird,,1,16.8104,8.249,Africa,Chad,TD,,Chad - Logone Oriental,2017-12-09,07:51
+Corvinella corvina,Animalia,SHRIKES_LANIIDAE,Yellow-billed Shrike,,1,16.8116,8.2519,Africa,Chad,TD,,Chad - Logone Oriental,2017-12-09,07:35
+Butastur rufipennis,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Grasshopper Buzzard,,1,16.9055,8.5596,Africa,Chad,TD,,Chad - Logone Oriental,2017-12-09,06:22
+Butastur rufipennis,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Grasshopper Buzzard,,1,16.9057,8.556,Africa,Chad,TD,,Chad - Logone Oriental,2017-12-08,15:03
+Glaucidium perlatum,Animalia,OWLS_STRIGIDAE,Pearl-spotted Owlet,,1,15.855,8.7252,Africa,Chad,TD,,Chad - Logone Occidental,2017-12-08,07:09
+Chlorocebus tantalus,Animalia,OLD_WORLD_MONKEYS_CERCOPITHECIDAE,Tantalus Monkey,,1,16.4164,8.2554,Africa,Chad,TD,,Chad - Logone Oriental,2017-12-07,15:33
+Tauraco leucolophus,Animalia,TURACOS_MUSOPHAGIDAE,White-crested Turaco,,1,16.4163,8.2575,Africa,Chad,TD,,Chad - Logone Oriental,2017-12-07,11:06
+Glaucidium perlatum,Animalia,OWLS_STRIGIDAE,Pearl-spotted Owlet,,1,16.0811,8.6037,Africa,Chad,TD,,Chad - Logone Occidental,2017-12-06,16:15
+Terpsiphone viridis,Animalia,MONARCHS_MONARCHIDAE,African Paradise Flycatcher,,1,15.8622,8.7143,Africa,Chad,TD,,Chad - Logone Occidental,2017-12-06,11:33
+Glaucidium perlatum,Animalia,OWLS_STRIGIDAE,Pearl-spotted Owlet,,1,15.8262,8.7206,Africa,Chad,TD,,Chad - Logone Occidental,2017-12-06,10:20
+Prionops plumatus,Animalia,VANGAS_VANGIDAE,White-crested Helmetshrike,,1,15.8324,8.7195,Africa,Chad,TD,,Chad - Logone Occidental,2017-12-06,09:49
+Kaupifalco monogrammicus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Lizard Buzzard,,1,15.8592,8.7145,Africa,Chad,TD,,Chad - Logone Occidental,2017-12-06,09:14
+Campephaga phoenicea,Animalia,CUCKOOSHRIKES_CAMPEPHAGIDAE,Red-shouldered Cuckooshrike,,1,15.8481,8.7243,Africa,Chad,TD,,Chad - Logone Occidental,2017-12-06,07:18
+Tockus erythrorhynchus,Animalia,HORNBILLS_BUCEROTIDAE,Northern Red-billed Hornbill,,1,15.8484,8.7244,Africa,Chad,TD,,Chad - Logone Occidental,2017-12-06,07:12
+Hedydipna platura,Animalia,SUNBIRDS_NECTARINIIDAE,Pygmy Sunbird,,1,15.8503,8.7222,Africa,Chad,TD,,Chad - Logone Occidental,2017-12-06,07:05
+Crinifer piscator,Animalia,TURACOS_MUSOPHAGIDAE,Western Plantain-eater,,1,15.8577,8.7157,Africa,Chad,TD,,Chad - Logone Occidental,2017-12-06,06:20
+Chelictinia riocourii,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Scissor-tailed Kite,,1,15.4199,10.3276,Africa,Chad,TD,,Chad - Mayo-Kebbi,2017-12-05,12:54
+Anastomus lamelligerus,Animalia,STORKS_CICONIIDAE,African Openbill,,25,15.4199,10.3275,Africa,Chad,TD,,Chad - Mayo-Kebbi,2017-12-05,12:54
+Micronisus gabar,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Gabar Goshawk,,1,15.0661,12.0896,Africa,Chad,TD,,Chad - Chari-Baguirmi,2017-12-04,17:38
+Ceryle rudis,Animalia,KINGFISHERS_ALCEDINIDAE,Pied Kingfisher,,2,15.057,12.0873,Africa,Chad,TD,,Chad - Chari-Baguirmi,2017-12-04,16:41
+Pluvianus aegyptius,Animalia,Pluvianidae,Egyptian Plover,,20,15.057,12.0873,Africa,Chad,TD,,Chad - Chari-Baguirmi,2017-12-04,16:41
+Lonchura cucullata,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Bronze Mannikin,,20,15.065233111382,12.087161073445,Africa,Chad,TD,,Chad - Chari-Baguirmi,2016-06-08,16:00
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,2,15.065224394202,12.086240160545,Africa,Chad,TD,,Chad - Chari-Baguirmi,2016-06-06,16:00
+Pluvianus aegyptius,Animalia,Pluvianidae,Egyptian Plover,,3,15.065224394202,12.086240160545,Africa,Chad,TD,,Chad - Chari-Baguirmi,2016-06-06,16:00
+Uraeginthus bengalus,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Red-cheeked Cordon-bleu,,10,15.065224394202,12.086240160545,Africa,Chad,TD,,Chad - Chari-Baguirmi,2016-06-06,16:00
+Pycnonotus barbatus,Animalia,BULBULS_PYCNONOTIDAE,Common Bulbul,,5,15.045663714409,12.107638681773,Africa,Chad,TD,,Chad - Chari-Baguirmi,2016-06-06,16:00
+Ceryle rudis,Animalia,KINGFISHERS_ALCEDINIDAE,Pied Kingfisher,,1,15.065267309546,12.086282124605,Africa,Chad,TD,,Chad - Chari-Baguirmi,2016-06-06,16:00
+Columba guinea,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Speckled Pigeon,,100,15.065267309546,12.086282124605,Africa,Chad,TD,,Chad - Chari-Baguirmi,2016-06-06,16:00
+Columba guinea,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Speckled Pigeon,,2,15.055868661548,12.105592827083,Africa,Chad,TD,,Chad - Chari-Baguirmi,2016-01-17,16:30
+Uraeginthus bengalus,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Red-cheeked Cordon-bleu,,2,15.024730038604,12.118978635719,Africa,Chad,TD,,Chad - Chari-Baguirmi,2016-01-16,16:30
+Lybius vieilloti,Animalia,Lybiidae,Vieillot's Barbet,,1,15.024858784636,12.119247907427,Africa,Chad,TD,,Chad - Chari-Baguirmi,2016-01-09,16:15
+Leptoptilos crumenifer,Animalia,STORKS_CICONIIDAE,Marabou Stork,,1,15.024858784636,12.119247907427,Africa,Chad,TD,,Chad - Chari-Baguirmi,2016-01-09,16:15
+Pycnonotus barbatus,Animalia,BULBULS_PYCNONOTIDAE,Common Bulbul,,5,15.055874025884,12.105540376116,Africa,Chad,TD,,Chad - Chari-Baguirmi,2016-01-11,14:30
+Lonchura cucullata,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Bronze Mannikin,,2,15.055874025884,12.105540376116,Africa,Chad,TD,,Chad - Chari-Baguirmi,2016-01-11,14:30
+Euodice cantans,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,African Silverbill,,5,15.055874025884,12.105540376116,Africa,Chad,TD,,Chad - Chari-Baguirmi,2016-01-11,14:30
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,2,15.055874025884,12.105540376116,Africa,Chad,TD,,Chad - Chari-Baguirmi,2016-01-11,14:30
+Microcarbo africanus,Animalia,CORMORANTS_PHALACROCORACIDAE,Reed Cormorant,,1,15.168629264763,12.006366784606,Africa,Chad,TD,,Chad - Chari-Baguirmi,2016-01-09,11:30
+Anastomus lamelligerus,Animalia,STORKS_CICONIIDAE,African Openbill,,3,15.16820011132,12.005947018787,Africa,Chad,TD,,Chad - Chari-Baguirmi,2016-01-09,11:30
+Vanellus spinosus,Animalia,PLOVERS_CHARADRIIDAE,Spur-winged Lapwing,,2,15.16820011132,12.005947018787,Africa,Chad,TD,,Chad - Chari-Baguirmi,2016-01-09,11:15
+Himantopus himantopus,Animalia,STILTS_AND_AVOCETS_RECURVIROSTRIDAE,Black-winged Stilt,,7,15.16820011132,12.005947018787,Africa,Chad,TD,,Chad - Chari-Baguirmi,2016-01-09,11:15

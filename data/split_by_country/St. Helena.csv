@@ -1,0 +1,711 @@
+scientificName,kingdom,family,vernacularName,previousIdentifications,individualCount,longitudeDecimal,latitudeDecimal,continent,country,countryCode,stateProvince,locality,eventDate,eventTime
+Argemone mexicana,Plantae,PAPAVERACEAE,Mexican Poppy,,1,-5.7160663604736,-15.928070076905,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-21,
+Bubulcus ibis,Animalia,HERONS_ARDEIDAE,Western Cattle Egret,,2,-14.4101840257,-7.92491804342,Antarctica,St. Helena,SH,,Ascension Island,2011-04-25,
+Bubulcus ibis,Animalia,HERONS_ARDEIDAE,Western Cattle Egret,,2,-5.69739818573,-15.9629685087,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-20,
+Bubulcus ibis,Animalia,HERONS_ARDEIDAE,Western Cattle Egret,,5,-5.68486690521,-15.9326397369,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-19,
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,100,-5.77743530273,-15.8594604624,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2011-04-20,
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,300,-5.77743530273,-15.8594604624,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2011-04-19,
+Sterna vittata,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Antarctic Tern,,20,-12.3157864809,-37.0712375371,Antarctica,St. Helena,SH,,Tristan da Cunha ,2011-04-14,
+Sterna vittata,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Antarctic Tern,,10,-12.4736854434,-37.4182585638,Antarctica,St. Helena,SH,,Nightingale Islands,2011-04-13,
+Nesospiza questi,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Nightingale Island Finch,,20,-12.4736854434,-37.4182585638,Antarctica,St. Helena,SH,,Nightingale Islands,2011-04-13,
+Turdus eremita procax,Animalia,THRUSHES_TURDIDAE,Tristan Thrush ssp procax,,30,-12.4736854434,-37.4182585638,Antarctica,St. Helena,SH,,Nightingale Islands,2011-04-13,
+Turdus eremita gordoni,Animalia,THRUSHES_TURDIDAE,Tristan Thrush ssp gordoni,,100,-12.6551556587,-37.2928408189,Antarctica,St. Helena,SH,,Inaccessible Island,2011-04-13,
+Turdus eremita eremita,Animalia,THRUSHES_TURDIDAE,Tristan Thrush ssp eremita,,2,-12.3159313202,-37.0869362467,Antarctica,St. Helena,SH,,Tristan da Cunha ,2011-04-12,
+Sterna vittata,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Antarctic Tern,,5,-12.3157167435,-37.0710668996,Antarctica,St. Helena,SH,,Tristan da Cunha ,2011-04-12,
+Anous stolidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Brown Noddy,,2,-9.89696502688,-40.3009997568,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,7,-14.4140678644,-7.9742426973,Antarctica,St. Helena,SH,,Ascension Island,2011-04-25,
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,100,-5.76398217679,-15.9553391248,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-21,
+Anous stolidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Brown Noddy,,100,-5.76398217679,-15.9553391248,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-21,
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,200,-14.308,-7.935,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-24,
+Charadrius sanctaehelenae,Animalia,PLOVERS_CHARADRIIDAE,St. Helena Plover,,3,-5.68593978882,-15.9308239915,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-19,
+Charadrius sanctaehelenae,Animalia,PLOVERS_CHARADRIIDAE,St. Helena Plover,,9,-5.68593978882,-15.9308239915,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-19,
+Rowettia goughensis,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Gough Finch,,17,-9.90431785761,-40.3157265116,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Gallinula comeri,Animalia,RAILS_RALLIDAE,Gough Moorhen,,3,-9.90431785761,-40.3157265116,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Fregata aquila,Animalia,FRIGATEBIRDS_FREGATTIDAE,Ascension Frigatebird,,700,-14.3072891235,-7.93623497322,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-27,
+Phaethon lepturus,Animalia,TROPICBIRDS_PHAETHONTIDAE,White-tailed Tropicbird,,1,-14.3105372786,-7.93663876402,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-27,
+Tursiops truncatus,Animalia,DOLPHINS_DELPHINIDAE,Common Bottlenose Dolphin,,20,-14.3306216597,-7.91589615532,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-28,
+Fregata aquila,Animalia,FRIGATEBIRDS_FREGATTIDAE,Ascension Frigatebird,,8,-14.4047150016,-7.98149957206,Antarctica,St. Helena,SH,,Ascension Island,2011-04-28,
+Fregata aquila,Animalia,FRIGATEBIRDS_FREGATTIDAE,Ascension Frigatebird,,4,-14.407633245,-7.92271837868,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-26,
+Estrilda astrild,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Common Waxbill,,20,-14.4075044989,-7.92429108703,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-26,
+Bubulcus ibis,Animalia,HERONS_ARDEIDAE,Western Cattle Egret,,2,-14.4099506736,-7.92501368075,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-26,
+Crithagra flaviventris,Animalia,FINCHES_FRINGILLIDAE,Yellow Canary,,10,-14.3278107047,-7.94144171892,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-27,
+Nesospiza acunhae,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Inaccessible Island Finch,,20,-12.6610779762,-37.3096876476,Antarctica,St. Helena,SH,,Inaccessible Island,2011-04-13,
+Turdus eremita gordoni,Animalia,THRUSHES_TURDIDAE,Tristan Thrush ssp gordoni,,40,-12.6610779762,-37.3096876476,Antarctica,St. Helena,SH,,Inaccessible Island,2011-04-13,
+Atlantisia rogersi,Animalia,RAILS_RALLIDAE,Inaccessible Island Rail,,1,-12.6610779762,-37.3096876476,Antarctica,St. Helena,SH,,Inaccessible Island,2011-04-13,
+Lycopodiella cernua,Plantae,LYCOPODIACEAE,,,1,-5.69990873337,-15.9874248691,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-21,
+Carpobrotus edulis,Plantae,AIZOACEAE,Hottentot-fig,,1,-5.68746328354,-15.9432353816,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-19,
+Fregata aquila,Animalia,FRIGATEBIRDS_FREGATTIDAE,Ascension Frigatebird,,1,-14.410200119,-7.92463679725,Antarctica,St. Helena,SH,,Ascension Island,2011-04-25,
+Bubulcus ibis,Animalia,HERONS_ARDEIDAE,Western Cattle Egret,,1,-14.4105863571,-7.92438176409,Antarctica,St. Helena,SH,,Ascension Island,2011-04-25,
+Chelonia mydas,Animalia,Cheloniidae,Green Turtle,,5,-14.4105863571,-7.92438176409,Antarctica,St. Helena,SH,,Ascension Island,2011-04-25,
+Empetrum rubrum,Plantae,ERICACEAE,,,1,-12.3030567169,-37.0679850878,Antarctica,St. Helena,SH,,Tristan da Cunha ,2011-04-14,
+Estrilda astrild,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Common Waxbill,,1,-14.4123888016,-7.92648578297,Antarctica,St. Helena,SH,,Ascension Island,2011-04-24,
+Crithagra flaviventris,Animalia,FINCHES_FRINGILLIDAE,Yellow Canary,,10,-14.4123888016,-7.92648578297,Antarctica,St. Helena,SH,,Ascension Island,2011-04-24,
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,5,-14.4146633148,-7.90036543371,Antarctica,St. Helena,SH,,Ascension Island,2011-04-24,
+Sula leucogaster,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Brown Booby,,5,-14.4146633148,-7.90036543371,Antarctica,St. Helena,SH,,Ascension Island,2011-04-24,
+Tursiops truncatus,Animalia,DOLPHINS_DELPHINIDAE,Common Bottlenose Dolphin,,15,-14.3006801605,-7.93284027974,Antarctica,St. Helena,SH,,Ascension Island,2011-04-24,
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,75,-14.3006801605,-7.93284027974,Antarctica,St. Helena,SH,,Ascension Island,2011-04-24,
+Phaethon lepturus,Animalia,TROPICBIRDS_PHAETHONTIDAE,White-tailed Tropicbird,,2,-14.3006801605,-7.93284027974,Antarctica,St. Helena,SH,,Ascension Island,2011-04-24,
+Sula sula,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Red-footed Booby,,1,-14.3006801605,-7.93284027974,Antarctica,St. Helena,SH,,Ascension Island,2011-04-24,
+Sula sula,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Red-footed Booby,,5,-14.3006801605,-7.93284027974,Antarctica,St. Helena,SH,,Ascension Island,2011-04-24,
+Sula leucogaster,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Brown Booby,,75,-14.3006801605,-7.93284027974,Antarctica,St. Helena,SH,,Ascension Island,2011-04-24,
+Fregata aquila,Animalia,FRIGATEBIRDS_FREGATTIDAE,Ascension Frigatebird,,50,-14.3006801605,-7.93284027974,Antarctica,St. Helena,SH,,Ascension Island,2011-04-24,
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,5,-14.2417171597,-8.05037536439,Antarctica,St. Helena,SH,,Ascension Island,2011-04-24,
+Sula sula,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Red-footed Booby,,1,-14.2417171597,-8.05037536439,Antarctica,St. Helena,SH,,Ascension Island,2011-04-24,
+Sula dactylatra,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Masked Booby,,1,-14.2417171597,-8.05037536439,Antarctica,St. Helena,SH,,Ascension Island,2011-04-24,
+Sula leucogaster,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Brown Booby,,5,-14.2417171597,-8.05037536439,Antarctica,St. Helena,SH,,Ascension Island,2011-04-24,
+Fregata aquila,Animalia,FRIGATEBIRDS_FREGATTIDAE,Ascension Frigatebird,,1,-14.2417171597,-8.05037536439,Antarctica,St. Helena,SH,,Ascension Island,2011-04-24,
+Lonchura oryzivora,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Java Sparrow,,20,-5.71229869128,-15.9318647824,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-21,
+Estrilda astrild,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Common Waxbill,,35,-5.71229869128,-15.9318647824,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-21,
+Crithagra flaviventris,Animalia,FINCHES_FRINGILLIDAE,Yellow Canary,,15,-5.71229869128,-15.9318647824,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-21,
+Columba livia domestica,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Feral Pigeon,,1,-5.71742707492,-15.9260899105,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-21,
+Danaus chrysippus orientis,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,-5.71742707492,-15.9260899105,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-21,
+Phaethon aethereus,Animalia,TROPICBIRDS_PHAETHONTIDAE,Red-billed Tropicbird,,25,-5.72188675404,-15.9263884113,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-20,
+Estrilda astrild,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Common Waxbill,,10,-5.72329223156,-15.9275335961,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-20,
+Crithagra flaviventris,Animalia,FINCHES_FRINGILLIDAE,Yellow Canary,,3,-5.72329223156,-15.9275335961,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-20,
+Geopelia striata,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Zebra Dove,,1,-5.71720898151,-15.9263368262,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2011-04-20,
+Lonchura oryzivora,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Java Sparrow,,10,-5.71720898151,-15.9263368262,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-20,
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,50,-5.77329397202,-15.9698905251,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-20,
+Anous stolidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Brown Noddy,,150,-5.77329397202,-15.9698905251,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-20,
+Phaethon aethereus,Animalia,TROPICBIRDS_PHAETHONTIDAE,Red-billed Tropicbird,,1,-5.7540678978,-16.0297897467,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2011-04-20,
+Sula dactylatra,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Masked Booby,,35,-5.7540678978,-16.0297897467,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2011-04-20,
+Sula leucogaster,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Brown Booby,,15,-5.7540678978,-16.0297897467,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2011-04-20,
+Eretmochelys imbricata,Animalia,Cheloniidae,Hawksbill Turtle,,1,-5.77432394028,-15.9226845705,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2011-04-20,
+Stenella attenuata attenuata,Animalia,DOLPHINS_DELPHINIDAE,Offshore Pantropical Spotted Dolphin,,100,-5.77432394028,-15.9226845705,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2011-04-20,
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,1,-5.71743160486,-15.9248950185,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-19,
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,15,-5.71743160486,-15.9248950185,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-19,
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,1,-5.68460941315,-15.9420593377,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-19,
+Bubulcus ibis,Animalia,HERONS_ARDEIDAE,Western Cattle Egret,,6,-5.68460941315,-15.9420593377,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-19,
+Charadrius sanctaehelenae,Animalia,PLOVERS_CHARADRIIDAE,St. Helena Plover,,10,-5.68636894226,-15.9395009027,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-19,
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,1,-5.8201789856,-15.9629795088,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2011-04-19,
+Phaethon aethereus,Animalia,TROPICBIRDS_PHAETHONTIDAE,Red-billed Tropicbird,,1,-5.8201789856,-15.9629795088,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2011-04-19,
+Sula dactylatra,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Masked Booby,,1,-5.8201789856,-15.9629795088,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2011-04-19,
+Anous stolidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Brown Noddy,,1,-5.8201789856,-15.9629795088,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2011-04-19,
+Sula leucogaster,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Brown Booby,,1,-5.8201789856,-15.9629795088,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2011-04-19,
+Atlantisia rogersi,Animalia,RAILS_RALLIDAE,Inaccessible Island Rail,,2,-12.6535892487,-37.2927170567,Antarctica,St. Helena,SH,,Inaccessible Island,2011-04-13,
+Chelonia mydas,Animalia,Cheloniidae,Green Turtle,,2,-14.4095563888,-7.92318594125,Antarctica,St. Helena,SH,,Ascension Island,2011-04-25,06:00
+Chelonia mydas,Animalia,Cheloniidae,Green Turtle,,6,-14.4095563888,-7.92318594125,Antarctica,St. Helena,SH,,Ascension Island,2011-04-24,
+Tursiops truncatus,Animalia,DOLPHINS_DELPHINIDAE,Common Bottlenose Dolphin,,14,-14.2904663086,-7.91770267406,Antarctica,St. Helena,SH,,Ascension Island,2011-04-24,
+Mirounga leonina,Animalia,SEALS_PHOCIDAE,Southern Elephant Seal,,5,-9.90417480471,-40.3153992853,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Arctocephalus tropicalis,Animalia,FUR_SEALS_OTARIIDAE,Subantarctic Fur Seal,,1000,-9.90417480471,-40.3153992853,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Leucophaeus pipixcan,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Franklin's Gull,,1,-12.3121762276,-37.0638415659,Antarctica,St. Helena,SH,,Tristan da Cunha ,2011-04-14,
+Stercorarius antarcticus,Animalia,SKUAS_STERCORARIIDAE,Brown Skua,,21,-12.4651908875,-37.4062918993,Antarctica,St. Helena,SH,,Nightingale Islands,2011-04-13,
+Sula leucogaster,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Brown Booby,,10,-14.4176781177,-7.91944542581,Antarctica,St. Helena,SH,,Ascension Island,2011-04-25,
+Sula leucogaster,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Brown Booby,,200,-14.3080186844,-7.9363837383,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-24,
+Sula leucogaster,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Brown Booby,,1,-5.73894023895,-15.9353220581,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-21,
+Sula sula,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Red-footed Booby,,20,-14.307975769,-7.93517236395,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-24,
+Fregata aquila,Animalia,FRIGATEBIRDS_FREGATTIDAE,Ascension Frigatebird,,12,-14.4089126587,-7.92429108703,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-25,
+Fregata aquila,Animalia,FRIGATEBIRDS_FREGATTIDAE,Ascension Frigatebird,,500,-14.3082332611,-7.93523612059,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-24,
+Phaethon lepturus,Animalia,TROPICBIRDS_PHAETHONTIDAE,White-tailed Tropicbird,,30,-14.3080186844,-7.93648999904,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-24,
+Phaethon aethereus,Animalia,TROPICBIRDS_PHAETHONTIDAE,Red-billed Tropicbird,,25,-5.72412706914,-15.9261201689,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-21,
+Phaethon aethereus,Animalia,TROPICBIRDS_PHAETHONTIDAE,Red-billed Tropicbird,,45,-5.72412706914,-15.9261201689,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-20,
+Phaethon aethereus,Animalia,TROPICBIRDS_PHAETHONTIDAE,Red-billed Tropicbird,,3,-5.72155214849,-15.9238916793,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-19,
+Fregetta grallaria,Animalia,OCEANITIDAE,White-bellied Storm Petrel,,8,-12.3002243042,-37.0395580332,Antarctica,St. Helena,SH,,Tristan da Cunha ,2011-04-14,
+Puffinus elegans,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Subantarctic Shearwater,,10,-9.8640060425,-40.3099016458,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Ardenna gravis,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Great Shearwater,,20,-12.3015975952,-37.0401061252,Antarctica,St. Helena,SH,,Tristan da Cunha ,2011-04-14,
+Ardenna gravis,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Great Shearwater,,100,-9.86469268801,-40.3130432089,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Procellaria conspicillata,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Spectacled Petrel,,70,-9.86194610598,-40.3099016458,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Pachyptila vittata,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Broad-billed Prion,,517,-9.8576171875,-40.3203327694,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Macronectes giganteus,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Southern Giant Petrel,,100,-9.87121582034,-40.3041417339,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Thalassarche chlororhynchos,Animalia,ALBATROSSES_DIOMEDEIDAE,Atlantic Yellow-nosed Albatross,,25,-12.3068332672,-37.0571977607,Antarctica,St. Helena,SH,,Tristan da Cunha ,2011-04-14,
+Thalassarche chlororhynchos,Animalia,ALBATROSSES_DIOMEDEIDAE,Atlantic Yellow-nosed Albatross,,13,-12.3349857331,-37.1113928428,Antarctica,St. Helena,SH,,Tristan da Cunha ,2011-04-14,
+Thalassarche chlororhynchos,Animalia,ALBATROSSES_DIOMEDEIDAE,Atlantic Yellow-nosed Albatross,,1,-12.4726822973,-37.4201507848,Antarctica,St. Helena,SH,,Nightingale Islands,2011-04-13,
+Thalassarche chlororhynchos,Animalia,ALBATROSSES_DIOMEDEIDAE,Atlantic Yellow-nosed Albatross,,25,-12.3066616059,-37.0576087346,Antarctica,St. Helena,SH,,Tristan da Cunha ,2011-04-12,
+Thalassarche chlororhynchos,Animalia,ALBATROSSES_DIOMEDEIDAE,Atlantic Yellow-nosed Albatross,,2,-9.86929016113,-40.3025305681,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Phoebetria fusca,Animalia,ALBATROSSES_DIOMEDEIDAE,Sooty Albatross,,20,-12.3350822926,-37.1113928428,Antarctica,St. Helena,SH,,Tristan da Cunha ,2011-04-14,
+Eudyptes moseleyi,Animalia,PENGUINS_SPHENISCIDAE,Northern Rockhopper Penguin,,15,-12.4753403664,-37.4157432444,Antarctica,St. Helena,SH,,Nightingale Islands,2011-04-13,
+Eudyptes moseleyi,Animalia,PENGUINS_SPHENISCIDAE,Northern Rockhopper Penguin,,1000,-9.90614891055,-40.3093780377,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Amanita muscaria,Fungi,AMANITACEAE,Fly agaric,,5,-12.3054599762,-37.0671632502,Antarctica,St. Helena,SH,,Tristan da Cunha ,2011-04-14,
+Eudyptes moseleyi,Animalia,PENGUINS_SPHENISCIDAE,Northern Rockhopper Penguin,,3718,-12.3106956482,-37.0712723492,Antarctica,St. Helena,SH,,Tristan da Cunha ,2011-04-14,
+Phoebetria fusca,Animalia,ALBATROSSES_DIOMEDEIDAE,Sooty Albatross,,1,-12.3106956482,-37.0619580719,Antarctica,St. Helena,SH,,Tristan da Cunha ,2011-04-14,
+Fregetta grallaria,Animalia,OCEANITIDAE,White-bellied Storm Petrel,,1,-12.3106956482,-37.0619580719,Antarctica,St. Helena,SH,,Tristan da Cunha ,2011-04-14,
+Ardenna gravis,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Great Shearwater,,1,-12.3106956482,-37.0619580719,Antarctica,St. Helena,SH,,Tristan da Cunha ,2011-04-14,
+Thalassarche chlororhynchos,Animalia,ALBATROSSES_DIOMEDEIDAE,Atlantic Yellow-nosed Albatross,,15,-12.3106956482,-37.0619580719,Antarctica,St. Helena,SH,,Tristan da Cunha ,2011-04-14,
+Leucophaeus pipixcan,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Franklin's Gull,,1,-12.3106956482,-37.0619580719,Antarctica,St. Helena,SH,,Tristan da Cunha ,2011-04-14,
+Sterna vittata,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Antarctic Tern,,1,-12.3106956482,-37.0619580719,Antarctica,St. Helena,SH,,Tristan da Cunha ,2011-04-14,
+Arctocephalus tropicalis,Animalia,FUR_SEALS_OTARIIDAE,Subantarctic Fur Seal,,75,-12.4724006653,-37.4197992988,Antarctica,St. Helena,SH,,Nightingale Islands,2011-04-13,
+Turdus eremita procax,Animalia,THRUSHES_TURDIDAE,Tristan Thrush ssp procax,,5,-12.4724006653,-37.4197992988,Antarctica,St. Helena,SH,,Nightingale Islands,2011-04-13,
+Stercorarius antarcticus,Animalia,SKUAS_STERCORARIIDAE,Brown Skua,,10,-12.4724006653,-37.4197992988,Antarctica,St. Helena,SH,,Nightingale Islands,2011-04-13,
+Eudyptes moseleyi,Animalia,PENGUINS_SPHENISCIDAE,Northern Rockhopper Penguin,,10,-12.4724006653,-37.4197992988,Antarctica,St. Helena,SH,,Nightingale Islands,2011-04-13,
+Nesospiza questi,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Nightingale Island Finch,,5,-12.4724006653,-37.4197992988,Antarctica,St. Helena,SH,,Nightingale Islands,2011-04-13,
+Thalassarche chlororhynchos,Animalia,ALBATROSSES_DIOMEDEIDAE,Atlantic Yellow-nosed Albatross,,1,-12.4724006653,-37.4197992988,Antarctica,St. Helena,SH,,Nightingale Islands,2011-04-13,
+Sterna vittata,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Antarctic Tern,,5,-12.4724006653,-37.4197992988,Antarctica,St. Helena,SH,,Nightingale Islands,2011-04-13,
+Arctocephalus tropicalis,Animalia,FUR_SEALS_OTARIIDAE,Subantarctic Fur Seal,,100,-12.6747894287,-37.2836141444,Antarctica,St. Helena,SH,,Inaccessible Island,2011-04-13,
+Turdus eremita gordoni,Animalia,THRUSHES_TURDIDAE,Tristan Thrush ssp gordoni,,500,-12.6747894287,-37.2836141444,Antarctica,St. Helena,SH,,Inaccessible Island,2011-04-13,
+Stercorarius antarcticus,Animalia,SKUAS_STERCORARIIDAE,Brown Skua,,10,-12.6747894287,-37.2836141444,Antarctica,St. Helena,SH,,Inaccessible Island,2011-04-13,
+Nesospiza acunhae,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Inaccessible Island Finch,,2,-12.6747894287,-37.2836141444,Antarctica,St. Helena,SH,,Inaccessible Island,2011-04-13,
+Atlantisia rogersi,Animalia,RAILS_RALLIDAE,Inaccessible Island Rail,,2,-12.6747894287,-37.2836141444,Antarctica,St. Helena,SH,,Inaccessible Island,2011-04-13,
+Fregetta grallaria,Animalia,OCEANITIDAE,White-bellied Storm Petrel,,1,-12.315158844,-37.0499711059,Antarctica,St. Helena,SH,,Tristan da Cunha ,2011-04-12,
+Turdus eremita eremita,Animalia,THRUSHES_TURDIDAE,Tristan Thrush ssp eremita,,2,-12.3117256165,-37.0801061582,Antarctica,St. Helena,SH,,Tristan da Cunha ,2011-04-12,
+Phoebetria fusca,Animalia,ALBATROSSES_DIOMEDEIDAE,Sooty Albatross,,1,-9.87464904785,-40.2931441746,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Macronectes giganteus,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Southern Giant Petrel,,50,-9.87464904785,-40.2931441746,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Diomedea dabbenena,Animalia,ALBATROSSES_DIOMEDEIDAE,Tristan Albatross,,25,-9.87464904785,-40.2931441746,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Stercorarius antarcticus hamiltoni,Animalia,SKUAS_STERCORARIIDAE,Tristan Brown Skua,,5,-9.87464904785,-40.2931441746,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Puffinus elegans,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Subantarctic Shearwater,,1,-9.87464904785,-40.2931441746,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Ardenna gravis,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Great Shearwater,,1,-9.87464904785,-40.2931441746,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Thalassarche chlororhynchos,Animalia,ALBATROSSES_DIOMEDEIDAE,Atlantic Yellow-nosed Albatross,,3,-9.87464904785,-40.2931441746,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Procellaria conspicillata,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Spectacled Petrel,,10,-9.87464904785,-40.2931441746,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Pachyptila vittata,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Broad-billed Prion,,10,-9.87464904785,-40.2931441746,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Sterna vittata tristanensis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Antarctic Tern ssp tristanensis,,1,-9.87464904785,-40.2931441746,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Arctocephalus tropicalis,Animalia,FUR_SEALS_OTARIIDAE,Subantarctic Fur Seal,,15,-9.89706158638,-40.2979230959,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Macronectes giganteus,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Southern Giant Petrel,,1,-9.89706158638,-40.2979230959,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Stercorarius antarcticus hamiltoni,Animalia,SKUAS_STERCORARIIDAE,Tristan Brown Skua,,1,-9.89706158638,-40.2979230959,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Anous stolidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Brown Noddy,,1,-9.89706158638,-40.2979230959,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Rowettia goughensis,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Gough Finch,,5,-9.89706158638,-40.2979230959,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Eudyptes moseleyi,Animalia,PENGUINS_SPHENISCIDAE,Northern Rockhopper Penguin,,25,-9.89706158638,-40.2979230959,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Sterna vittata tristanensis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Antarctic Tern ssp tristanensis,,2,-9.89706158638,-40.2979230959,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Mirounga leonina,Animalia,SEALS_PHOCIDAE,Southern Elephant Seal,,3,-9.90571975708,-40.3136976827,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Arctocephalus tropicalis,Animalia,FUR_SEALS_OTARIIDAE,Subantarctic Fur Seal,,1500,-9.90571975708,-40.3136976827,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Phoebetria fusca,Animalia,ALBATROSSES_DIOMEDEIDAE,Sooty Albatross,,1,-9.90571975708,-40.3136976827,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Macronectes giganteus,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Southern Giant Petrel,,10,-9.90571975708,-40.3136976827,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Stercorarius antarcticus hamiltoni,Animalia,SKUAS_STERCORARIIDAE,Tristan Brown Skua,,15,-9.90571975708,-40.3136976827,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Rowettia goughensis,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Gough Finch,,15,-9.90571975708,-40.3136976827,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Gallinula comeri,Animalia,RAILS_RALLIDAE,Gough Moorhen,,3,-9.90571975708,-40.3136976827,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Eudyptes moseleyi,Animalia,PENGUINS_SPHENISCIDAE,Northern Rockhopper Penguin,,5000,-9.90571975708,-40.3136976827,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Atlantisia rogersi,Animalia,RAILS_RALLIDAE,Inaccessible Island Rail,,2,-12.661947012,-37.2914495494,Antarctica,St. Helena,SH,,Inaccessible Island,2011-04-13,
+Sterna vittata,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Antarctic Tern,,20,-12.3192979954,-37.0883690001,Antarctica,St. Helena,SH,,Tristan da Cunha ,2011-04-12,
+Phoebetria fusca,Animalia,ALBATROSSES_DIOMEDEIDAE,Sooty Albatross,,15,-12.3148562573,-37.090799564,Antarctica,St. Helena,SH,,Tristan da Cunha ,2011-04-12,
+Thalassarche chlororhynchos,Animalia,ALBATROSSES_DIOMEDEIDAE,Atlantic Yellow-nosed Albatross,,15,-12.3148562573,-37.090799564,Antarctica,St. Helena,SH,,Tristan da Cunha ,2011-04-12,
+Turdus eremita,Animalia,THRUSHES_TURDIDAE,Tristan Thrush,,1,-12.3169805669,-37.0911932395,Antarctica,St. Helena,SH,,Tristan da Cunha ,2011-04-12,
+Turdus eremita,Animalia,THRUSHES_TURDIDAE,Tristan Thrush,,2,-12.3159291409,-37.0879410759,Antarctica,St. Helena,SH,,Tristan da Cunha ,2011-04-12,
+Procellaria conspicillata,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Spectacled Petrel,,60,-9.89344596865,-40.2926859042,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Thalassarche chlororhynchos,Animalia,ALBATROSSES_DIOMEDEIDAE,Atlantic Yellow-nosed Albatross,,2,-9.89344596865,-40.2926859042,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Macronectes giganteus,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Southern Giant Petrel,,2000,-9.89344596865,-40.2926859042,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Diomedea dabbenena,Animalia,ALBATROSSES_DIOMEDEIDAE,Tristan Albatross,,30,-9.89344596865,-40.2926859042,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Macronectes giganteus,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Southern Giant Petrel,,2,-9.90546226504,-40.3120614861,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Phoebetria fusca,Animalia,ALBATROSSES_DIOMEDEIDAE,Sooty Albatross,,5,-9.90228652957,-40.316315515,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Anous stolidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Brown Noddy,,9,-9.8967933655,-40.2990359469,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Arctocephalus tropicalis,Animalia,FUR_SEALS_OTARIIDAE,Subantarctic Fur Seal,,1500,-9.90323066714,-40.3162500704,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Gallinula comeri,Animalia,RAILS_RALLIDAE,Gough Moorhen,,1,-9.90323066714,-40.3162500704,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Gallinula comeri,Animalia,RAILS_RALLIDAE,Gough Moorhen,,3,-9.90640640261,-40.3097707442,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Rowettia goughensis,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Gough Finch,,8,-9.89782333376,-40.2982504069,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Rowettia goughensis,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Gough Finch,,15,-9.90640640261,-40.3099016458,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Eudyptes moseleyi,Animalia,PENGUINS_SPHENISCIDAE,Northern Rockhopper Penguin,,5000,-9.90640640261,-40.3099016458,Antarctica,St. Helena,SH,,Gough Island,2011-04-11,
+Turdus eremita,Animalia,THRUSHES_TURDIDAE,Tristan Thrush,,30,-12.4738838981,-37.4181545449,Antarctica,St. Helena,SH,,Nightingale Islands,2011-04-13,
+Nesospiza questi,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Nightingale Island Finch,,100,-12.4738838981,-37.4181545449,Antarctica,St. Helena,SH,,Nightingale Islands,2011-04-13,
+Eudyptes moseleyi,Animalia,PENGUINS_SPHENISCIDAE,Northern Rockhopper Penguin,,100,-12.4738838981,-37.4181545449,Antarctica,St. Helena,SH,,Nightingale Islands,2011-04-13,
+Arctocephalus tropicalis,Animalia,FUR_SEALS_OTARIIDAE,Subantarctic Fur Seal,,500,-12.4738838981,-37.4181545449,Antarctica,St. Helena,SH,,Nightingale Islands,2011-04-13,
+Arctocephalus tropicalis,Animalia,FUR_SEALS_OTARIIDAE,Subantarctic Fur Seal,,200,-12.6729226112,-37.285090352,Antarctica,St. Helena,SH,,Inaccessible Island,2011-04-13,
+Turdus eremita,Animalia,THRUSHES_TURDIDAE,Tristan Thrush,,1000,-12.6729226112,-37.285090352,Antarctica,St. Helena,SH,,Inaccessible Island,2011-04-13,
+Nesospiza acunhae,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Inaccessible Island Finch,,25,-12.6729226112,-37.285090352,Antarctica,St. Helena,SH,,Inaccessible Island,2011-04-14,
+Atlantisia rogersi,Animalia,RAILS_RALLIDAE,Inaccessible Island Rail,,3,-12.6729226112,-37.285090352,Antarctica,St. Helena,SH,,Inaccessible Island,2011-04-13,
+Puffinus elegans,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Subantarctic Shearwater,,100,-12.2517185466,-37.0591208607,Antarctica,St. Helena,SH,,Tristan da Cunha ,2011-04-14,
+Eudyptes moseleyi,Animalia,PENGUINS_SPHENISCIDAE,Northern Rockhopper Penguin,,2000,-12.3135850148,-37.0658098805,Antarctica,St. Helena,SH,,Tristan da Cunha ,2011-04-14,
+Fregetta grallaria,Animalia,OCEANITIDAE,White-bellied Storm Petrel,,10,-12.3122967546,-37.0630852034,Antarctica,St. Helena,SH,,Tristan da Cunha ,2011-04-14,
+Ardenna gravis,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Great Shearwater,,10,-12.3122967546,-37.0630852034,Antarctica,St. Helena,SH,,Tristan da Cunha ,2011-04-14,
+Leucophaeus pipixcan,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Franklin's Gull,,1,-12.3122967546,-37.0630852034,Antarctica,St. Helena,SH,,Tristan da Cunha ,2011-04-14,
+Thalassarche chlororhynchos,Animalia,ALBATROSSES_DIOMEDEIDAE,Atlantic Yellow-nosed Albatross,,20,-12.3371876542,-37.1093022154,Antarctica,St. Helena,SH,,Tristan da Cunha ,2011-04-14,
+Thalassarche chlororhynchos,Animalia,ALBATROSSES_DIOMEDEIDAE,Atlantic Yellow-nosed Albatross,,100,-12.3110241326,-37.0623675348,Antarctica,St. Helena,SH,,Tristan da Cunha ,2011-04-14,
+Sula dactylatra,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Masked Booby,,20,-5.75475303456,-16.0298211463,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2011-04-20,
+Sula leucogaster,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Brown Booby,,1,-5.75475303456,-16.0298211463,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2011-04-20,
+Anous stolidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Brown Noddy,,100,-5.75475303456,-16.0298211463,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2011-04-20,
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,100,-5.71710552787,-15.9255883,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-19,
+Phaethon aethereus,Animalia,TROPICBIRDS_PHAETHONTIDAE,Red-billed Tropicbird,,25,-5.72686876869,-15.9284976874,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-20,
+Charadrius sanctaehelenae,Animalia,PLOVERS_CHARADRIIDAE,St. Helena Plover,,10,-5.68621720886,-15.9387730584,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2011-04-24,
+Bubulcus ibis,Animalia,HERONS_ARDEIDAE,Western Cattle Egret,,3,-14.4102859497,-7.92441860366,Antarctica,St. Helena,SH,,Ascension Island,2011-04-25,
+Chelonia mydas,Animalia,Cheloniidae,Green Turtle,,8,-14.4102859497,-7.92441860366,Antarctica,St. Helena,SH,,Ascension Island,2011-04-25,
+Phaethon lepturus,Animalia,TROPICBIRDS_PHAETHONTIDAE,White-tailed Tropicbird,,7,-14.3023109436,-7.93130444302,Antarctica,St. Helena,SH,,Ascension Island,2011-04-24,
+Tursiops truncatus,Animalia,DOLPHINS_DELPHINIDAE,Common Bottlenose Dolphin,,5,-14.3023109436,-7.93130444302,Antarctica,St. Helena,SH,,Ascension Island,2011-04-24,
+Sula leucogaster,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Brown Booby,,1200,-14.3023109436,-7.93130444302,Antarctica,St. Helena,SH,,Ascension Island,2011-04-24,
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,500,-14.3023109436,-7.93130444302,Antarctica,St. Helena,SH,,Ascension Island,2011-04-24,
+Sula sula,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Red-footed Booby,,5,-14.3023109436,-7.93130444302,Antarctica,St. Helena,SH,,Ascension Island,2011-04-24,
+Fregata aquila,Animalia,FRIGATEBIRDS_FREGATTIDAE,Ascension Frigatebird,,1200,-14.2994356155,-7.93223954812,Antarctica,St. Helena,SH,,Ascension Island,2011-04-24,
+Turdus eremita,Animalia,THRUSHES_TURDIDAE,Tristan Thrush,,1,-12.3183861,-37.08173125,Antarctica,St. Helena,SH,,Tristan da Cunha ,2011-04-12,12:00
+Atlantisia rogersi,Animalia,RAILS_RALLIDAE,Inaccessible Island Rail,,1,-12.6620489,-37.29142456,Antarctica,St. Helena,SH,,Inaccessible Island,2011-04-13,06:47
+Turdus eremita,Animalia,THRUSHES_TURDIDAE,Tristan Thrush,,300,-12.66206259,-37.29142306,Antarctica,St. Helena,SH,,Inaccessible Island,2011-04-13,06:49
+Nesospiza acunhae,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Inaccessible Island Finch,,8,-12.66206546,-37.29143575,Antarctica,St. Helena,SH,,Inaccessible Island,2011-04-13,06:51
+Chelonia mydas,Animalia,Cheloniidae,Green Turtle,,8,-14.40768242,-7.92333613,Antarctica,St. Helena,SH,,Ascension Island - Georgetown,2018-04-24,
+Tursiops truncatus,Animalia,DOLPHINS_DELPHINIDAE,Common Bottlenose Dolphin,,20,-14.35821539,-7.99268817,Antarctica,St. Helena,SH,,Ascension Island,2018-04-24,
+Chelonia mydas,Animalia,Cheloniidae,Green Turtle,,50,-14.41699483,-7.92327695,Antarctica,St. Helena,SH,,Ascension Island - Georgetown,2015-04-22,23:40
+Chelonia mydas,Animalia,Cheloniidae,Green Turtle,,2,-14.40842584,-7.92387236,Antarctica,St. Helena,SH,,Ascension Island - Georgetown,2015-04-22,23:00
+Diomedea exulans,Animalia,ALBATROSSES_DIOMEDEIDAE,Wandering Albatross,,1,-9.8479589,-40.32997552,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,07:40
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,1,-5.71734966,-15.92483123,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-19,11:43
+Sula leucogaster,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Brown Booby,,1,-14.30249423,-7.92387313,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,08:02
+Macronectes halli,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Northern Giant Petrel,,1,-9.93838906,-40.36198444,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,08:29
+Thalassarche cauta,Animalia,ALBATROSSES_DIOMEDEIDAE,Shy Albatross,,2,-10.0,-40.346,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,10:29
+Rhincodon typus,Animalia,Rhincodontidae,Whale Shark,,1,-5.72050095,-15.92214395,Antarctica,St. Helena,SH,,St. Helena - Jamestown,2018-04-20,
+Rhincodon typus,Animalia,Rhincodontidae,Whale Shark,,1,-5.72050095,-15.92214395,Antarctica,St. Helena,SH,,St. Helena - Jamestown,2018-04-18,
+Rhincodon typus,Animalia,Rhincodontidae,Whale Shark,,1,-5.678787238430232,-15.896687670102091,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-04-18,07:37
+Oceanodroma castro,Animalia,STORM_PETRELS_HYDROBATIDAE,Band-rumped Storm Petrel,,1,-5.778585,-15.963218333333,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-04-19,09:55
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,10,-14.35137791,-7.94919537,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-23,12:34
+Sula sula,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Red-footed Booby,,1,-14.4539594,-7.80894497,Antarctica,St. Helena,SH,,Ascension Island,2015-04-23,18:04
+Chelonia mydas,Animalia,Cheloniidae,Green Turtle,,2,-14.416,-7.9,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,08:55
+Chelonia mydas,Animalia,Cheloniidae,Green Turtle,,1,-14.414,-7.928,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,23:20
+Chelonia mydas,Animalia,Cheloniidae,Green Turtle,,50,-14.416,-7.9,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,22:00
+Chelonia mydas,Animalia,Cheloniidae,Green Turtle,,25,-14.414,-7.928,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,23:20
+Fregata aquila,Animalia,FRIGATEBIRDS_FREGATTIDAE,Ascension Frigatebird,,1,-14.30249423,-7.92387313,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,08:02
+Sula sula,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Red-footed Booby,,1,-14.30249423,-7.92387313,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,08:02
+Sula dactylatra,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Masked Booby,,1,-14.30249423,-7.92387313,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,08:02
+Chelonia mydas,Animalia,Cheloniidae,Green Turtle,,2,-14.41341481,-7.91221014,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,10:40
+Onychoprion fuscatus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Sooty Tern,,1,-14.41346925,-7.91256868,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,10:42
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,5,-14.41324651,-7.91208169,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,10:52
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,5,-5.83469042,-15.81632575,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2015-04-19,17:30
+Sula leucogaster,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Brown Booby,,1,-14.30249423,-7.92387313,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,08:02
+Phaethon lepturus,Animalia,TROPICBIRDS_PHAETHONTIDAE,White-tailed Tropicbird,,2,-14.30249423,-7.92387313,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,08:02
+Charadrius sanctaehelenae,Animalia,PLOVERS_CHARADRIIDAE,St. Helena Plover,,1,-5.67756242,-15.95082888,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-18,13:11
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,12,-5.71741265,-15.92433339,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-18,16:30
+Geopelia striata,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Zebra Dove,,6,-5.71740223,-15.92433288,Antarctica,St. Helena,SH,,St. Helena - Jamestown,2015-04-18,16:30
+Phaethon aethereus,Animalia,TROPICBIRDS_PHAETHONTIDAE,Red-billed Tropicbird,,3,-5.72800769,-15.91928703,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-19,07:44
+Anous stolidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Brown Noddy,,2,-5.72800734,-15.91923391,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-19,07:45
+Anous minutus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black Noddy,,40,-5.7279975,-15.91914968,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-19,07:48
+Phaethon aethereus,Animalia,TROPICBIRDS_PHAETHONTIDAE,Red-billed Tropicbird,,1,-5.74887432,-15.89162999,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2015-04-19,16:58
+Anous minutus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black Noddy,,4,-5.7766111,-15.86721534,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2015-04-19,17:09
+Anous stolidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Brown Noddy,,2,-5.77794738,-15.86593577,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2015-04-19,17:09
+Oceanodroma castro,Animalia,STORM_PETRELS_HYDROBATIDAE,Band-rumped Storm Petrel,,1,-5.78500432,-15.85948392,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2015-04-19,17:12
+Tursiops truncatus,Animalia,DOLPHINS_DELPHINIDAE,Common Bottlenose Dolphin,,10,-5.80299464,-15.96323007,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2015-04-17,10:36
+Phaethon aethereus,Animalia,TROPICBIRDS_PHAETHONTIDAE,Red-billed Tropicbird,,1,-5.73497395,-15.91828404,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2015-04-17,11:05
+Chelonia mydas,Animalia,Cheloniidae,Green Turtle,,2,-5.72837552,-15.91919856,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-17,11:29
+Charadrius sanctaehelenae,Animalia,PLOVERS_CHARADRIIDAE,St. Helena Plover,,16,-5.68714569,-15.93955632,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-17,16:57
+Anous stolidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Brown Noddy,,4,-5.72346138,-15.91567701,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-18,07:53
+Phaethon aethereus,Animalia,TROPICBIRDS_PHAETHONTIDAE,Red-billed Tropicbird,,2,-5.7234653,-15.91567587,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-18,07:53
+Oceanodroma castro,Animalia,STORM_PETRELS_HYDROBATIDAE,Band-rumped Storm Petrel,,1,-5.72239841,-15.91599686,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-18,09:06
+Pterodroma macroptera,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Great-winged Petrel,,1,-12.21492174,-37.08401936,Antarctica,St. Helena,SH,,Tristan da Cunha ,2015-04-12,15:04
+Thalassarche chlororhynchos,Animalia,ALBATROSSES_DIOMEDEIDAE,Atlantic Yellow-nosed Albatross,,6,-12.20339741,-37.08473433,Antarctica,St. Helena,SH,,Tristan da Cunha ,2015-04-11,09:09
+Gallinula comeri,Animalia,RAILS_RALLIDAE,Gough Moorhen,,7,-9.89822486,-40.27718694,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,17:34
+Rowettia goughensis,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Gough Finch,,7,-9.89883975,-40.27638607,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,17:35
+Macronectes giganteus,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Southern Giant Petrel,,25,-9.90372066,-40.26927979,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,17:38
+Phoebetria fusca,Animalia,ALBATROSSES_DIOMEDEIDAE,Sooty Albatross,,4,-9.8479589,-40.32997552,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,07:40
+Diomedea dabbenena,Animalia,ALBATROSSES_DIOMEDEIDAE,Tristan Albatross,,8,-9.84819971,-40.32952478,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,07:41
+Procellaria conspicillata,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Spectacled Petrel,,5,-9.84918465,-40.32751624,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,07:42
+Thalassarche chlororhynchos,Animalia,ALBATROSSES_DIOMEDEIDAE,Atlantic Yellow-nosed Albatross,,2,-9.84948748,-40.32690664,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,07:43
+Ardenna gravis,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Great Shearwater,,1,-9.84981252,-40.32617427,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,07:43
+Pterodroma mollis,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Soft-plumaged Petrel,,1,-9.84988851,-40.3259937,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,07:43
+Lagenorhynchus obscurus obscurus,Animalia,DOLPHINS_DELPHINIDAE,South African Dusky Dolphin,,50,-9.85680525,-40.31373674,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,12:50
+Ardenna gravis,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Great Shearwater,,1,-9.9035,-40.373,Antarctica,St. Helena,SH,,Gough Island,2018-04-10,10:21
+Ardenna gravis,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Great Shearwater,,1,-10.0328,-40.3874,Antarctica,St. Helena,SH,,Gough Island,2018-04-10,07:03
+Balaenoptera musculus,Animalia,RORQUAL_WHALES_BALAENOPTERIDAE,Blue Whale,,1,-12.271,-36.3734,Antarctica,St. Helena,SH,,Tristan da Cunha - Archipelago,2018-04-13,18:49
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,1,-5.7177,-15.9207,Antarctica,St. Helena,SH,,St. Helena - Jamestown,2018-04-18,10:02
+Lonchura oryzivora,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Java Sparrow,,1,-5.7177,-15.9207,Antarctica,St. Helena,SH,,St. Helena - Jamestown,2018-04-18,10:02
+Oceanodroma castro,Animalia,STORM_PETRELS_HYDROBATIDAE,Band-rumped Storm Petrel,,1,-5.7994,-15.9781,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-04-18,07:11
+Fregata aquila,Animalia,FRIGATEBIRDS_FREGATTIDAE,Ascension Frigatebird,,1,-14.3045,-7.9333,Antarctica,St. Helena,SH,,Ascension Island - Boatswain Bird Island,2018-04-23,07:14
+Sula dactylatra,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Masked Booby,,1,-14.3045,-7.9333,Antarctica,St. Helena,SH,,Ascension Island - Boatswain Bird Island,2018-04-23,07:14
+Sula leucogaster,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Brown Booby,,1,-14.3045,-7.9333,Antarctica,St. Helena,SH,,Ascension Island - Boatswain Bird Island,2018-04-23,07:14
+Anous stolidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Brown Noddy,,1,-14.3037,-7.9335,Antarctica,St. Helena,SH,,Ascension Island - Boatswain Bird Island,2018-04-23,07:13
+Oceanodroma castro,Animalia,STORM_PETRELS_HYDROBATIDAE,Band-rumped Storm Petrel,,1,-14.30754662,-7.93352035,Antarctica,St. Helena,SH,,Ascension Island - Boatswain Bird Island,2018-04-24,14:58
+Anous stolidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Brown Noddy,,1,-14.30900574,-7.93760077,Antarctica,St. Helena,SH,,Ascension Island - Boatswain Bird Island,2018-04-24,14:43
+Phaethon lepturus,Animalia,TROPICBIRDS_PHAETHONTIDAE,White-tailed Tropicbird,,1,-14.30949211,-7.93557757,Antarctica,St. Helena,SH,,Ascension Island - Boatswain Bird Island,2018-04-24,14:15
+Sula sula,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Red-footed Booby,,1,-14.30786134,-7.93452346,Antarctica,St. Helena,SH,,Ascension Island - Boatswain Bird Island,2018-04-24,14:11
+Fregata aquila,Animalia,FRIGATEBIRDS_FREGATTIDAE,Ascension Frigatebird,,20,-14.30786134,-7.93452346,Antarctica,St. Helena,SH,,Ascension Island - Boatswain Bird Island,2018-04-24,14:06
+Sula dactylatra,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Masked Booby,,1,-14.30786134,-7.93452346,Antarctica,St. Helena,SH,,Ascension Island - Boatswain Bird Island,2018-04-24,14:06
+Sula leucogaster,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Brown Booby,,30,-14.30786134,-7.93452346,Antarctica,St. Helena,SH,,Ascension Island - Boatswain Bird Island,2018-04-24,14:00
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,1,-14.30786134,-7.93452346,Antarctica,St. Helena,SH,,Ascension Island - Boatswain Bird Island,2018-04-24,14:00
+Sula leucogaster,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Brown Booby,,1,-14.42341805,-7.94831169,Antarctica,St. Helena,SH,,Ascension Island,2018-04-24,13:51
+Sula dactylatra,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Masked Booby,,1,-14.42354679,-7.94724911,Antarctica,St. Helena,SH,,Ascension Island,2018-04-24,13:41
+Fregata aquila,Animalia,FRIGATEBIRDS_FREGATTIDAE,Ascension Frigatebird,,2,-14.4140017,-7.92564205,Antarctica,St. Helena,SH,,Ascension Island - Georgetown,2018-04-24,07:30
+Onychoprion fuscatus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Sooty Tern,,10,-14.39520836,-7.978798,Antarctica,St. Helena,SH,,Ascension Island,2018-04-23,11:00
+Phaethon lepturus,Animalia,TROPICBIRDS_PHAETHONTIDAE,White-tailed Tropicbird,,1,-14.30634499,-7.93496551,Antarctica,St. Helena,SH,,Ascension Island - Boatswain Bird Island,2018-04-23,07:28
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,50,-14.30634499,-7.93496551,Antarctica,St. Helena,SH,,Ascension Island - Boatswain Bird Island,2018-04-23,07:28
+Fregata aquila,Animalia,FRIGATEBIRDS_FREGATTIDAE,Ascension Frigatebird,,1000,-14.30583,-7.93577309,Antarctica,St. Helena,SH,,Ascension Island - Boatswain Bird Island,2018-04-23,07:19
+Sula sula,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Red-footed Booby,,1,-14.30583,-7.93577309,Antarctica,St. Helena,SH,,Ascension Island - Boatswain Bird Island,2018-04-23,07:19
+Sula leucogaster,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Brown Booby,,50,-14.30583,-7.93577309,Antarctica,St. Helena,SH,,Ascension Island - Boatswain Bird Island,2018-04-23,07:19
+Sula dactylatra,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Masked Booby,,100,-14.30583,-7.93577309,Antarctica,St. Helena,SH,,Ascension Island - Boatswain Bird Island,2018-04-23,07:10
+Leucophaeus pipixcan,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Franklin's Gull,,1,-5.71982861,-15.92258965,Antarctica,St. Helena,SH,,St. Helena - Jamestown,2018-04-20,07:47
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,2,-5.71982861,-15.92258965,Antarctica,St. Helena,SH,,St. Helena - Jamestown,2018-04-20,07:47
+Oceanodroma castro,Animalia,STORM_PETRELS_HYDROBATIDAE,Band-rumped Storm Petrel,,1,-5.77535391,-15.97393387,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-04-19,15:45
+Sula dactylatra,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Masked Booby,,1,-5.7542038,-16.03099827,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-04-19,15:45
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,1,-5.75580597,-16.02923292,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-04-19,15:45
+Phaethon aethereus,Animalia,TROPICBIRDS_PHAETHONTIDAE,Red-billed Tropicbird,,1,-5.75992584,-15.93921205,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-04-19,15:36
+Sula dactylatra,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Masked Booby,,1,-5.75992584,-15.93921205,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-04-19,15:23
+Charadrius sanctaehelenae,Animalia,PLOVERS_CHARADRIIDAE,St. Helena Plover,,1,-5.71669579,-15.94234269,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-04-19,14:37
+Charadrius sanctaehelenae,Animalia,PLOVERS_CHARADRIIDAE,St. Helena Plover,,4,-5.65481186,-15.95992071,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-04-19,10:25
+Estrilda astrild,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Common Waxbill,,4,-5.71777046,-15.92338889,Antarctica,St. Helena,SH,,St. Helena - Jamestown,2018-04-18,17:00
+Lonchura oryzivora,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Java Sparrow,,10,-5.71866006,-15.9251581,Antarctica,St. Helena,SH,,St. Helena - Jamestown,2018-04-18,14:00
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,1,-5.71834266,-15.92398849,Antarctica,St. Helena,SH,,St. Helena - Jamestown,2018-04-18,10:23
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,6,-5.71834266,-15.92398849,Antarctica,St. Helena,SH,,St. Helena - Jamestown,2018-04-18,10:23
+Lonchura oryzivora,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Java Sparrow,,4,-5.7178545,-15.92186057,Antarctica,St. Helena,SH,,St. Helena - Jamestown,2018-04-18,10:15
+Ardenna gravis,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Great Shearwater,,20,-12.63290405,-37.34723435,Antarctica,St. Helena,SH,,Inaccessible Island,2018-04-13,10:35
+Thalassarche chlororhynchos,Animalia,ALBATROSSES_DIOMEDEIDAE,Atlantic Yellow-nosed Albatross,,2,-12.63290405,-37.34723435,Antarctica,St. Helena,SH,,Inaccessible Island,2018-04-13,10:35
+Stercorarius antarcticus hamiltoni,Animalia,SKUAS_STERCORARIIDAE,Tristan Brown Skua,,5,-12.63290405,-37.34723435,Antarctica,St. Helena,SH,,Inaccessible Island,2018-04-13,10:35
+Ardenna gravis,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Great Shearwater,,1,-12.52853394,-37.3837984,Antarctica,St. Helena,SH,,Nightingale Islands,2018-04-13,09:05
+Procellaria conspicillata,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Spectacled Petrel,,1,-12.51617432,-37.39907362,Antarctica,St. Helena,SH,,Nightingale Islands,2018-04-13,09:05
+Ardenna gravis,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Great Shearwater,,1,-12.49763489,-37.41380035,Antarctica,St. Helena,SH,,Nightingale Islands,2018-04-13,09:00
+Thalassarche chlororhynchos,Animalia,ALBATROSSES_DIOMEDEIDAE,Atlantic Yellow-nosed Albatross,,1,-12.49420166,-37.41380035,Antarctica,St. Helena,SH,,Nightingale Islands,2018-04-13,08:51
+Phoebetria fusca,Animalia,ALBATROSSES_DIOMEDEIDAE,Sooty Albatross,,1,-12.47634888,-37.4072555,Antarctica,St. Helena,SH,,Nightingale Islands,2018-04-13,08:51
+Procellaria conspicillata,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Spectacled Petrel,,2,-12.47840881,-37.40398285,Antarctica,St. Helena,SH,,Nightingale Islands,2018-04-13,08:51
+Ardenna gravis,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Great Shearwater,,1,-12.47085571,-37.41598184,Antarctica,St. Helena,SH,,Nightingale Islands,2018-04-13,08:05
+Thalassarche chlororhynchos,Animalia,ALBATROSSES_DIOMEDEIDAE,Atlantic Yellow-nosed Albatross,,1,-12.36373901,-37.21720611,Antarctica,St. Helena,SH,,Tristan da Cunha ,2018-04-12,16:36
+Sterna vittata tristanensis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Antarctic Tern ssp tristanensis,,1,-12.31828451,-37.07749036,Antarctica,St. Helena,SH,,Tristan da Cunha ,2018-04-12,16:36
+Eudyptes moseleyi,Animalia,PENGUINS_SPHENISCIDAE,Northern Rockhopper Penguin,,1,-12.26760864,-37.06147863,Antarctica,St. Helena,SH,,Tristan da Cunha ,2018-04-11,16:36
+Pterodroma mollis,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Soft-plumaged Petrel,,1,-12.3015976,-37.05784847,Antarctica,St. Helena,SH,,Tristan da Cunha ,2018-04-11,12:57
+Macronectes halli,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Northern Giant Petrel,,1,-12.29988098,-37.05784847,Antarctica,St. Helena,SH,,Tristan da Cunha ,2018-04-11,12:57
+Procellaria conspicillata,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Spectacled Petrel,,1,-12.29988098,-37.05784847,Antarctica,St. Helena,SH,,Tristan da Cunha ,2018-04-11,12:57
+Thalassarche chlororhynchos,Animalia,ALBATROSSES_DIOMEDEIDAE,Atlantic Yellow-nosed Albatross,,1,-12.26906776,-37.05798546,Antarctica,St. Helena,SH,,Tristan da Cunha ,2018-04-11,10:47
+Pachyptila vittata,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Broad-billed Prion,,1,-10.27770996,-40.15368686,Antarctica,St. Helena,SH,,Tristan da Cunha - Archipelago,2018-04-10,16:25
+Phoebetria fusca,Animalia,ALBATROSSES_DIOMEDEIDAE,Sooty Albatross,,1,-9.95498657,-40.36695058,Antarctica,St. Helena,SH,,Gough Island,2018-04-10,13:56
+Oceanites oceanicus,Animalia,OCEANITIDAE,Wilson's Storm Petrel,,6,-9.93919373,-40.36590425,Antarctica,St. Helena,SH,,Gough Island,2018-04-10,13:40
+Macronectes giganteus,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Southern Giant Petrel,,1,-9.93404388,-40.36302674,Antarctica,St. Helena,SH,,Gough Island,2018-04-10,13:30
+Ardenna gravis,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Great Shearwater,,1,-9.93404388,-40.36302674,Antarctica,St. Helena,SH,,Gough Island,2018-04-10,13:30
+Sterna vittata tristanensis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Antarctic Tern ssp tristanensis,,1,-9.93026733,-40.35753298,Antarctica,St. Helena,SH,,Gough Island,2018-04-10,09:00
+Eudyptes moseleyi,Animalia,PENGUINS_SPHENISCIDAE,Northern Rockhopper Penguin,,1500,-9.94262695,-40.35125385,Antarctica,St. Helena,SH,,Gough Island,2018-04-10,09:00
+Diomedea dabbenena,Animalia,ALBATROSSES_DIOMEDEIDAE,Tristan Albatross,,1,-9.94262695,-40.35125385,Antarctica,St. Helena,SH,,Gough Island,2018-04-10,08:00
+Macronectes halli,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Northern Giant Petrel,,1,-9.94262695,-40.35125385,Antarctica,St. Helena,SH,,Gough Island,2018-04-10,08:00
+Macronectes halli,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Northern Giant Petrel,,1,-10.05249023,-40.41558723,Antarctica,St. Helena,SH,,Gough Island,2018-04-09,15:20
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,10,-5.72510528564453,-15.9561729431152,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-11-21,11:39
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,10,-5.71292495727539,-15.930703163147,Antarctica,St. Helena,SH,,St. Helena - Jamestown,2018-11-19,17:27
+Lonchura oryzivora,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Java Sparrow,,10,-5.71093273162842,-15.9377326965332,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-11-19,18:00
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,3,-5.71567583084106,-15.9919309616089,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-11-18,10:25
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,20,-5.71533918380737,-16.0034732818604,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-11-18,13:52
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,1,-5.70924520492554,-15.9760141372681,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-11-18,14:12
+Oceanodroma castro,Animalia,STORM_PETRELS_HYDROBATIDAE,Band-rumped Storm Petrel,,1,-5.77132558822632,-15.946870803833,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-11-12,11:29
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,10,-5.6882438659668,-15.9508724212646,Antarctica,St. Helena,SH,,St. Helena - Longwood,2018-11-12,15:20
+Lonchura oryzivora,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Java Sparrow,,4,-5.71763849258423,-15.9229440689087,Antarctica,St. Helena,SH,,St. Helena - Jamestown,2018-11-15,07:25
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,100,-5.71764612197876,-15.9229555130005,Antarctica,St. Helena,SH,,St. Helena - Jamestown,2018-11-15,07:25
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,10,-5.72451400756836,-15.9567394256592,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-11-16,14:56
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,1,-5.73509883880615,-15.9802312850952,Antarctica,St. Helena,SH,,St. Helena - Sandy Bay NP,2018-11-16,15:24
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,5,-5.7496223449707,-15.9983205795288,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-11-16,15:57
+Aldabrachelys gigantea,Animalia,Testudinidae,Aldabra Giant Tortoise,,1,-5.72098255157471,-15.9544801712036,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-11-16,16:39
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,1,-5.71409749984741,-15.9583206176758,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-11-17,12:57
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,1,-5.6584153175354,-15.9596519470215,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-11-10,16:26
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,5,-5.6623477935791,-15.9523363113403,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-11-10,16:29
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,10,-5.71713161468506,-15.9259576797485,Antarctica,St. Helena,SH,,St. Helena - Jamestown,2018-11-10,17:40
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,40,-5.71902894973755,-15.9244203567505,Antarctica,St. Helena,SH,,St. Helena - Jamestown,2018-11-10,19:26
+Lonchura oryzivora,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Java Sparrow,,6,-5.71902894973755,-15.9244203567505,Antarctica,St. Helena,SH,,St. Helena - Jamestown,2018-11-10,19:26
+Rhincodon typus,Animalia,Rhincodontidae,Whale Shark,,1,-5.77240783,-15.91509457,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-04-18,07:44
+Rhincodon typus,Animalia,Rhincodontidae,Whale Shark,,1,-5.72192456,-15.915465,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-04-20,07:46
+Rhincodon typus,Animalia,Rhincodontidae,Whale Shark,,1,-5.76521612,-15.8808896,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-04-20,13:59
+Rhincodon typus,Animalia,Rhincodontidae,Whale Shark,,1,-5.77013933,-15.87917234,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-04-20,14:02
+Rhincodon typus,Animalia,Rhincodontidae,Whale Shark,,1,-5.80292353,-15.8543687,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-04-20,14:24
+Tursiops truncatus,Animalia,DOLPHINS_DELPHINIDAE,Common Bottlenose Dolphin,,5,-14.3023109436,-7.93130444302,Antarctica,St. Helena,SH,,Ascension Island,2011-04-24,
+Thalassarche chlororhynchos,Animalia,ALBATROSSES_DIOMEDEIDAE,Atlantic Yellow-nosed Albatross,,1,-12.2014074,-37.12270036,Antarctica,St. Helena,SH,,Tristan da Cunha ,2018-04-11,11:10
+Phoebetria fusca,Animalia,ALBATROSSES_DIOMEDEIDAE,Sooty Albatross,,1,-12.49623572,-37.39256419,Antarctica,St. Helena,SH,,Nightingale Islands,2018-04-13,08:59
+Thalassarche chlororhynchos,Animalia,ALBATROSSES_DIOMEDEIDAE,Atlantic Yellow-nosed Albatross,,1,-12.49288857,-37.39071357,Antarctica,St. Helena,SH,,Nightingale Islands,2018-04-13,09:01
+Procellaria conspicillata,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Spectacled Petrel,,1,-12.48264938,-37.38956198,Antarctica,St. Helena,SH,,Nightingale Islands,2018-04-13,09:05
+Thalassarche chlororhynchos,Animalia,ALBATROSSES_DIOMEDEIDAE,Atlantic Yellow-nosed Albatross,,1,-12.57508536,-37.33270895,Antarctica,St. Helena,SH,,Inaccessible Island,2018-04-13,10:22
+Procellaria conspicillata,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Spectacled Petrel,,1,-12.5763638,-37.33209274,Antarctica,St. Helena,SH,,Inaccessible Island,2018-04-13,10:23
+Lonchura oryzivora,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Java Sparrow,,1,-5.72075352676659,-15.9262205038244,Antarctica,St. Helena,SH,,St. Helena - Jamestown,2018-04-18,13:56
+Oceanodroma castro,Animalia,STORM_PETRELS_HYDROBATIDAE,Band-rumped Storm Petrel,,1,-5.72249901220111,-15.9155164005757,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-04-18,18:07
+Lonchura oryzivora,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Java Sparrow,,1,-5.71859571709617,-15.9242899709793,Antarctica,St. Helena,SH,,St. Helena - Jamestown,2018-04-19,08:32
+Rhincodon typus,Animalia,Rhincodontidae,Whale Shark,,1,-5.72218830250647,-15.9146835022331,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-04-20,07:41
+Fregata aquila,Animalia,FRIGATEBIRDS_FREGATTIDAE,Ascension Frigatebird,,1,-14.2548306179724,-7.96738344157063,Antarctica,St. Helena,SH,,Ascension Island,2018-04-23,06:45
+Sula dactylatra,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Masked Booby,,3,-14.2551925562178,-7.96706327385844,Antarctica,St. Helena,SH,,Ascension Island,2018-04-23,06:45
+Sula leucogaster,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Brown Booby,,1,-14.2555104802183,-7.96672384784385,Antarctica,St. Helena,SH,,Ascension Island,2018-04-23,06:46
+Anous stolidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Brown Noddy,,1,-14.2797006262853,-7.94780222436867,Antarctica,St. Helena,SH,,Ascension Island,2018-04-23,06:56
+Sula dactylatra,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Masked Booby,,1,-14.3045,-7.9333,Antarctica,St. Helena,SH,,Ascension Island - Boatswain Bird Island,2018-04-23,07:14
+Sula leucogaster,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Brown Booby,,1,-14.3045,-7.9333,Antarctica,St. Helena,SH,,Ascension Island - Boatswain Bird Island,2018-04-23,07:14
+Anous stolidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Brown Noddy,,1,-14.3037,-7.9335,Antarctica,St. Helena,SH,,Ascension Island - Boatswain Bird Island,2018-04-23,07:13
+Tursiops truncatus,Animalia,DOLPHINS_DELPHINIDAE,Common Bottlenose Dolphin,,10,-14.3032,-7.9326,Antarctica,St. Helena,SH,,Ascension Island - Boatswain Bird Island,2018-04-24,14:31
+Fregata aquila,Animalia,FRIGATEBIRDS_FREGATTIDAE,Ascension Frigatebird,,1,-14.3045,-7.9333,Antarctica,St. Helena,SH,,Ascension Island - Boatswain Bird Island,2018-04-23,07:14
+Tursiops truncatus,Animalia,DOLPHINS_DELPHINIDAE,Common Bottlenose Dolphin,,10,-14.3032,-7.9326,Antarctica,St. Helena,SH,,Ascension Island - Boatswain Bird Island,2018-04-24,14:31
+Fregata aquila,Animalia,FRIGATEBIRDS_FREGATTIDAE,Ascension Frigatebird,,1,-14.3045,-7.9333,Antarctica,St. Helena,SH,,Ascension Island - Boatswain Bird Island,2018-04-23,07:14
+Sula dactylatra,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Masked Booby,,1,-14.3045,-7.9333,Antarctica,St. Helena,SH,,Ascension Island - Boatswain Bird Island,2018-04-23,07:14
+Sula leucogaster,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Brown Booby,,1,-14.3045,-7.9333,Antarctica,St. Helena,SH,,Ascension Island - Boatswain Bird Island,2018-04-23,07:14
+Anous stolidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Brown Noddy,,1,-14.3037,-7.9335,Antarctica,St. Helena,SH,,Ascension Island - Boatswain Bird Island,2018-04-23,07:13
+Balaenoptera musculus,Animalia,RORQUAL_WHALES_BALAENOPTERIDAE,Blue Whale,,1,-12.26418667,-36.32327175,Antarctica,St. Helena,SH,,Tristan da Cunha - Archipelago,2018-04-13,19:05
+Chelonia mydas,Animalia,Cheloniidae,Green Turtle,,4,-14.40800406,-7.92333506,Antarctica,St. Helena,SH,,Ascension Island - Georgetown,2018-04-24,07:00
+Fregata aquila,Animalia,FRIGATEBIRDS_FREGATTIDAE,Ascension Frigatebird,,1,-14.3107,-7.9006,Antarctica,St. Helena,SH,,Ascension Island,2018-04-24,15:21
+Sula dactylatra,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Masked Booby,,1,-14.3096,-7.9025,Antarctica,St. Helena,SH,,Ascension Island,2018-04-24,15:20
+Sula leucogaster,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Brown Booby,,1,-14.3091,-7.9035,Antarctica,St. Helena,SH,,Ascension Island,2018-04-24,15:20
+Anous stolidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Brown Noddy,,1,-14.3087,-7.9043,Antarctica,St. Helena,SH,,Ascension Island,2018-04-24,15:20
+Anous stolidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Brown Noddy,,1,-14.2716,-7.9525,Antarctica,St. Helena,SH,,Ascension Island,2018-04-23,06:56
+Fregata aquila,Animalia,FRIGATEBIRDS_FREGATTIDAE,Ascension Frigatebird,,1,-14.2716,-7.9525,Antarctica,St. Helena,SH,,Ascension Island,2018-04-23,06:56
+Sula dactylatra,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Masked Booby,,1,-14.2709,-7.9529,Antarctica,St. Helena,SH,,Ascension Island,2018-04-23,06:56
+Sula leucogaster,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Brown Booby,,1,-14.2709,-7.9529,Antarctica,St. Helena,SH,,Ascension Island,2018-04-23,06:55
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,1,-5.7184,-15.9244,Antarctica,St. Helena,SH,,St. Helena - Jamestown,2018-04-19,09:35
+Oceanodroma castro,Animalia,STORM_PETRELS_HYDROBATIDAE,Band-rumped Storm Petrel,,1,-5.722,-15.9158,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-04-18,08:51
+Balaenoptera musculus,Animalia,RORQUAL_WHALES_BALAENOPTERIDAE,Blue Whale,,1,-12.2712,-36.3659,Antarctica,St. Helena,SH,,Tristan da Cunha - Archipelago,2018-04-13,18:36
+Sula dactylatra,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Masked Booby,,2,-14.3484939932584,-7.88608611966549,Antarctica,St. Helena,SH,,Ascension Island,2018-04-24,13:43
+Sula leucogaster,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Brown Booby,,1,-14.3123805165835,-7.91682131167141,Antarctica,St. Helena,SH,,Ascension Island,2018-04-24,14:01
+Tursiops truncatus,Animalia,DOLPHINS_DELPHINIDAE,Common Bottlenose Dolphin,,10,-14.3024341466218,-7.93271247468387,Antarctica,St. Helena,SH,,Ascension Island - Boatswain Bird Island,2018-04-24,14:29
+Anous stolidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Brown Noddy,,1,-14.36356049,-7.87940654,Antarctica,St. Helena,SH,,Ascension Island,2018-04-24,13:38
+Sula dactylatra,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Masked Booby,,2,-14.33523663,-7.89394223,Antarctica,St. Helena,SH,,Ascension Island,2018-04-24,13:50
+Tursiops truncatus,Animalia,DOLPHINS_DELPHINIDAE,Common Bottlenose Dolphin,,11,-14.30720714,-7.93048656,Antarctica,St. Helena,SH,,Ascension Island - Boatswain Bird Island,2018-04-24,14:36
+Delichon urbicum,Animalia,SWALLOWS_HIRUNDINIDAE,Common House Martin,,1,-14.35109407,-7.9493013,Antarctica,St. Helena,SH,,Ascension Island,2018-04-23,12:28
+Chelonia mydas,Animalia,Cheloniidae,Green Turtle,,2,-14.40802574,-7.92381219,Antarctica,St. Helena,SH,,Ascension Island - Georgetown,2018-04-23,21:36
+Chelonia mydas,Animalia,Cheloniidae,Green Turtle,,1,-14.41896699,-7.91727991,Antarctica,St. Helena,SH,,Ascension Island,2018-04-23,22:47
+Chelonia mydas,Animalia,Cheloniidae,Green Turtle,,6,-14.40753222,-7.92342964,Antarctica,St. Helena,SH,,Ascension Island - Georgetown,2018-04-24,06:26
+Sula dactylatra,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Masked Booby,,1,-14.23179852,-7.98923058,Antarctica,St. Helena,SH,,Ascension Island,2018-04-23,06:34
+Sula leucogaster,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Brown Booby,,1,-14.26631753,-7.95660014,Antarctica,St. Helena,SH,,Ascension Island,2018-04-23,06:51
+Sula dactylatra,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Masked Booby,,40,-14.2671737,-7.9558267,Antarctica,St. Helena,SH,,Ascension Island,2018-04-23,06:52
+Oceanodroma castro,Animalia,STORM_PETRELS_HYDROBATIDAE,Band-rumped Storm Petrel,,2,-5.78343870762377,-15.9642352130439,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-04-20,09:49
+Fregata aquila,Animalia,FRIGATEBIRDS_FREGATTIDAE,Ascension Frigatebird,,1000,-14.3023901182425,-7.93401963915615,Antarctica,St. Helena,SH,,Ascension Island - Boatswain Bird Island,2018-04-23,07:09
+Sula dactylatra,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Masked Booby,,1000,-14.3030629187516,-7.93367574528485,Antarctica,St. Helena,SH,,Ascension Island - Boatswain Bird Island,2018-04-23,07:10
+Anous stolidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Brown Noddy,,1,-14.3056549160929,-7.93163284057461,Antarctica,St. Helena,SH,,Ascension Island - Boatswain Bird Island,2018-04-23,07:16
+Rhincodon typus,Animalia,Rhincodontidae,Whale Shark,,2,-5.76829157,-15.87875115,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-04-20,14:04
+Rhincodon typus,Animalia,Rhincodontidae,Whale Shark,,1,-5.808641,-15.85124458,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-04-20,14:26
+Chelonia mydas,Animalia,Cheloniidae,Green Turtle,,1,-5.72048306,-15.92241839,Antarctica,St. Helena,SH,,St. Helena - Jamestown,2018-04-20,09:34
+Rhincodon typus,Animalia,Rhincodontidae,Whale Shark,,1,-5.72226692,-15.91530362,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-04-20,07:47
+Lonchura oryzivora,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Java Sparrow,,1,-5.71794765,-15.92503885,Antarctica,St. Helena,SH,,St. Helena - Jamestown,2018-04-20,10:39
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,4,-5.71743774,-15.9249138,Antarctica,St. Helena,SH,,St. Helena - Jamestown,2018-04-20,11:27
+Oceanodroma castro,Animalia,STORM_PETRELS_HYDROBATIDAE,Band-rumped Storm Petrel,,1,-5.72238837,-15.91486941,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-04-18,23:16
+Stenella attenuata attenuata,Animalia,DOLPHINS_DELPHINIDAE,Offshore Pantropical Spotted Dolphin,,200,-5.75663942,-15.93586589,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-04-19,09:37
+Oceanodroma castro,Animalia,STORM_PETRELS_HYDROBATIDAE,Band-rumped Storm Petrel,,6,-5.75786907,-16.02617435,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-04-19,10:46
+Rhincodon typus,Animalia,Rhincodontidae,Whale Shark,,1,-5.72221826,-15.91581215,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-04-19,13:14
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,4,-5.70582352,-15.94450953,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-04-19,15:36
+Oceanodroma castro,Animalia,STORM_PETRELS_HYDROBATIDAE,Band-rumped Storm Petrel,,1,-5.76941368645619,-15.9493069861228,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-04-18,14:33
+Oceanodroma castro,Animalia,STORM_PETRELS_HYDROBATIDAE,Band-rumped Storm Petrel,,1,-5.78772667,-15.95857675,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-04-18,07:18
+Rhincodon typus,Animalia,Rhincodontidae,Whale Shark,,1,-5.77276425,-15.91312978,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-04-18,07:39
+Oceanodroma castro,Animalia,STORM_PETRELS_HYDROBATIDAE,Band-rumped Storm Petrel,,1,-5.77209137,-15.91441434,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-04-18,08:00
+Oceanodroma castro,Animalia,STORM_PETRELS_HYDROBATIDAE,Band-rumped Storm Petrel,,1,-5.72218036,-15.91599862,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-04-18,08:50
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,1,-5.71781993,-15.92024276,Antarctica,St. Helena,SH,,St. Helena - Jamestown,2018-04-18,11:39
+Rhincodon typus,Animalia,Rhincodontidae,Whale Shark,,1,-5.71865916,-15.91955018,Antarctica,St. Helena,SH,,St. Helena - Jamestown,2018-04-18,13:15
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,40,-5.71728334,-15.92480222,Antarctica,St. Helena,SH,,St. Helena - Jamestown,2018-04-18,18:43
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,1,-5.7177,-15.9207,Antarctica,St. Helena,SH,,St. Helena - Jamestown,2018-04-18,10:02
+Lonchura oryzivora,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Java Sparrow,,1,-5.7177,-15.9207,Antarctica,St. Helena,SH,,St. Helena - Jamestown,2018-04-18,10:02
+Oceanodroma castro,Animalia,STORM_PETRELS_HYDROBATIDAE,Band-rumped Storm Petrel,,1,-5.7994,-15.9781,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-04-18,07:11
+Balaenoptera musculus,Animalia,RORQUAL_WHALES_BALAENOPTERIDAE,Blue Whale,,1,-12.271,-36.3734,Antarctica,St. Helena,SH,,Tristan da Cunha - Archipelago,2018-04-13,18:49
+Ardenna gravis,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Great Shearwater,,1,-9.9035,-40.373,Antarctica,St. Helena,SH,,Gough Island,2018-04-10,10:21
+Ardenna gravis,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Great Shearwater,,1,-10.0328,-40.3874,Antarctica,St. Helena,SH,,Gough Island,2018-04-10,07:03
+Ardenna gravis,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Great Shearwater,,1,-10.0329582679732,-40.3877309848855,Antarctica,St. Helena,SH,,Gough Island,2018-04-10,07:02
+Ardenna gravis,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Great Shearwater,,30,-9.90303554116726,-40.3729908381545,Antarctica,St. Helena,SH,,Gough Island,2018-04-10,10:15
+Ardenna gravis,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Great Shearwater,,30,-9.88125233879528,-40.376547156777,Antarctica,St. Helena,SH,,Gough Island,2018-04-10,11:09
+Ardenna gravis,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Great Shearwater,,100,-9.86226299393177,-40.3417772875587,Antarctica,St. Helena,SH,,Gough Island,2018-04-10,11:29
+Eudyptes moseleyi,Animalia,PENGUINS_SPHENISCIDAE,Northern Rockhopper Penguin,,1,-12.2382528151835,-37.0780812109477,Antarctica,St. Helena,SH,,Tristan da Cunha ,2018-04-11,16:50
+Balaenoptera musculus,Animalia,RORQUAL_WHALES_BALAENOPTERIDAE,Blue Whale,,1,-12.2716443126546,-36.3660340895902,Antarctica,St. Helena,SH,,Tristan da Cunha - Archipelago,2018-04-13,18:33
+Oceanodroma castro,Animalia,STORM_PETRELS_HYDROBATIDAE,Band-rumped Storm Petrel,,2,-5.72201877438472,-15.9154580274141,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2018-04-18,09:29
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,1,-5.71786534693087,-15.9210496350538,Antarctica,St. Helena,SH,,St. Helena - Jamestown,2018-04-18,10:10
+Balaenoptera musculus,Animalia,RORQUAL_WHALES_BALAENOPTERIDAE,Blue Whale,,1,-12.26991028,-36.3720096,Antarctica,St. Helena,SH,,Tristan da Cunha - Archipelago,2018-04-13,18:45
+Eudyptes moseleyi,Animalia,PENGUINS_SPHENISCIDAE,Northern Rockhopper Penguin,,1,-12.24256039,-37.07588112,Antarctica,St. Helena,SH,,Tristan da Cunha ,2018-04-11,16:35
+Ardenna gravis,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Great Shearwater,,1,-10.02374466,-40.35232737,Antarctica,St. Helena,SH,,Gough Island,2018-04-10,07:22
+Macronectes halli,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Northern Giant Petrel,,1,-10.02240452,-40.34813447,Antarctica,St. Helena,SH,,Gough Island,2018-04-10,07:24
+Macronectes halli,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Northern Giant Petrel,,20,-9.88994596,-40.29251824,Antarctica,St. Helena,SH,,Gough Island,2018-04-10,11:53
+Ardenna gravis,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Great Shearwater,,10,-9.89917469,-40.27758222,Antarctica,St. Helena,SH,,Gough Island,2018-04-10,11:59
+Macronectes halli,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Northern Giant Petrel,,10,-10.01557381,-40.3349428,Antarctica,St. Helena,SH,,Gough Island,2018-04-09,18:46
+Tasmacetus shepherdi,Animalia,BEAKED_WHALES_ZIPHIIDAE,Shepherd's Beaked Whale,,5,-12.4456556875419,-37.3449241801467,Antarctica,St. Helena,SH,,Tristan da Cunha - Archipelago,2017-04-11,13:18
+Tursiops truncatus,Animalia,DOLPHINS_DELPHINIDAE,Common Bottlenose Dolphin,,1,-5.80597173775009,-15.9863252170059,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2017-04-16,09:05
+Stenella attenuata attenuata,Animalia,DOLPHINS_DELPHINIDAE,Offshore Pantropical Spotted Dolphin,,50,-5.74803545048156,-15.9185309398926,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2017-04-16,09:32
+Rhincodon typus,Animalia,Rhincodontidae,Whale Shark,,1,-5.72353543,-15.91622015,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2017-04-16,09:46
+Tursiops truncatus,Animalia,DOLPHINS_DELPHINIDAE,Common Bottlenose Dolphin,,5,-5.7229380748172,-15.9156794042055,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2017-04-16,22:02
+Stenella attenuata attenuata,Animalia,DOLPHINS_DELPHINIDAE,Offshore Pantropical Spotted Dolphin,,100,-5.771447933237,-15.9272461474017,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2017-04-17,11:13
+Tursiops truncatus,Animalia,DOLPHINS_DELPHINIDAE,Common Bottlenose Dolphin,,35,-5.77154769335505,-15.9277347131506,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2017-04-17,11:14
+Chelonia mydas,Animalia,Cheloniidae,Green Turtle,,1,-14.3800373678643,-7.8778100236501,Antarctica,St. Helena,SH,,Ascension Island,2017-04-21,09:15
+Phaethon aethereus,Animalia,TROPICBIRDS_PHAETHONTIDAE,Red-billed Tropicbird,,1,-5.72289288,-15.91628826,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2017-04-16,08:53
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,1,-5.70938286,-15.96966888,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2017-04-16,11:08
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,1,-5.70930994,-15.96967585,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2017-04-16,11:12
+Charadrius sanctaehelenae,Animalia,PLOVERS_CHARADRIIDAE,St. Helena Plover,,1,-5.68736578,-15.93384624,Antarctica,St. Helena,SH,,St. Helena - Deadwood Plain,2017-04-16,13:54
+Lonchura oryzivora,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Java Sparrow,,1,-5.71776264,-15.92404006,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2017-04-16,17:23
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,1,-5.7224677,-15.91569255,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2017-04-17,07:13
+Anous stolidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Brown Noddy,,1,-5.72247658,-15.91568549,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2017-04-17,07:14
+Anous minutus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black Noddy,,1,-5.72247297,-15.91569224,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2017-04-17,07:18
+Tursiops truncatus,Animalia,DOLPHINS_DELPHINIDAE,Common Bottlenose Dolphin,,35,-5.77039014,-15.92356436,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2017-04-17,10:10
+Oceanodroma castro,Animalia,STORM_PETRELS_HYDROBATIDAE,Band-rumped Storm Petrel,,1,-5.78124582,-15.95260094,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2017-04-17,10:27
+Phaethon aethereus,Animalia,TROPICBIRDS_PHAETHONTIDAE,Red-billed Tropicbird,,1,-5.7200594,-15.92668955,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2017-04-17,14:53
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,1,-5.72289445,-15.91561238,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2017-04-18,06:41
+Anous minutus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black Noddy,,1,-5.72290199,-15.91561218,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2017-04-18,06:42
+Phaethon aethereus,Animalia,TROPICBIRDS_PHAETHONTIDAE,Red-billed Tropicbird,,1,-5.72288121,-15.91558394,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2017-04-18,06:42
+Anous stolidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Brown Noddy,,1,-5.72314222,-15.91554271,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2017-04-18,06:47
+Charadrius sanctaehelenae,Animalia,PLOVERS_CHARADRIIDAE,St. Helena Plover,,1,-5.67339349,-15.95049452,Antarctica,St. Helena,SH,,St. Helena - Longwood,2017-04-18,09:52
+Oceanodroma castro,Animalia,STORM_PETRELS_HYDROBATIDAE,Band-rumped Storm Petrel,,1,-5.77893433,-15.86940086,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2017-04-18,14:02
+Sula leucogaster,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Brown Booby,,1,-14.30653812,-7.92972853,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2017-04-21,06:39
+Sula dactylatra,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Masked Booby,,1,-14.30644828,-7.92986662,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2017-04-21,06:42
+Sula sula,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Red-footed Booby,,1,-14.30655032,-7.92988808,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2017-04-21,06:46
+Anous stolidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Brown Noddy,,1,-14.30587958,-7.92996678,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2017-04-21,06:55
+Phaethon lepturus,Animalia,TROPICBIRDS_PHAETHONTIDAE,White-tailed Tropicbird,,1,-14.30535644,-7.93001793,Antarctica,St. Helena,SH,,Ascension Island,2017-04-21,07:30
+Chelonia mydas,Animalia,Cheloniidae,Green Turtle,,1,-14.40936904,-7.92506225,Antarctica,St. Helena,SH,,Ascension Island - Georgetown,2017-04-21,21:17
+Chelonia mydas,Animalia,Cheloniidae,Green Turtle,,1,-14.42004567,-7.91626429,Antarctica,St. Helena,SH,,Ascension Island,2017-04-22,07:32
+Onychoprion fuscatus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Sooty Tern,,1,-14.42002929,-7.91628825,Antarctica,St. Helena,SH,,Ascension Island,2017-04-22,07:34
+Sula sula,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Red-footed Booby,,1,-14.42040112,-7.91627529,Antarctica,St. Helena,SH,,Ascension Island,2017-04-22,10:36
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,1,-14.34534675,-7.88778129,Antarctica,St. Helena,SH,,Ascension Island,2017-04-22,13:56
+Sula dactylatra,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Masked Booby,,1,-14.34471913,-7.88809218,Antarctica,St. Helena,SH,,Ascension Island,2017-04-22,13:56
+Anous stolidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Brown Noddy,,1,-14.30541428,-7.93065033,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2017-04-22,14:28
+Thalassarche chlororhynchos,Animalia,ALBATROSSES_DIOMEDEIDAE,Atlantic Yellow-nosed Albatross,,1,-9.87561106,-40.36714785,Antarctica,St. Helena,SH,,Gough Island,2017-04-08,07:04
+Eudyptes moseleyi,Animalia,PENGUINS_SPHENISCIDAE,Northern Rockhopper Penguin,,1,-9.87532025,-40.36731367,Antarctica,St. Helena,SH,,Gough Island,2017-04-08,07:04
+Macronectes halli,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Northern Giant Petrel,,1,-9.86793687,-40.34901646,Antarctica,St. Helena,SH,,Gough Island,2017-04-08,07:33
+Sterna vittata,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Antarctic Tern,,1,-9.86686893,-40.34930579,Antarctica,St. Helena,SH,,Gough Island,2017-04-08,07:35
+Ardenna gravis,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Great Shearwater,,1,-9.86262886,-40.35157532,Antarctica,St. Helena,SH,,Gough Island,2017-04-08,07:44
+Phoebetria fusca,Animalia,ALBATROSSES_DIOMEDEIDAE,Sooty Albatross,,1,-9.87505354,-40.36452313,Antarctica,St. Helena,SH,,Gough Island,2017-04-08,07:56
+Diomedea dabbenena,Animalia,ALBATROSSES_DIOMEDEIDAE,Tristan Albatross,,1,-9.87384756,-40.36824207,Antarctica,St. Helena,SH,,Gough Island,2017-04-08,08:05
+Macronectes giganteus,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Southern Giant Petrel,,1,-9.87130567,-40.36941346,Antarctica,St. Helena,SH,,Gough Island,2017-04-08,08:43
+Thalassarche chlororhynchos,Animalia,ALBATROSSES_DIOMEDEIDAE,Atlantic Yellow-nosed Albatross,,1,-12.29959813,-37.05508629,Antarctica,St. Helena,SH,,Tristan da Cunha ,2017-04-09,08:32
+Procellaria conspicillata,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Spectacled Petrel,,1,-12.29960574,-37.05506706,Antarctica,St. Helena,SH,,Tristan da Cunha ,2017-04-09,08:46
+Gallinula comeri,Animalia,RAILS_RALLIDAE,Gough Moorhen,,1,-12.32262966,-37.09369751,Antarctica,St. Helena,SH,,Tristan da Cunha ,2017-04-09,11:25
+Ardenna gravis,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Great Shearwater,,1,-12.45876747,-37.4107293,Antarctica,St. Helena,SH,,Tristan da Cunha - Archipelago,2017-04-11,07:36
+Nesospiza wilkinsi,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Wilkins's Finch,,1,-12.48306241,-37.42513189,Antarctica,St. Helena,SH,,Nightingale Islands,2017-04-11,09:52
+Tasmacetus shepherdi,Animalia,BEAKED_WHALES_ZIPHIIDAE,Shepherd's Beaked Whale,,5,-12.45208994,-37.39016008,Antarctica,St. Helena,SH,,Tristan da Cunha - Archipelago,2017-04-11,12:00
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,6,-14.41636518,-7.9006843,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,08:55
+Macronectes halli,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Northern Giant Petrel,,1,-9.8551,-40.3141,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,07:57
+Mirounga leonina,Animalia,SEALS_PHOCIDAE,Southern Elephant Seal,,4,-9.95418319828,-40.2693676204,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,18:03
+Arctocephalus tropicalis,Animalia,FUR_SEALS_OTARIIDAE,Subantarctic Fur Seal,,101,-9.9540664698,-40.3019999706,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,18:03
+Lagenorhynchus obscurus,Animalia,DOLPHINS_DELPHINIDAE,Dusky Dolphin,,80,-9.9958,-40.3487,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,10:04
+Gallinula comeri,Animalia,RAILS_RALLIDAE,Gough Moorhen,,3,-9.9499328713864,-40.311409616877,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,18:03
+Rowettia goughensis,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Gough Finch,,6,-9.949,-40.2082,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,18:06
+Phoebetria fusca,Animalia,ALBATROSSES_DIOMEDEIDAE,Sooty Albatross,,5,-9.8467,-40.332,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,07:41
+Procellaria conspicillata,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Spectacled Petrel,,200,-9.8442,-40.3368,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,07:38
+Pterodroma mollis,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Soft-plumaged Petrel,,50,-9.8435,-40.3382,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,07:37
+Puffinus elegans,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Subantarctic Shearwater,,300,-9.8435,-40.3382,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,07:37
+Thalassarche chlororhynchos,Animalia,ALBATROSSES_DIOMEDEIDAE,Atlantic Yellow-nosed Albatross,,4,-9.843,-40.3389,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,07:37
+Ardenna gravis,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Great Shearwater,,250,-9.843,-40.3389,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,07:36
+Macronectes giganteus,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Southern Giant Petrel,,12,-9.843,-40.3389,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,07:36
+Diomedea dabbenena,Animalia,ALBATROSSES_DIOMEDEIDAE,Tristan Albatross,,35,-9.8428,-40.3392,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,07:36
+Phoebetria fusca,Animalia,ALBATROSSES_DIOMEDEIDAE,Sooty Albatross,,40,-9.9785,-40.2622,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,11:03
+Procellaria conspicillata,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Spectacled Petrel,,30,-9.9994,-40.3469,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,10:06
+Thalassarche melanophris,Animalia,ALBATROSSES_DIOMEDEIDAE,Black-browed Albatross,,5,-9.9994,-40.3469,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,10:06
+Thalassarche chlororhynchos,Animalia,ALBATROSSES_DIOMEDEIDAE,Atlantic Yellow-nosed Albatross,,10,-9.9962,-40.3485,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,10:06
+Macronectes giganteus,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Southern Giant Petrel,,8,-9.9962,-40.3485,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,10:05
+Procellaria cinerea,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Grey Petrel,,5,-9.9958,-40.3487,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,10:04
+Procellaria aequinoctialis,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,White-chinned Petrel,,3,-9.9853,-40.3547,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,10:01
+Puffinus elegans,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Subantarctic Shearwater,,10,-9.9774,-40.3598,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,09:58
+Procellaria cinerea,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Grey Petrel,,5,-9.9774,-40.3598,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,09:57
+Phoebetria fusca,Animalia,ALBATROSSES_DIOMEDEIDAE,Sooty Albatross,,15,-9.9757,-40.3607,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,09:57
+Diomedea dabbenena,Animalia,ALBATROSSES_DIOMEDEIDAE,Tristan Albatross,,30,-9.9757,-40.3607,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,09:57
+Eudyptes moseleyi,Animalia,PENGUINS_SPHENISCIDAE,Northern Rockhopper Penguin,,5000,-9.9757,-40.3607,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,09:57
+Sterna vittata,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Antarctic Tern,,12,-9.9739,-40.3619,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,09:57
+Thalassarche cauta,Animalia,ALBATROSSES_DIOMEDEIDAE,Shy Albatross,,1,-9.9739,-40.3619,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,09:56
+Ardenna gravis,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Great Shearwater,,150,-9.9739,-40.3619,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,09:56
+Procellaria conspicillata,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Spectacled Petrel,,50,-9.9785,-40.2622,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,11:04
+Macronectes giganteus,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Southern Giant Petrel,,35,-9.9785,-40.2622,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,11:04
+Onychoprion fuscatus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Sooty Tern,,31000,-14.3966,-7.9812,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-23,10:07
+Oceanodroma castro,Animalia,STORM_PETRELS_HYDROBATIDAE,Band-rumped Storm Petrel,,100,-5.7649,-16.0214,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-19,14:50
+Fregata aquila,Animalia,FRIGATEBIRDS_FREGATTIDAE,Ascension Frigatebird,,1,-5.7649,-16.0214,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2015-04-19,14:50
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,3,-5.771,-15.9586,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-19,13:33
+Anous minutus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black Noddy,,5,-5.771,-15.9586,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-19,13:33
+Oceanodroma castro,Animalia,STORM_PETRELS_HYDROBATIDAE,Band-rumped Storm Petrel,,3,-5.7544,-15.9387,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-19,13:19
+Anous minutus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black Noddy,,2,-5.7539,-15.9382,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-19,13:19
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,20,-5.7539,-15.9382,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-19,13:18
+Phaethon aethereus,Animalia,TROPICBIRDS_PHAETHONTIDAE,Red-billed Tropicbird,,2,-5.7534,-15.9378,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-19,13:18
+Chelonia mydas,Animalia,Cheloniidae,Green Turtle,,2,-14.416,-7.9,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,08:55
+Chelonia mydas,Animalia,Cheloniidae,Green Turtle,,1,-14.414,-7.928,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,23:20
+Chelonia mydas,Animalia,Cheloniidae,Green Turtle,,50,-14.416,-7.9,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,22:00
+Chelonia mydas,Animalia,Cheloniidae,Green Turtle,,25,-14.414,-7.928,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,23:20
+Diomedea dabbenena,Animalia,ALBATROSSES_DIOMEDEIDAE,Tristan Albatross,,1,-11.7850901,-37.64974145,Antarctica,St. Helena,SH,,Tristan da Cunha - Archipelago,2015-04-10,10:03
+Procellaria conspicillata,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Spectacled Petrel,,4,-12.31618541,-37.04800058,Antarctica,St. Helena,SH,,Tristan da Cunha ,2015-04-10,17:30
+Diomedea dabbenena,Animalia,ALBATROSSES_DIOMEDEIDAE,Tristan Albatross,,1,-12.33284577,-37.29203811,Antarctica,St. Helena,SH,,Tristan da Cunha - Archipelago,2015-04-11,10:54
+Macronectes giganteus,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Southern Giant Petrel,,3,-12.33337604,-37.29253993,Antarctica,St. Helena,SH,,Tristan da Cunha - Archipelago,2015-04-11,10:54
+Diomedea dabbenena,Animalia,ALBATROSSES_DIOMEDEIDAE,Tristan Albatross,,1,-12.38463147,-37.34157292,Antarctica,St. Helena,SH,,Tristan da Cunha - Archipelago,2015-04-11,11:21
+Diomedea dabbenena,Animalia,ALBATROSSES_DIOMEDEIDAE,Tristan Albatross,,1,-12.41279434,-37.36788315,Antarctica,St. Helena,SH,,Tristan da Cunha - Archipelago,2015-04-11,11:36
+Stercorarius antarcticus hamiltoni,Animalia,SKUAS_STERCORARIIDAE,Tristan Brown Skua,,2,-12.45423024,-37.4444817,Antarctica,St. Helena,SH,,Nightingale Islands,2015-04-11,12:16
+Pterodroma incerta,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Atlantic Petrel,,1,-12.2313249,-37.1865923,Antarctica,St. Helena,SH,,Tristan da Cunha ,2015-04-11,14:47
+Pterodroma macroptera,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Great-winged Petrel,,1,-12.23002223,-37.18498396,Antarctica,St. Helena,SH,,Tristan da Cunha ,2015-04-11,14:48
+Stercorarius antarcticus hamiltoni,Animalia,SKUAS_STERCORARIIDAE,Tristan Brown Skua,,1,-12.43728663,-37.39559745,Antarctica,St. Helena,SH,,Nightingale Islands,2015-04-12,07:53
+Diomedea dabbenena,Animalia,ALBATROSSES_DIOMEDEIDAE,Tristan Albatross,,2,-12.46233934,-37.40665428,Antarctica,St. Helena,SH,,Nightingale Islands,2015-04-12,09:06
+Oceanodroma castro,Animalia,STORM_PETRELS_HYDROBATIDAE,Band-rumped Storm Petrel,,2,-5.82903494,-16.04484161,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2015-04-17,10:13
+Tursiops truncatus,Animalia,DOLPHINS_DELPHINIDAE,Common Bottlenose Dolphin,,15,-5.79628655,-15.95451695,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2015-04-17,10:41
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,3,-5.79506748,-15.95331844,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2015-04-17,10:41
+Phaethon aethereus,Animalia,TROPICBIRDS_PHAETHONTIDAE,Red-billed Tropicbird,,2,-5.73251901,-15.91819694,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-17,11:08
+Chelonia mydas,Animalia,Cheloniidae,Green Turtle,,2,-5.72830328,-15.91890908,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-17,11:13
+Oceanodroma castro,Animalia,STORM_PETRELS_HYDROBATIDAE,Band-rumped Storm Petrel,,1,-5.72822938,-15.91854203,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-17,11:58
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,25,-5.71748259,-15.92488082,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-17,14:06
+Geopelia striata,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Zebra Dove,,2,-5.7174516,-15.92488488,Antarctica,St. Helena,SH,,St. Helena - Jamestown,2015-04-17,14:07
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,11,-5.71744804,-15.92488737,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-17,14:07
+Charadrius sanctaehelenae,Animalia,PLOVERS_CHARADRIIDAE,St. Helena Plover,,2,-5.68779654,-15.93880024,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-17,16:02
+Charadrius sanctaehelenae,Animalia,PLOVERS_CHARADRIIDAE,St. Helena Plover,,13,-5.68727366,-15.93961343,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-17,16:33
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,2,-5.68291396,-15.94962943,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-18,12:10
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,2,-5.68322662,-15.94956852,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-18,12:12
+Charadrius sanctaehelenae,Animalia,PLOVERS_CHARADRIIDAE,St. Helena Plover,,2,-5.67828786,-15.95014434,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-18,12:50
+Phaethon aethereus,Animalia,TROPICBIRDS_PHAETHONTIDAE,Red-billed Tropicbird,,2,-5.72023756,-15.92645008,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-18,14:19
+Oceanodroma castro,Animalia,STORM_PETRELS_HYDROBATIDAE,Band-rumped Storm Petrel,,1,-5.71782163,-15.92067516,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-18,17:09
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,11,-5.71781866,-15.92067465,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-18,17:09
+Phaethon aethereus,Animalia,TROPICBIRDS_PHAETHONTIDAE,Red-billed Tropicbird,,23,-5.71784318,-15.92065743,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-18,17:09
+Phaethon aethereus,Animalia,TROPICBIRDS_PHAETHONTIDAE,Red-billed Tropicbird,,3,-5.73968762,-15.92919213,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-19,13:08
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,1,-5.77046147,-15.95784348,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-19,13:31
+Anous minutus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black Noddy,,2,-5.7706932,-15.9581524,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-19,13:31
+Oceanodroma castro,Animalia,STORM_PETRELS_HYDROBATIDAE,Band-rumped Storm Petrel,,4,-5.7889724,-15.98881309,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-19,13:50
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,11,-5.77092912,-15.87217657,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2015-04-19,17:08
+Anous stolidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Brown Noddy,,11,-5.77187014,-15.8713297,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2015-04-19,17:08
+Anous minutus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black Noddy,,4,-5.77244028,-15.87087804,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2015-04-19,17:08
+Oceanodroma castro,Animalia,STORM_PETRELS_HYDROBATIDAE,Band-rumped Storm Petrel,,3,-5.77737005,-15.86634486,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2015-04-19,17:10
+Oceanodroma castro,Animalia,STORM_PETRELS_HYDROBATIDAE,Band-rumped Storm Petrel,,3,-5.78425784,-15.86015856,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2015-04-19,17:13
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,3,-5.8283694,-15.82171776,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2015-04-19,17:29
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,13,-5.83780371,-15.81377738,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2015-04-19,17:32
+Anous stolidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Brown Noddy,,1,-5.83860221,-15.81306263,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2015-04-19,17:33
+Phaethon lepturus,Animalia,TROPICBIRDS_PHAETHONTIDAE,White-tailed Tropicbird,,5,-14.30195411,-7.92639202,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,08:02
+Fregata aquila,Animalia,FRIGATEBIRDS_FREGATTIDAE,Ascension Frigatebird,,5001,-14.30195411,-7.92639202,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,08:02
+Sula sula,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Red-footed Booby,,11,-14.30195411,-7.92639202,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,08:02
+Sula dactylatra,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Masked Booby,,1001,-14.30195411,-7.92639202,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,08:02
+Sula leucogaster,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Brown Booby,,51,-14.30195411,-7.92639202,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,08:02
+Chelonia mydas,Animalia,Cheloniidae,Green Turtle,,2,-14.4164563,-7.90019545,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,08:55
+Onychoprion fuscatus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Sooty Tern,,15,-14.41636518,-7.9006843,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,08:55
+Chelonia mydas,Animalia,Cheloniidae,Green Turtle,,51,-14.4164563,-7.90019545,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,21:55
+Chelonia mydas,Animalia,Cheloniidae,Green Turtle,,1,-14.41363308,-7.92832596,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,23:20
+Chelonia mydas,Animalia,Cheloniidae,Green Turtle,,25,-14.41363308,-7.92832596,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,23:20
+Sula sula,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Red-footed Booby,,2,-14.43251475,-7.86420939,Antarctica,St. Helena,SH,,Ascension Island,2015-04-23,17:46
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,6,-14.3512,-7.9491,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-23,11:47
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,5,-14.4133,-7.9125,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,09:56
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,5,-14.3664,-7.8765,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,08:34
+Sula leucogaster,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Brown Booby,,5,-14.3658,-7.8765,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,08:34
+Sula dactylatra,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Masked Booby,,40,-14.3657,-7.8765,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,08:34
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,5,-14.335,-7.8826,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,08:23
+Sula leucogaster,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Brown Booby,,3,-14.3341,-7.8834,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,08:23
+Sula dactylatra,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Masked Booby,,25,-14.3341,-7.8834,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,08:22
+Sula leucogaster,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Brown Booby,,50,-14.3277,-7.8888,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,08:20
+Phaethon lepturus,Animalia,TROPICBIRDS_PHAETHONTIDAE,White-tailed Tropicbird,,2,-14.3254,-7.8907,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,08:19
+Anous stolidus stolidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Brown Noddy ssp stolidus,,150,-5.7649,-16.0214,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-19,14:50
+Oceanodroma castro,Animalia,STORM_PETRELS_HYDROBATIDAE,Band-rumped Storm Petrel,,100,-5.7649,-16.0214,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-19,14:50
+Fregata aquila,Animalia,FRIGATEBIRDS_FREGATTIDAE,Ascension Frigatebird,,1,-5.7649,-16.0214,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-19,14:50
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,3,-5.771,-15.9586,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-19,13:33
+Anous stolidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Brown Noddy,,30,-5.771,-15.9586,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-19,13:33
+Oceanodroma castro,Animalia,STORM_PETRELS_HYDROBATIDAE,Band-rumped Storm Petrel,,3,-5.7544,-15.9387,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-19,13:19
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,20,-5.7539,-15.9382,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-19,13:18
+Phaethon aethereus,Animalia,TROPICBIRDS_PHAETHONTIDAE,Red-billed Tropicbird,,2,-5.7534,-15.9378,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-19,13:18
+Anous stolidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Brown Noddy,,20,-5.7534,-15.9378,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-19,13:18
+Oceanodroma castro,Animalia,STORM_PETRELS_HYDROBATIDAE,Band-rumped Storm Petrel,,2,-5.7284,-15.9183,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-19,10:16
+Phaethon aethereus,Animalia,TROPICBIRDS_PHAETHONTIDAE,Red-billed Tropicbird,,8,-5.729,-15.919,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-19,09:58
+Phaethon aethereus,Animalia,TROPICBIRDS_PHAETHONTIDAE,Red-billed Tropicbird,,26,-5.7172,-15.9206,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-18,17:09
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,6,-5.717,-15.925,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-18,16:45
+Oceanodroma castro,Animalia,STORM_PETRELS_HYDROBATIDAE,Band-rumped Storm Petrel,,1,-5.7224,-15.9158,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-18,09:08
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,55,-5.7224,-15.9158,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-18,08:44
+Phoebetria fusca,Animalia,ALBATROSSES_DIOMEDEIDAE,Sooty Albatross,,4,-9.8479589,-40.32997552,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,07:40
+Diomedea dabbenena,Animalia,ALBATROSSES_DIOMEDEIDAE,Tristan Albatross,,8,-9.84819971,-40.32952478,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,07:41
+Procellaria conspicillata,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Spectacled Petrel,,5,-9.84918465,-40.32751624,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,07:42
+Thalassarche chlororhynchos,Animalia,ALBATROSSES_DIOMEDEIDAE,Atlantic Yellow-nosed Albatross,,2,-9.84948748,-40.32690664,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,07:43
+Ardenna gravis,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Great Shearwater,,1,-9.84981252,-40.32617427,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,07:43
+Pterodroma mollis,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Soft-plumaged Petrel,,1,-9.84988851,-40.3259937,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,07:43
+Stercorarius antarcticus hamiltoni,Animalia,SKUAS_STERCORARIIDAE,Tristan Brown Skua,,2,-9.85112171,-40.32331631,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,07:45
+Lagenorhynchus obscurus obscurus,Animalia,DOLPHINS_DELPHINIDAE,South African Dusky Dolphin,,50,-9.85680525,-40.31373674,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,12:50
+Gallinula comeri,Animalia,RAILS_RALLIDAE,Gough Moorhen,,7,-9.89822486,-40.27718694,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,17:34
+Rowettia goughensis,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Gough Finch,,7,-9.89883975,-40.27638607,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,17:35
+Eudyptes moseleyi,Animalia,PENGUINS_SPHENISCIDAE,Northern Rockhopper Penguin,,2000,-9.89883975,-40.27638607,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,17:35
+Macronectes giganteus,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Southern Giant Petrel,,25,-9.90372066,-40.26927979,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,17:38
+Thalassarche chlororhynchos,Animalia,ALBATROSSES_DIOMEDEIDAE,Atlantic Yellow-nosed Albatross,,6,-12.20339741,-37.08473433,Antarctica,St. Helena,SH,,Tristan da Cunha ,2015-04-11,09:09
+Pterodroma macroptera,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Great-winged Petrel,,1,-12.21492174,-37.08401936,Antarctica,St. Helena,SH,,Tristan da Cunha ,2015-04-12,15:04
+Tursiops truncatus,Animalia,DOLPHINS_DELPHINIDAE,Common Bottlenose Dolphin,,10,-5.80299464,-15.96323007,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2015-04-17,10:36
+Phaethon aethereus,Animalia,TROPICBIRDS_PHAETHONTIDAE,Red-billed Tropicbird,,1,-5.73497395,-15.91828404,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2015-04-17,11:05
+Chelonia mydas,Animalia,Cheloniidae,Green Turtle,,2,-5.72837552,-15.91919856,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-17,11:29
+Charadrius sanctaehelenae,Animalia,PLOVERS_CHARADRIIDAE,St. Helena Plover,,16,-5.68714569,-15.93955632,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-17,16:57
+Anous stolidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Brown Noddy,,4,-5.72346138,-15.91567701,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-18,07:53
+Phaethon aethereus,Animalia,TROPICBIRDS_PHAETHONTIDAE,Red-billed Tropicbird,,2,-5.7234653,-15.91567587,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-18,07:53
+Oceanodroma castro,Animalia,STORM_PETRELS_HYDROBATIDAE,Band-rumped Storm Petrel,,1,-5.72239841,-15.91599686,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-18,09:06
+Charadrius sanctaehelenae,Animalia,PLOVERS_CHARADRIIDAE,St. Helena Plover,,1,-5.67756242,-15.95082888,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-18,13:11
+Acridotheres tristis,Animalia,STARLINGS_STURNIDAE,Common Myna,,12,-5.71741265,-15.92433339,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-18,16:30
+Phaethon aethereus,Animalia,TROPICBIRDS_PHAETHONTIDAE,Red-billed Tropicbird,,3,-5.72800769,-15.91928703,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-19,07:44
+Anous stolidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Brown Noddy,,2,-5.72800734,-15.91923391,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-19,07:45
+Anous minutus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black Noddy,,40,-5.7279975,-15.91914968,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-19,07:48
+Phaethon aethereus,Animalia,TROPICBIRDS_PHAETHONTIDAE,Red-billed Tropicbird,,1,-5.74887432,-15.89162999,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2015-04-19,16:58
+Anous minutus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black Noddy,,4,-5.7766111,-15.86721534,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2015-04-19,17:09
+Anous stolidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Brown Noddy,,2,-5.77794738,-15.86593577,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2015-04-19,17:09
+Oceanodroma castro,Animalia,STORM_PETRELS_HYDROBATIDAE,Band-rumped Storm Petrel,,1,-5.78500432,-15.85948392,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2015-04-19,17:12
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,5,-5.83469042,-15.81632575,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2015-04-19,17:30
+Fregata aquila,Animalia,FRIGATEBIRDS_FREGATTIDAE,Ascension Frigatebird,,1,-14.30249423,-7.92387313,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,08:02
+Phaethon lepturus,Animalia,TROPICBIRDS_PHAETHONTIDAE,White-tailed Tropicbird,,2,-14.30249423,-7.92387313,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,08:02
+Chelonia mydas,Animalia,Cheloniidae,Green Turtle,,2,-14.41341481,-7.91221014,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,10:40
+Onychoprion fuscatus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Sooty Tern,,1,-14.41346925,-7.91256868,Antarctica,St. Helena,SH,,Ascension Island,2015-04-22,10:42
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,10,-14.35137791,-7.94919537,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-23,12:34
+Sula sula,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Red-footed Booby,,1,-14.4539594,-7.80894497,Antarctica,St. Helena,SH,,Ascension Island,2015-04-23,18:04
+Anous stolidus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Brown Noddy,,9,-5.7279,-15.9185,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-17,12:38
+Gygis alba,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,White Tern,,26,-5.7279,-15.9185,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-17,12:37
+Chelonia mydas,Animalia,Cheloniidae,Green Turtle,,2,-5.7281,-15.919,Antarctica,St. Helena,SH,,St. Helena - Atlantic Ocean,2015-04-17,11:39
+Phaethon aethereus,Animalia,TROPICBIRDS_PHAETHONTIDAE,Red-billed Tropicbird,,1,-5.7358,-15.9183,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2015-04-17,11:08
+Tursiops truncatus,Animalia,DOLPHINS_DELPHINIDAE,Common Bottlenose Dolphin,,15,-5.7811,-15.9407,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2015-04-17,10:47
+Oceanodroma castro,Animalia,STORM_PETRELS_HYDROBATIDAE,Band-rumped Storm Petrel,,3,-5.834,-16.0635,Antarctica,St. Helena,SH,,St. Helena - Saint Helena,2015-04-17,10:08
+Thalassarche chlororhynchos,Animalia,ALBATROSSES_DIOMEDEIDAE,Atlantic Yellow-nosed Albatross,,3,-12.2181,-37.0811,Antarctica,St. Helena,SH,,Tristan da Cunha ,2015-04-12,15:16
+Pterodroma macroptera,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Great-winged Petrel,,1,-12.2152,-37.0841,Antarctica,St. Helena,SH,,Tristan da Cunha ,2015-04-12,15:08
+Thalassarche chlororhynchos,Animalia,ALBATROSSES_DIOMEDEIDAE,Atlantic Yellow-nosed Albatross,,5,-12.2022,-37.0864,Antarctica,St. Helena,SH,,Tristan da Cunha ,2015-04-12,14:51
+Thalassarche chlororhynchos,Animalia,ALBATROSSES_DIOMEDEIDAE,Atlantic Yellow-nosed Albatross,,1,-12.1915,-37.1168,Antarctica,St. Helena,SH,,Tristan da Cunha ,2015-04-12,14:40
+Pterodroma macroptera,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Great-winged Petrel,,2,-12.2179,-37.1667,Antarctica,St. Helena,SH,,Tristan da Cunha ,2015-04-12,14:22
+Pterodroma incerta,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Atlantic Petrel,,2,-12.2196,-37.169,Antarctica,St. Helena,SH,,Tristan da Cunha ,2015-04-12,14:21
+Pterodroma macroptera,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Great-winged Petrel,,2,-12.2272,-37.1792,Antarctica,St. Helena,SH,,Tristan da Cunha ,2015-04-12,14:18
+Pterodroma incerta,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Atlantic Petrel,,2,-12.2288,-37.1812,Antarctica,St. Helena,SH,,Tristan da Cunha ,2015-04-12,14:17
+Pterodroma incerta,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Atlantic Petrel,,4,-12.2369,-37.1925,Antarctica,St. Helena,SH,,Tristan da Cunha ,2015-04-12,14:13
+Pterodroma incerta,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Atlantic Petrel,,4,-12.2604,-37.2003,Antarctica,St. Helena,SH,,Tristan da Cunha ,2015-04-12,14:05
+Thalassarche melanophris,Animalia,ALBATROSSES_DIOMEDEIDAE,Black-browed Albatross,,1,-12.2929,-37.2059,Antarctica,St. Helena,SH,,Tristan da Cunha ,2015-04-12,13:58
+Pterodroma incerta,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Atlantic Petrel,,1,-12.2951,-37.2062,Antarctica,St. Helena,SH,,Tristan da Cunha ,2015-04-12,13:57
+Diomedea dabbenena,Animalia,ALBATROSSES_DIOMEDEIDAE,Tristan Albatross,,1,-12.5062,-37.4141,Antarctica,St. Helena,SH,,Nightingale Islands,2015-04-11,12:54
+Rowettia goughensis,Animalia,TANAGERS_AND_ALLIES_THRAUPIDAE,Gough Finch,,5,-9.949,-40.2082,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,18:06
+Gallinula comeri,Animalia,RAILS_RALLIDAE,Gough Moorhen,,3,-9.95141601,-40.30153391,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,18:03
+Procellaria conspicillata,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Spectacled Petrel,,50,-9.9785,-40.2622,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,11:04
+Macronectes giganteus,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Southern Giant Petrel,,35,-9.9785,-40.2622,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,11:04
+Phoebetria fusca,Animalia,ALBATROSSES_DIOMEDEIDAE,Sooty Albatross,,40,-9.9785,-40.2622,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,11:03
+Procellaria conspicillata,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Spectacled Petrel,,30,-9.9994,-40.3469,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,10:06
+Thalassarche melanophris,Animalia,ALBATROSSES_DIOMEDEIDAE,Black-browed Albatross,,5,-9.9994,-40.3469,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,10:06
+Thalassarche chlororhynchos,Animalia,ALBATROSSES_DIOMEDEIDAE,Atlantic Yellow-nosed Albatross,,10,-9.9962,-40.3485,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,10:06
+Macronectes giganteus,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Southern Giant Petrel,,8,-9.9962,-40.3485,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,10:05
+Procellaria cinerea,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Grey Petrel,,5,-9.9958,-40.3487,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,10:04
+Procellaria aequinoctialis,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,White-chinned Petrel,,3,-9.9853,-40.3547,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,10:01
+Procellaria cinerea,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Grey Petrel,,5,-9.9774,-40.3598,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,09:57
+Phoebetria fusca,Animalia,ALBATROSSES_DIOMEDEIDAE,Sooty Albatross,,15,-9.9757,-40.3607,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,09:57
+Diomedea dabbenena,Animalia,ALBATROSSES_DIOMEDEIDAE,Tristan Albatross,,30,-9.9757,-40.3607,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,09:57
+Sterna vittata,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Antarctic Tern,,12,-9.9739,-40.3619,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,09:57
+Thalassarche cauta,Animalia,ALBATROSSES_DIOMEDEIDAE,Shy Albatross,,1,-9.9739,-40.3619,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,09:56
+Phoebetria fusca,Animalia,ALBATROSSES_DIOMEDEIDAE,Sooty Albatross,,5,-9.8467,-40.332,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,07:41
+Pterodroma mollis,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Soft-plumaged Petrel,,50,-9.8435,-40.3382,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,07:37
+Thalassarche chlororhynchos,Animalia,ALBATROSSES_DIOMEDEIDAE,Atlantic Yellow-nosed Albatross,,4,-9.843,-40.3389,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,07:37
+Macronectes giganteus,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Southern Giant Petrel,,12,-9.843,-40.3389,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,07:36
+Diomedea dabbenena,Animalia,ALBATROSSES_DIOMEDEIDAE,Tristan Albatross,,35,-9.8428,-40.3392,Antarctica,St. Helena,SH,,Gough Island,2015-04-09,07:36

@@ -1,0 +1,455 @@
+scientificName,kingdom,family,vernacularName,previousIdentifications,individualCount,longitudeDecimal,latitudeDecimal,continent,country,countryCode,stateProvince,locality,eventDate,eventTime
+Anacridium aegyptium,Animalia,SHORTHORNED_GRASSHOPPERS_ACRIDIDAE,Egyptian Grasshopper,,1,-5.34622192383,36.1267832333,Europe,Gibraltar,GI,,Gibraltar,2013-02-18,
+Echium plantagineum,Plantae,BORAGINACEAE,Purple Viper's-bugloss,,1,-5.34622192383,36.1267832333,Europe,Gibraltar,GI,,Gibraltar,2013-02-18,
+Scolymus hispanicus,Plantae,Asteraceae,Golden Thistle,,1,-5.34622192383,36.1267832333,Europe,Gibraltar,GI,,Gibraltar,2013-02-18,
+Podarcis vaucheri,Animalia,Lacertidae,Andalusian Wall Lizard,,1,-5.3441619873,36.1301108434,Europe,Gibraltar,GI,,Gibraltar,2013-02-20,
+Tarentola mauritanica,Animalia,PHYLLODACTYLIDAE,Moorish Gecko,,1,-5.3441619873,36.1301108434,Europe,Gibraltar,GI,,Gibraltar,2013-02-20,
+Papilio machaon,Animalia,SWALLOWTAILS_PAPILIONIDAE,Swallowtail,,1,-5.3441619873,36.1301108434,Europe,Gibraltar,GI,,Gibraltar,2013-02-20,
+Anthocharis euphenoides,Animalia,WHITES_PIERIDAE,Provence Orange-tip,,1,-5.3441619873,36.1301108434,Europe,Gibraltar,GI,,Gibraltar,2013-02-20,
+Lycaena phlaeas,Animalia,GOSSAMERWINGED_BUTTERFLIES_LYCAENIDAE,Small Copper,,1,-5.3441619873,36.1301108434,Europe,Gibraltar,GI,,Gibraltar,2013-02-20,
+Pieris brassicae,Animalia,WHITES_PIERIDAE,Large White,,1,-5.3441619873,36.1301108434,Europe,Gibraltar,GI,,Gibraltar,2013-02-20,
+Danaus plexippus,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,American Monarch,,1,-5.3441619873,36.1301108434,Europe,Gibraltar,GI,,Gibraltar,2013-02-20,
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,1,-5.34639358521,36.1235941412,Europe,Gibraltar,GI,,Gibraltar,2013-02-12,
+Sturnus unicolor,Animalia,STARLINGS_STURNIDAE,Spotless Starling,,1,-5.34484863281,36.1292789541,Europe,Gibraltar,GI,,Gibraltar,2013-02-15,
+Gonepteryx cleopatra,Animalia,WHITES_PIERIDAE,Cleopatra,,2,-5.34484863281,36.1292789541,Europe,Gibraltar,GI,,Gibraltar,2013-02-15,
+Vanessa cardui,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Painted Lady,,1,-5.34484863281,36.1292789541,Europe,Gibraltar,GI,,Gibraltar,2013-02-15,
+Vanessa atalanta,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Red Admiral,,1,-5.34484863281,36.1292789541,Europe,Gibraltar,GI,,Gibraltar,2013-02-15,
+Zerynthia rumina,Animalia,SWALLOWTAILS_PAPILIONIDAE,Spanish Festoon,,1,-5.34484863281,36.1292789541,Europe,Gibraltar,GI,,Gibraltar,2013-02-15,
+Sylvia melanocephala,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Sardinian Warbler,,1,-5.34484863281,36.1292789541,Europe,Gibraltar,GI,,Gibraltar,2013-02-15,
+Phoenicurus ochruros,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Black Redstart,,1,-5.34484863281,36.1292789541,Europe,Gibraltar,GI,,Gibraltar,2013-02-15,
+Saxicola rubicola,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,European Stonechat,,1,-5.34484863281,36.1292789541,Europe,Gibraltar,GI,,Gibraltar,2013-02-15,
+Alectoris barbara,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Barbary Partridge,,1,-5.34484863281,36.1292789541,Europe,Gibraltar,GI,,Gibraltar,2013-02-15,
+Tarentola mauritanica,Animalia,PHYLLODACTYLIDAE,Moorish Gecko,,1,-5.34538440406,36.126773553,Europe,Gibraltar,GI,,Gibraltar,2014-09-15,15:52
+Podarcis hispanicus s.l.,Animalia,Lacertidae,Iberian Wall Lizard-group,,1,-5.34538440406,36.126773553,Europe,Gibraltar,GI,,Gibraltar,2014-09-15,15:52
+Charaxes jasius,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Two-tailed Pasha,,1,-5.34538440406,36.126773553,Europe,Gibraltar,GI,,Gibraltar,2014-09-15,15:52
+Tarentola mauritanica,Animalia,PHYLLODACTYLIDAE,Moorish Gecko,,1,-5.34538440406,36.126773553,Europe,Gibraltar,GI,,Gibraltar,2014-09-15,15:52
+Podarcis hispanicus s.l.,Animalia,Lacertidae,Iberian Wall Lizard-group,,1,-5.34538440406,36.126773553,Europe,Gibraltar,GI,,Gibraltar,2014-09-15,15:52
+Charaxes jasius,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Two-tailed Pasha,,1,-5.34538440406,36.126773553,Europe,Gibraltar,GI,,Gibraltar,2014-09-15,15:52
+Tarentola mauritanica,Animalia,PHYLLODACTYLIDAE,Moorish Gecko,,1,-5.34538440406,36.126773553,Europe,Gibraltar,GI,,Gibraltar,2014-09-15,15:52
+Podarcis vaucheri,Animalia,Lacertidae,Andalusian Wall Lizard,,1,-5.34538440406,36.126773553,Europe,Gibraltar,GI,,Gibraltar,2014-09-15,15:52
+Charaxes jasius,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Two-tailed Pasha,,1,-5.34538440406,36.126773553,Europe,Gibraltar,GI,,Gibraltar,2014-09-15,15:52
+Agave americana,Plantae,ASPARAGACEAE,Centuryplant,,1,-5.34668661654,36.1412882299,Europe,Gibraltar,GI,,Gibraltar,2014-07-25,17:00
+Turdus merula,Animalia,THRUSHES_TURDIDAE,Common Blackbird,,4,-5.34873917699,36.13842871,Europe,Gibraltar,GI,,Gibraltar,2012-09-05,
+Sylvia melanocephala,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Sardinian Warbler,,2,-5.34873917699,36.13842871,Europe,Gibraltar,GI,,Gibraltar,2012-09-05,
+Erithacus rubecula,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,European Robin,,1,-5.34873917699,36.13842871,Europe,Gibraltar,GI,,Gibraltar,2012-09-05,
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,10,-5.35599187016,36.1345468959,Europe,Gibraltar,GI,,Gibraltar,2012-09-05,
+Milvus migrans,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Black Kite,,4,-5.34899666905,36.1378395184,Europe,Gibraltar,GI,,Gibraltar,2012-09-05,
+Parus major,Animalia,TITS_PARIDAE,Great Tit,,1,-5.34899666905,36.1378395184,Europe,Gibraltar,GI,,Gibraltar,2012-09-05,
+Monticola solitarius,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Blue Rock Thrush,,2,-5.3451418881,36.1460964254,Europe,Gibraltar,GI,,Gibraltar,2007-04-01,
+Alectoris barbara,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Barbary Partridge,,3,-5.3418695931,36.1263580286,Europe,Gibraltar,GI,,Gibraltar,2007-04-01,
+Alectoris barbara,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Barbary Partridge,,2,-5.34299612089,36.1387146036,Europe,Gibraltar,GI,,Gibraltar,2007-04-01,
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,50,-5.34610390663,36.1134713821,Europe,Gibraltar,GI,,Gibraltar,2014-05-10,12:00
+Passer domesticus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow,,7,-5.34673690796,36.1098657006,Europe,Gibraltar,GI,,Gibraltar,2014-02-28,
+Charaxes jasius,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Two-tailed Pasha,,1,-5.34572839737,36.1264799285,Europe,Gibraltar,GI,,Gibraltar,2009-08-15,
+Iphiclides feisthamelii,Animalia,SWALLOWTAILS_PAPILIONIDAE,Iberian scarce swallowtail,,1,-5.34572839737,36.1264799285,Europe,Gibraltar,GI,,Gibraltar,2009-08-15,
+Pieris brassicae,Animalia,WHITES_PIERIDAE,Large White,,1,-5.34587860107,36.1234554821,Europe,Gibraltar,GI,,Gibraltar,2013-10-20,
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,1,-5.34587860107,36.1234554821,Europe,Gibraltar,GI,,Gibraltar,2013-10-20,
+Papilio machaon,Animalia,SWALLOWTAILS_PAPILIONIDAE,Swallowtail,,1,-5.34965515137,36.1351019941,Europe,Gibraltar,GI,,Gibraltar,2013-09-15,16:05
+Charaxes jasius,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Two-tailed Pasha,,1,-5.34004211426,36.1273378448,Europe,Gibraltar,GI,,Gibraltar,2013-09-15,15:30
+Hieraaetus pennatus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Booted Eagle,,50,-5.33798217773,36.1278924523,Europe,Gibraltar,GI,,Gibraltar,2013-09-15,12:15
+Circaetus gallicus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Short-toed Snake Eagle,,1,-5.34210205078,36.1245647481,Europe,Gibraltar,GI,,Gibraltar,2013-09-15,12:00
+Passer domesticus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow,,1,-5.351463,36.148255,Europe,Gibraltar,GI,,Gibraltar,2013-08-23,14:40
+Danaus plexippus,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,American Monarch,,2,-5.348583,36.151255,Europe,Gibraltar,GI,,Gibraltar,2013-08-23,18:14
+Passer domesticus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow,,1,-5.351463,36.148255,Europe,Gibraltar,GI,,Gibraltar,2013-08-23,14:40
+Danaus plexippus,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,American Monarch,,2,-5.348583,36.151255,Europe,Gibraltar,GI,,Gibraltar,2013-08-23,18:14
+Charaxes jasius,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Two-tailed Pasha,,1,-5.3457766771317,36.134491115084,Europe,Gibraltar,GI,,Gibraltar,2013-06-16,15:55
+Papilio machaon,Animalia,SWALLOWTAILS_PAPILIONIDAE,Swallowtail,,2,-5.3490543365479,36.13338632184,Europe,Gibraltar,GI,,Gibraltar,2013-06-16,15:45
+Nemoptera bipennis,Animalia,NEMOPTERIDAE,Iberian Spoonwing,,1,-5.3493976593,36.1325198065,Europe,Gibraltar,GI,,Gibraltar,2013-06-16,16:12
+Alectoris barbara,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Barbary Partridge,,9,-5.3469085693359,36.113471382052,Europe,Gibraltar,GI,,Gibraltar,1994-07-25,
+Turdus merula,Animalia,THRUSHES_TURDIDAE,Common Blackbird,,4,-5.3491401672363,36.131427983439,Europe,Gibraltar,GI,,Gibraltar,2009-12-12,
+Phoenicurus ochruros,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Black Redstart,,11,-5.3491401672363,36.131427983439,Europe,Gibraltar,GI,,Gibraltar,2009-12-12,
+Alectoris barbara,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Barbary Partridge,,3,-5.3491401672363,36.131427983439,Europe,Gibraltar,GI,,Gibraltar,2009-12-12,
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,500,-5.3491401672363,36.131427983439,Europe,Gibraltar,GI,,Gibraltar,2009-12-12,
+Danaus plexippus,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,American Monarch,,6,-5.34216418492,36.1081945712,Europe,Gibraltar,GI,,Gibraltar,2012-09-25,
+Passer domesticus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow,,10,-5.35042762756,36.143523841,Europe,Gibraltar,GI,,Gibraltar,2012-08-13,
+Falco tinnunculus,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Common Kestrel,,1,-5.34695678947,36.1352208474,Europe,Gibraltar,GI,,Gibraltar,2009-03-09,
+Turdus merula,Animalia,THRUSHES_TURDIDAE,Common Blackbird,,2,-5.34695678947,36.1352208474,Europe,Gibraltar,GI,,Gibraltar,2009-03-09,
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,1,-5.34695678947,36.1352208474,Europe,Gibraltar,GI,,Gibraltar,2009-03-09,
+Circaetus gallicus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Short-toed Snake Eagle,,1,-5.34695678947,36.1352208474,Europe,Gibraltar,GI,,Gibraltar,2009-03-09,
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,1,-5.34699440002,36.1103857611,Europe,Gibraltar,GI,,Gibraltar,2004-10-12,
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,1,-5.3505563736,36.1273378447,Europe,Gibraltar,GI,,Gibraltar,2008-10-13,
+Passer domesticus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow,,1,-5.3505563736,36.1273378447,Europe,Gibraltar,GI,,Gibraltar,2008-10-13,
+Turdus merula,Animalia,THRUSHES_TURDIDAE,Common Blackbird,,1,-5.3505563736,36.1273378447,Europe,Gibraltar,GI,,Gibraltar,2008-10-13,
+Apus pallidus,Animalia,SWIFTS_APODIDAE,Pallid Swift,,1,-5.3505563736,36.1273378447,Europe,Gibraltar,GI,,Gibraltar,2008-10-13,
+Alectoris barbara,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Barbary Partridge,,1,-5.3505563736,36.1273378447,Europe,Gibraltar,GI,,Gibraltar,2008-10-13,
+Pieris brassicae,Animalia,WHITES_PIERIDAE,Large White,,1,-5.3505563736,36.1273378447,Europe,Gibraltar,GI,,Gibraltar,2008-10-13,
+Charaxes jasius,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Two-tailed Pasha,,1,-5.3505563736,36.1273378447,Europe,Gibraltar,GI,,Gibraltar,2008-10-13,
+Charaxes jasius,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Two-tailed Pasha,,1,-5.34577667713,36.1344477902,Europe,Gibraltar,GI,,Gibraltar,2011-08-02,
+Delphinus delphis,Animalia,DOLPHINS_DELPHINIDAE,Short-beaked Common Dolphin,,30,-5.34636149371,36.1094340508,Europe,Gibraltar,GI,,Gibraltar,2011-08-02,13:28
+Sylvia melanocephala,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Sardinian Warbler,,1,-5.34949797668,36.1282080583,Europe,Gibraltar,GI,,Gibraltar,2011-08-02,14:21
+Apus pallidus,Animalia,SWIFTS_APODIDAE,Pallid Swift,,4,-5.34921190581,36.12787154,Europe,Gibraltar,GI,,Gibraltar,2011-08-02,14:31
+Sylvia atricapilla,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Eurasian Blackcap,,1,-5.3494593795,36.1280567614,Europe,Gibraltar,GI,,Gibraltar,2011-08-02,14:34
+Milvus migrans,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Black Kite,,3,-5.34554548172,36.13473819,Europe,Gibraltar,GI,,Gibraltar,2011-08-02,17:21
+Phalacrocorax aristotelis desmarestii,Animalia,CORMORANTS_PHALACROCORACIDAE,European Shag ssp desmarestii,,1,-5.34620046615,36.1085135274,Europe,Gibraltar,GI,,Gibraltar,2011-08-02,13:27
+Sylvia melanocephala,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Sardinian Warbler,,1,-5.34949797668,36.1282080583,Europe,Gibraltar,GI,,Gibraltar,2011-08-02,14:21
+Sylvia atricapilla,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Eurasian Blackcap,,1,-5.3494593795,36.1280567614,Europe,Gibraltar,GI,,Gibraltar,2011-08-02,14:34
+Milvus migrans,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Black Kite,,20000,-5.34576058388,36.1344521227,Europe,Gibraltar,GI,,Gibraltar,2011-08-02,15:12
+Charaxes jasius,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Two-tailed Pasha,,2,-5.3479385376,36.1260552997,Europe,Gibraltar,GI,,Gibraltar,2011-09-24,
+Monticola solitarius,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Blue Rock Thrush,,2,-5.34188747406,36.1250543801,Europe,Gibraltar,GI,,Gibraltar,2011-08-06,10:00
+Monticola solitarius,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Blue Rock Thrush,,1,-5.34287452698,36.1446371554,Europe,Gibraltar,GI,,Gibraltar,2011-08-06,10:00
+Sylvia melanocephala,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Sardinian Warbler,,1,-5.34227371216,36.1447757771,Europe,Gibraltar,GI,,Gibraltar,2011-08-06,10:00
+Alectoris barbara,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Barbary Partridge,,6,-5.34227371216,36.1447757771,Europe,Gibraltar,GI,,Gibraltar,2011-08-06,10:00
+Milvus migrans,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Black Kite,,3,-5.34554548172,36.13473819,Europe,Gibraltar,GI,,Gibraltar,2011-08-02,17:21
+Sylvia atricapilla,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Eurasian Blackcap,,1,-5.3494593795,36.1280567614,Europe,Gibraltar,GI,,Gibraltar,2011-08-02,14:34
+Apus pallidus,Animalia,SWIFTS_APODIDAE,Pallid Swift,,4,-5.34921190581,36.12787154,Europe,Gibraltar,GI,,Gibraltar,2011-08-02,14:31
+Sylvia melanocephala,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Sardinian Warbler,,1,-5.34949797668,36.1282080583,Europe,Gibraltar,GI,,Gibraltar,2011-08-02,14:21
+Delphinus delphis,Animalia,DOLPHINS_DELPHINIDAE,Short-beaked Common Dolphin,,30,-5.34636149371,36.1094340508,Europe,Gibraltar,GI,,Gibraltar,2011-08-02,13:28
+Falco tinnunculus,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Common Kestrel,,1,-5.347045362,36.1347077394,Europe,Gibraltar,GI,,Gibraltar,2009-08-16,
+Jasminum fruticans,Plantae,OLEACEAE,,,1,-5.34953713417,36.1312720075,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Alectoris barbara,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Barbary Partridge,,2,-5.34881830215,36.1377187553,Europe,Gibraltar,GI,,Gibraltar,2011-04-20,
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,1,-5.35071730613,36.1173932394,Europe,Gibraltar,GI,,Gibraltar,2011-04-30,14:22
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,1,-5.35053491592,36.1171852342,Europe,Gibraltar,GI,,Gibraltar,2011-04-30,14:00
+Alectoris barbara,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Barbary Partridge,,2,-5.34726429426,36.1336092287,Europe,Gibraltar,GI,,Gibraltar,2011-04-20,10:41
+Pararge aegeria,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Speckled Wood,,1,-5.3496658802,36.1314886407,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Pieris brassicae,Animalia,WHITES_PIERIDAE,Large White,,1,-5.3496658802,36.1314886407,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Asteriscus aquaticus,Plantae,Asteraceae,,,1,-5.34985899925,36.1346514171,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Galactites tomentosa,Plantae,Asteraceae,,,1,-5.34764136215,36.1322373234,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Ruta angustifolia,Plantae,RUTACEAE,,,10,-5.34645795822,36.1279444466,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Urtica membranacea,Plantae,URTICACEAE,,,101,-5.34724116326,36.1445375209,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Smyrnium olusatrum,Plantae,Apiaceae,Alexanders,,10,-5.34872174263,36.1426920939,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Gonepteryx rhamni,Animalia,WHITES_PIERIDAE,Brimstone,,1,-5.34955322742,36.1309535556,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,1,-5.34490764141,36.1270453743,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Sonchus tenerrimus,Plantae,Asteraceae,Slender Sow-thistle,,101,-5.34869492054,36.1377815738,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Pinus pinea,Plantae,PINACEAE,Stone Pine,,1,-5.34789562225,36.1375151362,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Tamus communis,Plantae,DIOSCOREACEAE,Black Bryony,,1,-5.34954249859,36.1435584969,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Scilla peruviana,Plantae,ASPARAGACEAE,Portuguese Squill,,10,-5.34601807594,36.1330375506,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Scilla peruviana,Plantae,ASPARAGACEAE,Portuguese Squill,,1,-5.34418076276,36.1453172658,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Scilla peruviana,Plantae,ASPARAGACEAE,Portuguese Squill,,10,-5.34504979848,36.1451699812,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Prasium majus,Plantae,Lamiaceae,White hedge-nettle,,1,-5.3482979536,36.1438833957,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Chamaerops humilis,Plantae,Arecaceae,European fan palm,,1,-5.3464499116,36.1253143605,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Aristolochia baetica,Plantae,ARISTOLOCHIACEAE,,,101,-5.34858494997,36.1343784702,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Pistacia lentiscus,Plantae,ANACARDIACEAE,Mastic tree,,101,-5.34860640764,36.1346557496,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Teucrium fruticans,Plantae,Lamiaceae,Shrubby Germander,,10,-5.34864932299,36.1352449651,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Prasium majus,Plantae,Lamiaceae,White hedge-nettle,,1,-5.34839183092,36.1383339414,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Allium triquetrum,Plantae,AMARYLLIDACEAE,Three-cornered Leek,,101,-5.34839183092,36.1383339414,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Pinus spec.,Plantae,PINACEAE,,,1,-5.34815579653,36.1391440736,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Convolvulus althaeoides,Plantae,CONVOLVULACEAE,Mallow-leaved Bindweed,,1,-5.34757643938,36.1415310988,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Valantia muralis,Plantae,RUBIACEAE,,,1,-5.35148710013,36.14504219,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Acanthus mollis,Plantae,ACANTHACEAE,Bear's-breech,,101,-5.34702524543,36.1446783087,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Lobularia maritima,Plantae,Brassicaceae,Sweet Alison,,10,-5.35142138601,36.1449999538,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Ferula tingitana,Plantae,Apiaceae,Giant Tangier Fennel,,10,-5.34914821387,36.1431469567,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Passer domesticus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow,,1,-5.35145625472,36.1318276704,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Lantana camara,Plantae,VERBENACEAE,Largeleaf lantana,,1,-5.34966453909,36.1309351417,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Chrysanthemum coronarium,Plantae,Asteraceae,Crown Daisy,,1,-5.34999713301,36.1322349375,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Echium plantagineum,Plantae,BORAGINACEAE,Purple Viper's-bugloss,,1,-5.34973427653,36.1351204071,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Ficus carica,Plantae,MORACEAE,Fig,,1,-5.34966990351,36.1356662948,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Zerynthia rumina,Animalia,SWALLOWTAILS_PAPILIONIDAE,Spanish Festoon,,4,-5.34626618027,36.1272717682,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Iris albicans,Plantae,IRIDACEAE,,,101,-5.3459469974,36.1335867022,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Anagallis arvensis subsp. foemina,Plantae,PRIMULACEAE,Blue Pimpernel subsp. foemina,,101,-5.34714058041,36.132273931,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,1,-5.34839451313,36.1386166222,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Pistacia lentiscus,Plantae,ANACARDIACEAE,Mastic tree,,101,-5.34711778164,36.1444043137,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Aristolochia baetica,Plantae,ARISTOLOCHIACEAE,,,101,-5.34686565399,36.14445738,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Turdus merula,Animalia,THRUSHES_TURDIDAE,Common Blackbird,,1,-5.34837037325,36.1439418773,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Parus major,Animalia,TITS_PARIDAE,Great Tit,,1,-5.34837037325,36.1439418773,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Tamus communis,Plantae,DIOSCOREACEAE,Black Bryony,,1,-5.34873247146,36.1347207368,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Allium roseum,Plantae,AMARYLLIDACEAE,Rosy Garlic,,1,-5.34837037325,36.1439418773,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Lobularia maritima,Plantae,Brassicaceae,Sweet Alison,,101,-5.34590005875,36.1447292089,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Umbilicus rupestris,Plantae,CRASSULACEAE,Navelwort,,10,-5.34691929817,36.1443350026,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Lobularia maritima,Plantae,Brassicaceae,Sweet Alison,,101,-5.34882366657,36.1434946001,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Echium plantagineum,Plantae,BORAGINACEAE,Purple Viper's-bugloss,,10,-5.34968197346,36.1440274336,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Oxalis pes-caprae,Plantae,OXALIDACEAE,Bermuda-buttercup,,1001,-5.34985363484,36.1434339521,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Orobanche purpurea,Plantae,OROBANCHACEAE,Yarrow Broomrape,,101,-5.3482966125,36.1383610182,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Psoralea bituminosa,Plantae,Fabaceae,Pitch Trefoil,,1,-5.34735247493,36.1431610357,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Podarcis vaucheri,Animalia,Lacertidae,Andalusian Wall Lizard,,1,-5.34557819367,36.1273421776,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Corvus corone,Animalia,CROWS_AND_JAYS_CORVIDAE,Carrion Crow,,1,-5.34803509712,36.1392047248,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Gennaria diphylla,Plantae,ORCHIDACEAE,Gennaria,,101,-5.35,36.14,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Anthocharis euphenoides,Animalia,WHITES_PIERIDAE,Provence Orange-tip,,1,-5.34357324243,36.124727237,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Zerynthia rumina,Animalia,SWALLOWTAILS_PAPILIONIDAE,Spanish Festoon,,4,-5.34714728594,36.1321298714,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,1,-5.34628093242,36.1369302702,Europe,Gibraltar,GI,,Gibraltar,2011-03-31,
+Monticola solitarius,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Blue Rock Thrush,,2,-5.34476280212,36.1091289425,Europe,Gibraltar,GI,,Gibraltar,2010-09-26,
+Passer domesticus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow,,10,-5.35231590271,36.1353792709,Europe,Gibraltar,GI,,Gibraltar,2009-02-17,
+Phoenicurus ochruros,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Black Redstart,,1,-5.35231590271,36.1353792709,Europe,Gibraltar,GI,,Gibraltar,2009-02-17,
+Sturnus unicolor,Animalia,STARLINGS_STURNIDAE,Spotless Starling,,10,-5.35231590271,36.1353792709,Europe,Gibraltar,GI,,Gibraltar,2009-02-17,
+Turdus merula,Animalia,THRUSHES_TURDIDAE,Common Blackbird,,1,-5.35059928894,36.1308040778,Europe,Gibraltar,GI,,Gibraltar,2009-02-17,
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,50,-5.34098625183,36.1163835424,Europe,Gibraltar,GI,,Gibraltar,2009-02-17,
+Monticola solitarius,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Blue Rock Thrush,,1,-5.34390449524,36.1237328001,Europe,Gibraltar,GI,,Gibraltar,2009-02-17,
+Alectoris barbara,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Barbary Partridge,,5,-5.34892559052,36.1372162052,Europe,Gibraltar,GI,,Gibraltar,1999-10-14,
+Passer domesticus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow,,1,-5.35042768965,36.132361779,Europe,Gibraltar,GI,,Gibraltar,2010-10-13,
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,210,-5.34896850586,36.1245647481,Europe,Gibraltar,GI,,Gibraltar,2008-05-01,14:00
+Falco naumanni,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Lesser Kestrel,,1,-5.34673690796,36.1106977956,Europe,Gibraltar,GI,,Gibraltar,2009-08-11,
+Monticola solitarius,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Blue Rock Thrush,,1,-5.34673690796,36.1106977956,Europe,Gibraltar,GI,,Gibraltar,2009-08-11,
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,1,-5.3550481805,36.1453189986,Europe,Gibraltar,GI,,Gibraltar,2009-10-10,
+Passer domesticus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow,,10,-5.35357475455,36.1404948531,Europe,Gibraltar,GI,,Gibraltar,2009-10-10,
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,100,-5.34587860107,36.1143727765,Europe,Gibraltar,GI,,Gibraltar,2006-05-25,
+Monticola solitarius,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Blue Rock Thrush,,1,-5.34587860107,36.1143727765,Europe,Gibraltar,GI,,Gibraltar,2006-05-25,
+Zerynthia rumina,Animalia,SWALLOWTAILS_PAPILIONIDAE,Spanish Festoon,,1,-5.34690856934,36.1278924523,Europe,Gibraltar,GI,,Gibraltar,2007-03-11,
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,30,-5.34690856934,36.1278924523,Europe,Gibraltar,GI,,Gibraltar,2007-03-11,
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,1,-5.34553527832,36.1184635907,Europe,Gibraltar,GI,,Gibraltar,2006-06-07,
+Monticola solitarius,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Blue Rock Thrush,,1,-5.35034179688,36.1400928273,Europe,Gibraltar,GI,,Gibraltar,2006-05-25,
+Sturnus unicolor,Animalia,STARLINGS_STURNIDAE,Spotless Starling,,1,-5.3484004735289,36.130146100046,Europe,Gibraltar,GI,,Gibraltar,2009-02-17,
+Monticola solitarius,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Blue Rock Thrush,,1,-5.3491401672363,36.133715595179,Europe,Gibraltar,GI,,Gibraltar,2009-02-17,
+Passer domesticus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow,,1,-5.3491401672363,36.133715595179,Europe,Gibraltar,GI,,Gibraltar,2009-02-17,
+Phoenicurus ochruros,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Black Redstart,,2,-5.3491401672363,36.133715595179,Europe,Gibraltar,GI,,Gibraltar,2009-02-17,
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,100,-5.3491401672363,36.133715595179,Europe,Gibraltar,GI,,Gibraltar,2009-02-17,
+Sympetrum fonscolombii,Animalia,SKIMMERS_LIBELLULIDAE,Red-veined Darter,,2,-5.349481715832975,36.131865197374395,Europe,Gibraltar,GI,,Gibraltar,2007-09-17,
+Sympetrum fonscolombii,Animalia,SKIMMERS_LIBELLULIDAE,Red-veined Darter,,4,-5.349481715832975,36.131865197374395,Europe,Gibraltar,GI,,Gibraltar,2007-09-17,
+Monticola solitarius,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Blue Rock Thrush,,1,-5.34840047353,36.1301461,Europe,Gibraltar,GI,,Gibraltar,2006-05-25,
+Chroicocephalus ridibundus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black-headed Gull,,1,-5.34044176,36.14244842,Europe,Gibraltar,GI,,Gibraltar,2020-03-04,12:00
+Falco tinnunculus,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Common Kestrel,,1,-5.34044176,36.14244842,Europe,Gibraltar,GI,,Gibraltar,2020-03-04,12:00
+Turdus merula,Animalia,THRUSHES_TURDIDAE,Common Blackbird,,1,-5.3404337,36.144087,Europe,Gibraltar,GI,,Gibraltar,2011-11-21,
+Phalacrocorax carbo,Animalia,CORMORANTS_PHALACROCORACIDAE,Great Cormorant,,2,-5.3404337,36.144087,Europe,Gibraltar,GI,,Gibraltar,2011-11-21,
+Larus fuscus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Lesser Black-backed Gull,,1,-5.3404337,36.144087,Europe,Gibraltar,GI,,Gibraltar,2011-11-21,
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,1,-5.3404337,36.144087,Europe,Gibraltar,GI,,Gibraltar,2011-11-21,
+Alectoris barbara,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Barbary Partridge,,5,-5.3404337,36.144087,Europe,Gibraltar,GI,,Gibraltar,2011-11-21,
+Passiflora caerulea,Plantae,PASSIFLORACEAE,Blue Passion-Flower,,4,-5.34878254,36.13582291,Europe,Gibraltar,GI,,Gibraltar,2016-04-18,
+Morus bassanus,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Northern Gannet,,1,-5.33550012856722,36.0937204459528,Europe,Gibraltar,GI,,Gibraltar,2019-12-29,13:36
+Zerynthia rumina,Animalia,SWALLOWTAILS_PAPILIONIDAE,Spanish Festoon,,1,-5.34739494,36.13146033,Europe,Gibraltar,GI,,Gibraltar,2016-04-22,
+Podarcis vaucheri,Animalia,Lacertidae,Andalusian Wall Lizard,,1,-5.3489399,36.14310566,Europe,Gibraltar,GI,,Gibraltar,2016-04-18,
+Tarentola mauritanica,Animalia,PHYLLODACTYLIDAE,Moorish Gecko,,2,-5.34616426,36.12726816,Europe,Gibraltar,GI,,Gibraltar,2016-05-14,12:06
+Podarcis vaucheri,Animalia,Lacertidae,Andalusian Wall Lizard,,1,-5.344,36.121,Europe,Gibraltar,GI,,Gibraltar,2016-05-14,12:04
+Tropaeolum majus,Plantae,TROPAEOLACEAE,Nasturtium,,1,-5.34879316,36.13317827,Europe,Gibraltar,GI,,Gibraltar,2016-05-14,14:32
+Glebionis coronaria,Plantae,Asteraceae,Crown Daisy,,1,-5.34816736,36.13183521,Europe,Gibraltar,GI,,Gibraltar,2016-05-14,14:25
+Osteospermum ecklonis,Plantae,Asteraceae,Blue and white daisybush,,1,-5.34690119,36.12777673,Europe,Gibraltar,GI,,Gibraltar,2016-05-14,13:46
+Asteraceae spec.,Plantae,Asteraceae,Composite unknown,,1,-5.34270463,36.1241047,Europe,Gibraltar,GI,,Gibraltar,2016-05-14,11:35
+Antirrhinum majus,Plantae,PLANTAGINACEAE,Snapdragon,,1,-5.34265635,36.12401298,Europe,Gibraltar,GI,,Gibraltar,2016-05-14,11:30
+Lobularia maritima,Plantae,Brassicaceae,Sweet Alison,,1,-5.34278777,36.1241437,Europe,Gibraltar,GI,,Gibraltar,2016-05-14,11:38
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,35,-5.34389019012451,36.1227340698242,Europe,Gibraltar,GI,,Gibraltar,2019-12-11,08:47
+Sylvia melanocephala,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Sardinian Warbler,,1,-5.34529781341553,36.1199264526367,Europe,Gibraltar,GI,,Gibraltar,2019-12-11,09:19
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,70,-5.34318733215332,36.1209602355957,Europe,Gibraltar,GI,,Gibraltar,2019-12-11,09:30
+Alectoris barbara,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Barbary Partridge,,2,-5.34203910827637,36.1248931884766,Europe,Gibraltar,GI,,Gibraltar,2019-12-11,10:03
+Sylvia melanocephala,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Sardinian Warbler,,1,-5.34195995330811,36.1227684020996,Europe,Gibraltar,GI,,Gibraltar,2019-12-11,10:24
+Morus bassanus,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Northern Gannet,,7,-5.34049129486084,36.1348075866699,Europe,Gibraltar,GI,,Gibraltar,2019-12-11,10:58
+Sylvia melanocephala,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Sardinian Warbler,,1,-5.344681,36.12148691,Europe,Gibraltar,GI,,Gibraltar,2016-05-14,13:41
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,1,-5.34426592,36.12117744,Europe,Gibraltar,GI,,Gibraltar,2016-05-14,12:04
+Circus aeruginosus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Western Marsh Harrier,,1,-5.34894169,36.13770112,Europe,Gibraltar,GI,,Gibraltar,2016-05-14,08:51
+Antirrhinum majus,Plantae,PLANTAGINACEAE,Snapdragon,,1,-5.35027837753296,36.136791229248,Europe,Gibraltar,GI,,Gibraltar,2019-09-16,15:17
+Papilio machaon,Animalia,SWALLOWTAILS_PAPILIONIDAE,Swallowtail,,1,-5.3457799,36.13208389,Europe,Gibraltar,GI,,Gibraltar,2019-09-16,15:59
+Ficedula hypoleuca,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,European Pied Flycatcher,,1,-5.34546327590942,36.1284408569336,Europe,Gibraltar,GI,,Gibraltar,2019-09-16,16:40
+Mola mola,Animalia,OCEAN_SUNFISHES_MOLIDAE,Ocean Sunfish,,1,-5.36855,36.13553667,Europe,Gibraltar,GI,,Gibraltar,2019-07-24,12:17
+Accipiter nisus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Eurasian Sparrowhawk,,4,-5.34649167,36.10939667,Europe,Gibraltar,GI,,Gibraltar,2019-04-07,11:25
+Passer domesticus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow,,10,-5.3504121715752975,36.142035130055675,Europe,Gibraltar,GI,,Gibraltar,2019-04-29,12:56
+Fringilla coelebs,Animalia,FINCHES_FRINGILLIDAE,Common Chaffinch,,1,-5.346582359121103,36.11969393025132,Europe,Gibraltar,GI,,Gibraltar,2019-04-23,13:28
+Phylloscopus bonelli,Animalia,LEAF_WARBLERS_AND_ALLIES_PHYLLOSCOPIDAE,Western Bonelli's Warbler,,1,-5.347205130909032,36.13201110595541,Europe,Gibraltar,GI,,Gibraltar,2019-04-23,12:36
+Sylvia melanocephala,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Sardinian Warbler,,1,-5.345521042178643,36.12044846429571,Europe,Gibraltar,GI,,Gibraltar,2019-04-23,11:21
+Passer domesticus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow,,4,-5.3455686929840756,36.11942608477519,Europe,Gibraltar,GI,,Gibraltar,2019-04-23,11:17
+Ardea cinerea,Animalia,HERONS_ARDEIDAE,Grey Heron,,1,-5.340813811182209,36.13478211053144,Europe,Gibraltar,GI,,Gibraltar,2019-04-23,10:57
+Acanthus mollis,Plantae,ACANTHACEAE,Bear's-breech,,1,-5.3488,36.1328,Europe,Gibraltar,GI,,Gibraltar,2001-05-07,
+Fratercula arctica,Animalia,AUKS_ALCIDAE,Atlantic Puffin,,1,-5.33560848236084,36.0639533996582,Europe,Gibraltar,GI,,Gibraltar,2019-03-03,15:21
+Morus bassanus,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Northern Gannet,,5,-5.36066770553589,36.1171226501465,Europe,Gibraltar,GI,,Gibraltar,2019-03-03,15:40
+Danaus plexippus,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,American Monarch,,3,-5.34885384,36.13295279,Europe,Gibraltar,GI,,Gibraltar,2019-03-03,
+Iphiclides feisthamelii,Animalia,SWALLOWTAILS_PAPILIONIDAE,Iberian scarce swallowtail,,1,-5.34885384,36.13295279,Europe,Gibraltar,GI,,Gibraltar,2019-03-03,
+Zerynthia rumina,Animalia,SWALLOWTAILS_PAPILIONIDAE,Spanish Festoon,,6,-5.34885384,36.13295279,Europe,Gibraltar,GI,,Gibraltar,2019-03-03,
+Tarentola mauritanica,Animalia,PHYLLODACTYLIDAE,Moorish Gecko,,1,-5.34885384,36.13295279,Europe,Gibraltar,GI,,Gibraltar,2019-03-03,
+Podarcis vaucheri,Animalia,Lacertidae,Andalusian Wall Lizard,,2,-5.34885384,36.13295279,Europe,Gibraltar,GI,,Gibraltar,2019-03-03,
+Phoenicurus ochruros,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Black Redstart,,8,-5.34885384,36.13295279,Europe,Gibraltar,GI,,Gibraltar,2019-03-03,
+Sylvia melanocephala,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Sardinian Warbler,,10,-5.34885384,36.13295279,Europe,Gibraltar,GI,,Gibraltar,2019-03-03,
+Morus bassanus,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Northern Gannet,,1,-5.3734917640686,36.07568359375,Europe,Gibraltar,GI,,Gibraltar,2019-03-03,14:56
+Fratercula arctica,Animalia,AUKS_ALCIDAE,Atlantic Puffin,,1,-5.33560848236084,36.0639533996582,Europe,Gibraltar,GI,,Gibraltar,2019-03-03,15:21
+Morus bassanus,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Northern Gannet,,5,-5.36066770553589,36.1171226501465,Europe,Gibraltar,GI,,Gibraltar,2019-03-03,15:40
+Alectoris barbara,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Barbary Partridge,,2,-5.34721946716309,36.122875213623,Europe,Gibraltar,GI,,Gibraltar,2019-03-03,17:04
+Morus bassanus,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Northern Gannet,,1,-5.3734917640686,36.07568359375,Europe,Gibraltar,GI,,Gibraltar,2019-03-03,14:56
+Fratercula arctica,Animalia,AUKS_ALCIDAE,Atlantic Puffin,,1,-5.33560848236084,36.0639533996582,Europe,Gibraltar,GI,,Gibraltar,2019-03-03,15:21
+Morus bassanus,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Northern Gannet,,5,-5.36066770553589,36.1171226501465,Europe,Gibraltar,GI,,Gibraltar,2019-03-03,15:40
+Alectoris barbara,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Barbary Partridge,,2,-5.34721946716309,36.122875213623,Europe,Gibraltar,GI,,Gibraltar,2019-03-03,17:04
+Psammodromus algirus,Animalia,Lacertidae,Large Psammodromus,,1,-5.34105733,36.13631453,Europe,Gibraltar,GI,,Gibraltar,2010-04-13,
+Alectoris barbara,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Barbary Partridge,,1,-5.34586954116821,36.1210479736328,Europe,Gibraltar,GI,,Gibraltar,2019-01-21,09:46
+Sylvia melanocephala,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Sardinian Warbler,,1,-5.3458194732666,36.120922088623,Europe,Gibraltar,GI,,Gibraltar,2019-01-21,09:46
+Falco tinnunculus,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Common Kestrel,,1,-5.34323740005493,36.120906829834,Europe,Gibraltar,GI,,Gibraltar,2019-01-21,10:12
+Tarentola mauritanica,Animalia,PHYLLODACTYLIDAE,Moorish Gecko,,2,-5.34192132949829,36.1241111755371,Europe,Gibraltar,GI,,Gibraltar,2019-01-21,10:54
+Passer domesticus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow,,1,-5.34581995010376,36.1197624206543,Europe,Gibraltar,GI,,Gibraltar,2019-01-21,12:37
+Sylvia melanocephala,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Sardinian Warbler,,1,-5.34583902359009,36.1196899414062,Europe,Gibraltar,GI,,Gibraltar,2019-01-21,12:37
+Mauremys leprosa,Animalia,Geoemydidae,Spanish Pond Turtle,,1,-5.35129737854004,36.1314430236816,Europe,Gibraltar,GI,,Gibraltar,2019-01-21,16:12
+Sylvia melanocephala,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Sardinian Warbler,,1,-5.348783180608092,36.11933171668159,Europe,Gibraltar,GI,,Gibraltar,2019-01-13,08:42
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,5,-5.3632624673322935,36.1217029623858,Europe,Gibraltar,GI,,Gibraltar,2019-01-13,08:32
+Sylvia melanocephala,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Sardinian Warbler,,1,-5.352076485657563,36.133257682436245,Europe,Gibraltar,GI,,Gibraltar,2019-01-13,10:37
+Erithacus rubecula,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,European Robin,,1,-5.351472255907676,36.13330128133726,Europe,Gibraltar,GI,,Gibraltar,2019-01-13,10:37
+Falco tinnunculus,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Common Kestrel,,1,-5.340915631815177,36.14448967491164,Europe,Gibraltar,GI,,Gibraltar,2019-01-13,09:51
+Phalacrocorax aristotelis,Animalia,CORMORANTS_PHALACROCORACIDAE,European Shag,,1,-5.346646774804382,36.10950550760065,Europe,Gibraltar,GI,,Gibraltar,2019-01-13,09:21
+Chroicocephalus ridibundus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black-headed Gull,,40,-5.346691722894098,36.109422027209646,Europe,Gibraltar,GI,,Gibraltar,2019-01-13,09:17
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,50,-5.3439960456991376,36.111802572647825,Europe,Gibraltar,GI,,Gibraltar,2019-01-13,09:02
+Phalacrocorax carbo,Animalia,CORMORANTS_PHALACROCORACIDAE,Great Cormorant,,3,-5.349484914490801,36.11836344871077,Europe,Gibraltar,GI,,Gibraltar,2019-01-13,08:42
+Alectoris barbara,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Barbary Partridge,,1,-5.34846336,36.14363748,Europe,Gibraltar,GI,,Gibraltar,2016-04-12,
+Lobularia maritima,Plantae,Brassicaceae,Sweet Alison,,1,-5.34792423,36.14436251,Europe,Gibraltar,GI,,Gibraltar,2016-04-12,
+Zerynthia rumina,Animalia,SWALLOWTAILS_PAPILIONIDAE,Spanish Festoon,,1,-5.34625769,36.14271751,Europe,Gibraltar,GI,,Gibraltar,2016-04-12,
+Zerynthia rumina,Animalia,SWALLOWTAILS_PAPILIONIDAE,Spanish Festoon,,1,-5.34578562,36.1408807,Europe,Gibraltar,GI,,Gibraltar,2016-04-12,
+Hemorrhois hippocrepis,Animalia,Colubridae,Horseshoe Whip Snake,,1,-5.34779549,36.1335888,Europe,Gibraltar,GI,,Gibraltar,2016-04-12,
+Tarentola mauritanica,Animalia,PHYLLODACTYLIDAE,Moorish Gecko,,1,-5.34706235,36.13063279,Europe,Gibraltar,GI,,Gibraltar,2016-04-12,
+Lavandula dentata,Plantae,Lamiaceae,French lavender,,1,-5.34868777,36.13258682,Europe,Gibraltar,GI,,Gibraltar,2016-04-12,
+Phagnalon saxatile,Plantae,Asteraceae,,,1,-5.3500995,36.13846925,Europe,Gibraltar,GI,,Gibraltar,2016-04-12,
+Alectoris barbara,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Barbary Partridge,,1,-5.34641599655151,36.1340065002441,Europe,Gibraltar,GI,,Gibraltar,2019-01-13,10:48
+Monticola solitarius,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Blue Rock Thrush,,1,-5.3399479727647545,36.125579784004024,Europe,Gibraltar,GI,,Gibraltar,2018-12-28,16:13
+Alectoris barbara,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Barbary Partridge,,4,-5.346077000727268,36.121777561526855,Europe,Gibraltar,GI,,Gibraltar,2018-12-28,17:57
+Sylvia melanocephala,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Sardinian Warbler,,1,-5.341930137952176,36.124666552093,Europe,Gibraltar,GI,,Gibraltar,2018-12-28,17:29
+Morus bassanus,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Northern Gannet,,4,-5.345742143695564,36.131827463429545,Europe,Gibraltar,GI,,Gibraltar,2018-12-28,16:23
+Rattus norvegicus,Animalia,OLD_WORLD_MICE_AND_RATS_MURIDAE,Common Rat,,7,-5.34581136703491,36.1341667175293,Europe,Gibraltar,GI,,Gibraltar,2018-12-27,15:16
+Sylvia melanocephala,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Sardinian Warbler,,1,-5.34581708908081,36.1337509155273,Europe,Gibraltar,GI,,Gibraltar,2018-12-27,15:23
+Vanessa cardui,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Painted Lady,,5,-5.34493827819824,36.1299171447754,Europe,Gibraltar,GI,,Gibraltar,2018-12-27,15:51
+Erithacus rubecula,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,European Robin,,2,-5.34888505935669,36.133487701416,Europe,Gibraltar,GI,,Gibraltar,2018-12-27,16:37
+Sylvia melanocephala,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Sardinian Warbler,,3,-5.34888553619385,36.1335029602051,Europe,Gibraltar,GI,,Gibraltar,2018-12-27,16:37
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,100,-5.34888601303101,36.1335067749023,Europe,Gibraltar,GI,,Gibraltar,2018-12-27,16:37
+Phoenicurus ochruros,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Black Redstart,,1,-5.34888553619385,36.1335067749023,Europe,Gibraltar,GI,,Gibraltar,2018-12-27,16:38
+Vanessa cardui,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Painted Lady,,7,-5.34888553619385,36.1335067749023,Europe,Gibraltar,GI,,Gibraltar,2018-12-27,16:38
+Alectoris barbara,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Barbary Partridge,,5,-5.34597851,36.14206801,Europe,Gibraltar,GI,,Gibraltar,1999-10-14,
+Alectoris barbara,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Barbary Partridge,,1,-5.34325439482927,36.1214809171594,Europe,Gibraltar,GI,,Gibraltar,2018-12-22,09:04
+Alectoris barbara,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Barbary Partridge,,2,-5.34325439482927,36.1214809171594,Europe,Gibraltar,GI,,Gibraltar,2018-12-22,09:05
+Delphinus delphis,Animalia,DOLPHINS_DELPHINIDAE,Short-beaked Common Dolphin,,1,-5.37413836,36.09016154,Europe,Gibraltar,GI,,Gibraltar,2014-06-03,
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,10,-5.37704722,36.08521076,Europe,Gibraltar,GI,,Gibraltar,2018-08-04,17:34
+Calonectris diomedea,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Scopoli's Shearwater,,6,-5.38410447,36.09894038,Europe,Gibraltar,GI,,Gibraltar,2018-08-04,17:37
+Acanthus mollis,Plantae,ACANTHACEAE,Bear's-breech,,101,-5.3479527,36.14364132,Europe,Gibraltar,GI,,Gibraltar,2002-05-05,
+Pelophylax perezi,Animalia,Ranidae,Perez' Water Frog,,1,-5.35110308,36.13141389,Europe,Gibraltar,GI,,Gibraltar,2018-07-05,14:47
+Danaus plexippus,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,American Monarch,,1,-5.35128415,36.1312177,Europe,Gibraltar,GI,,Gibraltar,2018-07-05,
+Polyommatus celina,Animalia,GOSSAMERWINGED_BUTTERFLIES_LYCAENIDAE,Southern Common Blue,,1,-5.351336,36.13113437,Europe,Gibraltar,GI,,Gibraltar,2018-07-05,
+Anacridium aegyptium,Animalia,SHORTHORNED_GRASSHOPPERS_ACRIDIDAE,Egyptian Grasshopper,,1,-5.351336,36.13113437,Europe,Gibraltar,GI,,Gibraltar,2018-07-05,
+Mauremys leprosa,Animalia,Geoemydidae,Spanish Pond Turtle,,2,-5.351336,36.13113437,Europe,Gibraltar,GI,,Gibraltar,2018-07-05,
+Natrix maura,Animalia,Colubridae,Viperine Snake,,1,-5.351336,36.13113437,Europe,Gibraltar,GI,,Gibraltar,2018-07-05,
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,1,-5.35067886,36.13152648,Europe,Gibraltar,GI,,Gibraltar,2018-07-05,
+Sylvia melanocephala,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Sardinian Warbler,,1,-5.35111338,36.13142466,Europe,Gibraltar,GI,,Gibraltar,2018-07-05,
+Muschampia proto,Animalia,SKIPPERS_HESPERIIDAE,Sage Skipper,,1,-5.34655407,36.13199173,Europe,Gibraltar,GI,,Gibraltar,2018-07-05,
+Podarcis vaucheri,Animalia,Lacertidae,Andalusian Wall Lizard,,1,-5.345909,36.13209572,Europe,Gibraltar,GI,,Gibraltar,2018-07-05,
+Muschampia proto,Animalia,SKIPPERS_HESPERIIDAE,Sage Skipper,,1,-5.34771681,36.14287346,Europe,Gibraltar,GI,,Gibraltar,2018-07-05,
+Acanthus mollis,Plantae,ACANTHACEAE,Bear's-breech,,1,-5.34771681,36.14287346,Europe,Gibraltar,GI,,Gibraltar,2018-07-05,
+Agrotis puta,Animalia,Noctuidae,Shuttle-shaped Dart,,1,-5.335277309081233,36.106743098421006,Europe,Gibraltar,GI,,Gibraltar,2018-03-16,23:00
+Xylocampa areola,Animalia,Noctuidae,Early Grey,,4,-5.335277309081233,36.106743098421006,Europe,Gibraltar,GI,,Gibraltar,2018-03-16,23:00
+Hypena obsitalis,Animalia,EREBIDAE,Bloxworth Snout,,1,-5.335277309081233,36.106743098421006,Europe,Gibraltar,GI,,Gibraltar,2018-03-16,23:00
+Xanthorhoe fluctuata,Animalia,Geometridae,Garden Carpet,,4,-5.335277309081233,36.106743098421006,Europe,Gibraltar,GI,,Gibraltar,2018-03-16,23:00
+Palpita vitrealis,Animalia,Crambidae,,,2,-5.335277309081233,36.106743098421006,Europe,Gibraltar,GI,,Gibraltar,2018-03-16,23:00
+Esperia sulphurella,Animalia,Oecophoridae,,,1,-5.335277309081233,36.106743098421006,Europe,Gibraltar,GI,,Gibraltar,2018-03-16,23:00
+Pieris rapae,Animalia,WHITES_PIERIDAE,Small White,,1,-5.34976915,36.12134957,Europe,Gibraltar,GI,,Gibraltar,2018-05-27,12:00
+Pararge aegeria,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Speckled Wood,,1,-5.34976915,36.12134957,Europe,Gibraltar,GI,,Gibraltar,2018-05-22,12:00
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,1,-5.34620333333333,36.13352,Europe,Gibraltar,GI,,Gibraltar,2018-05-05,11:49
+Monticola solitarius,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Blue Rock Thrush,,1,-5.34556,36.1344433333333,Europe,Gibraltar,GI,,Gibraltar,2018-05-05,12:49
+Passer domesticus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow,,1,-5.34838,36.1544,Europe,Gibraltar,GI,,Gibraltar,2018-05-05,13:23
+Papilio machaon,Animalia,SWALLOWTAILS_PAPILIONIDAE,Swallowtail,,1,-5.34561724,36.1334663,Europe,Gibraltar,GI,,Gibraltar,2018-04-27,14:45
+Podarcis vaucheri,Animalia,Lacertidae,Andalusian Wall Lizard,,1,-5.34564121,36.13366064,Europe,Gibraltar,GI,,Gibraltar,2018-04-27,14:52
+Circaetus gallicus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Short-toed Snake Eagle,,1,-5.34569779,36.13364629,Europe,Gibraltar,GI,,Gibraltar,2018-04-27,15:00
+Zerynthia rumina,Animalia,SWALLOWTAILS_PAPILIONIDAE,Spanish Festoon,,1,-5.34273807,36.12372329,Europe,Gibraltar,GI,,Gibraltar,2018-04-27,16:37
+Caradrina clavipalpis,Animalia,Noctuidae,Pale Mottled Willow,,1,-5.3471,36.1406,Europe,Gibraltar,GI,,Gibraltar,2018-03-17,21:30
+Passer domesticus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow,,5,-5.35074907355011,36.1464781081304,Europe,Gibraltar,GI,,Gibraltar,2018-03-03,11:09
+Motacilla cinerea,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Grey Wagtail,,1,-5.3532444499433,36.1422719852999,Europe,Gibraltar,GI,,Gibraltar,2018-03-03,11:21
+Fringilla coelebs,Animalia,FINCHES_FRINGILLIDAE,Common Chaffinch,,1,-5.34579302184284,36.1448120791465,Europe,Gibraltar,GI,,Gibraltar,2018-03-03,13:50
+Passer domesticus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow,,1,-5.3528,36.1448,Europe,Gibraltar,GI,,Gibraltar,2018-02-28,13:25
+Chroicocephalus ridibundus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black-headed Gull,,1,-5.3455,36.1093,Europe,Gibraltar,GI,,Gibraltar,2018-02-28,12:14
+Morus bassanus,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Northern Gannet,,3,-5.3538,36.1457,Europe,Gibraltar,GI,,Gibraltar,2018-02-28,12:13
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,1,-5.3527,36.145,Europe,Gibraltar,GI,,Gibraltar,2018-02-28,11:21
+Zerynthia rumina,Animalia,SWALLOWTAILS_PAPILIONIDAE,Spanish Festoon,,2,-5.34759052,36.13208763,Europe,Gibraltar,GI,,Gibraltar,2018-02-22,15:20
+Falco tinnunculus,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Common Kestrel,,1,-5.35,36.15,Europe,Gibraltar,GI,,Gibraltar,2017-11-25,13:06
+Passer domesticus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow,,7,-5.36,36.14,Europe,Gibraltar,GI,,Gibraltar,2017-11-25,14:05
+Erithacus rubecula,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,European Robin,,1,-5.35,36.14,Europe,Gibraltar,GI,,Gibraltar,2017-11-25,14:23
+Phoenicurus ochruros,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Black Redstart,,1,-5.35,36.14,Europe,Gibraltar,GI,,Gibraltar,2017-11-25,14:30
+Sylvia melanocephala,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Sardinian Warbler,,1,-5.35,36.14,Europe,Gibraltar,GI,,Gibraltar,2017-11-25,14:34
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,100,-5.34545,36.1341466666667,Europe,Gibraltar,GI,,Gibraltar,2017-11-20,11:50
+Fringilla coelebs,Animalia,FINCHES_FRINGILLIDAE,Common Chaffinch,,1,-5.35056166666667,36.1303916666667,Europe,Gibraltar,GI,,Gibraltar,2017-11-20,13:11
+Cyanistes caeruleus,Animalia,TITS_PARIDAE,Eurasian Blue Tit,,1,-5.35050333333333,36.1305166666667,Europe,Gibraltar,GI,,Gibraltar,2017-11-20,13:15
+Erithacus rubecula,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,European Robin,,1,-5.35050333333333,36.1305166666667,Europe,Gibraltar,GI,,Gibraltar,2017-11-20,13:15
+Sylvia atricapilla,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Eurasian Blackcap,,2,-5.35121333333333,36.1300316666667,Europe,Gibraltar,GI,,Gibraltar,2017-11-20,13:35
+Phoenicurus ochruros,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Black Redstart,,1,-5.35114166666667,36.129915,Europe,Gibraltar,GI,,Gibraltar,2017-11-20,13:37
+Passer domesticus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow,,1,-5.35050833333333,36.1306316666667,Europe,Gibraltar,GI,,Gibraltar,2017-11-20,13:49
+Danaus plexippus,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,American Monarch,,1,-5.35135,36.1307983333333,Europe,Gibraltar,GI,,Gibraltar,2017-11-20,13:55
+Sylvia atricapilla,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Eurasian Blackcap,,1,-5.35123,36.1314483333333,Europe,Gibraltar,GI,,Gibraltar,2017-11-20,13:59
+Morus bassanus,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Northern Gannet,,1,-5.34310092,36.1129443,Europe,Gibraltar,GI,,Gibraltar,2017-11-19,16:09
+Falco tinnunculus,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Common Kestrel,,1,-5.3524443,36.1448444,Europe,Gibraltar,GI,,Gibraltar,2017-11-19,17:01
+Sylvia atricapilla,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Eurasian Blackcap,,1,-5.3524443,36.1448444,Europe,Gibraltar,GI,,Gibraltar,2017-11-19,17:01
+Fringilla coelebs,Animalia,FINCHES_FRINGILLIDAE,Common Chaffinch,,8,-5.3543674870679,36.0758394946114,Europe,Gibraltar,GI,,Gibraltar,2017-10-28,07:55
+Passer domesticus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow,,15,-5.35695725560772,36.1475106289647,Europe,Gibraltar,GI,,Gibraltar,2017-10-28,12:24
+Sylvia melanocephala,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Sardinian Warbler,,1,-5.35199793793168,36.1343830054983,Europe,Gibraltar,GI,,Gibraltar,2017-10-28,13:22
+Erithacus rubecula,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,European Robin,,1,-5.35199793793168,36.1343830054983,Europe,Gibraltar,GI,,Gibraltar,2017-10-28,13:22
+Sylvia atricapilla,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Eurasian Blackcap,,1,-5.35143449958441,36.1327481448126,Europe,Gibraltar,GI,,Gibraltar,2017-10-28,13:26
+Fringilla coelebs,Animalia,FINCHES_FRINGILLIDAE,Common Chaffinch,,3,-5.35120663943293,36.1300719305492,Europe,Gibraltar,GI,,Gibraltar,2017-10-28,13:46
+Cyanistes caeruleus,Animalia,TITS_PARIDAE,Eurasian Blue Tit,,2,-5.3529612587724,36.1319061493981,Europe,Gibraltar,GI,,Gibraltar,2017-10-28,14:39
+Motacilla alba,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,White Wagtail,,1,-5.35110093550392,36.1488871267027,Europe,Gibraltar,GI,,Gibraltar,2017-10-28,16:10
+Morus bassanus,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Northern Gannet,,4,-5.3414,36.1243,Europe,Gibraltar,GI,,Gibraltar,2017-09-18,16:51
+Sylvia melanocephala,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Sardinian Warbler,,3,-5.3414,36.1243,Europe,Gibraltar,GI,,Gibraltar,2017-09-18,16:51
+Alectoris barbara,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Barbary Partridge,,4,-5.3414,36.1243,Europe,Gibraltar,GI,,Gibraltar,2017-09-18,16:51
+Monticola solitarius,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Blue Rock Thrush,,3,-5.34592203,36.13222174,Europe,Gibraltar,GI,,Gibraltar,2017-09-11,17:38
+Morus bassanus,Animalia,GANNETS_AND_BOOBIES_SULIDAE,Northern Gannet,,2,-5.34482011,36.10998176,Europe,Gibraltar,GI,,Gibraltar,2017-09-11,19:55
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,1,-5.3458052,36.10943475,Europe,Gibraltar,GI,,Gibraltar,2017-09-11,20:07
+Podarcis vaucheri,Animalia,Lacertidae,Andalusian Wall Lizard,,1,-5.34589193,36.13334497,Europe,Gibraltar,GI,,Gibraltar,2017-08-31,16:54
+Podarcis vaucheri,Animalia,Lacertidae,Andalusian Wall Lizard,,1,-5.35090808,36.1316079,Europe,Gibraltar,GI,,Gibraltar,2017-08-31,17:54
+Leptotes pirithous,Animalia,GOSSAMERWINGED_BUTTERFLIES_LYCAENIDAE,Lang’s Short-tailed Blue,,1,-5.350792910903692,36.13163597881794,Europe,Gibraltar,GI,,Gibraltar,2017-08-31,17:54
+Pieris rapae,Animalia,WHITES_PIERIDAE,Small White,,1,-5.350802382454276,36.13163321278989,Europe,Gibraltar,GI,,Gibraltar,2017-08-31,17:54
+Pieris brassicae,Animalia,WHITES_PIERIDAE,Large White,,1,-5.350908078253269,36.131607899442315,Europe,Gibraltar,GI,,Gibraltar,2017-08-31,17:54
+Sylvia melanocephala,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Sardinian Warbler,,1,-5.3515609446913,36.131945522502065,Europe,Gibraltar,GI,,Gibraltar,2017-08-31,17:37
+Turdus merula,Animalia,THRUSHES_TURDIDAE,Common Blackbird,,1,-5.352078108116984,36.134423380717635,Europe,Gibraltar,GI,,Gibraltar,2017-08-31,16:30
+Erithacus rubecula,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,European Robin,,1,-5.352078108116984,36.134423380717635,Europe,Gibraltar,GI,,Gibraltar,2017-08-31,16:30
+Muscicapa striata,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Spotted Flycatcher,,1,-5.352087412029505,36.13443620502949,Europe,Gibraltar,GI,,Gibraltar,2017-08-31,16:30
+Danaus plexippus,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,American Monarch,,1,-5.354373324662447,36.14607975818217,Europe,Gibraltar,GI,,Gibraltar,2017-08-31,16:18
+Passer domesticus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow,,1,-5.35333757288754,36.14857085980475,Europe,Gibraltar,GI,,Gibraltar,2017-08-31,13:44
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,1,-5.35715133883059,36.13876755349338,Europe,Gibraltar,GI,,Gibraltar,2017-08-31,12:24
+Calonectris diomedea,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Scopoli's Shearwater,,24,-5.39106745272875,36.1290874991521,Europe,Gibraltar,GI,,Gibraltar,2017-06-23,18:01
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,1,-5.35144452929235,36.132831290745,Europe,Gibraltar,GI,,Gibraltar,2017-06-07,11:33
+Sylvia melanocephala,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Sardinian Warbler,,1,-5.34549986740335,36.1298818666966,Europe,Gibraltar,GI,,Gibraltar,2017-06-07,13:53
+Turdus merula,Animalia,THRUSHES_TURDIDAE,Common Blackbird,,1,-5.34665748263431,36.1396315633347,Europe,Gibraltar,GI,,Gibraltar,2017-06-07,16:22
+Phalacrocorax carbo,Animalia,CORMORANTS_PHALACROCORACIDAE,Great Cormorant,,1,-5.34667953257247,36.1398557940992,Europe,Gibraltar,GI,,Gibraltar,2017-06-07,16:36
+Alectoris barbara barbata,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Barbary Partridge ssp barbata,,4,-5.34779185,36.14465875,Europe,Gibraltar,GI,,Gibraltar,2017-06-07,16:43
+Antirrhinum majus,Plantae,PLANTAGINACEAE,Snapdragon,,1,-5.34649014,36.12155756,Europe,Gibraltar,GI,,Gibraltar,2017-03-25,14:25
+Coronilla valentina subsp. glauca,Plantae,Fabaceae,,,1,-5.34559429,36.13121135,Europe,Gibraltar,GI,,Gibraltar,2017-03-25,12:32
+Hyoseris radiata,Plantae,Asteraceae,,,1,-5.34188747,36.12425277,Europe,Gibraltar,GI,,Gibraltar,2017-03-25,13:49
+Lotus creticus,Plantae,Fabaceae,Cretan Bird's-foot-trefoil,,1,-5.34188747,36.12425277,Europe,Gibraltar,GI,,Gibraltar,2017-03-25,13:49
+Linaria amethystea,Plantae,PLANTAGINACEAE,,,1,-5.34190893,36.12383679,Europe,Gibraltar,GI,,Gibraltar,2017-03-25,13:44
+Lavandula multifida,Plantae,Lamiaceae,Downy lavender,,1,-5.34190893,36.12383679,Europe,Gibraltar,GI,,Gibraltar,2017-03-25,13:44
+Misopates orontium,Plantae,PLANTAGINACEAE,Lesser Snapdragon,,1,-5.34218788,36.12390612,Europe,Gibraltar,GI,,Gibraltar,2017-03-25,13:44
+Osyris alba,Plantae,SANTALACEAE,White Osyris,,1,-5.34257412,36.12523203,Europe,Gibraltar,GI,,Gibraltar,2017-03-25,13:15
+Osyris alba,Plantae,SANTALACEAE,White Osyris,,1,-5.34257412,36.12523203,Europe,Gibraltar,GI,,Gibraltar,2017-03-25,13:15
+Achyranthes aspera var. sicula,Plantae,AMARANTHACEAE,,,1,-5.34257412,36.12523203,Europe,Gibraltar,GI,,Gibraltar,2017-03-25,13:15
+Rhamnus lycioides,Plantae,RHAMNACEAE,,,1,-5.34257412,36.12523203,Europe,Gibraltar,GI,,Gibraltar,2017-03-25,13:15
+Chamaerops humilis,Plantae,Arecaceae,European fan palm,,1,-5.34257412,36.12523203,Europe,Gibraltar,GI,,Gibraltar,2017-03-25,13:15
+Osyris alba,Plantae,SANTALACEAE,White Osyris,,1,-5.34257412,36.12523203,Europe,Gibraltar,GI,,Gibraltar,2017-03-25,13:15
+Phagnalon saxatile,Plantae,Asteraceae,,,1,-5.34559429,36.13121135,Europe,Gibraltar,GI,,Gibraltar,2017-03-25,12:32
+Phagnalon spec.,Plantae,Asteraceae,,,1,-5.34559429,36.13121135,Europe,Gibraltar,GI,,Gibraltar,2017-03-25,12:32
+Prasium majus,Plantae,Lamiaceae,White hedge-nettle,,1,-5.34559429,36.13121135,Europe,Gibraltar,GI,,Gibraltar,2017-03-25,12:32
+Veronica cymbalaria,Plantae,PLANTAGINACEAE,Pale Speedwell,,1,-5.34559429,36.13121135,Europe,Gibraltar,GI,,Gibraltar,2017-03-25,12:32
+Pallenis maritima,Plantae,Asteraceae,,,1,-5.34559429,36.13121135,Europe,Gibraltar,GI,,Gibraltar,2017-03-25,12:32
+Thapsia villosa,Plantae,Apiaceae,,,1,-5.34559429,36.13121135,Europe,Gibraltar,GI,,Gibraltar,2017-03-25,12:32
+Clematis cirrhosa,Plantae,RANUNCULACEAE,Early Vrigin's-bower,,1,-5.34559429,36.13121135,Europe,Gibraltar,GI,,Gibraltar,2017-03-25,12:32
+Aristolochia baetica,Plantae,ARISTOLOCHIACEAE,,,1,-5.34559429,36.13121135,Europe,Gibraltar,GI,,Gibraltar,2017-03-25,12:32
+Ruscus hypophyllum,Plantae,ASPARAGACEAE,,,1,-5.34559429,36.13121135,Europe,Gibraltar,GI,,Gibraltar,2017-03-25,12:32
+Smilax aspera,Plantae,SMILACACEAE,Common Smilax,,1,-5.34559429,36.13121135,Europe,Gibraltar,GI,,Gibraltar,2017-03-25,12:32
+Tamus communis,Plantae,DIOSCOREACEAE,Black Bryony,,1,-5.34559429,36.13121135,Europe,Gibraltar,GI,,Gibraltar,2017-03-25,12:32
+Turdus merula,Animalia,THRUSHES_TURDIDAE,Common Blackbird,,1,-5.35202254,36.13465128,Europe,Gibraltar,GI,,Gibraltar,2017-04-09,
+Sylvia melanocephala,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Sardinian Warbler,,1,-5.35202254,36.13465128,Europe,Gibraltar,GI,,Gibraltar,2017-04-09,
+Scilla peruviana,Plantae,ASPARAGACEAE,Portuguese Squill,,1,-5.34580182,36.13416003,Europe,Gibraltar,GI,,Gibraltar,2017-03-25,12:07
+Lavandula dentata,Plantae,Lamiaceae,French lavender,,1,-5.34241498,36.1240045,Europe,Gibraltar,GI,,Gibraltar,2017-03-25,13:44
+Silene colorata,Plantae,CARYOPHYLLACEAE,,,1,-5.34199918,36.12430334,Europe,Gibraltar,GI,,Gibraltar,2017-03-25,13:49
+Ecballium elaterium,Plantae,CUCURBITACEAE,Squirting Cucumber,,1,-5.34190789,36.12282756,Europe,Gibraltar,GI,,Gibraltar,2017-03-25,14:00
+Medicago polymorpha,Plantae,Fabaceae,Toothed Medick,,1,-5.35129666,36.13182361,Europe,Gibraltar,GI,,Gibraltar,2017-03-25,15:22
+Delphinus delphis,Animalia,DOLPHINS_DELPHINIDAE,Short-beaked Common Dolphin,,20,-5.39061785,36.14507468,Europe,Gibraltar,GI,,Gibraltar,2013-08-12,
+Scilla peruviana,Plantae,ASPARAGACEAE,Portuguese Squill,,1,-5.3457337617924,36.131881191429,Europe,Gibraltar,GI,,Gibraltar,2016-02-26,14:52
+Lobularia maritima,Plantae,Brassicaceae,Sweet Alison,,2,-5.3457337617924,36.131881191429,Europe,Gibraltar,GI,,Gibraltar,2016-02-26,14:52
+Passer domesticus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow,,4,-5.3435683250973,36.11326365531,Europe,Gibraltar,GI,,Gibraltar,2016-07-28,17:00
+Monticola solitarius,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Blue Rock Thrush,,1,-5.3435683250973,36.11326365531,Europe,Gibraltar,GI,,Gibraltar,2016-07-28,17:00
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,20,-5.3435683250973,36.11326365531,Europe,Gibraltar,GI,,Gibraltar,2016-07-28,17:00
+Phalacrocorax aristotelis,Animalia,CORMORANTS_PHALACROCORACIDAE,European Shag,,3,-5.3435683250973,36.11326365531,Europe,Gibraltar,GI,,Gibraltar,2016-07-28,17:00
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,15,-5.3456890583311,36.109372795449,Europe,Gibraltar,GI,,Gibraltar,2016-07-28,17:00
+Pernis apivorus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,European Honey Buzzard,,100,-5.3368354783743,36.134394932856,Europe,Gibraltar,GI,,Gibraltar,2016-05-11,
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,1,-5.3423303603995,36.141949058938,Europe,Gibraltar,GI,,Gibraltar,2016-05-11,
+Scilla peruviana,Plantae,ASPARAGACEAE,Portuguese Squill,,1,-5.3457337617924,36.131881191429,Europe,Gibraltar,GI,,Gibraltar,2016-02-26,14:52
+Lobularia maritima,Plantae,Brassicaceae,Sweet Alison,,2,-5.3457337617924,36.131881191429,Europe,Gibraltar,GI,,Gibraltar,2016-02-26,14:52
+Phylloscopus ibericus,Animalia,LEAF_WARBLERS_AND_ALLIES_PHYLLOSCOPIDAE,Iberian Chiffchaff,,1,-5.353523651143,36.140575488132,Europe,Gibraltar,GI,,Gibraltar,2016-02-26,14:02
+Phylloscopus ibericus,Animalia,LEAF_WARBLERS_AND_ALLIES_PHYLLOSCOPIDAE,Iberian Chiffchaff,,1,-5.353523651143,36.140575488132,Europe,Gibraltar,GI,,Gibraltar,2016-02-26,14:02
+Monticola solitarius,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Blue Rock Thrush,,1,-5.34673690796,36.1106977956,Europe,Gibraltar,GI,,Gibraltar,2009-08-11,
+Passer domesticus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow,,10,-5.3458605799824,36.110662361606956,Europe,Gibraltar,GI,,Gibraltar,2015-12-24,13:08
+Sylvia melanocephala,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Sardinian Warbler,,1,-5.3453010879457,36.11089562997222,Europe,Gibraltar,GI,,Gibraltar,2015-12-24,12:30
+Phoenicurus ochruros,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Black Redstart,,1,-5.3483651,36.14362631,Europe,Gibraltar,GI,,Gibraltar,2015-11-26,11:06
+Turdus merula,Animalia,THRUSHES_TURDIDAE,Common Blackbird,,1,-5.34835648,36.14370034,Europe,Gibraltar,GI,,Gibraltar,2015-11-26,11:06
+Phoenicurus ochruros,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Black Redstart,,1,-5.34690811,36.12755787,Europe,Gibraltar,GI,,Gibraltar,2015-11-26,13:04
+Sylvia melanocephala,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Sardinian Warbler,,1,-5.35254403,36.12622673,Europe,Gibraltar,GI,,Gibraltar,2015-11-26,14:28
+Alectoris barbara,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Barbary Partridge,,2,-5.34431934706,36.121426405,Europe,Gibraltar,GI,,Gibraltar,2002-05-06,
+Sylvia melanocephala,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Sardinian Warbler,,1,-5.3504,36.1317,Europe,Gibraltar,GI,,Gibraltar,2015-08-16,17:35
+Danaus plexippus,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,American Monarch,,1,-5.3512,36.132,Europe,Gibraltar,GI,,Gibraltar,2015-08-16,17:15
+Turdus merula,Animalia,THRUSHES_TURDIDAE,Common Blackbird,,1,-5.3514,36.1312,Europe,Gibraltar,GI,,Gibraltar,2015-08-16,17:10
+Cyanistes caeruleus,Animalia,TITS_PARIDAE,Eurasian Blue Tit,,1,-5.3513,36.1315,Europe,Gibraltar,GI,,Gibraltar,2015-08-16,17:09
+Falco tinnunculus,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Common Kestrel,,1,-5.3484,36.1336,Europe,Gibraltar,GI,,Gibraltar,2015-08-16,16:57
+Passer domesticus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow,,5,-5.3555,36.138,Europe,Gibraltar,GI,,Gibraltar,2015-08-16,13:39
+Danaus plexippus,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,American Monarch,,1,-5.35109985,36.1315981,Europe,Gibraltar,GI,,Gibraltar,2015-08-16,17:15
+Carduelis carduelis,Animalia,FINCHES_FRINGILLIDAE,European Goldfinch,,1,-5.35108551987,36.1315538045,Europe,Gibraltar,GI,,Gibraltar,2015-04-12,14:50
+Sturnus unicolor,Animalia,STARLINGS_STURNIDAE,Spotless Starling,,1,-5.35220432321,36.1262298307,Europe,Gibraltar,GI,,Gibraltar,2015-04-12,14:20
+Passer domesticus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,House Sparrow,,4,-5.35275567792,36.1350662949,Europe,Gibraltar,GI,,Gibraltar,2015-04-12,14:11
+Lanius senator,Animalia,SHRIKES_LANIIDAE,Woodchat Shrike,,2,-5.3511913599,36.1314179754,Europe,Gibraltar,GI,,Gibraltar,2015-04-12,14:50
+Cyanistes caeruleus,Animalia,TITS_PARIDAE,Eurasian Blue Tit,,1,-5.35087255241,36.1305273922,Europe,Gibraltar,GI,,Gibraltar,2015-04-12,14:50
+Phylloscopus trochilus,Animalia,LEAF_WARBLERS_AND_ALLIES_PHYLLOSCOPIDAE,Willow Warbler,,1,-5.34580371401,36.1332807812,Europe,Gibraltar,GI,,Gibraltar,2015-04-12,16:50
+Sylvia cantillans,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Subalpine Warbler,,1,-5.34569173178,36.1335137638,Europe,Gibraltar,GI,,Gibraltar,2015-04-12,16:40
+Turdus merula,Animalia,THRUSHES_TURDIDAE,Common Blackbird,,1,-5.35116223098,36.1310881293,Europe,Gibraltar,GI,,Gibraltar,2015-04-12,14:50
+Phoenicurus ochruros,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Black Redstart,,1,-5.35315575631,36.1377068849,Europe,Gibraltar,GI,,Gibraltar,2015-04-12,14:45
+Upupa epops,Animalia,HOOPOES_UPUPIDAE,Eurasian Hoopoe,,1,-5.35103037349,36.1315636842,Europe,Gibraltar,GI,,Gibraltar,2015-04-12,18:50
+Larus fuscus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Lesser Black-backed Gull,,1,-5.34775400214,36.1329509921,Europe,Gibraltar,GI,,Gibraltar,2015-04-12,16:30
+Sylvia melanocephala,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Sardinian Warbler,,1,-5.35403517192,36.1228612602,Europe,Gibraltar,GI,,Gibraltar,2015-04-12,15:45
+Sylvia atricapilla,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Eurasian Blackcap,,2,-5.35403517192,36.1228612602,Europe,Gibraltar,GI,,Gibraltar,2015-04-12,15:45
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,4,-5.35405051408,36.1225538237,Europe,Gibraltar,GI,,Gibraltar,2015-04-12,15:35
+Phylloscopus collybita,Animalia,LEAF_WARBLERS_AND_ALLIES_PHYLLOSCOPIDAE,Common Chiffchaff,,1,-5.34558736686,36.1334403055,Europe,Gibraltar,GI,,Gibraltar,2015-04-12,16:40
+Podarcis vaucheri,Animalia,Lacertidae,Andalusian Wall Lizard,,1,-5.34876465797,36.1333386637,Europe,Gibraltar,GI,,Gibraltar,2015-04-16,
+Tarentola mauritanica,Animalia,PHYLLODACTYLIDAE,Moorish Gecko,,10,-5.34876465797,36.1333386637,Europe,Gibraltar,GI,,Gibraltar,2015-04-16,
+Zerynthia rumina,Animalia,SWALLOWTAILS_PAPILIONIDAE,Spanish Festoon,,1,-5.34447312355,36.1259686405,Europe,Gibraltar,GI,,Gibraltar,2015-04-16,
+Podarcis vaucheri,Animalia,Lacertidae,Andalusian Wall Lizard,,1,-5.34447312355,36.1259686405,Europe,Gibraltar,GI,,Gibraltar,2015-04-16,
+Larus michahellis,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Yellow-legged Gull,,1,-5.34449994564,36.12612896,Europe,Gibraltar,GI,,Gibraltar,2015-04-16,
+Trachemys scripta scripta,Animalia,Emydidae,Yellow-bellied Slider,,1,-5.35108208656,36.1307520854,Europe,Gibraltar,GI,,Gibraltar,2015-04-16,
+Mauremys leprosa,Animalia,Geoemydidae,Spanish Pond Turtle,,9,-5.35108208656,36.1307520854,Europe,Gibraltar,GI,,Gibraltar,2015-04-16,

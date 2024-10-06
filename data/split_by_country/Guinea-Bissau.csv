@@ -1,0 +1,606 @@
+scientificName,kingdom,family,vernacularName,previousIdentifications,individualCount,longitudeDecimal,latitudeDecimal,continent,country,countryCode,stateProvince,locality,eventDate,eventTime
+Hirundo lucida,Animalia,SWALLOWS_HIRUNDINIDAE,Red-chested Swallow,,3,-16.196396591,12.3998694128,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Cacheu,2011-01-27,
+Merops persicus,Animalia,BEEEATERS_MEROPIDAE,Blue-cheeked Bee-eater,,1,-15.8788534839,11.6031487643,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Biombo,2011-01-27,
+Eurystomus glaucurus,Animalia,ROLLERS_CORACIIDAE,Broad-billed Roller,,1,-15.8760049779,11.8722734457,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Biombo,2011-01-27,
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,1,-16.4657252779,12.3106414064,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Cacheu,2010-11-15,17:00
+Eurystomus glaucurus,Animalia,ROLLERS_CORACIIDAE,Broad-billed Roller,,1,-15.8760049779,11.8722734457,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Biombo,2011-01-27,
+Merops persicus,Animalia,BEEEATERS_MEROPIDAE,Blue-cheeked Bee-eater,,1,-15.8788534839,11.6031487643,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Biombo,2011-01-27,
+Hirundo lucida,Animalia,SWALLOWS_HIRUNDINIDAE,Red-chested Swallow,,3,-16.196396591,12.3998694128,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Cacheu,2011-01-27,
+Phalacrocorax lucidus,Animalia,CORMORANTS_PHALACROCORACIDAE,White-breasted Cormorant,,1,-15.97278881073,11.4053764343262,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Bolama,2019-01-24,16:47
+Phalacrocorax lucidus,Animalia,CORMORANTS_PHALACROCORACIDAE,White-breasted Cormorant,,1,-15.9798984527588,11.4180746078491,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Bolama,2019-01-24,17:31
+Phalacrocorax lucidus,Animalia,CORMORANTS_PHALACROCORACIDAE,White-breasted Cormorant,,25,-15.89976978302,11.4555778503418,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Bolama,2019-01-25,08:51
+Phalacrocorax lucidus,Animalia,CORMORANTS_PHALACROCORACIDAE,White-breasted Cormorant,,1,-15.8885459899902,11.3174152374268,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Bolama,2019-01-12,09:50
+Falco tinnunculus rufescens,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Common Kestrel ssp rufescens,,2,-15.55986,11.901105,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Oio,2018-03-07,19:21
+Phalacrocorax lucidus,Animalia,CORMORANTS_PHALACROCORACIDAE,White-breasted Cormorant,,4,-15.560305,11.9027733333333,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Oio,2018-03-07,19:35
+Gomphrena celosioides,Plantae,AMARANTHACEAE,Soft khakiweed,,1,-15.57928562,11.86433193,Africa,Guinea-Bissau,GW,,Guinea-Bissau,2017-12-17,
+Sarcocephalus latifolius,Plantae,RUBIACEAE,Sierra Leone-peach,,1,-15.15975144,12.02514974,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Oio,2017-12-15,16:52
+Hypoestes verticillaris,Plantae,ACANTHACEAE,,,1,-13.93932005,11.85317039,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-04,16:30
+Hypoestes verticillaris,Plantae,ACANTHACEAE,,,1,-13.93932005,11.85317039,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-04,16:30
+Anisophyllea laurina,Plantae,ANISOPHYLLEACEAE,,,1,-13.885198608004,11.789841251419,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-13,08:48
+Ipomoea pileata,Plantae,CONVOLVULACEAE,,,1,-13.89810255,11.93385207,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-12,15:43
+Hibiscus sterculiifolius,Plantae,MALVACEAE,,,1,-13.89805829,11.9336815,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-12,15:51
+Securidaca longipedunculata,Plantae,POLYGALACEAE,,,1,-13.86513409,11.93068899,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-12,13:54
+Usteria guineensis,Plantae,Loganiaceae,,,1,-13.8639556,11.92982549,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-12,13:15
+Lannea acida,Plantae,ANACARDIACEAE,,,1,-13.86417026,11.70875883,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-13,10:27
+Lannea velutina,Plantae,ANACARDIACEAE,,,1,-13.86417277,11.70876687,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-13,10:19
+Striga spec.,Plantae,OROBANCHACEAE,,,1,-13.957524793194,11.849254109139,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-14,09:24
+Khaya senegalensis,Plantae,MELIACEAE,Dryzone-mahogany,,1,-13.957409290647,11.84911220333,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-14,09:23
+Blyxa senegalensis,Plantae,HYDROCHARITACEAE,,,1,-13.95676766,11.85327902,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-14,09:50
+Utricularia stellaris,Plantae,LENTIBULARIACEAE,,,1,-13.95687067,11.85304047,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-14,09:55
+Ficus cordata subsp. lecardii,Plantae,MORACEAE,,,1,-13.95710712,11.84907583,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-14,09:31
+Gardenia sokotensis,Plantae,RUBIACEAE,,,1,-13.95711592,11.85032766,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-14,09:39
+Opilia amentacea,Plantae,OPILIACEAE,,,1,-13.95763879,11.8483865,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-14,09:13
+Morinda geminata,Plantae,RUBIACEAE,,,1,-13.95712464,11.84795802,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-14,09:10
+Leptactina senegambica,Plantae,RUBIACEAE,,,1,-13.95781875,11.84846445,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-14,09:16
+Khaya senegalensis,Plantae,MELIACEAE,Dryzone-mahogany,,1,-13.875814313185,11.714397584933,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-13,16:05
+Bombax costatum,Plantae,MALVACEAE,,,1,-13.873033113794,11.711451262207,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-13,15:55
+Pseudospondias microcarpa,Plantae,ANACARDIACEAE,,,1,-13.87600475,11.71483026,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-13,16:12
+Heisteria parvifolia,Plantae,Olacaceae,,,1,-13.87589243,11.71477729,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-13,16:15
+Dichrostachys cinerea,Plantae,Fabaceae,Sicklebush,,1,-15.15975144,12.02514974,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Oio,2017-12-15,16:52
+Trianthema portulacastrum,Plantae,AIZOACEAE,Desert-horsepurslane,,1,-14.8723926,12.05492935,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Bafatá,2017-12-15,16:18
+Hygrophila auriculata,Plantae,ACANTHACEAE,Hygrophila,,1,-14.8723926,12.05492935,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Bafatá,2017-12-15,16:18
+Ipomoea pileata,Plantae,CONVOLVULACEAE,,,1,-13.966847481201,11.89000633553,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-14,15:53
+Lasimorpha senegalensis,Plantae,ARACEAE,Lasimorpha,,1,-13.96457967,11.89124241,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-14,14:28
+Cercestis afzelii,Plantae,ARACEAE,,,1,-13.96462183,11.89114787,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-14,14:37
+Mondia whitei,Plantae,APOCYNACEAE,White's-ginger,,1,-13.96502291,11.89128365,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-14,16:04
+Geophila obvallata,Plantae,RUBIACEAE,,,1,-13.9670406,11.88954256,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-14,15:30
+Costus afer,Plantae,COSTACEAE,Spiral-ginger,,1,-13.96439033,11.89143159,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-14,14:14
+Detarium senegalense,Plantae,Fabaceae,Tallowtree,,1,-13.9381398,11.84119072,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-14,11:31
+Dopatrium senegalense,Plantae,PLANTAGINACEAE,,,1,-13.95704962,11.85321422,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-14,10:07
+Stereospermum kunthianum,Plantae,BIGNONIACEAE,Pink jacaranda,,1,-14.20059804,11.88447696,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-15,11:23
+Sesuvium portulacastrum,Plantae,AIZOACEAE,Sea-purslane,,1,-14.8723926,12.05492935,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Bafatá,2017-12-15,16:18
+Dichrostachys cinerea,Plantae,Fabaceae,Sicklebush,,1,-15.15975144,12.02514974,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Oio,2017-12-15,16:52
+Trianthema portulacastrum,Plantae,AIZOACEAE,Desert-horsepurslane,,1,-14.8723926,12.05492935,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Bafatá,2017-12-15,16:18
+Hygrophila auriculata,Plantae,ACANTHACEAE,Hygrophila,,1,-14.8723926,12.05492935,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Bafatá,2017-12-15,16:18
+Ipomoea pileata,Plantae,CONVOLVULACEAE,,,1,-13.966847481201,11.89000633553,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-14,15:53
+Striga spec.,Plantae,OROBANCHACEAE,,,1,-13.957524793194,11.849254109139,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-14,09:24
+Khaya senegalensis,Plantae,MELIACEAE,Dryzone-mahogany,,1,-13.957409290647,11.84911220333,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-14,09:23
+Lasimorpha senegalensis,Plantae,ARACEAE,Lasimorpha,,1,-13.96457967,11.89124241,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-14,14:28
+Cercestis afzelii,Plantae,ARACEAE,,,1,-13.96462183,11.89114787,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-14,14:37
+Mondia whitei,Plantae,APOCYNACEAE,White's-ginger,,1,-13.96502291,11.89128365,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-14,16:04
+Geophila obvallata,Plantae,RUBIACEAE,,,1,-13.9670406,11.88954256,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-14,15:30
+Costus afer,Plantae,COSTACEAE,Spiral-ginger,,1,-13.96439033,11.89143159,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-14,14:14
+Detarium senegalense,Plantae,Fabaceae,Tallowtree,,1,-13.9381398,11.84119072,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-14,11:31
+Dopatrium senegalense,Plantae,PLANTAGINACEAE,,,1,-13.95704962,11.85321422,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-14,10:07
+Blyxa senegalensis,Plantae,HYDROCHARITACEAE,,,1,-13.95676766,11.85327902,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-14,09:50
+Utricularia stellaris,Plantae,LENTIBULARIACEAE,,,1,-13.95687067,11.85304047,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-14,09:55
+Ficus cordata subsp. lecardii,Plantae,MORACEAE,,,1,-13.95710712,11.84907583,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-14,09:31
+Gardenia sokotensis,Plantae,RUBIACEAE,,,1,-13.95711592,11.85032766,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-14,09:39
+Opilia amentacea,Plantae,OPILIACEAE,,,1,-13.95763879,11.8483865,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-14,09:13
+Morinda geminata,Plantae,RUBIACEAE,,,1,-13.95712464,11.84795802,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-14,09:10
+Leptactina senegambica,Plantae,RUBIACEAE,,,1,-13.95781875,11.84846445,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-14,09:16
+Khaya senegalensis,Plantae,MELIACEAE,Dryzone-mahogany,,1,-13.875814313185,11.714397584933,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-13,16:05
+Bombax costatum,Plantae,MALVACEAE,,,1,-13.873033113794,11.711451262207,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-13,15:55
+Pseudospondias microcarpa,Plantae,ANACARDIACEAE,,,1,-13.87600475,11.71483026,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-13,16:12
+Heisteria parvifolia,Plantae,Olacaceae,,,1,-13.87589243,11.71477729,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-13,16:15
+Anisophyllea laurina,Plantae,ANISOPHYLLEACEAE,,,1,-13.88519861,11.78984125,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-13,08:48
+Lannea acida,Plantae,ANACARDIACEAE,,,1,-13.86417026,11.70875883,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-13,10:27
+Lannea velutina,Plantae,ANACARDIACEAE,,,1,-13.86417277,11.70876687,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-13,10:19
+Ipomoea pileata,Plantae,CONVOLVULACEAE,,,1,-13.89810255,11.93385207,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-12,15:43
+Hibiscus sterculiifolius,Plantae,MALVACEAE,,,1,-13.89805829,11.9336815,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-12,15:51
+Securidaca longipedunculata,Plantae,POLYGALACEAE,,,1,-13.86513409,11.93068899,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-12,13:54
+Usteria guineensis,Plantae,Loganiaceae,,,1,-13.8639556,11.92982549,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-12,13:15
+Oxystelma bornouense,Plantae,APOCYNACEAE,,,1,-14.205164266799,11.930998535778,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-08,15:44
+Baissea multiflora,Plantae,APOCYNACEAE,,,1,-14.22934758,12.09649317,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-03,09:23
+Erythrina senegalensis,Plantae,Fabaceae,Senegal coraltree,,1,-14.22934758,12.09649317,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-03,09:23
+Neocarya macrophylla,Plantae,CHRYSOBALANACEAE,Gingerbread-plum,,1,-14.23675654,12.05344697,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-03,09:43
+Diospyros heudelotii,Plantae,EBENACEAE,,,1,-13.91780664,11.90123674,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-05,09:55
+Sorindeia juglandifolia,Plantae,ANACARDIACEAE,,,1,-13.91781033,11.90123884,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-05,09:51
+Harungana madagascariensis,Plantae,Hypericaceae,Dragon's-blood-tree,,1,-13.94022346,11.85196951,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-04,15:52
+Cissampelos mucronata,Plantae,MENISPERMACEAE,,,1,-13.93863316,11.85195618,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-04,15:13
+Synsepalum brevipes,Plantae,SAPOTACEAE,Pachystela,,1,-13.93749565,11.85339485,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-04,14:40
+Polycarpaea tenuifolia,Plantae,CARYOPHYLLACEAE,,,1,-13.93746891,11.85339628,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-04,14:34
+Monochoria brevipetiolata,Plantae,PONTEDERIACEAE,,,1,-13.93715861,11.85384907,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-04,14:11
+Drosera indica,Plantae,DROSERACEAE,,,1,-14.04861177,11.8425766,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-06,10:02
+Bryaspis lupulina,Plantae,Fabaceae,,,1,-14.04861177,11.8425766,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-06,10:02
+Chaetolepis gentianoides,Plantae,MELASTOMATACEAE,,,1,-14.04861177,11.8425766,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-06,10:02
+Elephantopus mollis,Plantae,Asteraceae,Soft elephantsfoot,,1,-13.91807042,11.9020088,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-05,13:47
+Gardenia ternifolia,Plantae,RUBIACEAE,,,1,-13.92529797,11.89812907,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-05,14:48
+Eleocharis acutangula,Plantae,CYPERACEAE,Acute spikerush,,1,-13.91738813,11.90340221,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-05,11:20
+Phaulopsis ciliata,Plantae,ACANTHACEAE,,,1,-13.91683593,11.90341797,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-05,11:53
+Ceratopteris thalictroides,Plantae,PTERIDACEAE,Watersprite,,1,-13.9173997,11.90334504,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-05,11:09
+Eichhornia diversifolia,Plantae,PONTEDERIACEAE,Variableleaf water hyacinth,,1,-13.91741898,11.90335603,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-05,11:02
+Limnophila dasyantha,Plantae,PLANTAGINACEAE,,,1,-13.91742501,11.90335376,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-05,11:07
+Dioscorea preussii,Plantae,DIOSCOREACEAE,Preuss' dioscorea,,1,-13.91753926,11.90254005,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-05,10:30
+Phaulopsis imbricata,Plantae,ACANTHACEAE,,,1,-13.91758938,11.90235673,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-05,10:21
+Bolbitis spec.,Plantae,DRYOPTERIDACEAE,,,1,-13.91763272,11.90200143,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-05,10:11
+Mitragyna inermis,Plantae,RUBIACEAE,,,1,-14.1491615,11.86509373,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-06,13:03
+Ludwigia senegalensis,Plantae,ONAGRACEAE,,,1,-14.14733148,11.86682342,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-06,12:17
+Morelia senegalensis,Plantae,RUBIACEAE,,,1,-14.14806515,11.86661697,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-06,12:01
+Xyris straminea,Plantae,XYRIDACEAE,,,1,-14.04861177,11.8425766,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-06,10:02
+Utricularia benjaminiana,Plantae,LENTIBULARIACEAE,,,1,-14.04861177,11.8425766,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-06,10:02
+Adenium obesum,Plantae,APOCYNACEAE,Mock azalea,,1,-14.14185279,11.86634165,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-06,15:38
+Grewia lasiodiscus,Plantae,MALVACEAE,,,1,-13.85081435,11.7976289,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-07,10:35
+Xylopia longipetala,Plantae,ANNONACEAE,,,1,-14.20640454,11.9294618,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-08,11:47
+Indigofera capitata,Plantae,Fabaceae,,,1,-14.19637769,11.92973547,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-08,13:32
+Bauhinia thonningii,Plantae,Fabaceae,,,1,-14.19638179,11.92972524,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-08,13:30
+Jasminum dichotomum,Plantae,OLEACEAE,Gold Coast jasmine,,1,-14.19851306,11.92845999,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-08,12:38
+Cynometra vogelii,Plantae,Fabaceae,,,1,-14.19778987,11.92877884,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-08,12:44
+Rotula aquatica,Plantae,BORAGINACEAE,,,1,-14.20416112,11.92926583,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-08,12:02
+Ficus asperifolia,Plantae,MORACEAE,,,1,-14.20909345,11.92980613,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-08,11:23
+Oxystelma bornouense,Plantae,APOCYNACEAE,,,1,-14.21111156,11.93005867,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-08,10:59
+Phyllanthus reticulatus,Plantae,PHYLLANTHACEAE,Potato-bush,,1,-14.21126319,11.93007686,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-08,10:57
+Byrsanthus brownii,Plantae,SALICACEAE,,,1,-14.21186401,11.93016621,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-08,10:51
+Begonia rostrata,Plantae,BEGONIACEAE,,,1,-14.21358258,11.93010929,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-08,
+Leonotis nepetifolia var. africana,Plantae,Lamiaceae,,,1,-13.85323763,11.80851821,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-07,14:43
+Utricularia spec.,Plantae,LENTIBULARIACEAE,,,1,-14.15176786,11.86654556,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-10,10:32
+Azolla pinnata subsp. africana,Plantae,SALVINIACEAE,,,1,-14.15078843,11.8668525,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-10,10:28
+Selaginella spec.,Plantae,SELAGINELLACEAE,,,1,-13.80668063,11.79196405,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-09,13:41
+Selaginella spec.,Plantae,SELAGINELLACEAE,,,1,-13.8068455,11.79197964,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-09,13:41
+Chlorophytum gallabatense,Plantae,ASPARAGACEAE,,,1,-13.80644744,11.79179247,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-09,13:23
+Adiantum philippense,Plantae,PTERIDACEAE,,,1,-13.80654987,11.79179323,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-09,13:18
+Paullinia pinnata,Plantae,SAPINDACEAE,,,1,-13.80670787,11.79184101,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-09,13:15
+Annona senegalensis,Plantae,ANNONACEAE,Wild custard-apple,,1,-13.80806163,11.79154923,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-09,13:04
+Christiana africana,Plantae,MALVACEAE,,,1,-13.80847947,11.79159273,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-09,12:51
+Hymenocardia heudelotii,Plantae,PHYLLANTHACEAE,,,1,-13.80684902,11.79199716,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-09,13:38
+Cyathula achyranthoides,Plantae,AMARANTHACEAE,,,1,-13.81035643,11.79031257,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-09,10:23
+Psychotria peduncularis,Plantae,RUBIACEAE,,,1,-13.81052247,11.78998911,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-09,09:45
+Pterocarpus santalinoides,Plantae,Fabaceae,,,1,-14.20238977,11.93012606,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-08,15:25
+Vernonia nigritiana,Plantae,Asteraceae,,,1,-14.19401952,11.93139073,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-08,13:51
+Hymenocardia acida,Plantae,PHYLLANTHACEAE,,,1,-14.19412832,11.93131361,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-08,13:50
+Thonningia sanguinea,Plantae,BALANOPHORACEAE,,,1,-14.19374485,11.93168443,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-08,13:56
+Lophira lanceolata,Plantae,OCHNACEAE,False shea,,1,-14.19351543,11.93166272,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-08,14:03
+Caperonia serrata,Plantae,EUPHORBIACEAE,,,1,-13.93699173,11.84198909,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-11,11:33
+Crotalaria retusa,Plantae,Fabaceae,Rattleweed,,1,-13.93700715,11.84201013,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-11,11:37
+Pupalia lappacea,Plantae,AMARANTHACEAE,,,1,-13.93347627,11.84045454,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-11,11:02
+Ipomoea aquatica,Plantae,CONVOLVULACEAE,Water spinach,,1,-14.15171463,11.86657162,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-10,10:32
+Oldenlandia lancifolia,Plantae,RUBIACEAE,Calycose mille graines,,1,-14.15270076,11.86596427,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-10,11:29
+Echinochloa stagnina,Plantae,Poaceae,Long-awn water grass,,1,-14.15417891,11.86457246,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-10,11:25
+Utricularia spec.,Plantae,LENTIBULARIACEAE,,,1,-14.1521261,11.86651739,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-10,11:32
+Eichhornia diversifolia,Plantae,PONTEDERIACEAE,Variableleaf water hyacinth,,1,-14.15230983,11.86650708,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-10,10:36
+Nymphoides indica,Plantae,MENYANTHACEAE,Banana-plant,,1,-14.15256254,11.86647448,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-10,10:38
+Nymphaea micrantha,Plantae,NYMPHAEACEAE,,,1,-14.15299899,11.86567962,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-10,10:43
+Nymphaea lotus,Plantae,NYMPHAEACEAE,White Egyptian lotus,,1,-14.15602846,11.86594323,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-10,10:59
+Lepidagathis heudelotiana,Plantae,ACANTHACEAE,,,1,-14.08752996,11.86169132,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-10,16:09
+Caperonia serrata,Plantae,EUPHORBIACEAE,,,1,-13.93699173,11.84198909,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-11,11:33
+Cyperus haspan,Plantae,CYPERACEAE,Haspan flatsedge,,1,-13.93688243,11.84196152,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-11,11:29
+Crotalaria retusa,Plantae,Fabaceae,Rattleweed,,1,-13.93700715,11.84201013,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-11,11:37
+Pupalia lappacea,Plantae,AMARANTHACEAE,,,1,-13.93347627,11.84045454,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-11,11:02
+Afzelia africana,Plantae,Fabaceae,African mahogany,,1,-14.15496362,11.87204811,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-10,14:14
+Ipomoea aquatica,Plantae,CONVOLVULACEAE,Water spinach,,1,-14.15171463,11.86657162,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-10,10:32
+Oldenlandia lancifolia,Plantae,RUBIACEAE,Calycose mille graines,,1,-14.15270076,11.86596427,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-10,11:29
+Echinochloa stagnina,Plantae,Poaceae,Long-awn water grass,,1,-14.15417891,11.86457246,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-10,11:25
+Utricularia spec.,Plantae,LENTIBULARIACEAE,,,1,-14.1521261,11.86651739,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-10,11:32
+Utricularia spec.,Plantae,LENTIBULARIACEAE,,,1,-14.15176786,11.86654556,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-10,10:32
+Azolla pinnata subsp. africana,Plantae,SALVINIACEAE,,,1,-14.15078843,11.8668525,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-10,10:28
+Eichhornia diversifolia,Plantae,PONTEDERIACEAE,Variableleaf water hyacinth,,1,-14.15230983,11.86650708,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-10,10:36
+Nymphoides indica,Plantae,MENYANTHACEAE,Banana-plant,,1,-14.15256254,11.86647448,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-10,10:38
+Nymphaea micrantha,Plantae,NYMPHAEACEAE,,,1,-14.15299899,11.86567962,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-10,10:43
+Nymphaea lotus,Plantae,NYMPHAEACEAE,White Egyptian lotus,,1,-14.15602846,11.86594323,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-10,10:59
+Selaginella spec.,Plantae,SELAGINELLACEAE,,,1,-13.80668063,11.79196405,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-09,13:41
+Selaginella spec.,Plantae,SELAGINELLACEAE,,,1,-13.8068455,11.79197964,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-09,13:41
+Chlorophytum gallabatense,Plantae,ASPARAGACEAE,,,1,-13.80644744,11.79179247,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-09,13:23
+Adiantum philippense,Plantae,PTERIDACEAE,,,1,-13.80654987,11.79179323,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-09,13:18
+Paullinia pinnata,Plantae,SAPINDACEAE,,,1,-13.80670787,11.79184101,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-09,13:15
+Annona senegalensis,Plantae,ANNONACEAE,Wild custard-apple,,1,-13.80806163,11.79154923,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-09,13:04
+Christiana africana,Plantae,MALVACEAE,,,1,-13.80847947,11.79159273,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-09,12:51
+Aframomum cereum,Plantae,ZINGIBERACEAE,,,1,-13.81170399,11.78946717,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-09,11:13
+Hymenocardia heudelotii,Plantae,PHYLLANTHACEAE,,,1,-13.80684902,11.79199716,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-09,13:38
+Cyathula achyranthoides,Plantae,AMARANTHACEAE,,,1,-13.81035643,11.79031257,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-09,10:23
+Psychotria calva,Plantae,RUBIACEAE,,,1,-13.8106244,11.78989464,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-09,09:41
+Psychotria peduncularis,Plantae,RUBIACEAE,,,1,-13.81052247,11.78998911,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-09,09:45
+Xylopia longipetala,Plantae,ANNONACEAE,,,1,-14.20640454,11.9294618,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-08,11:47
+Pterocarpus santalinoides,Plantae,Fabaceae,,,1,-14.20238977,11.93012606,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-08,15:25
+Vernonia nigritiana,Plantae,Asteraceae,,,1,-14.19401952,11.93139073,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-08,13:51
+Hymenocardia acida,Plantae,PHYLLANTHACEAE,,,1,-14.19412832,11.93131361,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-08,13:50
+Indigofera capitata,Plantae,Fabaceae,,,1,-14.19637769,11.92973547,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-08,13:32
+Bauhinia thonningii,Plantae,Fabaceae,,,1,-14.19638179,11.92972524,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-08,13:30
+Thonningia sanguinea,Plantae,BALANOPHORACEAE,,,1,-14.19374485,11.93168443,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-08,13:56
+Lophira lanceolata,Plantae,OCHNACEAE,False shea,,1,-14.19351543,11.93166272,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-08,14:03
+Jasminum dichotomum,Plantae,OLEACEAE,Gold Coast jasmine,,1,-14.19851306,11.92845999,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-08,12:38
+Cynometra vogelii,Plantae,Fabaceae,,,1,-14.19778987,11.92877884,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-08,12:44
+Rotula aquatica,Plantae,BORAGINACEAE,,,1,-14.20416112,11.92926583,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-08,12:02
+Ficus asperifolia,Plantae,MORACEAE,,,1,-14.20909345,11.92980613,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-08,11:23
+Oxystelma bornouense,Plantae,APOCYNACEAE,,,1,-14.21111156,11.93005867,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-08,10:59
+Phyllanthus reticulatus,Plantae,PHYLLANTHACEAE,Potato-bush,,1,-14.21126319,11.93007686,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-08,10:57
+Byrsanthus brownii,Plantae,SALICACEAE,,,1,-14.21186401,11.93016621,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-08,10:51
+Begonia rostrata,Plantae,BEGONIACEAE,,,1,-14.21379089,11.92937073,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-08,
+Leonotis nepetifolia var. africana,Plantae,Lamiaceae,,,1,-13.85323763,11.80851821,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-07,14:43
+Mitragyna inermis,Plantae,RUBIACEAE,,,1,-14.1491615,11.86509373,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-06,13:03
+Ludwigia senegalensis,Plantae,ONAGRACEAE,,,1,-14.14733148,11.86682342,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-06,12:17
+Morelia senegalensis,Plantae,RUBIACEAE,,,1,-14.14806515,11.86661697,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-06,12:01
+Xyris straminea,Plantae,XYRIDACEAE,,,1,-14.04861177,11.8425766,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-06,10:02
+Utricularia benjaminiana,Plantae,LENTIBULARIACEAE,,,1,-14.04861177,11.8425766,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-06,10:02
+Drosera indica,Plantae,DROSERACEAE,,,1,-14.04861177,11.8425766,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-06,10:02
+Bryaspis lupulina,Plantae,Fabaceae,,,1,-14.04861177,11.8425766,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-06,10:02
+Chaetolepis gentianoides,Plantae,MELASTOMATACEAE,,,1,-14.04861177,11.8425766,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-06,10:02
+Elephantopus mollis,Plantae,Asteraceae,Soft elephantsfoot,,1,-13.91807042,11.9020088,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-05,13:47
+Gardenia ternifolia,Plantae,RUBIACEAE,,,1,-13.92529797,11.89812907,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-05,14:48
+Eleocharis acutangula,Plantae,CYPERACEAE,Acute spikerush,,1,-13.91738813,11.90340221,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-05,11:20
+Phaulopsis ciliata,Plantae,ACANTHACEAE,,,1,-13.91683593,11.90341797,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-05,11:53
+Ceratopteris thalictroides,Plantae,PTERIDACEAE,Watersprite,,1,-13.9173997,11.90334504,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-05,11:09
+Eichhornia diversifolia,Plantae,PONTEDERIACEAE,Variableleaf water hyacinth,,1,-13.91741898,11.90335603,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-05,11:02
+Limnophila dasyantha,Plantae,PLANTAGINACEAE,,,1,-13.91742501,11.90335376,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-05,11:07
+Dioscorea preussii,Plantae,DIOSCOREACEAE,Preuss' dioscorea,,1,-13.91753926,11.90254005,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-05,10:30
+Phaulopsis imbricata,Plantae,ACANTHACEAE,,,1,-13.91758938,11.90235673,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-05,10:21
+Diospyros heudelotii,Plantae,EBENACEAE,,,1,-13.91780664,11.90123674,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-05,09:55
+Sorindeia juglandifolia,Plantae,ANACARDIACEAE,,,1,-13.91781033,11.90123884,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-05,09:51
+Tapinanthus globiferus,Plantae,LORANTHACEAE,,,1,-13.93144906,11.84083518,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-04,16:30
+Harungana madagascariensis,Plantae,Hypericaceae,Dragon's-blood-tree,,1,-13.94022346,11.85196951,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-04,15:52
+Cissampelos mucronata,Plantae,MENISPERMACEAE,,,1,-13.93863316,11.85195618,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-04,15:13
+Synsepalum brevipes,Plantae,SAPOTACEAE,Pachystela,,1,-13.93749565,11.85339485,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-04,14:40
+Polycarpaea tenuifolia,Plantae,CARYOPHYLLACEAE,,,1,-13.93746891,11.85339628,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-04,14:34
+Monochoria brevipetiolata,Plantae,PONTEDERIACEAE,,,1,-13.93715861,11.85384907,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-04,14:11
+Baissea multiflora,Plantae,APOCYNACEAE,,,1,-14.22934758,12.09649317,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-03,09:23
+Gomphrena celosioides,Plantae,AMARANTHACEAE,Soft khakiweed,,1,-15.57947516,11.86220371,Africa,Guinea-Bissau,GW,,Guinea-Bissau,2017-12-02,
+Boerhavia erecta,Plantae,NYCTAGINACEAE,Erect spiderling,,1,-15.57947516,11.86220371,Africa,Guinea-Bissau,GW,,Guinea-Bissau,2017-12-02,
+Erythrina senegalensis,Plantae,Fabaceae,Senegal coraltree,,1,-14.22934758,12.09649317,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-03,09:23
+Neocarya macrophylla,Plantae,CHRYSOBALANACEAE,Gingerbread-plum,,1,-14.23675654,12.05344697,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-03,09:43
+Adenium obesum,Plantae,APOCYNACEAE,Mock azalea,,1,-14.14185279,11.86634165,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-06,15:38
+Grewia lasiodiscus,Plantae,MALVACEAE,,,1,-13.85081435,11.7976289,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-07,10:35
+Lepidagathis heudelotiana,Plantae,ACANTHACEAE,,,1,-14.08752996,11.86169132,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-12-10,16:09
+Stereospermum kunthianum,Plantae,BIGNONIACEAE,Pink jacaranda,,1,-14.20059804,11.88447696,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-15,11:23
+Sesuvium portulacastrum,Plantae,AIZOACEAE,Sea-purslane,,1,-14.8723926,12.05492935,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Bafatá,2017-12-15,16:18
+Adenium obesum,Plantae,APOCYNACEAE,Mock azalea,,1,-14.2126465,11.76640248,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 1,2017-12-06,
+Tholymis tillarga,Animalia,SKIMMERS_LIBELLULIDAE,Twister,,1,-14.0484577,11.84317059,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2017-12-06,09:51
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,1,-13.93065691,11.84004659,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-07-22,
+Lagonosticta senegala,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Red-billed Firefinch,,4,-13.93065691,11.84004659,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-07-22,
+Zonocerus variegatus,Animalia,Pyrgomorphidae,Variegated grasshopper,,1,-13.93065691,11.84004659,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-07-22,
+Falco ardosiaceus,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Grey Kestrel,,2,-13.93065691,11.84004659,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-07-21,
+Crithagra mozambica,Animalia,FINCHES_FRINGILLIDAE,Yellow-fronted Canary,,2,-13.93065691,11.84004659,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-07-21,
+Corvus albus,Animalia,CROWS_AND_JAYS_CORVIDAE,Pied Crow,,3,-13.93065691,11.84004659,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2017-07-21,
+Anhinga rufa,Animalia,ANHINGAS_ANHINGIDAE,African Darter,,18,-16.1651875,12.2758839,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Cacheu,2017-09-01,17:03
+Hirundo lucida,Animalia,SWALLOWS_HIRUNDINIDAE,Red-chested Swallow,,5,-15.59921265,11.85525519,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Bissau,2017-09-03,
+Phalacrocorax lucidus,Animalia,CORMORANTS_PHALACROCORACIDAE,White-breasted Cormorant,,1,-16.1644469847796,12.2778271025859,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Cacheu,2017-09-26,18:49
+Butorides striata,Animalia,HERONS_ARDEIDAE,Striated Heron,,7,-15.60032,11.8701433333333,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Bissau,2017-08-30,17:34
+Kaupifalco monogrammicus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Lizard Buzzard,,1,-16.15714028,12.2523657,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Cacheu,2017-08-26,17:30
+Ardea goliath,Animalia,HERONS_ARDEIDAE,Goliath Heron,,1,-16.3247800245881,12.2995068146799,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Cacheu,2017-08-25,10:01
+Corythornis cristatus,Animalia,KINGFISHERS_ALCEDINIDAE,Malachite Kingfisher,,2,-16.162047137464,12.2783560366923,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Cacheu,2017-08-23,17:44
+Porphyrio madagascariensis,Animalia,RAILS_RALLIDAE,African Swamphen,,77,-15.2926583333333,12.0573333333333,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Oio,2017-02-03,15:00
+Hirundo lucida,Animalia,SWALLOWS_HIRUNDINIDAE,Red-chested Swallow,,20,-15.5966833333333,11.86872,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Bissau,2017-02-10,18:07
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,14,-15.5974283333333,11.8690583333333,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Bissau,2017-02-10,18:12
+Hirundo smithii,Animalia,SWALLOWS_HIRUNDINIDAE,Wire-tailed Swallow,,12,-15.5988583333333,11.8692733333333,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Bissau,2017-02-10,18:25
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,1,-16.2249566666667,12.0673316666667,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Cacheu,2017-04-11,07:10
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,2,-16.2249566666667,12.0673316666667,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Cacheu,2017-04-11,07:10
+Balearica pavonina,Animalia,CRANES_GRUIDAE,Black Crowned Crane,,6,-15.9382797401336,12.3292272075031,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Cacheu,2017-08-18,13:30
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,1,-16.1570601035728,12.2582055630278,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Cacheu,2017-08-15,12:49
+Butorides striata,Animalia,HERONS_ARDEIDAE,Striated Heron,,1,-15.57593912,11.85459993,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Bissau,2017-07-23,18:41
+Hirundo rustica,Animalia,SWALLOWS_HIRUNDINIDAE,Barn Swallow,,1,-20.7987084349925,8.17281459896792,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Atlantic,2017-04-26,16:28
+Chroicocephalus cirrocephalus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Grey-headed Gull,,1,-15.60301115,11.81500899,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Bissau,2016-11-26,07:28
+Phalacrocorax lucidus,Animalia,CORMORANTS_PHALACROCORACIDAE,White-breasted Cormorant,,5,-15.9008991345763,11.4810182383843,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Bolama,2016-11-26,09:46
+Chroicocephalus cirrocephalus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Grey-headed Gull,,20,-15.5726215615869,11.8514006877481,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Bissau,2016-11-30,18:22
+Tragelaphus scriptus,Animalia,BOVIDS_BOVIDAE,Bushbuck,,1,-13.974,11.847,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-02,
+Chlorocebus sabaeus,Animalia,OLD_WORLD_MONKEYS_CERCOPITHECIDAE,Green Monkey,,1,-13.974,11.847,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-31,
+Genetta pardina,Animalia,CIVETS_VIVERRIDAE,Pardine Genet,,1,-13.974,11.847,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-23,
+Hystrix cristata,Animalia,OLD_WORLD_PORCUPINES_HYSTRICIDAE,Crested Porcupine,,1,-13.974,11.847,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-21,
+Hystrix cristata,Animalia,OLD_WORLD_PORCUPINES_HYSTRICIDAE,Crested Porcupine,,1,-13.974,11.847,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-19,
+Cercocebus atys,Animalia,OLD_WORLD_MONKEYS_CERCOPITHECIDAE,Sooty Mangabey,,1,-13.974,11.847,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-14,
+Philantomba maxwellii,Animalia,BOVIDS_BOVIDAE,Maxwell's Duiker,,1,-13.974,11.847,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-14,
+Mellivora capensis,Animalia,WEASELS_AND_RELATIVES_MUSTELIDAE,Honey Badger,,1,-13.974,11.847,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-14,
+Chroicocephalus cirrocephalus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Grey-headed Gull,,1,-15.57461189,11.8621606,Africa,Guinea-Bissau,GW,,Guinea-Bissau,2016-02-04,18:26
+Egretta ardesiaca,Animalia,HERONS_ARDEIDAE,Black Heron,,2,-15.18447067,11.21883418,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Cabedu,2016-02-01,12:13
+Ciconia episcopus,Animalia,STORKS_CICONIIDAE,Woolly-necked Stork,,4,-15.18447067,11.21883418,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Cabedu,2016-02-01,12:13
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,1,-15.03637755,11.24427731,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Cabedu,2016-02-04,07:48
+Pternistis bicalcaratus,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Double-spurred Spurfowl,,6,-13.91758852,11.83262041,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-07,09:38
+Galerida modesta,Animalia,LARKS_ALAUDIDAE,Sun Lark,,5,-13.91301891,11.82319399,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-07,12:36
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,4,-13.93133446,11.84064372,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-07,14:08
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,1,-13.94340684,11.84017112,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-08,09:06
+Treron calvus,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,African Green Pigeon,,1,-13.94392852,11.84123224,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-08,09:19
+Chlorocebus sabaeus,Animalia,OLD_WORLD_MONKEYS_CERCOPITHECIDAE,Green Monkey,,3,-13.94951676,11.83995463,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-08,09:26
+Dicrurus occidentalis,Animalia,DRONGOS_DICRURIDAE,Western Square-tailed Drongo,,1,-13.9746538,11.84746049,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-08,10:28
+Galerida modesta,Animalia,LARKS_ALAUDIDAE,Sun Lark,,10,-13.9673364,11.85467268,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-08,11:44
+Musophaga violacea,Animalia,TURACOS_MUSOPHAGIDAE,Violet Turaco,,3,-13.96128055,11.83731534,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-08,12:53
+Lophoceros fasciatus,Animalia,HORNBILLS_BUCEROTIDAE,African Pied Hornbill,,1,-13.96134117,11.83760714,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-08,13:08
+Musophaga violacea,Animalia,TURACOS_MUSOPHAGIDAE,Violet Turaco,,2,-13.95752942,11.86250946,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-09,09:11
+Treron calvus,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,African Green Pigeon,,2,-13.97215791,11.86962105,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-09,10:34
+Papio papio,Animalia,OLD_WORLD_MONKEYS_CERCOPITHECIDAE,Guinea Baboon,,60,-13.98083128,11.8967449,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-10,09:04
+Galerida modesta,Animalia,LARKS_ALAUDIDAE,Sun Lark,,20,-13.98658479,11.93455964,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-10,11:32
+Necrosyrtes monachus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Hooded Vulture,,5,-13.98877441,11.89049127,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-10,13:21
+Turdoides plebejus,Animalia,Leiothrichidae,Brown Babbler,,3,-13.9743629,11.84748056,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-11,17:26
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,1,-13.97435565,11.84748109,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-11,17:26
+Musophaga violacea,Animalia,TURACOS_MUSOPHAGIDAE,Violet Turaco,,1,-13.96514448,11.85044952,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-11,18:19
+Vanellus senegallus,Animalia,PLOVERS_CHARADRIIDAE,African Wattled Lapwing,,2,-13.96765951,11.85389226,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-11,18:34
+Lophoceros fasciatus,Animalia,HORNBILLS_BUCEROTIDAE,African Pied Hornbill,,1,-13.96765994,11.85389296,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-11,18:34
+Corvus albus,Animalia,CROWS_AND_JAYS_CORVIDAE,Pied Crow,,3,-13.93475604,11.83068784,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-12,09:13
+Crithagra mozambica,Animalia,FINCHES_FRINGILLIDAE,Yellow-fronted Canary,,1,-13.93345033,11.83051143,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-12,09:24
+Vidua macroura,Animalia,INDIGOBIRDS_AND_WHYDAHS_VIDUIDAE,Pin-tailed Whydah,,1,-13.9334202,11.83036295,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-12,09:27
+Chlorocebus sabaeus,Animalia,OLD_WORLD_MONKEYS_CERCOPITHECIDAE,Green Monkey,,3,-13.93437502,11.82948567,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-12,09:35
+Galerida modesta,Animalia,LARKS_ALAUDIDAE,Sun Lark,,5,-13.93865302,11.83371419,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-12,10:04
+Pternistis bicalcaratus,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Double-spurred Spurfowl,,1,-13.94271542,11.81565323,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2016-01-12,11:26
+Turdoides plebejus,Animalia,Leiothrichidae,Brown Babbler,,2,-13.94272677,11.8156512,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2016-01-12,11:26
+Turdoides plebejus,Animalia,Leiothrichidae,Brown Babbler,,4,-13.92549767,11.84742276,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-13,09:29
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,2,-13.91508609,11.85317312,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-13,09:44
+Lophoceros fasciatus,Animalia,HORNBILLS_BUCEROTIDAE,African Pied Hornbill,,18,-13.90346891,11.85628536,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-13,09:56
+Lybius vieilloti,Animalia,Lybiidae,Vieillot's Barbet,,1,-13.87342229,11.85747029,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-13,10:53
+Coracias cyanogaster,Animalia,ROLLERS_CORACIIDAE,Blue-bellied Roller,,1,-13.93489323,11.8552856,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-14,08:50
+Vanellus senegallus,Animalia,PLOVERS_CHARADRIIDAE,African Wattled Lapwing,,2,-13.93489515,11.85528556,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-14,08:50
+Eremopterix leucotis,Animalia,LARKS_ALAUDIDAE,Chestnut-backed Sparrow-Lark,,3,-13.9348975,11.85528564,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-14,08:51
+Galerida modesta,Animalia,LARKS_ALAUDIDAE,Sun Lark,,10,-13.93620623,11.85428508,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-14,08:56
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,1,-13.72933918,11.75130218,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2016-01-16,10:02
+Coracias cyanogaster,Animalia,ROLLERS_CORACIIDAE,Blue-bellied Roller,,1,-13.97009725,11.84584326,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-17,09:22
+Treron calvus,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,African Green Pigeon,,1,-13.97009721,11.84584327,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-17,09:22
+Crithagra mozambica,Animalia,FINCHES_FRINGILLIDAE,Yellow-fronted Canary,,1,-13.97422918,11.84753029,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-17,10:07
+Vanellus senegallus,Animalia,PLOVERS_CHARADRIIDAE,African Wattled Lapwing,,2,-13.96759471,11.85380317,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-17,11:21
+Galerida modesta,Animalia,LARKS_ALAUDIDAE,Sun Lark,,15,-13.96759471,11.85380317,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-17,11:23
+Lagonosticta senegala,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Red-billed Firefinch,,5,-13.94155265,11.84070333,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-18,17:22
+Lophoceros fasciatus,Animalia,HORNBILLS_BUCEROTIDAE,African Pied Hornbill,,2,-13.97247575,11.84652392,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-18,17:41
+Cercocebus atys,Animalia,OLD_WORLD_MONKEYS_CERCOPITHECIDAE,Sooty Mangabey,,1,-13.97247575,11.84652392,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-18,17:41
+Dicrurus occidentalis,Animalia,DRONGOS_DICRURIDAE,Western Square-tailed Drongo,,2,-14.15032252,11.86741483,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2016-01-19,12:10
+Vanellus senegallus,Animalia,PLOVERS_CHARADRIIDAE,African Wattled Lapwing,,2,-13.95700285,11.85342958,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-21,10:05
+Musophaga violacea,Animalia,TURACOS_MUSOPHAGIDAE,Violet Turaco,,2,-13.9745688,11.84740721,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-21,11:31
+Musophaga violacea,Animalia,TURACOS_MUSOPHAGIDAE,Violet Turaco,,1,-13.97238902,11.86958831,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2016-01-22,10:30
+Chroicocephalus cirrocephalus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Grey-headed Gull,,5,-15.57461319,11.86223865,Africa,Guinea-Bissau,GW,,Guinea-Bissau,2015-12-04,18:25
+Musophaga violacea,Animalia,TURACOS_MUSOPHAGIDAE,Violet Turaco,,2,-13.93790687,11.84134355,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-07,07:52
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,1,-13.94243184,11.8503305,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-07,08:07
+Galerida modesta,Animalia,LARKS_ALAUDIDAE,Sun Lark,,1,-13.94185457,11.84980123,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-07,08:22
+Chlorocebus sabaeus,Animalia,OLD_WORLD_MONKEYS_CERCOPITHECIDAE,Green Monkey,,10,-13.94144868,11.84514148,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-07,11:06
+Coracias cyanogaster,Animalia,ROLLERS_CORACIIDAE,Blue-bellied Roller,,2,-13.94142612,11.84509348,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-07,11:06
+Lophoceros fasciatus,Animalia,HORNBILLS_BUCEROTIDAE,African Pied Hornbill,,1,-13.93138247,11.84070115,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-07,12:17
+Necrosyrtes monachus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Hooded Vulture,,1,-13.93138245,11.84070114,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-07,12:17
+Corvus albus,Animalia,CROWS_AND_JAYS_CORVIDAE,Pied Crow,,1,-13.93221216,11.84066465,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-07,15:38
+Musophaga violacea,Animalia,TURACOS_MUSOPHAGIDAE,Violet Turaco,,1,-13.92969729,11.84503358,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-07,15:47
+Lophoceros fasciatus,Animalia,HORNBILLS_BUCEROTIDAE,African Pied Hornbill,,4,-13.91053277,11.85290642,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-07,16:08
+Vanellus senegallus,Animalia,PLOVERS_CHARADRIIDAE,African Wattled Lapwing,,13,-13.89268753,11.85298903,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-07,17:17
+Musophaga violacea,Animalia,TURACOS_MUSOPHAGIDAE,Violet Turaco,,1,-13.90031795,11.85569747,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-07,18:09
+Pternistis bicalcaratus,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Double-spurred Spurfowl,,1,-13.93810858,11.83296698,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-08,08:00
+Treron calvus,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,African Green Pigeon,,4,-13.93810789,11.8329674,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-08,08:00
+Lophoceros fasciatus,Animalia,HORNBILLS_BUCEROTIDAE,African Pied Hornbill,,1,-13.93576379,11.83000326,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-08,09:17
+Galerida modesta,Animalia,LARKS_ALAUDIDAE,Sun Lark,,5,-13.93583913,11.83032243,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-08,09:24
+Crithagra mozambica,Animalia,FINCHES_FRINGILLIDAE,Yellow-fronted Canary,,1,-13.94025367,11.82631123,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-08,10:05
+Coracias cyanogaster,Animalia,ROLLERS_CORACIIDAE,Blue-bellied Roller,,3,-13.94178327,11.81876183,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-08,10:20
+Pternistis bicalcaratus,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Double-spurred Spurfowl,,1,-13.94279718,11.81780728,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-08,10:35
+Vidua macroura,Animalia,INDIGOBIRDS_AND_WHYDAHS_VIDUIDAE,Pin-tailed Whydah,,2,-13.94173912,11.81671021,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2015-12-08,11:06
+Treron calvus,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,African Green Pigeon,,3,-13.93239444,11.83933191,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-08,18:17
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,1,-13.92587619,11.84726357,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-09,08:27
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,2,-13.9136608,11.84632433,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-09,09:31
+Chlorocebus sabaeus,Animalia,OLD_WORLD_MONKEYS_CERCOPITHECIDAE,Green Monkey,,2,-13.91271957,11.8469886,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-09,09:48
+Musophaga violacea,Animalia,TURACOS_MUSOPHAGIDAE,Violet Turaco,,1,-13.91184518,11.8445658,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-09,10:09
+Lophoceros fasciatus,Animalia,HORNBILLS_BUCEROTIDAE,African Pied Hornbill,,1,-13.91316765,11.84533652,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-09,10:15
+Scopus umbretta,Animalia,HAMERKOP_SCOPIDAE,Hamerkop,,1,-13.9324551,11.83938576,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-09,18:43
+Coracias cyanogaster,Animalia,ROLLERS_CORACIIDAE,Blue-bellied Roller,,1,-13.93132995,11.84070223,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-10,08:13
+Emberiza cabanisi cabanisi,Animalia,BUNTINGS_EMBERIZIDAE,Cabanis's Bunting ssp cabanisi,,1,-13.94037109,11.82355322,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-10,09:04
+Treron calvus,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,African Green Pigeon,,5,-13.93776719,11.81184524,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2015-12-10,09:34
+Crithagra mozambica,Animalia,FINCHES_FRINGILLIDAE,Yellow-fronted Canary,,2,-13.94424097,11.80606278,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2015-12-10,10:35
+Crithagra mozambica,Animalia,FINCHES_FRINGILLIDAE,Yellow-fronted Canary,,1,-13.94656621,11.80310999,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2015-12-10,10:53
+Coracias cyanogaster,Animalia,ROLLERS_CORACIIDAE,Blue-bellied Roller,,1,-13.94286313,11.79969667,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2015-12-10,11:30
+Galerida modesta,Animalia,LARKS_ALAUDIDAE,Sun Lark,,5,-13.94355045,11.80381749,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2015-12-10,11:37
+Necrosyrtes monachus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Hooded Vulture,,1,-13.93821666,11.83903442,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-10,12:29
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,2,-13.81770313,11.82101479,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2015-12-11,10:08
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,1,-13.81047118,11.8241126,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2015-12-11,10:49
+Falco ardosiaceus,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Grey Kestrel,,1,-13.94728905,11.8655187,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-12,09:56
+Erythrocebus patas,Animalia,OLD_WORLD_MONKEYS_CERCOPITHECIDAE,Patas Monkey,,1,-13.94728902,11.8655188,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-12,09:56
+Galerida modesta,Animalia,LARKS_ALAUDIDAE,Sun Lark,,3,-13.94722064,11.86555665,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-12,09:57
+Lophoceros fasciatus,Animalia,HORNBILLS_BUCEROTIDAE,African Pied Hornbill,,2,-13.94740964,11.86542956,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-12,09:58
+Oena capensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Namaqua Dove,,2,-13.96155042,11.88632944,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-12,12:56
+Coracias cyanogaster,Animalia,ROLLERS_CORACIIDAE,Blue-bellied Roller,,1,-13.9596892,11.88164502,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-12,13:00
+Vanellus senegallus,Animalia,PLOVERS_CHARADRIIDAE,African Wattled Lapwing,,2,-13.97157018,11.86907952,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-13,10:22
+Erythrocebus patas,Animalia,OLD_WORLD_MONKEYS_CERCOPITHECIDAE,Patas Monkey,,5,-13.97157018,11.86907952,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-13,10:23
+Galerida modesta,Animalia,LARKS_ALAUDIDAE,Sun Lark,,10,-13.97157018,11.86907952,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-13,10:25
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,1,-13.91021215,11.84981235,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-15,08:55
+Treron calvus,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,African Green Pigeon,,12,-13.89901959,11.85486845,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-15,09:56
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,3,-13.8829027,11.86379292,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-15,11:34
+Turdoides plebejus,Animalia,Leiothrichidae,Brown Babbler,,6,-13.8828964,11.86382054,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-15,11:49
+Lagonosticta senegala,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Red-billed Firefinch,,1,-13.93603873,11.84761985,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-16,08:24
+Scopus umbretta,Animalia,HAMERKOP_SCOPIDAE,Hamerkop,,2,-13.94006306,11.87174358,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-16,09:12
+Galerida modesta,Animalia,LARKS_ALAUDIDAE,Sun Lark,,5,-13.94006483,11.87174339,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-16,09:22
+Chlorocebus sabaeus,Animalia,OLD_WORLD_MONKEYS_CERCOPITHECIDAE,Green Monkey,,2,-13.92950495,11.89361814,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-16,11:11
+Coracias cyanogaster,Animalia,ROLLERS_CORACIIDAE,Blue-bellied Roller,,1,-13.92950495,11.89361814,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-16,11:15
+Erythrocebus patas,Animalia,OLD_WORLD_MONKEYS_CERCOPITHECIDAE,Patas Monkey,,1,-13.92950495,11.89361814,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-16,11:16
+Erythrocebus patas,Animalia,OLD_WORLD_MONKEYS_CERCOPITHECIDAE,Patas Monkey,,3,-13.93863402,11.87406834,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-16,13:02
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,1,-13.93133847,11.84079954,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-16,13:19
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,1,-14.15040678,11.87007362,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2015-12-18,15:53
+Lophoceros fasciatus,Animalia,HORNBILLS_BUCEROTIDAE,African Pied Hornbill,,5,-13.90363817,11.83801406,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-20,09:51
+Accipiter toussenelii macroscelides,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Red-chested Goshawk ssp macroscelides,,1,-13.83690946,11.76073383,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2015-12-22,11:46
+Pternistis bicalcaratus,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Double-spurred Spurfowl,,1,-13.85107781,11.79730402,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2015-12-22,16:53
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,2,-13.855122,11.76790984,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2015-12-23,08:44
+Lagonosticta senegala,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Red-billed Firefinch,,1,-13.93729688,11.84856129,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-24,10:01
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,2,-13.9364912,11.84765492,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-24,10:17
+Crithagra mozambica,Animalia,FINCHES_FRINGILLIDAE,Yellow-fronted Canary,,2,-13.93649131,11.84765633,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-24,10:17
+Eremopterix leucotis,Animalia,LARKS_ALAUDIDAE,Chestnut-backed Sparrow-Lark,,2,-13.93559526,11.85509327,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-24,10:46
+Scopus umbretta,Animalia,HAMERKOP_SCOPIDAE,Hamerkop,,1,-13.93704655,11.85381672,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-24,11:07
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,1,-13.94846443,11.86638932,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-24,11:35
+Erythrocebus patas,Animalia,OLD_WORLD_MONKEYS_CERCOPITHECIDAE,Patas Monkey,,10,-13.96491417,11.8525214,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-25,14:17
+Turdoides plebejus,Animalia,Leiothrichidae,Brown Babbler,,1,-13.91090431,11.85236517,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-26,09:26
+Pternistis bicalcaratus,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Double-spurred Spurfowl,,1,-13.91088666,11.85238936,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-26,09:26
+Treron calvus,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,African Green Pigeon,,10,-13.89587075,11.85430276,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-26,10:10
+Crithagra mozambica,Animalia,FINCHES_FRINGILLIDAE,Yellow-fronted Canary,,1,-13.88006678,11.8555231,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-26,11:19
+Pternistis bicalcaratus,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Double-spurred Spurfowl,,2,-13.91930206,11.80950252,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2015-12-26,17:53
+Lophoceros fasciatus,Animalia,HORNBILLS_BUCEROTIDAE,African Pied Hornbill,,1,-13.97187797,11.86921689,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-27,10:24
+Oena capensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Namaqua Dove,,2,-13.97249275,11.87066262,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-27,12:15
+Musophaga violacea,Animalia,TURACOS_MUSOPHAGIDAE,Violet Turaco,,3,-13.93097162,11.84086205,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-27,17:09
+Treron calvus,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,African Green Pigeon,,1,-13.93097162,11.84086205,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-27,17:09
+Vanellus senegallus,Animalia,PLOVERS_CHARADRIIDAE,African Wattled Lapwing,,2,-13.95707111,11.85372556,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-28,08:04
+Necrosyrtes monachus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Hooded Vulture,,4,-13.93907647,11.84184295,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-28,11:04
+Erythrocebus patas,Animalia,OLD_WORLD_MONKEYS_CERCOPITHECIDAE,Patas Monkey,,1,-13.94150525,11.84930309,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-28,11:18
+Treron calvus,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,African Green Pigeon,,2,-13.95880697,11.85215346,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-28,11:58
+Galerida modesta,Animalia,LARKS_ALAUDIDAE,Sun Lark,,10,-13.95737726,11.85039559,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-28,12:16
+Vidua macroura,Animalia,INDIGOBIRDS_AND_WHYDAHS_VIDUIDAE,Pin-tailed Whydah,,5,-13.95737726,11.85039559,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-28,12:23
+Vanellus senegallus,Animalia,PLOVERS_CHARADRIIDAE,African Wattled Lapwing,,2,-13.96619485,11.85201875,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-29,08:44
+Crithagra mozambica,Animalia,FINCHES_FRINGILLIDAE,Yellow-fronted Canary,,1,-13.96619485,11.85201875,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-29,08:55
+Lophoceros fasciatus,Animalia,HORNBILLS_BUCEROTIDAE,African Pied Hornbill,,2,-13.96619485,11.85201875,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-29,09:19
+Treron calvus,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,African Green Pigeon,,25,-13.96619485,11.85201875,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-29,09:19
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,1,-13.97400532,11.84736199,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-29,10:57
+Chlorocebus sabaeus,Animalia,OLD_WORLD_MONKEYS_CERCOPITHECIDAE,Green Monkey,,1,-13.97400532,11.84736199,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-29,10:57
+Cercocebus atys,Animalia,OLD_WORLD_MONKEYS_CERCOPITHECIDAE,Sooty Mangabey,,3,-13.97400532,11.84736199,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-12-29,10:57
+Chroicocephalus cirrocephalus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Grey-headed Gull,,4,-15.57840316,11.85835441,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Bissau,2015-12-02,15:26
+Hirundo smithii,Animalia,SWALLOWS_HIRUNDINIDAE,Wire-tailed Swallow,,10,-15.5868729,11.84916647,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Bissau,2015-12-02,16:18
+Butorides striata,Animalia,HERONS_ARDEIDAE,Striated Heron,,1,-15.58769802,11.84705166,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Bissau,2015-12-02,16:35
+Pternistis bicalcaratus,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Double-spurred Spurfowl,,1,-13.93132454,11.8406563,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-07,14:36
+Corvus albus,Animalia,CROWS_AND_JAYS_CORVIDAE,Pied Crow,,1,-13.93405614,11.84049823,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-08,15:41
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,1,-13.93590591,11.84195908,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-08,15:45
+Vanellus senegallus,Animalia,PLOVERS_CHARADRIIDAE,African Wattled Lapwing,,13,-13.93586251,11.85272661,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-08,16:39
+Necrosyrtes monachus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Hooded Vulture,,3,-13.93586366,11.85272731,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-08,16:39
+Galerida modesta,Animalia,LARKS_ALAUDIDAE,Sun Lark,,1,-13.93586368,11.8527273,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-08,16:39
+Crithagra mozambica,Animalia,FINCHES_FRINGILLIDAE,Yellow-fronted Canary,,2,-13.93015859,11.85549384,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-08,17:00
+Treron calvus,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,African Green Pigeon,,1,-13.92739147,11.85804781,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-08,17:46
+Corvus albus,Animalia,CROWS_AND_JAYS_CORVIDAE,Pied Crow,,2,-13.93514845,11.84281324,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-08,18:14
+Necrosyrtes monachus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Hooded Vulture,,1,-13.93707419,11.83467006,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-10,10:24
+Crithagra mozambica,Animalia,FINCHES_FRINGILLIDAE,Yellow-fronted Canary,,3,-13.9370802,11.83465822,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-10,10:29
+Crithagra mozambica,Animalia,FINCHES_FRINGILLIDAE,Yellow-fronted Canary,,1,-13.93835588,11.81426659,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2015-11-10,12:29
+Turdoides plebejus,Animalia,Leiothrichidae,Brown Babbler,,3,-13.93995305,11.81677924,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-10,12:45
+Chlorocebus sabaeus,Animalia,OLD_WORLD_MONKEYS_CERCOPITHECIDAE,Green Monkey,,2,-13.93878242,11.84021776,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-10,13:25
+Vidua macroura,Animalia,INDIGOBIRDS_AND_WHYDAHS_VIDUIDAE,Pin-tailed Whydah,,1,-13.93807202,11.81192629,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2015-11-11,08:36
+Lybius vieilloti,Animalia,Lybiidae,Vieillot's Barbet,,2,-13.93791127,11.81158114,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2015-11-11,08:47
+Treron calvus,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,African Green Pigeon,,1,-13.93463907,11.80212893,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2015-11-11,10:01
+Vanellus senegallus,Animalia,PLOVERS_CHARADRIIDAE,African Wattled Lapwing,,1,-13.93487719,11.80365369,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2015-11-11,11:00
+Galerida modesta,Animalia,LARKS_ALAUDIDAE,Sun Lark,,10,-13.9348777,11.80365372,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2015-11-11,11:00
+Coracias cyanogaster,Animalia,ROLLERS_CORACIIDAE,Blue-bellied Roller,,1,-13.9395134,11.81670036,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-11,13:12
+Chlorocebus sabaeus,Animalia,OLD_WORLD_MONKEYS_CERCOPITHECIDAE,Green Monkey,,6,-13.93721199,11.83788216,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-11,13:35
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,2,-13.93132572,11.84067733,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-12,07:48
+Crithagra mozambica,Animalia,FINCHES_FRINGILLIDAE,Yellow-fronted Canary,,1,-13.93856146,11.84125671,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-13,16:37
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,1,-13.94333071,11.84393816,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-13,16:48
+Pternistis bicalcaratus,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Double-spurred Spurfowl,,1,-13.94323887,11.8435475,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-13,17:00
+Turdoides plebejus,Animalia,Leiothrichidae,Brown Babbler,,3,-13.9310102,11.84056279,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-14,08:43
+Necrosyrtes monachus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Hooded Vulture,,1,-13.93100066,11.84058105,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-14,08:44
+Necrosyrtes monachus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Hooded Vulture,,1,-13.88528505,11.79016857,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2015-11-14,11:40
+Coracias cyanogaster,Animalia,ROLLERS_CORACIIDAE,Blue-bellied Roller,,1,-13.89884864,11.77177982,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2015-11-14,12:27
+Lybius vieilloti,Animalia,Lybiidae,Vieillot's Barbet,,1,-13.86336493,11.77181754,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2015-11-15,07:40
+Coracias cyanogaster,Animalia,ROLLERS_CORACIIDAE,Blue-bellied Roller,,5,-13.86336615,11.77181758,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2015-11-15,07:40
+Treron calvus,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,African Green Pigeon,,2,-13.8766085,11.76851008,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2015-11-15,08:12
+Erythrocebus patas,Animalia,OLD_WORLD_MONKEYS_CERCOPITHECIDAE,Patas Monkey,,6,-13.88147154,11.76837964,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2015-11-15,08:37
+Lophoceros fasciatus,Animalia,HORNBILLS_BUCEROTIDAE,African Pied Hornbill,,3,-13.94845296,11.85895564,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-17,08:38
+Cercocebus atys,Animalia,OLD_WORLD_MONKEYS_CERCOPITHECIDAE,Sooty Mangabey,,1,-13.9705754,11.86584943,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-17,08:57
+Pternistis bicalcaratus,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Double-spurred Spurfowl,,1,-13.92937507,11.83691188,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-18,07:57
+Pternistis bicalcaratus,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Double-spurred Spurfowl,,1,-13.92798454,11.83678539,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-18,08:32
+Treron calvus,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,African Green Pigeon,,1,-13.92688249,11.83620348,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-18,08:42
+Crithagra mozambica,Animalia,FINCHES_FRINGILLIDAE,Yellow-fronted Canary,,1,-13.92701547,11.83627969,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-18,08:45
+Pternistis bicalcaratus,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Double-spurred Spurfowl,,2,-13.92914147,11.83748573,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-18,08:49
+Erythrocebus patas,Animalia,OLD_WORLD_MONKEYS_CERCOPITHECIDAE,Patas Monkey,,1,-13.93058097,11.83808898,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-18,08:59
+Galerida modesta,Animalia,LARKS_ALAUDIDAE,Sun Lark,,5,-13.96031167,11.8814659,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-18,11:10
+Vidua macroura,Animalia,INDIGOBIRDS_AND_WHYDAHS_VIDUIDAE,Pin-tailed Whydah,,2,-13.95479808,11.87675688,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-18,11:49
+Vanellus senegallus,Animalia,PLOVERS_CHARADRIIDAE,African Wattled Lapwing,,1,-13.95432919,11.87661121,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-18,16:24
+Crithagra mozambica,Animalia,FINCHES_FRINGILLIDAE,Yellow-fronted Canary,,2,-13.95888872,11.87758837,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-18,17:00
+Cercocebus atys,Animalia,OLD_WORLD_MONKEYS_CERCOPITHECIDAE,Sooty Mangabey,,1,-13.91072527,11.89782108,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-19,10:15
+Cercocebus atys,Animalia,OLD_WORLD_MONKEYS_CERCOPITHECIDAE,Sooty Mangabey,,3,-13.90842614,11.90086359,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-19,11:13
+Pternistis bicalcaratus,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Double-spurred Spurfowl,,1,-13.92866079,11.8275512,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-19,17:10
+Turdoides plebejus,Animalia,Leiothrichidae,Brown Babbler,,1,-13.93464663,11.84227108,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-20,08:54
+Crithagra mozambica,Animalia,FINCHES_FRINGILLIDAE,Yellow-fronted Canary,,2,-13.93501271,11.84526292,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-20,08:58
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,1,-13.93669986,11.84821259,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-20,09:06
+Lagonosticta senegala,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Red-billed Firefinch,,1,-13.93668031,11.84985955,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-20,10:34
+Necrosyrtes monachus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Hooded Vulture,,2,-13.93668031,11.84985955,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-20,10:36
+Pternistis bicalcaratus,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Double-spurred Spurfowl,,1,-13.9472556,11.86542685,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-20,12:46
+Treron calvus,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,African Green Pigeon,,1,-13.93859232,11.86719179,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-21,07:57
+Turdoides plebejus,Animalia,Leiothrichidae,Brown Babbler,,1,-13.93923474,11.86901749,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-21,08:28
+Pternistis bicalcaratus,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Double-spurred Spurfowl,,2,-13.93901783,11.86903001,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-21,08:35
+Phacochoerus africanus,Animalia,PIGS_SUIDAE,Common Warthog,,3,-13.9343382,11.88843038,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-21,10:19
+Erythrocebus patas,Animalia,OLD_WORLD_MONKEYS_CERCOPITHECIDAE,Patas Monkey,,1,-13.93911081,11.87120844,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-21,12:03
+Galerida modesta,Animalia,LARKS_ALAUDIDAE,Sun Lark,,15,-13.93685648,11.85369376,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-21,12:19
+Necrosyrtes monachus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Hooded Vulture,,2,-13.93685648,11.85369376,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-21,12:19
+Coracias cyanogaster,Animalia,ROLLERS_CORACIIDAE,Blue-bellied Roller,,2,-13.92733876,11.83236827,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-22,09:48
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,1,-13.92764296,11.83253628,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-22,09:49
+Erythrocebus patas,Animalia,OLD_WORLD_MONKEYS_CERCOPITHECIDAE,Patas Monkey,,4,-13.91918371,11.85301544,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-22,14:25
+Pternistis bicalcaratus,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Double-spurred Spurfowl,,1,-13.92542563,11.84601521,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-22,18:02
+Vanellus senegallus,Animalia,PLOVERS_CHARADRIIDAE,African Wattled Lapwing,,2,-13.93296401,11.84258905,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-22,18:36
+Scopus umbretta,Animalia,HAMERKOP_SCOPIDAE,Hamerkop,,1,-13.92933101,11.83509169,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-24,08:17
+Pternistis bicalcaratus,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Double-spurred Spurfowl,,2,-13.92081441,11.82682443,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-24,08:57
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,1,-13.9203766,11.82757613,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-24,09:05
+Coracias cyanogaster,Animalia,ROLLERS_CORACIIDAE,Blue-bellied Roller,,3,-13.9197041,11.83046033,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-24,09:38
+Chlorocebus sabaeus,Animalia,OLD_WORLD_MONKEYS_CERCOPITHECIDAE,Green Monkey,,1,-13.91210377,11.82737626,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-24,10:24
+Turdoides plebejus,Animalia,Leiothrichidae,Brown Babbler,,1,-13.92930008,11.84552375,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-24,17:20
+Turdoides plebejus,Animalia,Leiothrichidae,Brown Babbler,,3,-13.89637807,11.85712655,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-24,18:06
+Lophoceros fasciatus,Animalia,HORNBILLS_BUCEROTIDAE,African Pied Hornbill,,1,-13.96255156,11.8395005,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-26,10:15
+Dicrurus occidentalis,Animalia,DRONGOS_DICRURIDAE,Western Square-tailed Drongo,,1,-13.96090063,11.83901264,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-26,18:10
+Pternistis bicalcaratus,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Double-spurred Spurfowl,,1,-13.91276487,11.89563517,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-27,07:33
+Crithagra mozambica,Animalia,FINCHES_FRINGILLIDAE,Yellow-fronted Canary,,1,-13.91076802,11.89536234,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-27,09:21
+Salpornis salvadori,Animalia,TREECREEPERS_CERTHIIDAE,African Spotted Creeper,,1,-13.93465959,11.86300155,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-27,12:36
+Eremopterix leucotis,Animalia,LARKS_ALAUDIDAE,Chestnut-backed Sparrow-Lark,,3,-13.93710841,11.85497426,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-27,12:51
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,1,-13.93345146,11.83998419,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-27,13:11
+Papio papio,Animalia,OLD_WORLD_MONKEYS_CERCOPITHECIDAE,Guinea Baboon,,10,-13.96765665,11.92909661,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-29,09:23
+Lophoceros fasciatus,Animalia,HORNBILLS_BUCEROTIDAE,African Pied Hornbill,,1,-13.90806726,11.8538953,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-29,17:29
+Treron calvus,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,African Green Pigeon,,4,-13.89932576,11.85517982,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-29,17:40
+Oena capensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Namaqua Dove,,1,-13.93807514,11.85461898,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-30,16:12
+Lophoceros fasciatus,Animalia,HORNBILLS_BUCEROTIDAE,African Pied Hornbill,,1,-13.94420693,11.86068952,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-11-30,17:31
+Euplectes afer,Animalia,WEAVERS_PLOCEIDAE,Yellow-crowned Bishop,,1,-15.58369252,11.85648025,Africa,Guinea-Bissau,GW,,Guinea-Bissau,2015-11-04,16:46
+Butorides striata,Animalia,HERONS_ARDEIDAE,Striated Heron,,1,-15.57461972,11.86217191,Africa,Guinea-Bissau,GW,,Guinea-Bissau,2015-11-05,18:03
+Chroicocephalus cirrocephalus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Grey-headed Gull,,1,-15.57461886,11.86217268,Africa,Guinea-Bissau,GW,,Guinea-Bissau,2015-11-05,18:03
+Hirundo lucida,Animalia,SWALLOWS_HIRUNDINIDAE,Red-chested Swallow,,10,-15.57970377,11.862376,Africa,Guinea-Bissau,GW,,Guinea-Bissau,2015-11-03,10:14
+Hirundo smithii,Animalia,SWALLOWS_HIRUNDINIDAE,Wire-tailed Swallow,,4,-15.57970377,11.862376,Africa,Guinea-Bissau,GW,,Guinea-Bissau,2015-11-03,10:14
+Chroicocephalus cirrocephalus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Grey-headed Gull,,1,-15.5746027,11.8621647,Africa,Guinea-Bissau,GW,,Guinea-Bissau,2015-11-03,18:01
+Chroicocephalus cirrocephalus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Grey-headed Gull,,15,-15.58,11.862,Africa,Guinea-Bissau,GW,,Guinea-Bissau,2015-11-02,
+Pternistis bicalcaratus,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Double-spurred Spurfowl,,2,-13.93086862,11.8410375,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-08,07:47
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,2,-13.93092862,11.84083244,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-08,07:48
+Lagonosticta senegala,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Red-billed Firefinch,,1,-13.93223221,11.8404712,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-08,08:56
+Vidua macroura,Animalia,INDIGOBIRDS_AND_WHYDAHS_VIDUIDAE,Pin-tailed Whydah,,2,-13.94196289,11.84044919,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-08,09:34
+Camaroptera brevicaudata,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Grey-backed Camaroptera,,1,-13.94332115,11.84052818,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-08,09:50
+Coracias cyanogaster,Animalia,ROLLERS_CORACIIDAE,Blue-bellied Roller,,1,-13.93830633,11.83894654,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-08,13:03
+Musophaga violacea,Animalia,TURACOS_MUSOPHAGIDAE,Violet Turaco,,1,-13.93793938,11.84137271,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-08,14:20
+Pternistis bicalcaratus,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Double-spurred Spurfowl,,1,-13.93895036,11.84166744,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-08,18:11
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,1,-13.93892731,11.84167242,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-08,18:11
+Vidua macroura,Animalia,INDIGOBIRDS_AND_WHYDAHS_VIDUIDAE,Pin-tailed Whydah,,1,-13.93941475,11.84049106,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-09,07:34
+Treron calvus,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,African Green Pigeon,,1,-13.94054097,11.84049412,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-09,07:40
+Vidua macroura,Animalia,INDIGOBIRDS_AND_WHYDAHS_VIDUIDAE,Pin-tailed Whydah,,1,-13.94302522,11.83997192,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-09,07:53
+Treron calvus,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,African Green Pigeon,,3,-13.94444966,11.83960233,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-09,08:09
+Crithagra mozambica,Animalia,FINCHES_FRINGILLIDAE,Yellow-fronted Canary,,3,-13.9493288,11.84009655,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-09,08:35
+Vidua macroura,Animalia,INDIGOBIRDS_AND_WHYDAHS_VIDUIDAE,Pin-tailed Whydah,,3,-13.94434087,11.84019883,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-09,09:11
+Crithagra mozambica,Animalia,FINCHES_FRINGILLIDAE,Yellow-fronted Canary,,2,-13.92943476,11.833252,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-09,18:19
+Vidua macroura,Animalia,INDIGOBIRDS_AND_WHYDAHS_VIDUIDAE,Pin-tailed Whydah,,1,-13.94052697,11.84072487,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-10,07:17
+Crithagra mozambica,Animalia,FINCHES_FRINGILLIDAE,Yellow-fronted Canary,,1,-13.9458067,11.83988264,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-10,07:24
+Vidua macroura,Animalia,INDIGOBIRDS_AND_WHYDAHS_VIDUIDAE,Pin-tailed Whydah,,1,-13.95285709,11.83976759,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-10,07:41
+Musophaga violacea,Animalia,TURACOS_MUSOPHAGIDAE,Violet Turaco,,3,-13.95828974,11.83998399,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-10,08:12
+Treron calvus,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,African Green Pigeon,,1,-13.95921091,11.8397642,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-10,08:17
+Galerida modesta,Animalia,LARKS_ALAUDIDAE,Sun Lark,,3,-13.96461638,11.83560897,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-10,08:59
+Crithagra mozambica,Animalia,FINCHES_FRINGILLIDAE,Yellow-fronted Canary,,1,-13.96953101,11.83210968,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-10,09:48
+Galerida modesta,Animalia,LARKS_ALAUDIDAE,Sun Lark,,2,-13.95667657,11.84037172,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-10,10:50
+Galerida modesta,Animalia,LARKS_ALAUDIDAE,Sun Lark,,5,-13.95612074,11.84097171,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-10,10:54
+Vidua macroura,Animalia,INDIGOBIRDS_AND_WHYDAHS_VIDUIDAE,Pin-tailed Whydah,,1,-13.95609395,11.84108482,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-10,11:00
+Galerida modesta,Animalia,LARKS_ALAUDIDAE,Sun Lark,,4,-13.95042486,11.83942191,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-10,11:28
+Necrosyrtes monachus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Hooded Vulture,,2,-13.93747595,11.84146471,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-10,12:00
+Dicrurus occidentalis,Animalia,DRONGOS_DICRURIDAE,Western Square-tailed Drongo,,2,-13.97269293,11.84661687,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-11,07:58
+Crithagra mozambica,Animalia,FINCHES_FRINGILLIDAE,Yellow-fronted Canary,,1,-13.97269524,11.84661702,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-11,08:01
+Musophaga violacea,Animalia,TURACOS_MUSOPHAGIDAE,Violet Turaco,,2,-13.97318904,11.84686064,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-11,08:08
+Lophoceros fasciatus,Animalia,HORNBILLS_BUCEROTIDAE,African Pied Hornbill,,1,-13.97417146,11.84751957,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-11,08:30
+Lophoceros fasciatus,Animalia,HORNBILLS_BUCEROTIDAE,African Pied Hornbill,,1,-13.97253273,11.84656935,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-11,08:49
+Lophoceros fasciatus,Animalia,HORNBILLS_BUCEROTIDAE,African Pied Hornbill,,5,-13.97206817,11.84666738,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-11,08:57
+Musophaga violacea,Animalia,TURACOS_MUSOPHAGIDAE,Violet Turaco,,1,-13.97270204,11.84789095,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-11,09:28
+Galerida modesta,Animalia,LARKS_ALAUDIDAE,Sun Lark,,5,-13.95622635,11.84231345,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-11,11:07
+Pternistis bicalcaratus,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Double-spurred Spurfowl,,1,-13.92918216,11.83340225,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-11,17:06
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,1,-13.92182097,11.82627224,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-11,17:31
+Dicrurus occidentalis,Animalia,DRONGOS_DICRURIDAE,Western Square-tailed Drongo,,1,-13.92181881,11.82627214,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-11,17:31
+Galerida modesta,Animalia,LARKS_ALAUDIDAE,Sun Lark,,5,-13.9217319,11.82641608,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-11,17:36
+Crithagra mozambica,Animalia,FINCHES_FRINGILLIDAE,Yellow-fronted Canary,,10,-13.91633561,11.82403006,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-11,17:53
+Galerida modesta,Animalia,LARKS_ALAUDIDAE,Sun Lark,,2,-13.91649672,11.82501447,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-11,17:58
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,1,-13.92833978,11.83288837,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-14,08:16
+Pternistis bicalcaratus,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Double-spurred Spurfowl,,1,-13.92838104,11.83288518,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-14,08:22
+Treron calvus,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,African Green Pigeon,,1,-13.92789271,11.83012681,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-14,08:51
+Lophoceros fasciatus,Animalia,HORNBILLS_BUCEROTIDAE,African Pied Hornbill,,2,-13.93108149,11.83019836,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-14,10:09
+Vidua macroura,Animalia,INDIGOBIRDS_AND_WHYDAHS_VIDUIDAE,Pin-tailed Whydah,,1,-13.92301146,11.82399649,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-14,17:45
+Crithagra mozambica,Animalia,FINCHES_FRINGILLIDAE,Yellow-fronted Canary,,1,-13.91905685,11.81903373,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-14,17:59
+Erythrocebus patas,Animalia,OLD_WORLD_MONKEYS_CERCOPITHECIDAE,Patas Monkey,,4,-13.91908679,11.81911683,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-14,18:00
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,1,-13.9234435,11.80689768,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2015-10-14,18:20
+Galerida modesta,Animalia,LARKS_ALAUDIDAE,Sun Lark,,6,-13.92344326,11.80689786,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2015-10-14,18:20
+Galerida modesta,Animalia,LARKS_ALAUDIDAE,Sun Lark,,1,-13.94358129,11.85213513,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-15,17:30
+Pternistis bicalcaratus,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Double-spurred Spurfowl,,2,-13.93690677,11.84818925,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-15,17:52
+Turdoides plebejus,Animalia,Leiothrichidae,Brown Babbler,,1,-13.93135775,11.84066469,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-16,09:04
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,1,-14.01402359,11.69705055,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2015-10-17,07:28
+Treron calvus,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,African Green Pigeon,,4,-13.925882,11.74822529,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2015-10-18,07:43
+Lophoceros fasciatus,Animalia,HORNBILLS_BUCEROTIDAE,African Pied Hornbill,,1,-13.92854685,11.83216277,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-20,09:45
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,1,-13.93067783,11.83033584,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-20,10:22
+Necrosyrtes monachus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Hooded Vulture,,3,-13.93141142,11.83026618,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-20,10:25
+Lophoceros fasciatus,Animalia,HORNBILLS_BUCEROTIDAE,African Pied Hornbill,,4,-13.94082225,11.84574337,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-21,07:19
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,1,-13.93698524,11.84819911,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-21,07:51
+Lagonosticta senegala,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Red-billed Firefinch,,10,-13.9365814,11.84777433,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-21,07:57
+Turdoides plebejus,Animalia,Leiothrichidae,Brown Babbler,,1,-13.9367237,11.85250207,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-21,08:28
+Pternistis bicalcaratus,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Double-spurred Spurfowl,,2,-13.93736618,11.85331687,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-21,08:47
+Scopus umbretta,Animalia,HAMERKOP_SCOPIDAE,Hamerkop,,1,-13.93725177,11.85338612,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-21,08:49
+Lophoceros fasciatus,Animalia,HORNBILLS_BUCEROTIDAE,African Pied Hornbill,,1,-13.9401499,11.8559556,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-21,09:13
+Necrosyrtes monachus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Hooded Vulture,,3,-13.94313728,11.85671223,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-21,09:29
+Galerida modesta,Animalia,LARKS_ALAUDIDAE,Sun Lark,,3,-13.93682662,11.85275018,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-21,09:45
+Necrosyrtes monachus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Hooded Vulture,,4,-13.93683765,11.85249334,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-21,10:05
+Turdoides plebejus,Animalia,Leiothrichidae,Brown Babbler,,3,-13.93852728,11.85937756,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-21,16:46
+Vidua macroura,Animalia,INDIGOBIRDS_AND_WHYDAHS_VIDUIDAE,Pin-tailed Whydah,,1,-13.93852723,11.85937638,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-21,16:46
+Lophoceros fasciatus,Animalia,HORNBILLS_BUCEROTIDAE,African Pied Hornbill,,2,-13.93728902,11.86015721,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-21,17:44
+Galerida modesta,Animalia,LARKS_ALAUDIDAE,Sun Lark,,3,-13.93728871,11.86015775,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-21,17:45
+Lophoceros fasciatus,Animalia,HORNBILLS_BUCEROTIDAE,African Pied Hornbill,,3,-13.93666992,11.84924169,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-21,17:56
+Musophaga violacea,Animalia,TURACOS_MUSOPHAGIDAE,Violet Turaco,,1,-13.93447811,11.88548516,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-22,14:29
+Lophoceros fasciatus,Animalia,HORNBILLS_BUCEROTIDAE,African Pied Hornbill,,6,-13.93352054,11.83864535,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-23,09:15
+Pternistis bicalcaratus,Animalia,FRANCOLINS_QUAILS_PARTRIDGES_AND_PHEASANTS_PHASIANIDAE,Double-spurred Spurfowl,,1,-13.93092299,11.84083795,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-23,10:24
+Crithagra mozambica,Animalia,FINCHES_FRINGILLIDAE,Yellow-fronted Canary,,1,-13.97731043,11.84792089,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-24,09:35
+Turdoides plebejus,Animalia,Leiothrichidae,Brown Babbler,,2,-13.97219345,11.84661692,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-24,11:52
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,1,-14.07698769,11.85828032,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2015-10-28,10:12
+Scopus umbretta,Animalia,HAMERKOP_SCOPIDAE,Hamerkop,,1,-14.00729047,11.83000271,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2015-10-28,15:51
+Crithagra mozambica,Animalia,FINCHES_FRINGILLIDAE,Yellow-fronted Canary,,1,-13.99786759,11.82326399,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Gabu,2015-10-28,16:03
+Chlorocebus sabaeus,Animalia,OLD_WORLD_MONKEYS_CERCOPITHECIDAE,Green Monkey,,1,-13.96116058,11.83930816,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Dulombi-Boe NP 2,2015-10-28,16:46
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,1,-15.5854797363,11.9802183256,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Oio,2015-10-11,
+Butorides striata,Animalia,HERONS_ARDEIDAE,Striated Heron,,1,-15.5995559692,11.882469803,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Bissau,2015-10-11,
+Euplectes afer,Animalia,WEAVERS_PLOCEIDAE,Yellow-crowned Bishop,,1,-15.5833410099,11.8569140234,Africa,Guinea-Bissau,GW,,Guinea-Bissau,2015-10-06,
+Hirundo lucida,Animalia,SWALLOWS_HIRUNDINIDAE,Red-chested Swallow,,1,-15.583,11.857,Africa,Guinea-Bissau,GW,,Guinea-Bissau,2015-10-06,
+Chroicocephalus cirrocephalus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Grey-headed Gull,,1,-15.57823775,11.85827245,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Bissau,2015-10-06,14:01
+Butorides striata,Animalia,HERONS_ARDEIDAE,Striated Heron,,1,-15.58709998,11.8485607,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Bissau,2015-10-06,15:39
+Chroicocephalus cirrocephalus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Grey-headed Gull,,1,-15.5743358284,11.8632557392,Africa,Guinea-Bissau,GW,,Guinea-Bissau,2015-10-06,
+Daphnis nerii,Animalia,Sphingidae,Oleander Hawk-moth,,1,-15.58,11.862,Africa,Guinea-Bissau,GW,,Guinea-Bissau,2015-10-06,
+Euplectes afer,Animalia,WEAVERS_PLOCEIDAE,Yellow-crowned Bishop,,1,-15.5837917048,11.8564206496,Africa,Guinea-Bissau,GW,,Guinea-Bissau,2015-10-05,
+Chroicocephalus cirrocephalus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Grey-headed Gull,,1,-15.57842832,11.85833954,Africa,Guinea-Bissau,GW,,Guinea-Bissau - Bissau,2015-10-05,15:31
+Butorides striata,Animalia,HERONS_ARDEIDAE,Striated Heron,,1,-15.57934068,11.85772109,Africa,Guinea-Bissau,GW,,Guinea-Bissau,2015-10-05,16:52
+Hirundo smithii,Animalia,SWALLOWS_HIRUNDINIDAE,Wire-tailed Swallow,,1,-15.5796832,11.8624173,Africa,Guinea-Bissau,GW,,Guinea-Bissau,2015-10-04,10:32
+Chroicocephalus cirrocephalus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Grey-headed Gull,,1,-15.57895647,11.85802298,Africa,Guinea-Bissau,GW,,Guinea-Bissau,2015-10-04,13:10
+Hirundo lucida,Animalia,SWALLOWS_HIRUNDINIDAE,Red-chested Swallow,,1,-15.57707383,11.86063657,Africa,Guinea-Bissau,GW,,Guinea-Bissau,2015-10-04,13:27

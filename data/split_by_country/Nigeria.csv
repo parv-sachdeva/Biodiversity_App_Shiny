@@ -1,0 +1,927 @@
+scientificName,kingdom,family,vernacularName,previousIdentifications,individualCount,longitudeDecimal,latitudeDecimal,continent,country,countryCode,stateProvince,locality,eventDate,eventTime
+Ardea cinerea cinerea,Animalia,HERONS_ARDEIDAE,Grey Heron ssp cinerea,,1,7.5088,9.0783,Africa,Nigeria,NG,,Nigeria - Bwari,2015-02-07,16:14
+Phalacrocorax lucidus,Animalia,CORMORANTS_PHALACROCORACIDAE,White-breasted Cormorant,,1,6.748,7.8102,Africa,Nigeria,NG,,Nigeria - Lokoja,2014-11-24,09:35
+Pycnonotus barbatus,Animalia,BULBULS_PYCNONOTIDAE,Common Bulbul,,2,7.5118,9.0776,Africa,Nigeria,NG,,Nigeria - Bwari,2014-11-22,17:19
+Tetrathemis polleni,Animalia,SKIMMERS_LIBELLULIDAE,Black-splashed Elf,,1,7.49838352203,9.06989032451,Africa,Nigeria,NG,,Nigeria - Abuja Municipal,2014-02-18,
+Falco alopex,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Fox Kestrel,,6,7.50250339508,9.06959367304,Africa,Nigeria,NG,,Nigeria - Bwari,2014-02-18,
+Palpopleura portia,Animalia,SKIMMERS_LIBELLULIDAE,Portia Widow,,1,7.49868392944,9.07090741341,Africa,Nigeria,NG,,Nigeria - Abuja Municipal,2014-02-18,
+Trithemis annulata,Animalia,SKIMMERS_LIBELLULIDAE,Violet Dropwing,,1,7.49868392944,9.07090741341,Africa,Nigeria,NG,,Nigeria - Abuja Municipal,2014-02-18,
+Tetrathemis polleni,Animalia,SKIMMERS_LIBELLULIDAE,Black-splashed Elf,,5,7.49915599823,9.0707378988,Africa,Nigeria,NG,,Nigeria - Abuja Municipal,2014-02-18,
+Trithemis arteriosa,Animalia,SKIMMERS_LIBELLULIDAE,Red-veined Dropwing,,1,7.49834060669,9.07107692795,Africa,Nigeria,NG,,Nigeria - Abuja Municipal,2014-02-18,
+Ceriagrion glabrum,Animalia,POND_DAMSELS_COENAGRIONIDAE,Common Orange,,1,7.49834060669,9.07107692795,Africa,Nigeria,NG,,Nigeria - Abuja Municipal,2014-02-18,
+Halcyon leucocephala,Animalia,KINGFISHERS_ALCEDINIDAE,Grey-headed Kingfisher,,1,7.49834060669,9.07107692795,Africa,Nigeria,NG,,Nigeria - Abuja Municipal,2014-02-18,
+Aviceda cuculoides,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,African Cuckoo-Hawk,,1,7.49937057495,9.07192449944,Africa,Nigeria,NG,,Nigeria - Abuja Municipal,2014-02-17,
+Corvus albus,Animalia,CROWS_AND_JAYS_CORVIDAE,Pied Crow,,5,7.49937057495,9.07192449944,Africa,Nigeria,NG,,Nigeria - Abuja Municipal,2014-02-17,
+Milvus aegyptius,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Yellow-billed Kite,,10,7.49937057495,9.07192449944,Africa,Nigeria,NG,,Nigeria - Abuja Municipal,2014-02-17,
+Corvinella corvina,Animalia,SHRIKES_LANIIDAE,Yellow-billed Shrike,,1,7.49937057495,9.07192449944,Africa,Nigeria,NG,,Nigeria - Abuja Municipal,2014-02-17,
+Falco tinnunculus,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Common Kestrel,,1,3.89207839966,7.49523881073,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2012-11-11,
+Falco ardosiaceus,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Grey Kestrel,,2,3.89207839966,7.49523881073,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2012-11-11,
+Dendrocygna viduata,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,White-faced Whistling Duck,,1,3.89207839966,7.49523881073,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2012-11-11,
+Macheiramphus alcinus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Bat Hawk,,2,3.89207839966,7.49523881073,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2012-11-11,
+Malimbus rubricollis,Animalia,WEAVERS_PLOCEIDAE,Red-headed Malimbe,,1,3.89207839966,7.49523881073,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2012-11-11,
+Lamprotornis splendidus,Animalia,STARLINGS_STURNIDAE,Splendid Starling,,1,3.89207839966,7.49523881073,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2012-11-11,
+Rostratula benghalensis,Animalia,PAINTED_SNIPES_ROSTRATULIDAE,Greater Painted-snipe,,1,3.90083312988,7.48911176019,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2012-11-10,
+Thamnolaea coronata,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,White-crowned Cliff Chat,,1,9.00787350722,9.87253436706,Africa,Nigeria,NG,,Nigeria - Jos East,2013-11-25,
+Emberiza goslingi,Animalia,BUNTINGS_EMBERIZIDAE,Gosling's Bunting,,1,9.077717993974169,9.860401153564453,Africa,Nigeria,NG,,Nigeria - Jos East,2013-11-13,
+Emberiza goslingi,Animalia,BUNTINGS_EMBERIZIDAE,Gosling's Bunting,,1,9.05593869276,9.90500367962,Africa,Nigeria,NG,,Nigeria - Jos East,2013-11-08,
+Thamnolaea coronata,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,White-crowned Cliff Chat,,1,9.04083249159,9.83059009986,Africa,Nigeria,NG,,Nigeria - Jos East,2013-11-06,
+Emberiza goslingi,Animalia,BUNTINGS_EMBERIZIDAE,Gosling's Bunting,,1,9.04083249159,9.83059009986,Africa,Nigeria,NG,,Nigeria - Jos East,2013-11-06,
+Emberiza goslingi,Animalia,BUNTINGS_EMBERIZIDAE,Gosling's Bunting,,1,9.06692502089,9.89959235036,Africa,Nigeria,NG,,Nigeria - Jos East,2013-11-04,
+Emberiza goslingi,Animalia,BUNTINGS_EMBERIZIDAE,Gosling's Bunting,,2,9.0943908412,9.87659320648,Africa,Nigeria,NG,,Nigeria - Jos East,2013-11-01,
+Emberiza goslingi,Animalia,BUNTINGS_EMBERIZIDAE,Gosling's Bunting,,1,9.07241818495,9.87118140947,Africa,Nigeria,NG,,Nigeria - Jos East,2013-11-01,
+Emberiza goslingi,Animalia,BUNTINGS_EMBERIZIDAE,Gosling's Bunting,,1,9.05731198378,9.90365085567,Africa,Nigeria,NG,,Nigeria - Jos East,2013-11-01,
+Emberiza goslingi,Animalia,BUNTINGS_EMBERIZIDAE,Gosling's Bunting,,1,9.06509399414,9.90933267465,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-30,
+Thamnolaea coronata,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,White-crowned Cliff Chat,,1,9.05960083008,9.90392141677,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-30,
+Emberiza goslingi,Animalia,BUNTINGS_EMBERIZIDAE,Gosling's Bunting,,1,8.99002072401,9.93341169304,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-28,
+Emberiza goslingi,Animalia,BUNTINGS_EMBERIZIDAE,Gosling's Bunting,,2,9.07379147597,9.86171055069,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-25,
+Thamnolaea coronata,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,White-crowned Cliff Chat,,1,9.03945920058,9.90094519104,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-25,
+Emberiza goslingi,Animalia,BUNTINGS_EMBERIZIDAE,Gosling's Bunting,,1,9.05456540175,9.90365085567,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-25,
+Thamnolaea coronata,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,White-crowned Cliff Chat,,1,9.14245602675,9.80713505662,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-21,
+Emberiza goslingi,Animalia,BUNTINGS_EMBERIZIDAE,Gosling's Bunting,,1,9.00100705214,9.91312050617,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-23,
+Thamnolaea coronata,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,White-crowned Cliff Chat,,1,9.00100705214,9.91312050617,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-23,
+Thamnolaea coronata,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,White-crowned Cliff Chat,,1,9.04449462891,9.89174576038,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-21,
+Thamnolaea coronata,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,White-crowned Cliff Chat,,2,9.15208339691,9.849803938,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-21,
+Thamnolaea coronata,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,White-crowned Cliff Chat,,1,9.06555172987,9.87794614183,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-21,06:43
+Emberiza goslingi,Animalia,BUNTINGS_EMBERIZIDAE,Gosling's Bunting,,2,9.15208339691,9.849803938,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-21,
+Emberiza goslingi,Animalia,BUNTINGS_EMBERIZIDAE,Gosling's Bunting,,1,9.04632565565,9.90635649799,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-21,
+Thamnolaea coronata,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,White-crowned Cliff Chat,,1,9.04632565565,9.90635649799,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-21,
+Emberiza goslingi,Animalia,BUNTINGS_EMBERIZIDAE,Gosling's Bunting,,1,9.06417843886,9.90658195342,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-17,
+Thamnolaea coronata,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,White-crowned Cliff Chat,,1,9.03396603651,9.94558580128,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-15,
+Emberiza goslingi,Animalia,BUNTINGS_EMBERIZIDAE,Gosling's Bunting,,3,9.06143185683,9.77375389836,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-16,
+Thamnolaea coronata,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,White-crowned Cliff Chat,,3,9.06143185683,9.77375389836,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-16,
+Emberiza goslingi,Animalia,BUNTINGS_EMBERIZIDAE,Gosling's Bunting,,1,9.08065793104,9.87118140947,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-14,06:45
+Thamnolaea coronata,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,White-crowned Cliff Chat,,2,9.07608032227,9.8673930945,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-14,
+Emberiza goslingi,Animalia,BUNTINGS_EMBERIZIDAE,Gosling's Bunting,,1,9.13560390472,9.86604011579,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-14,
+Thamnolaea coronata,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,White-crowned Cliff Chat,,1,9.06005856581,9.91526240612,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-14,
+Emberiza goslingi,Animalia,BUNTINGS_EMBERIZIDAE,Gosling's Bunting,,1,9.09255981445,9.86468713151,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-11,
+Thamnolaea coronata,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,White-crowned Cliff Chat,,1,8.98544311523,9.78079128524,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-07,
+Emberiza goslingi,Animalia,BUNTINGS_EMBERIZIDAE,Gosling's Bunting,,1,8.98544311523,9.78079128524,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-07,
+Platysteira castanea,Animalia,WATTLEEYES_BATISES_PLATYSTEIRIDAE,Chestnut Wattle-eye,,1,9.05456540175,9.90714563259,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-11,
+Emberiza goslingi,Animalia,BUNTINGS_EMBERIZIDAE,Gosling's Bunting,,5,9.077717993974169,9.860401153564453,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-11,
+Emberiza goslingi,Animalia,BUNTINGS_EMBERIZIDAE,Gosling's Bunting,,1,9.05319211073,9.91390962449,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-11,
+Emberiza goslingi,Animalia,BUNTINGS_EMBERIZIDAE,Gosling's Bunting,,1,9.17770385742,9.83086072098,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-11,
+Emberiza goslingi,Animalia,BUNTINGS_EMBERIZIDAE,Gosling's Bunting,,3,8.98818969727,9.93232952402,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-09,
+Thamnolaea coronata,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,White-crowned Cliff Chat,,4,8.98818969727,9.93232952402,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-09,
+Emberiza goslingi,Animalia,BUNTINGS_EMBERIZIDAE,Gosling's Bunting,,1,9.07379147597,9.90308717049,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-09,
+Emberiza goslingi,Animalia,BUNTINGS_EMBERIZIDAE,Gosling's Bunting,,1,9.07516476698,9.90714563259,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-09,
+Ploceus tricolor,Animalia,WEAVERS_PLOCEIDAE,Yellow-mantled Weaver,,8,3.91001344076,7.49621742887,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2012-09-27,
+Malimbus rubricollis,Animalia,WEAVERS_PLOCEIDAE,Red-headed Malimbe,,8,3.91001344076,7.49621742887,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2012-09-27,
+Vanellus albiceps,Animalia,PLOVERS_CHARADRIIDAE,White-crowned Lapwing,,8,3.91150474898,7.49286671631,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2012-09-27,
+Aviceda cuculoides,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,African Cuckoo-Hawk,,1,3.88764381758,7.5030676943,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2012-09-28,
+Dicrurus atactus,Animalia,DRONGOS_DICRURIDAE,Fanti Drongo,,1,3.90551805453,7.49759600131,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2012-09-28,
+Emberiza goslingi,Animalia,BUNTINGS_EMBERIZIDAE,Gosling's Bunting,,1,9.06967160292,9.90443999677,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-08,
+Emberiza goslingi,Animalia,BUNTINGS_EMBERIZIDAE,Gosling's Bunting,,1,9.11911007948,9.90229802614,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-04,
+Thamnolaea coronata,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,White-crowned Cliff Chat,,1,9.0705871582,9.87551085007,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-04,
+Thamnolaea coronata,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,White-crowned Cliff Chat,,1,9.0705871582,9.87551085007,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-04,
+Thamnolaea coronata,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,White-crowned Cliff Chat,,2,9.06280514784,9.87929907161,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-04,08:00
+Thamnolaea coronata,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,White-crowned Cliff Chat,,3,9.0504455287,9.89580436267,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-04,08:00
+Emberiza goslingi,Animalia,BUNTINGS_EMBERIZIDAE,Gosling's Bunting,,1,9.02389526367,9.85386305739,Africa,Nigeria,NG,,Nigeria - Jos East,2013-10-02,
+Thamnolaea coronata,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,White-crowned Cliff Chat,,1,8.98012161255,9.8771597447,Africa,Nigeria,NG,,Nigeria - Jos East,2013-09-29,
+Milvus aegyptius,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Yellow-billed Kite,,15,3.8988482952118,7.4934996306612,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-06-15,08:02
+Malimbus rubricollis,Animalia,WEAVERS_PLOCEIDAE,Red-headed Malimbe,,8,3.910950422287,7.4970737179475,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-06-15,08:02
+Porphyrio alleni,Animalia,RAILS_RALLIDAE,Allen's Gallinule,,5,3.8955545425415,7.4982172069414,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-06-15,05:02
+Falco tinnunculus,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Common Kestrel,,2,3.8931083679199,7.4926858834746,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-06-15,05:02
+Centropus senegalensis,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,Senegal Coucal,,5,3.9117980003357,7.4958557659023,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-06-15,09:02
+Cuculus clamosus gabonensis,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,Black Cuckoo ssp gabonensis,,1,3.9117980003357,7.4958557659023,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-06-15,09:02
+Actophilornis africanus,Animalia,JACANAS_JACANIDAE,African Jacana,,10,3.8978934288025,7.4864098737236,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-06-15,04:35
+Gallinula chloropus,Animalia,RAILS_RALLIDAE,Common Moorhen,,1,3.8978934288025,7.4864098737236,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-06-15,04:35
+Amaurornis flavirostra,Animalia,RAILS_RALLIDAE,Black Crake,,2,3.8978934288025,7.4864098737236,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-06-15,04:35
+Dendrocygna viduata,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,White-faced Whistling Duck,,150,3.910768032074,7.4978129972217,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-06-15,08:35
+Vanellus spinosus,Animalia,PLOVERS_CHARADRIIDAE,Spur-winged Lapwing,,7,3.8966274261475,7.4964301716582,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-06-15,04:35
+Ploceus tricolor,Animalia,WEAVERS_PLOCEIDAE,Yellow-mantled Weaver,,5,3.9119911193848,7.4970258509009,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-06-15,07:00
+Ploceus cucullatus,Animalia,WEAVERS_PLOCEIDAE,Village Weaver,,95,3.8976075179800946,7.4950683496485,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-06-15,07:00
+Malimbus rubricollis,Animalia,WEAVERS_PLOCEIDAE,Red-headed Malimbe,,8,3.9114761352539,7.4974087871266,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-06-15,07:00
+Emberiza goslingi,Animalia,BUNTINGS_EMBERIZIDAE,Gosling's Bunting,,1,8.9784908294678,9.8750880552373,Africa,Nigeria,NG,,Nigeria - Jos East,2013-05-12,06:00
+Thamnolaea coronata,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,White-crowned Cliff Chat,,1,8.9777183532715,9.875426291143,Africa,Nigeria,NG,,Nigeria - Jos East,2013-05-12,06:00
+Thamnolaea coronata,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,White-crowned Cliff Chat,,1,8.9745426177979,9.8734814299384,Africa,Nigeria,NG,,Nigeria - Jos East,2013-05-12,06:00
+Falco ardosiaceus,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Grey Kestrel,,3,3.9233636856079,7.5533989387917,Africa,Nigeria,NG,,Nigeria - Akinyele,2013-05-05,06:50
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,1,3.9233636856079,7.5533989387917,Africa,Nigeria,NG,,Nigeria - Akinyele,2013-05-05,06:50
+Ploceus tricolor,Animalia,WEAVERS_PLOCEIDAE,Yellow-mantled Weaver,,1,3.9233636856079,7.5533989387917,Africa,Nigeria,NG,,Nigeria - Akinyele,2013-05-05,06:50
+Lamprotornis splendidus,Animalia,STARLINGS_STURNIDAE,Splendid Starling,,1,3.9235353469849,7.5533563958311,Africa,Nigeria,NG,,Nigeria - Akinyele,2013-05-05,06:50
+Kaupifalco monogrammicus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Lizard Buzzard,,1,3.9235353469849,7.5533563958311,Africa,Nigeria,NG,,Nigeria - Akinyele,2013-05-05,06:50
+Aviceda cuculoides,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,African Cuckoo-Hawk,,1,3.8976075179800946,7.4950683496485,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-06,06:45
+Ardea alba,Animalia,HERONS_ARDEIDAE,Great Egret,,1,3.8976075179800946,7.4950683496485,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-06,06:45
+Oriolus brachyrhynchus,Animalia,ORIOLES_AND_FIG_BIRDS_ORIOLIDAE,Western oriole,,1,3.8976075179800946,7.4950683496485,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-06,06:45
+Actophilornis africanus,Animalia,JACANAS_JACANIDAE,African Jacana,,1,3.8976075179800946,7.4950683496485,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-06,06:45
+Kaupifalco monogrammicus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Lizard Buzzard,,1,3.8976075179800946,7.4950683496485,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-06,06:45
+Bostrychia hagedash,Animalia,IBISSES_AND_SPOONBILLS_THRESKIORNITHIDAE,Hadada Ibis,,1,3.8976075179800946,7.4950683496485,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-06,06:45
+Ploceus cucullatus,Animalia,WEAVERS_PLOCEIDAE,Village Weaver,,1,3.8976075179800946,7.4950683496485,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-06,06:45
+Chrysococcyx cupreus,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,African Emerald Cuckoo,,1,3.8976075179800946,7.4950683496485,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-06,06:45
+Falco ardosiaceus,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Grey Kestrel,,2,3.8976075179800946,7.4950683496485,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-06,06:45
+Malimbus rubricollis,Animalia,WEAVERS_PLOCEIDAE,Red-headed Malimbe,,2,3.8934516906738,7.4866438960482,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-06,06:45
+Centropus senegalensis,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,Senegal Coucal,,2,3.8934516906738,7.4866438960482,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-06,06:45
+Cuculus clamosus,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,Black Cuckoo,,1,3.8934516906738,7.4866438960482,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-06,06:45
+Vanellus albiceps,Animalia,PLOVERS_CHARADRIIDAE,White-crowned Lapwing,,1,3.8934516906738,7.4866438960482,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-06,06:45
+Vanellus spinosus,Animalia,PLOVERS_CHARADRIIDAE,Spur-winged Lapwing,,1,3.8934516906738,7.4866438960482,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-06,06:45
+Malimbus rubricollis,Animalia,WEAVERS_PLOCEIDAE,Red-headed Malimbe,,1,3.8976075179800946,7.4950683496485,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-05,16:30
+Burhinus senegalensis,Animalia,THICKKNEES_BURHINIDAE,Senegal Thick-knee,,1,3.8976075179800946,7.4950683496485,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-05,16:30
+Vanellus spinosus,Animalia,PLOVERS_CHARADRIIDAE,Spur-winged Lapwing,,7,3.8971719145775,7.4891968587009,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-08,08:40
+Actophilornis africanus,Animalia,JACANAS_JACANIDAE,African Jacana,,1,3.8971719145775,7.4891968587009,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-08,08:17
+Burhinus senegalensis,Animalia,THICKKNEES_BURHINIDAE,Senegal Thick-knee,,2,3.8971719145775,7.4891968587009,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-08,08:15
+Vanellus spinosus,Animalia,PLOVERS_CHARADRIIDAE,Spur-winged Lapwing,,9,3.8971719145775,7.4891968587009,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-08,08:20
+Vanellus albiceps,Animalia,PLOVERS_CHARADRIIDAE,White-crowned Lapwing,,1,3.8976075179800946,7.4950683496485,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-05,16:30
+Vanellus spinosus,Animalia,PLOVERS_CHARADRIIDAE,Spur-winged Lapwing,,1,3.8976075179800946,7.4950683496485,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-05,16:30
+Falco tinnunculus,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Common Kestrel,,1,3.8976075179800946,7.4950683496485,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-05,16:30
+Actophilornis africanus,Animalia,JACANAS_JACANIDAE,African Jacana,,1,3.8976075179800946,7.4950683496485,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-05,16:30
+Rostratula benghalensis,Animalia,PAINTED_SNIPES_ROSTRATULIDAE,Greater Painted-snipe,,1,3.8976075179800946,7.4950683496485,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-05,16:30
+Rostratula benghalensis,Animalia,PAINTED_SNIPES_ROSTRATULIDAE,Greater Painted-snipe,,2,3.8976075179800946,7.4950683496485,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-05,16:30
+Gallinula chloropus,Animalia,RAILS_RALLIDAE,Common Moorhen,,1,3.8976075179800946,7.4950683496485,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-05,16:30
+Amaurornis flavirostra,Animalia,RAILS_RALLIDAE,Black Crake,,1,3.8976075179800946,7.4950683496485,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-05,16:30
+Dendrocygna viduata,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,White-faced Whistling Duck,,1,3.8976075179800946,7.4950683496485,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-05,16:30
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,1,3.9177417755127,7.5499529454188,Africa,Nigeria,NG,,Nigeria - Akinyele,2013-05-04,
+Cuculus clamosus,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,Black Cuckoo,,1,3.9171409606934,7.5499529454188,Africa,Nigeria,NG,,Nigeria - Akinyele,2013-05-04,15:30
+Oriolus brachyrhynchus,Animalia,ORIOLES_AND_FIG_BIRDS_ORIOLIDAE,Western oriole,,1,3.9171409606934,7.5499529454188,Africa,Nigeria,NG,,Nigeria - Akinyele,2013-05-04,15:30
+Platysteira castanea,Animalia,WATTLEEYES_BATISES_PLATYSTEIRIDAE,Chestnut Wattle-eye,,1,3.888988494873,7.4938772513883,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-04,06:30
+Vanellus albiceps,Animalia,PLOVERS_CHARADRIIDAE,White-crowned Lapwing,,1,3.888988494873,7.4938772513883,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-04,06:30
+Rostratula benghalensis,Animalia,PAINTED_SNIPES_ROSTRATULIDAE,Greater Painted-snipe,,3,3.888988494873,7.4938772513883,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-04,06:30
+Gallinula chloropus,Animalia,RAILS_RALLIDAE,Common Moorhen,,1,3.888988494873,7.4938772513883,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-04,06:30
+Vanellus spinosus,Animalia,PLOVERS_CHARADRIIDAE,Spur-winged Lapwing,,1,3.8976075179800946,7.4950683496485,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-04,06:30
+Bubulcus ibis,Animalia,HERONS_ARDEIDAE,Western Cattle Egret,,1,3.8976075179800946,7.4950683496485,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-04,06:30
+Ploceus tricolor,Animalia,WEAVERS_PLOCEIDAE,Yellow-mantled Weaver,,10,3.8915634155273,7.4928560790903,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-04,06:30
+Chrysococcyx cupreus,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,African Emerald Cuckoo,,1,3.8915634155273,7.4928560790903,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-04,06:30
+Cuculus clamosus,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,Black Cuckoo,,3,3.8976075179800946,7.4950683496485,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-04,06:30
+Vanellus spinosus,Animalia,PLOVERS_CHARADRIIDAE,Spur-winged Lapwing,,1,3.8976075179800946,7.4950683496485,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-03,14:00
+Amaurornis flavirostra,Animalia,RAILS_RALLIDAE,Black Crake,,3,3.8976075179800946,7.4950683496485,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-03,14:00
+Chrysococcyx cupreus,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,African Emerald Cuckoo,,1,3.8976075179800946,7.4950683496485,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-03,14:00
+Cuculus clamosus,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,Black Cuckoo,,2,3.8976075179800946,7.4950683496485,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-03,14:00
+Rostratula benghalensis,Animalia,PAINTED_SNIPES_ROSTRATULIDAE,Greater Painted-snipe,,1,3.8976075179800946,7.4950683496485,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-03,14:00
+Rostratula benghalensis,Animalia,PAINTED_SNIPES_ROSTRATULIDAE,Greater Painted-snipe,,2,3.8976075179800946,7.4950683496485,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-03,14:00
+Dendrocygna viduata,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,White-faced Whistling Duck,,100,3.8976075179800946,7.4950683496485,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-03,14:00
+Sarcocephalus latifolius,Plantae,RUBIACEAE,Sierra Leone-peach,,1,3.9079570770264,7.5025571192263,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2011-09-11,11:13
+Sarcocephalus latifolius,Plantae,RUBIACEAE,Sierra Leone-peach,,1,3.9079570770264,7.5025571192263,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2011-09-11,11:14
+Sarcocephalus latifolius,Plantae,RUBIACEAE,Sierra Leone-peach,,1,3.9095020294189,7.5027273109829,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2011-09-09,11:11
+Rauvolfia vomitoria,Plantae,APOCYNACEAE,Swizzle-stick-tree,,1,3.8884735107422,7.5003446203321,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2011-08-30,11:55
+Newbouldia laevis,Plantae,BIGNONIACEAE,,,1,3.8816070556641,7.4928560790903,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2012-05-02,17:30
+Holarrhena floribunda,Plantae,APOCYNACEAE,False rubbertree,,1,3.8901042938232,7.5003446203321,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2012-02-27,08:36
+Funtumia elastica,Plantae,APOCYNACEAE,Ive-rubber,,1,3.8858985900879,7.4968556569147,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2012-02-23,22:26
+Cardiospermum grandiflorum,Plantae,SAPINDACEAE,Showy balloonvine,,1,3.8976075179800946,7.4950683496485,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2011-08-30,11:14
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,1,10.49772734846341,9.787130000000076,Africa,Nigeria,NG,,Nigeria - Yankari Forest Reserve,2005-03-06,
+Emberiza goslingi,Animalia,BUNTINGS_EMBERIZIDAE,Gosling's Bunting,,1,8.9782333374023,9.8729740729518,Africa,Nigeria,NG,,Nigeria - Jos East,2011-10-02,
+Cercopithecus mona,Animalia,OLD_WORLD_MONKEYS_CERCOPITHECIDAE,Mona Monkey,,50,3.5354237258434,6.439793173776,Africa,Nigeria,NG,,Nigeria - Lekki Conservation Centre,2013-04-01,10:30
+Thescelocichla leucopleura,Animalia,BULBULS_PYCNONOTIDAE,Swamp Palm Bulbul,,4,3.5358099639416,6.440901931116,Africa,Nigeria,NG,,Nigeria - Lekki Conservation Centre,2013-04-01,10:30
+Merops albicollis,Animalia,BEEEATERS_MEROPIDAE,White-throated Bee-eater,,30,3.5353808104992,6.4330979337725,Africa,Nigeria,NG,,Nigeria - Lekki Conservation Centre,2013-04-01,07:30
+Milvus aegyptius,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Yellow-billed Kite,,20,3.5358418151736,6.4417548197294,Africa,Nigeria,NG,,Nigeria - Lekki Conservation Centre,2013-04-01,08:00
+Lamprotornis splendidus,Animalia,STARLINGS_STURNIDAE,Splendid Starling,,15,3.5358418151736,6.4417548197294,Africa,Nigeria,NG,,Nigeria - Lekki Conservation Centre,2013-04-01,07:04
+Lonchura cucullata,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Bronze Mannikin,,10,3.5366893932223,6.4323196597033,Africa,Nigeria,NG,,Nigeria - Lekki Conservation Centre,2013-04-01,07:45
+Malimbus scutatus scutopartitus,Animalia,WEAVERS_PLOCEIDAE,Red-vented Malimbe ssp scutopartitus,,4,3.8847975432873,7.4979619166357,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,09:38
+Malimbus rubricollis,Animalia,WEAVERS_PLOCEIDAE,Red-headed Malimbe,,4,3.8834671676159,7.4913243161551,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-20,08:06
+Ploceus tricolor,Animalia,WEAVERS_PLOCEIDAE,Yellow-mantled Weaver,,2,3.8903912901878,7.5011104866071,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-18,15:57
+Lamprotornis splendidus,Animalia,STARLINGS_STURNIDAE,Splendid Starling,,20,3.9015492796898,7.4942176416222,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,09:00
+Dicrurus atactus,Animalia,DRONGOS_DICRURIDAE,Fanti Drongo,,1,3.884754627943,7.4966429143384,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,10:15
+Oriolus brachyrhynchus,Animalia,ORIOLES_AND_FIG_BIRDS_ORIOLIDAE,Western oriole,,1,3.8845843076706,7.4908137273134,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-20,08:14
+Corvinella corvina,Animalia,SHRIKES_LANIIDAE,Yellow-billed Shrike,,3,3.8962277770042,7.5028124068362,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-20,09:32
+Hirundo aethiopica,Animalia,SWALLOWS_HIRUNDINIDAE,Ethiopian Swallow,,20,3.902392834425,7.4908562764064,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,18:04
+Pogoniulus scolopaceus,Animalia,Lybiidae,Speckled Tinkerbird,,1,3.8858422636986,7.4968556569147,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,
+Centropus senegalensis,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,Senegal Coucal,,1,3.8942818343639,7.4961323317312,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-20,08:06
+Vanellus albiceps,Animalia,PLOVERS_CHARADRIIDAE,White-crowned Lapwing,,6,3.8960413634777,7.4959195888015,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,17:30
+Vanellus spinosus,Animalia,PLOVERS_CHARADRIIDAE,Spur-winged Lapwing,,10,3.8959984481335,7.4960046859859,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,17:39
+Burhinus senegalensis,Animalia,THICKKNEES_BURHINIDAE,Senegal Thick-knee,,8,3.8959984481335,7.4960046859859,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,17:39
+Gallinula chloropus,Animalia,RAILS_RALLIDAE,Common Moorhen,,2,3.900590389967,7.4896649002319,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,17:48
+Amaurornis flavirostra,Animalia,RAILS_RALLIDAE,Black Crake,,2,3.8911637663841,7.4987277871034,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,08:01
+Milvus aegyptius,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Yellow-billed Kite,,30,3.8982877135277,7.4886011687526,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-20,11:00
+Milvus aegyptius,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Yellow-billed Kite,,1,3.8938245177269,7.4873246875508,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-20,10:00
+Bubulcus ibis,Animalia,HERONS_ARDEIDAE,Western Cattle Egret,,20,3.9015486091375,7.4907711782162,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,17:30
+Ardea alba,Animalia,HERONS_ARDEIDAE,Great Egret,,4,3.8947250694036,7.4986001421191,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,07:48
+Ploceus tricolor,Animalia,WEAVERS_PLOCEIDAE,Yellow-mantled Weaver,,10,3.8905481994152,7.5009828423215,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-18,15:57
+Malimbus rubricollis,Animalia,WEAVERS_PLOCEIDAE,Red-headed Malimbe,,4,3.90380166471,7.4987277871034,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-18,15:55
+Milvus aegyptius,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Yellow-billed Kite,,30,3.8857416808605,7.4969407539161,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,12:30
+Macheiramphus alcinus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Bat Hawk,,1,3.8854841887951,7.4993660114639,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-20,08:00
+Falco tinnunculus,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Common Kestrel,,1,3.9009337127209,7.4906435308998,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-20,17:30
+Amaurornis flavirostra,Animalia,RAILS_RALLIDAE,Black Crake,,2,3.8909344375134,7.4990256252548,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,08:00
+Elanus caeruleus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Black-winged Kite,,1,3.901705853641,7.4908137273134,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,18:00
+Tringa glareola,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Wood Sandpiper,,15,3.9022137969732,7.4914094142373,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,17:47
+Dendrocygna viduata,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,White-faced Whistling Duck,,200,3.9022137969732,7.4914094142373,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,17:59
+Ploceus cucullatus,Animalia,WEAVERS_PLOCEIDAE,Village Weaver,,300,3.8983299583197,7.4864736980064,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,12:08
+Vanellus albiceps,Animalia,PLOVERS_CHARADRIIDAE,White-crowned Lapwing,,4,3.8933088630438,7.5009615682703,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,07:55
+Vanellus spinosus,Animalia,PLOVERS_CHARADRIIDAE,Spur-winged Lapwing,,6,3.8933088630438,7.5009615682703,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,07:54
+Falco ardosiaceus,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Grey Kestrel,,1,3.8921501487494,7.5018338035179,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,18:06
+Actophilornis africanus,Animalia,JACANAS_JACANIDAE,African Jacana,,4,3.8916210830212,7.5013232269998,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,07:59
+Actophilornis africanus,Animalia,JACANAS_JACANIDAE,African Jacana,,6,3.8921501487494,7.5018338035179,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,07:58
+Aviceda cuculoides,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,African Cuckoo-Hawk,,2,3.8919858634472,7.4869204677243,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-20,07:25
+Chrysococcyx cupreus,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,African Emerald Cuckoo,,3,3.8848404586315,7.4980895618072,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-20,08:42
+Milvus aegyptius,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Yellow-billed Kite,,30,3.8936810195446,7.499110721832,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-18,15:13
+Adenia cissampeloides,Plantae,PASSIFLORACEAE,,,1,3.8886880874634,7.4866013465439,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2012-04-04,11:53
+Mussaenda elegans,Plantae,RUBIACEAE,,,1,3.8852119445801,7.4946856777596,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2012-04-07,10:27
+Motacilla flava flava,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Blue-headed Wagtail,,1,5.1949024200439,5.6120565451225,Africa,Nigeria,NG,,Nigeria - Warri South-West,2013-03-17,17:30
+Milvus aegyptius,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Yellow-billed Kite,,2,3.5356486961246,6.4325542081784,Africa,Nigeria,NG,,Nigeria - Lekki Conservation Centre,2013-03-17,09:23
+Merops albicollis,Animalia,BEEEATERS_MEROPIDAE,White-throated Bee-eater,,1,3.5357559844851,6.4325328855942,Africa,Nigeria,NG,,Nigeria - Lekki Conservation Centre,2013-03-17,09:23
+Merops albicollis,Animalia,BEEEATERS_MEROPIDAE,White-throated Bee-eater,,6,3.5354019328952,6.4317759332765,Africa,Nigeria,NG,,Nigeria - Eti-Osa,2013-03-17,08:42
+Vidua macroura,Animalia,INDIGOBIRDS_AND_WHYDAHS_VIDUIDAE,Pin-tailed Whydah,,1,3.5367430374026,6.43238362748,Africa,Nigeria,NG,,Nigeria - Eti-Osa,2013-03-17,09:14
+Prinia subflava,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Tawny-flanked Prinia,,1,3.5366572067142,6.4394946617706,Africa,Nigeria,NG,,Nigeria - Eti-Osa,2013-03-17,08:17
+Actophilornis africanus,Animalia,JACANAS_JACANIDAE,African Jacana,,1,3.5366572067142,6.4394946617706,Africa,Nigeria,NG,,Nigeria - Eti-Osa,2013-03-17,07:49
+Lonchura cucullata,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Bronze Mannikin,,6,3.5347082465887,6.4337162876627,Africa,Nigeria,NG,,Nigeria - Eti-Osa,2013-03-17,08:15
+Turdoides gilberti,Animalia,Leiothrichidae,White-throated Mountain Babbler,,4,9.3759834766388,6.3835099052026,Africa,Nigeria,NG,,Nigeria - Obanliku,2012-06-26,09:22
+Corvus albus,Animalia,CROWS_AND_JAYS_CORVIDAE,Pied Crow,,10,5.1973485946655,5.6125263510205,Africa,Nigeria,NG,,Nigeria - Warri South-West,2013-03-15,
+Lonchura cucullata,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Bronze Mannikin,,1,5.1910400390625,5.6131456400349,Africa,Nigeria,NG,,Nigeria - Warri South-West,2013-03-15,17:15
+Milvus aegyptius,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Yellow-billed Kite,,20,5.1910400390625,5.6131456400349,Africa,Nigeria,NG,,Nigeria - Warri South-West,2013-03-15,17:15
+Bubulcus ibis,Animalia,HERONS_ARDEIDAE,Western Cattle Egret,,10,5.1910400390625,5.6131456400349,Africa,Nigeria,NG,,Nigeria - Warri South-West,2013-03-15,17:15
+Emberiza goslingi,Animalia,BUNTINGS_EMBERIZIDAE,Gosling's Bunting,,11,8.979971408844,9.8768637898643,Africa,Nigeria,NG,,Nigeria - Jos East,2011-09-30,
+Accipiter toussenelii macroscelides,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Red-chested Goshawk ssp macroscelides,,1,3.5349664092064,6.4372771385218,Africa,Nigeria,NG,,Nigeria - Eti-Osa,2013-03-14,12:21
+Bycanistes fistulator,Animalia,HORNBILLS_BUCEROTIDAE,Piping Hornbill,,4,3.5349516570568,6.4366801113771,Africa,Nigeria,NG,,Nigeria - Eti-Osa,2013-03-14,12:20
+Oenanthe albifrons,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,White-fronted Black Chat,,3,3.9469745010138,6.5495696537483,Africa,Nigeria,NG,,Nigeria - Epe,2013-03-14,09:03
+Muscicapa striata,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Spotted Flycatcher,,3,3.9469745010138,6.5495696537483,Africa,Nigeria,NG,,Nigeria - Epe,2013-03-14,08:31
+Lamprotornis splendidus,Animalia,STARLINGS_STURNIDAE,Splendid Starling,,30,3.9469745010138,6.5495696537483,Africa,Nigeria,NG,,Nigeria - Epe,2013-03-14,07:27
+Cecropis semirufa,Animalia,SWALLOWS_HIRUNDINIDAE,Red-breasted Swallow,,1,3.9469745010138,6.5495696537483,Africa,Nigeria,NG,,Nigeria - Epe,2013-03-14,09:05
+Streptopelia semitorquata,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Red-eyed Dove,,20,3.9469745010138,6.5495696537483,Africa,Nigeria,NG,,Nigeria - Epe,2013-03-14,07:59
+Dryoscopus gambensis,Animalia,HELMETSHRIKES_BUSHSHRIKES_MALACONOTIDAE,Northern Puffback,,1,3.9469745010138,6.5495696537483,Africa,Nigeria,NG,,Nigeria - Epe,2013-03-14,08:33
+Hirundo aethiopica,Animalia,SWALLOWS_HIRUNDINIDAE,Ethiopian Swallow,,1,3.9469745010138,6.5495696537483,Africa,Nigeria,NG,,Nigeria - Epe,2013-03-14,08:01
+Hirundo aethiopica,Animalia,SWALLOWS_HIRUNDINIDAE,Ethiopian Swallow,,20,3.9469745010138,6.5495696537483,Africa,Nigeria,NG,,Nigeria - Epe,2013-03-14,07:44
+Halcyon malimbica,Animalia,KINGFISHERS_ALCEDINIDAE,Blue-breasted Kingfisher,,2,3.9469745010138,6.5495696537483,Africa,Nigeria,NG,,Nigeria - Epe,2013-03-14,08:08
+Malimbus nitens,Animalia,WEAVERS_PLOCEIDAE,Blue-billed Malimbe,,4,3.9469745010138,6.5495696537483,Africa,Nigeria,NG,,Nigeria - Epe,2013-03-14,07:34
+Ploceus nigricollis,Animalia,WEAVERS_PLOCEIDAE,Black-necked Weaver,,1,3.9469745010138,6.5495696537483,Africa,Nigeria,NG,,Nigeria - Epe,2013-03-14,09:00
+Hirundo rustica,Animalia,SWALLOWS_HIRUNDINIDAE,Barn Swallow,,1,3.9469745010138,6.5495696537483,Africa,Nigeria,NG,,Nigeria - Epe,2013-03-14,07:53
+Lophoceros fasciatus,Animalia,HORNBILLS_BUCEROTIDAE,African Pied Hornbill,,1,3.9469745010138,6.5495696537483,Africa,Nigeria,NG,,Nigeria - Epe,2013-03-14,07:41
+Treron calvus,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,African Green Pigeon,,6,3.9469745010138,6.5495696537483,Africa,Nigeria,NG,,Nigeria - Epe,2013-03-14,09:29
+Perodicticus edwardsi,Animalia,LORIS_LORISIDAE,Milne-Edwards's Potto,,1,6.6174387931824,5.4095781048131,Africa,Nigeria,NG,,Nigeria - Rivers,2005-02-01,21:00
+Calidris melanotos,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Pectoral Sandpiper,,1,7.5916672311723,4.5733502230378,Africa,Nigeria,NG,,Nigeria - Akwa Ibom,2006-10-22,12:15
+Bubo poensis,Animalia,OWLS_STRIGIDAE,Fraser's Eagle-Owl,,1,9.0007853507996,6.3071087293979,Africa,Nigeria,NG,,Nigeria - Cross River,2013-02-22,
+Ceratogymna atrata,Animalia,HORNBILLS_BUCEROTIDAE,Black-casqued Hornbill,,1,5.249662399292,6.2661577472026,Africa,Nigeria,NG,,Nigeria - Okomu Forest Reserve,2012-08-19,
+Pogoniulus bilineatus,Animalia,Lybiidae,Yellow-rumped Tinkerbird,,1,5.260648727417,6.2743482014286,Africa,Nigeria,NG,,Nigeria - Okomu Forest Reserve,2012-08-21,
+Ceratogymna elata,Animalia,HORNBILLS_BUCEROTIDAE,Yellow-casqued Hornbill,,1,5.260648727417,6.2743482014286,Africa,Nigeria,NG,,Nigeria - Okomu Forest Reserve,2012-08-20,
+Ceratogymna elata,Animalia,HORNBILLS_BUCEROTIDAE,Yellow-casqued Hornbill,,1,5.2469158172607,6.2798084327405,Africa,Nigeria,NG,,Nigeria - Okomu Forest Reserve,2012-08-20,
+Nigrita canicapillus,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Grey-headed Nigrita,,1,5.2414011955261,6.2634275672163,Africa,Nigeria,NG,,Nigeria - Okomu Forest Reserve,2012-08-19,
+Gypohierax angolensis,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Palm-nut Vulture,,1,5.2414011955261,6.2634275672163,Africa,Nigeria,NG,,Nigeria - Okomu Forest Reserve,2012-08-19,
+Anthreptes rectirostris,Animalia,SUNBIRDS_NECTARINIIDAE,Grey-chinned Sunbird,,2,5.2414011955261,6.2634275672163,Africa,Nigeria,NG,,Nigeria - Okomu Forest Reserve,2012-08-20,
+Corythaeola cristata,Animalia,TURACOS_MUSOPHAGIDAE,Great Blue Turaco,,8,5.2414011955261,6.2634275672163,Africa,Nigeria,NG,,Nigeria - Okomu Forest Reserve,2012-08-20,
+Corythaeola cristata,Animalia,TURACOS_MUSOPHAGIDAE,Great Blue Turaco,,6,5.2414011955261,6.2634275672163,Africa,Nigeria,NG,,Nigeria - Okomu Forest Reserve,2012-08-21,
+Bubo poensis,Animalia,OWLS_STRIGIDAE,Fraser's Eagle-Owl,,1,5.2414011955261,6.2634275672163,Africa,Nigeria,NG,,Nigeria - Okomu Forest Reserve,2012-08-19,
+Nigrita bicolor,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Chestnut-breasted Nigrita,,4,5.2414011955261,6.2634275672163,Africa,Nigeria,NG,,Nigeria - Okomu Forest Reserve,2012-08-21,
+Neafrapus cassini,Animalia,SWIFTS_APODIDAE,Cassin's Spinetail,,4,5.2414011955261,6.2634275672163,Africa,Nigeria,NG,,Nigeria - Okomu Forest Reserve,2012-08-20,
+Cyanograucalus azureus,Animalia,CUCKOOSHRIKES_CAMPEPHAGIDAE,Blue Cuckooshrike,,1,5.2414011955261,6.2634275672163,Africa,Nigeria,NG,,Nigeria - Okomu Forest Reserve,2012-08-21,
+Ceratogymna atrata,Animalia,HORNBILLS_BUCEROTIDAE,Black-casqued Hornbill,,1,5.2414011955261,6.2634275672163,Africa,Nigeria,NG,,Nigeria - Okomu Forest Reserve,2012-08-21,
+Ceratogymna atrata,Animalia,HORNBILLS_BUCEROTIDAE,Black-casqued Hornbill,,1,5.2414011955261,6.2634275672163,Africa,Nigeria,NG,,Nigeria - Okomu Forest Reserve,2012-08-19,
+Hieraaetus ayresii,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Ayres's Hawk-Eagle,,1,5.2414011955261,6.2634275672163,Africa,Nigeria,NG,,Nigeria - Okomu Forest Reserve,2012-08-18,
+Ispidina picta,Animalia,KINGFISHERS_ALCEDINIDAE,African Pygmy Kingfisher,,1,5.2414011955261,6.2634275672163,Africa,Nigeria,NG,,Nigeria - Okomu Forest Reserve,2012-08-19,
+Lamprotornis splendidus,Animalia,STARLINGS_STURNIDAE,Splendid Starling,,100,3.8843429088593,7.4987277871035,Africa,Nigeria,NG,,Nigeria - Oyo,2012-11-11,
+Caprimulgus climacurus,Animalia,NIGHTJARS_CAPRIMULGIDAE,Long-tailed Nightjar,,1,3.9014698192477,7.4880586646986,Africa,Nigeria,NG,,Nigeria - Oyo,2012-11-10,19:05
+Rostratula benghalensis,Animalia,PAINTED_SNIPES_ROSTRATULIDAE,Greater Painted-snipe,,1,3.8997961208224,7.4894840660636,Africa,Nigeria,NG,,Nigeria - Oyo,2012-11-10,18:05
+Cuculus clamosus gabonensis,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,Black Cuckoo ssp gabonensis,,1,3.8856571912766,7.4960046859859,Africa,Nigeria,NG,,Nigeria - Oyo,2012-11-12,
+Macheiramphus alcinus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Bat Hawk,,2,3.8880175352097,7.4971109478691,Africa,Nigeria,NG,,Nigeria - Oyo,2012-11-12,
+Lophaetus occipitalis,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Long-crested Eagle,,1,3.8975001499057,7.5070246307687,Africa,Nigeria,NG,,Nigeria - Oyo,2012-09-08,
+Kaupifalco monogrammicus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Lizard Buzzard,,1,3.8915064185858,7.487048116131,Africa,Nigeria,NG,,Nigeria - Oyo,2012-09-09,
+Falco biarmicus,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Lanner Falcon,,2,3.898217305541,7.4873459622682,Africa,Nigeria,NG,,Nigeria - Oyo,2012-09-08,
+Bostrychia hagedash,Animalia,IBISSES_AND_SPOONBILLS_THRESKIORNITHIDAE,Hadada Ibis,,1,3.9000680297613,7.4836866956222,Africa,Nigeria,NG,,Nigeria - Oyo,2012-09-08,
+Falco ardosiaceus,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Grey Kestrel,,4,3.9048966765404,7.4897074494371,Africa,Nigeria,NG,,Nigeria - Oyo,2012-09-08,
+Falco tinnunculus,Animalia,CARACAS_AND_FALCONS_FALCONIDAE,Common Kestrel,,1,3.9012341201305,7.4980044650304,Africa,Nigeria,NG,,Nigeria - Oyo,2012-09-08,
+Macheiramphus alcinus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Bat Hawk,,2,3.6126872230960614,8.113373267646033,Africa,Nigeria,NG,,Nigeria - Oyo,2012-09-08,
+Porphyrio alleni,Animalia,RAILS_RALLIDAE,Allen's Gallinule,,10,3.8956977054477,7.4966429143384,Africa,Nigeria,NG,,Nigeria - Oyo,2012-09-07,
+Xema sabini,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Sabine's Gull,,2,3.5861778259277,6.2006294990279,Africa,Nigeria,NG,,Nigeria - Lagos,2007-11-12,11:20
+Zonocerus variegatus,Animalia,Pyrgomorphidae,Variegated grasshopper,,1,7.50052567956,9.07189322417,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-12-01,
+Anthene amarah,Animalia,GOSSAMERWINGED_BUTTERFLIES_LYCAENIDAE,,,1,7.37821278296,9.28076220523,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-12-02,
+Papilio demodocus,Animalia,SWALLOWTAILS_PAPILIONIDAE,Christmas Butterfly,,1,7.38242265221,9.27660741888,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-12-02,
+Acraea pseudegina,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Abadima Acraea,,1,7.50327226159,9.07596153978,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-12-01,
+Lonchura cucullata,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Bronze Mannikin,,1,7.50052567956,9.06104415708,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-11-29,
+Macroglossum trochilus,Animalia,Sphingidae,African Humming Bird Moth,,1,7.3810493612,9.27796274685,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-12-02,
+Trithemis kalula,Animalia,SKIMMERS_LIBELLULIDAE,,,1,7.49331590173,9.07087613805,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-11-30,
+Orthetrum trinacria,Animalia,SKIMMERS_LIBELLULIDAE,Long Skimmer,,1,7.49331590173,9.07087613805,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-11-30,
+Pseudagrion kersteni,Animalia,POND_DAMSELS_COENAGRIONIDAE,Kerstens Sprite,,1,7.49331590173,9.07087613805,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-11-30,
+Orthetrum guineense,Animalia,SKIMMERS_LIBELLULIDAE,Guinea Skimmer,,1,7.49331590173,9.07087613805,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-11-30,
+Trithemis aconita,Animalia,SKIMMERS_LIBELLULIDAE,Monkshood Dropwing,,1,7.49331590173,9.07087613805,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-11-30,
+Crocothemis divisa,Animalia,SKIMMERS_LIBELLULIDAE,Divisa scarlet,,3,7.49331590173,9.07087613805,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-11-30,
+Junonia orithya,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Blue Pansy,,1,7.38379594323,9.27660741888,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-12-02,
+Dendropicos goertae,Animalia,WOODPECKERS_PICIDAE,African Grey Woodpecker,,1,7.4950325155,9.06782486243,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-11-30,
+Phoeniculus purpureus,Animalia,WOOD_HOOPOES_PHOENICULIDAE,Green Wood Hoopoe,,1,7.4950325155,9.06782486243,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-11-30,
+Cinnyris venustus,Animalia,SUNBIRDS_NECTARINIIDAE,Variable Sunbird,,1,7.4950325155,9.06782486243,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-11-30,
+Corvus albus,Animalia,CROWS_AND_JAYS_CORVIDAE,Pied Crow,,1,7.49966737267,9.0690114727,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-12-01,
+Ptilostomus afer,Animalia,CROWS_AND_JAYS_CORVIDAE,Piapiac,,10,7.49966737267,9.0690114727,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-12-01,
+Megaceryle maxima,Animalia,KINGFISHERS_ALCEDINIDAE,Giant Kingfisher,,1,7.49966737267,9.0690114727,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-12-01,
+Alcedo cristata,Animalia,KINGFISHERS_ALCEDINIDAE,,,1,7.49966737267,9.0690114727,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-12-01,
+Eidolon helvum,Animalia,OLD_WORLD_FRUITEATING_BATS_PTEROPODIDAE,African Straw-coloured Fruit Bat,,100,7.451087203,9.05019476237,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-12-02,
+Musophaga violacea,Animalia,TURACOS_MUSOPHAGIDAE,Violet Turaco,,1,7.38516923425,9.27864040887,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-12-02,
+Palpopleura portia,Animalia,SKIMMERS_LIBELLULIDAE,Portia Widow,,2,7.38516923425,9.27864040887,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-12-02,
+Diplacodes lefebvrii,Animalia,SKIMMERS_LIBELLULIDAE,Black Percher,,1,7.38516923425,9.27864040887,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-12-02,
+Acisoma inflatum,Animalia,SKIMMERS_LIBELLULIDAE,Stout Pintail,,2,7.38516923,9.27864041,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-12-02,
+Aethriamanta rezia,Animalia,SKIMMERS_LIBELLULIDAE,Pygmy Basker,,1,7.38516923425,9.27864040887,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-12-02,
+Nesciothemis pujoli,Animalia,SKIMMERS_LIBELLULIDAE,Western Blacktail,,1,7.49777909753,9.07087613805,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-12-01,
+Cypsiurus parvus,Animalia,SWIFTS_APODIDAE,African Palm Swift,,1,7.49777909753,9.06918098813,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-11-29,
+Crinifer piscator,Animalia,TURACOS_MUSOPHAGIDAE,Western Plantain-eater,,1,7.49777909753,9.06918098813,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-11-29,
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,1,7.49777909753,9.06918098813,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-11-29,
+Bubulcus ibis,Animalia,HERONS_ARDEIDAE,Western Cattle Egret,,2,7.49777909753,9.06918098813,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-11-29,
+Ploceus cucullatus,Animalia,WEAVERS_PLOCEIDAE,Village Weaver,,5,7.49777909753,9.06918098813,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-11-29,
+Pycnonotus barbatus,Animalia,BULBULS_PYCNONOTIDAE,Common Bulbul,,1,7.49777909753,9.06918098813,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-11-29,
+Milvus aegyptius,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Yellow-billed Kite,,10,7.49777909753,9.06918098813,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-11-29,
+Crocothemis erythraea,Animalia,SKIMMERS_LIBELLULIDAE,Broad Scarlet,,3,7.49777909753,9.06918098813,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-11-29,
+Trithemis arteriosa,Animalia,SKIMMERS_LIBELLULIDAE,Red-veined Dropwing,,5,7.49777909753,9.06918098813,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-11-29,
+Palpopleura lucia,Animalia,SKIMMERS_LIBELLULIDAE,Lucia Widow,,1,7.49777909753,9.06918098813,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-11-29,
+Palpopleura lucia,Animalia,SKIMMERS_LIBELLULIDAE,Lucia Widow,,5,7.49777909753,9.06918098813,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-11-29,
+Apus affinis,Animalia,SWIFTS_APODIDAE,Little Swift,,1,7.49777909753,9.06918098813,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2011-11-29,
+Ptilostomus afer,Animalia,CROWS_AND_JAYS_CORVIDAE,Piapiac,,1,3.4236,6.4501,Africa,Nigeria,NG,,Nigeria - Lagos,2009-04-07,
+Bubulcus ibis,Animalia,HERONS_ARDEIDAE,Western Cattle Egret,,1,3.4236,6.4501,Africa,Nigeria,NG,,Nigeria - Lagos,2009-04-07,
+Zonocerus variegatus,Animalia,Pyrgomorphidae,Variegated grasshopper,,2,7.48168945312,9.05327746462,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2010-06-10,
+Hypolimnas anthedon,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Variable Eggfly,,1,7.47619628906,9.05870215639,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2010-06-10,
+Tirumala petiverana,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,African blue tiger,,2,7.47619628906,9.05870215639,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2010-06-10,
+Zygonyx torridus,Animalia,SKIMMERS_LIBELLULIDAE,Ringed Cascader,,1,7.4796295166,9.05531173363,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2010-06-10,
+Junonia hierta,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Yellow Pansy,,1,7.48649597168,9.05327746462,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2010-06-09,
+Junonia oenone,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Dark Blue Pansy,,1,7.48649597168,9.05327746462,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2010-06-09,
+Junonia terea,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Soldier Commodore,,1,7.48649597168,9.05327746462,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2010-06-09,
+Trithemis aconita,Animalia,SKIMMERS_LIBELLULIDAE,Monkshood Dropwing,,1,7.48718261719,9.04649648483,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2010-06-10,
+Ploceus cucullatus,Animalia,WEAVERS_PLOCEIDAE,Village Weaver,,1,7.47619628906,9.04242783561,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2010-06-10,
+Lophoceros nasutus,Animalia,HORNBILLS_BUCEROTIDAE,African Grey Hornbill,,1,7.47619628906,9.04242783561,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2010-06-09,
+Bubulcus ibis,Animalia,HERONS_ARDEIDAE,Western Cattle Egret,,18,7.47619628906,9.04242783561,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2010-06-09,
+Microcarbo africanus,Animalia,CORMORANTS_PHALACROCORACIDAE,Reed Cormorant,,1,7.47619628906,9.04242783561,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2010-06-09,
+Acraea serena,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Small Orange Acraea,,1,7.47619628906,9.04242783561,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2010-06-09,
+Butorides striata,Animalia,HERONS_ARDEIDAE,Striated Heron,,1,7.47619628906,9.04242783561,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2010-06-09,
+Ploceus heuglini,Animalia,WEAVERS_PLOCEIDAE,Heuglin's Masked Weaver,,1,7.47619628906,9.04242783561,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2010-06-09,
+Corvinella corvina,Animalia,SHRIKES_LANIIDAE,Yellow-billed Shrike,,1,7.47619628906,9.05056508804,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2010-06-08,
+Hypolimnas misippus,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Danaid Eggfly,,1,7.47619628906,9.05056508804,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2010-06-08,
+Centropus senegalensis,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,Senegal Coucal,,1,7.46795654297,9.03971537726,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2010-06-08,
+Cossypha niveicapilla,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Snowy-crowned Robin-Chat,,1,7.46795654297,9.03971537726,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2010-06-08,
+Trithemis arteriosa,Animalia,SKIMMERS_LIBELLULIDAE,Red-veined Dropwing,,1,7.46246337891,9.05056508804,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2010-06-10,
+Pantala flavescens,Animalia,SKIMMERS_LIBELLULIDAE,Wandering Glider,,2,7.46246337891,9.05056508804,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2010-06-10,
+Phaon iridipennis,Animalia,BROADWINGED_DAMSELS_CALOPTERYGIDAE,Glistening Demoiselle,,1,7.49267578125,9.05598982074,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2010-06-09,
+Vidua macroura,Animalia,INDIGOBIRDS_AND_WHYDAHS_VIDUIDAE,Pin-tailed Whydah,,1,7.49267578125,9.05327746462,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2010-06-09,
+Uraeginthus bengalus,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Red-cheeked Cordon-bleu,,1,7.49267578125,9.05327746462,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2010-06-09,
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,1,7.48168945312,9.06412676628,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2010-06-08,
+Amaurornis flavirostra,Animalia,RAILS_RALLIDAE,Black Crake,,1,7.48168945312,9.06412676628,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2010-06-08,
+Acraea serena,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Small Orange Acraea,,1,7.48168945312,9.04242783561,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2009-09-26,
+Necrosyrtes monachus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Hooded Vulture,,1,7.50366210938,9.06141447157,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2009-09-26,
+Aterica galene,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Forest Glade Nymph,,1,7.48992919922,9.05870215639,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2009-09-26,
+Junonia sophia,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Little Comodore,,1,7.48992919922,9.06141447157,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2009-09-26,
+Papilio demodocus,Animalia,SWALLOWTAILS_PAPILIONIDAE,Christmas Butterfly,,1,7.47619628906,9.05870215639,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2009-09-26,
+Centropus senegalensis,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,Senegal Coucal,,1,7.48306274414,9.04785269101,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2009-09-26,
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,1,7.48306274414,9.04785269101,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2009-09-26,
+Crinifer piscator,Animalia,TURACOS_MUSOPHAGIDAE,Western Plantain-eater,,1,7.48306274414,9.04785269101,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2009-09-26,
+Pycnonotus barbatus,Animalia,BULBULS_PYCNONOTIDAE,Common Bulbul,,1,7.48306274414,9.04785269101,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2009-09-26,
+Corvus albus,Animalia,CROWS_AND_JAYS_CORVIDAE,Pied Crow,,1,7.48306274414,9.04785269101,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2009-09-26,
+Lonchura cucullata,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Bronze Mannikin,,1,7.48306274414,9.04785269101,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2009-09-26,
+Lagonosticta rufopicta,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Bar-breasted Firefinch,,1,7.48306274414,9.04785269101,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2009-09-26,
+Turdus pelios,Animalia,THRUSHES_TURDIDAE,African Thrush,,1,7.48306274414,9.04785269101,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2009-09-26,
+Melaenornis edolioides,Animalia,OLD_WORLD_FLYCATCHERS_MUSCICAPIDAE,Northern Black Flycatcher,,1,7.48306274414,9.04785269101,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2009-09-26,
+Ploceus cucullatus,Animalia,WEAVERS_PLOCEIDAE,Village Weaver,,1,7.48306274414,9.04785269101,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2009-09-26,
+Corvinella corvina,Animalia,SHRIKES_LANIIDAE,Yellow-billed Shrike,,1,7.48306274414,9.04785269101,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2009-09-26,
+Cyanomitra verticalis,Animalia,SUNBIRDS_NECTARINIIDAE,Green-headed Sunbird,,1,7.48306274414,9.04785269101,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2009-09-26,
+Cinnyris venustus,Animalia,SUNBIRDS_NECTARINIIDAE,Variable Sunbird,,1,7.48306274414,9.04785269101,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2009-09-26,
+Zygonyx torridus,Animalia,SKIMMERS_LIBELLULIDAE,Ringed Cascader,,1,7.49542236328,9.02886533959,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2009-09-26,
+Palpopleura portia,Animalia,SKIMMERS_LIBELLULIDAE,Portia Widow,,1,7.49542236328,9.02886533959,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2009-09-26,
+Palpopleura deceptor,Animalia,SKIMMERS_LIBELLULIDAE,Deceptive Widow,,1,7.49542236328,9.02886533959,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2009-09-26,
+Orthetrum hintzi,Animalia,SKIMMERS_LIBELLULIDAE,Hintz's Skimmer,,1,7.49542236328,9.02886533959,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2009-09-26,
+Pseudagrion kersteni,Animalia,POND_DAMSELS_COENAGRIONIDAE,Kerstens Sprite,,1,7.49542236328,9.02886533959,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2009-09-26,
+Orthetrum chrysostigma,Animalia,SKIMMERS_LIBELLULIDAE,Epaulet Skimmer,,1,7.49542236328,9.02886533959,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2009-09-26,
+Orthetrum julia,Animalia,SKIMMERS_LIBELLULIDAE,Julia's Skimmer,,1,7.49542236328,9.02886533959,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2009-09-26,
+Pantala flavescens,Animalia,SKIMMERS_LIBELLULIDAE,Wandering Glider,,1,7.48443603516,9.05056508804,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2009-09-26,
+Junonia chorimene,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Golden Pansy,,1,7.49542236328,9.03564665142,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2009-09-26,
+Mylothris chloris,Animalia,WHITES_PIERIDAE,Common Dotted Border,,1,7.49542236328,9.03564665142,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2009-09-26,
+Eurema hecabe,Animalia,WHITES_PIERIDAE,Common Grass Yellow,,1,7.49542236328,9.03564665142,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2009-09-26,
+Trithemis arteriosa,Animalia,SKIMMERS_LIBELLULIDAE,Red-veined Dropwing,,2,7.48443603516,9.03429039926,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2009-09-26,
+Palpopleura lucia,Animalia,SKIMMERS_LIBELLULIDAE,Lucia Widow,,5,7.48443603516,9.03700289847,Africa,Nigeria,NG,,Nigeria - Federal Capital Territory,2009-09-26,
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,1,7.4322509765625,8.781939521036,Africa,Nigeria,NG,,Nigeria,2008-06-10,
+Camaroptera brevicaudata,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Grey-backed Camaroptera,,1,7.4322509765625,8.781939521036,Africa,Nigeria,NG,,Nigeria,2008-06-10,
+Mylothris chloris,Animalia,WHITES_PIERIDAE,Common Dotted Border,,1,7.470703125,8.7113588754265,Africa,Nigeria,NG,,Nigeria,2008-06-10,
+Melanitis leda,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Common Evening Brown,,1,7.470703125,8.7113588754265,Africa,Nigeria,NG,,Nigeria,2008-06-10,
+Junonia chorimene,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Golden Pansy,,1,7.470703125,8.7113588754265,Africa,Nigeria,NG,,Nigeria,2008-06-10,
+Acraea acerata,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Sweet Potato Butterfly,,1,7.470703125,8.7113588754265,Africa,Nigeria,NG,,Nigeria,2008-06-10,
+Halcyon malimbica,Animalia,KINGFISHERS_ALCEDINIDAE,Blue-breasted Kingfisher,,1,7.4432373046875,8.781939521036,Africa,Nigeria,NG,,Nigeria,2008-06-10,
+Crinifer piscator,Animalia,TURACOS_MUSOPHAGIDAE,Western Plantain-eater,,1,7.44873046875,8.7982254590163,Africa,Nigeria,NG,,Nigeria,2008-06-10,
+Ploceus cucullatus,Animalia,WEAVERS_PLOCEIDAE,Village Weaver,,1,7.44873046875,8.7982254590163,Africa,Nigeria,NG,,Nigeria,2008-06-10,
+Centropus senegalensis,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,Senegal Coucal,,1,7.44873046875,8.7982254590163,Africa,Nigeria,NG,,Nigeria,2008-06-10,
+Glareola nuchalis,Animalia,COURSERS_AND_PRATINCOLES_GLAREOLIDAE,Rock Pratincole,,1,7.44873046875,8.7982254590163,Africa,Nigeria,NG,,Nigeria,2008-06-10,
+Euplectes franciscanus,Animalia,WEAVERS_PLOCEIDAE,Northern Red Bishop,,1,7.44873046875,8.7982254590163,Africa,Nigeria,NG,,Nigeria,2008-06-10,
+Spilopelia senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove,,1,7.44873046875,8.7982254590163,Africa,Nigeria,NG,,Nigeria,2008-06-10,
+Lonchura cucullata,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Bronze Mannikin,,1,7.44873046875,8.7982254590163,Africa,Nigeria,NG,,Nigeria,2008-06-10,
+Phoeniculus purpureus,Animalia,WOOD_HOOPOES_PHOENICULIDAE,Green Wood Hoopoe,,1,7.44873046875,8.7982254590163,Africa,Nigeria,NG,,Nigeria,2008-06-10,
+Lybius dubius,Animalia,Lybiidae,Bearded Barbet,,1,7.44873046875,8.7982254590163,Africa,Nigeria,NG,,Nigeria,2008-06-10,
+Cypsiurus parvus,Animalia,SWIFTS_APODIDAE,African Palm Swift,,1,7.44873046875,8.7982254590163,Africa,Nigeria,NG,,Nigeria,2008-06-10,
+Danaus chrysippus,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,African Monarch,,1,7.44873046875,8.7982254590163,Africa,Nigeria,NG,,Nigeria,2008-06-10,
+Papilio demodocus,Animalia,SWALLOWTAILS_PAPILIONIDAE,Christmas Butterfly,,1,7.05178365,4.87593887,Africa,Nigeria,NG,,Nigeria - Obio/Akpor,2020-04-28,12:44
+Tussilago farfara,Plantae,Asteraceae,Colt's-foot,,1,4.441223,5.210339,Africa,Nigeria,NG,,Nigerian Exclusive Economic Zone,2020-04-12,15:34
+Pycnonotus barbatus,Animalia,BULBULS_PYCNONOTIDAE,Common Bulbul,,1,3.33183153759699,6.589599665271925,Africa,Nigeria,NG,,Nigeria - Oshodi/Isolo,2019-05-23,13:51
+Spilopelia senegalensis senegalensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Laughing Dove ssp senegalensis,,2,7.05204429,4.87504977,Africa,Nigeria,NG,,Nigeria - Obio/Akpor,2019-12-04,08:00
+Dicrurus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo,,1,3.85781168937683,7.39566993713379,Africa,Nigeria,NG,,Nigeria - Ibadan North-West,2019-08-26,08:08
+Dicrurus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo,,1,3.85840320587158,7.39225292205811,Africa,Nigeria,NG,,Nigeria - Ibadan,2019-08-29,07:39
+Dicrurus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo,,9,3.85544490814209,7.3914966583252,Africa,Nigeria,NG,,Nigeria - Ibadan,2019-08-29,08:11
+Crinifer piscator,Animalia,TURACOS_MUSOPHAGIDAE,Western Plantain-eater,,4,3.86249089241028,7.39164113998413,Africa,Nigeria,NG,,Nigeria - Ibadan,2019-09-16,12:06
+Lophoceros fasciatus,Animalia,HORNBILLS_BUCEROTIDAE,African Pied Hornbill,,1,6.97940015792847,4.79726839065552,Africa,Nigeria,NG,,Nigeria - Obio/Akpor,2019-08-12,13:12
+Bubulcus ibis,Animalia,HERONS_ARDEIDAE,Western Cattle Egret,,5,6.97941255569458,4.79720544815063,Africa,Nigeria,NG,,Nigeria - Obio/Akpor,2019-08-12,12:57
+Haliaeetus vocifer,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,African Fish Eagle,,1,6.97939968109131,4.79728507995605,Africa,Nigeria,NG,,Nigeria - Obio/Akpor,2019-08-12,12:22
+Haliaeetus vocifer,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,African Fish Eagle,,12,6.97936677932739,4.79717350006104,Africa,Nigeria,NG,,Nigeria - Obio/Akpor,2019-08-12,12:52
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,1,4.17688941955566,6.85421228408813,Africa,Nigeria,NG,,Nigeria - Ijebu East,2019-01-22,09:12
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,2,4.17579889297485,6.85655117034912,Africa,Nigeria,NG,,Nigeria - Ijebu East,2019-01-22,09:35
+Platysteira castanea,Animalia,WATTLEEYES_BATISES_PLATYSTEIRIDAE,Chestnut Wattle-eye,,1,4.25437021255493,6.83756494522095,Africa,Nigeria,NG,,Nigeria - Omo,2019-01-23,09:21
+Platysteira castanea,Animalia,WATTLEEYES_BATISES_PLATYSTEIRIDAE,Chestnut Wattle-eye,,1,4.4380898475647,6.95202827453613,Africa,Nigeria,NG,,Nigeria - Omo,2019-01-24,07:20
+Platysteira castanea,Animalia,WATTLEEYES_BATISES_PLATYSTEIRIDAE,Chestnut Wattle-eye,,1,4.43545961380005,6.94959926605225,Africa,Nigeria,NG,,Nigeria - Omo,2019-01-24,07:40
+Platysteira castanea,Animalia,WATTLEEYES_BATISES_PLATYSTEIRIDAE,Chestnut Wattle-eye,,1,4.43545961380005,6.94959926605225,Africa,Nigeria,NG,,Nigeria - Omo,2019-01-24,07:48
+Platysteira castanea,Animalia,WATTLEEYES_BATISES_PLATYSTEIRIDAE,Chestnut Wattle-eye,,1,4.25437927246094,6.83754682540894,Africa,Nigeria,NG,,Nigeria - Omo,2019-01-23,09:24
+Platysteira castanea,Animalia,WATTLEEYES_BATISES_PLATYSTEIRIDAE,Chestnut Wattle-eye,,1,4.43799495697022,6.95221519470215,Africa,Nigeria,NG,,Nigeria - Omo,2019-01-24,07:20
+Platysteira castanea,Animalia,WATTLEEYES_BATISES_PLATYSTEIRIDAE,Chestnut Wattle-eye,,1,4.43545198440552,6.94957637786865,Africa,Nigeria,NG,,Nigeria - Omo,2019-01-24,07:41
+Oriolus brachyrynchus,Animalia,ORIOLES_AND_FIG_BIRDS_ORIOLIDAE,Western Oriole,,1,4.570255,6.85187833333333,Africa,Nigeria,NG,,Nigeria - Oluwa,2019-01-16,08:57
+Platysteira castanea,Animalia,WATTLEEYES_BATISES_PLATYSTEIRIDAE,Chestnut Wattle-eye,,1,4.09148333333333,6.76034333333333,Africa,Nigeria,NG,,Nigeria - Ijebu East,2019-01-18,07:58
+Oriolus brachyrynchus,Animalia,ORIOLES_AND_FIG_BIRDS_ORIOLIDAE,Western Oriole,,1,4.44576,6.76595,Africa,Nigeria,NG,,Nigeria - Odigbo,2019-01-22,08:16
+Oriolus brachyrynchus,Animalia,ORIOLES_AND_FIG_BIRDS_ORIOLIDAE,Western Oriole,,1,4.438805,6.764455,Africa,Nigeria,NG,,Nigeria - Odigbo,2019-01-22,08:39
+Platysteira castanea,Animalia,WATTLEEYES_BATISES_PLATYSTEIRIDAE,Chestnut Wattle-eye,,2,4.25437333333333,6.83752333333333,Africa,Nigeria,NG,,Nigeria - Omo,2019-01-23,09:23
+Camaroptera brevicaudata,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Grey-backed Camaroptera,,1,4.22790622711182,6.77735471725464,Africa,Nigeria,NG,,Nigeria - Omo,2019-01-19,08:07
+Oriolus brachyrynchus,Animalia,ORIOLES_AND_FIG_BIRDS_ORIOLIDAE,Western Oriole,,1,4.44252014160156,6.76451015472412,Africa,Nigeria,NG,,Nigeria - Odigbo,2019-01-22,08:18
+Oriolus brachyrynchus,Animalia,ORIOLES_AND_FIG_BIRDS_ORIOLIDAE,Western Oriole,,1,4.4387469291687,6.76444482803345,Africa,Nigeria,NG,,Nigeria - Odigbo,2019-01-22,08:41
+Platysteira castanea,Animalia,WATTLEEYES_BATISES_PLATYSTEIRIDAE,Chestnut Wattle-eye,,1,4.08765077590942,6.75978755950928,Africa,Nigeria,NG,,Nigeria - Ijebu East,2019-01-18,07:26
+Platysteira castanea,Animalia,WATTLEEYES_BATISES_PLATYSTEIRIDAE,Chestnut Wattle-eye,,1,4.09135150909424,6.76035976409912,Africa,Nigeria,NG,,Nigeria - Ijebu East,2019-01-18,07:59
+Platysteira castanea,Animalia,WATTLEEYES_BATISES_PLATYSTEIRIDAE,Chestnut Wattle-eye,,1,4.09135913848877,6.76033687591553,Africa,Nigeria,NG,,Nigeria - Ijebu East,2019-01-18,07:59
+Oriolus brachyrynchus,Animalia,ORIOLES_AND_FIG_BIRDS_ORIOLIDAE,Western Oriole,,1,4.57055234909058,6.85205602645874,Africa,Nigeria,NG,,Nigeria - Oluwa,2019-01-16,08:57
+Camaroptera brevicaudata,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Grey-backed Camaroptera,,1,4.15167188644409,6.84863519668579,Africa,Nigeria,NG,,Nigeria - Ijebu East,2019-01-17,09:32
+Camaroptera brevicaudata,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Grey-backed Camaroptera,,1,4.14789485931397,6.85016489028931,Africa,Nigeria,NG,,Nigeria - Ijebu East,2019-01-17,10:00
+Oriolus brachyrynchus brachyrynchus,Animalia,ORIOLES_AND_FIG_BIRDS_ORIOLIDAE,Western Oriole ssp brachyrynchus,,1,4.57058859,6.85202932,Africa,Nigeria,NG,,Nigeria - Oluwa,2019-01-16,08:57
+Gypohierax angolensis,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Palm-nut Vulture,,1,3.89073461,7.49866396,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2018-11-27,
+Actophilornis africanus,Animalia,JACANAS_JACANIDAE,African Jacana,,10,3.89423394203186,7.49989128112793,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2018-11-27,10:22
+Lonchura cucullata,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Bronze Mannikin,,1,3.53721863,6.44100846,Africa,Nigeria,NG,,Nigeria - Lekki Conservation Centre,2011-10-02,
+Actitis hypoleucos,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Common Sandpiper,,1,3.53689693,6.43827896,Africa,Nigeria,NG,,Nigeria - Lekki Conservation Centre,2011-03-27,
+Halcyon senegalensis,Animalia,KINGFISHERS_ALCEDINIDAE,Woodland Kingfisher,,1,3.53689693,6.43827896,Africa,Nigeria,NG,,Nigeria - Lekki Conservation Centre,2011-03-27,
+Hedydipna collaris collaris,Animalia,SUNBIRDS_NECTARINIIDAE,Collared Sunbird ssp collaris,,1,8.98487449,6.256938,Africa,Nigeria,NG,,Nigeria - Boki,2013-05-02,
+Merops mentalis,Animalia,BEEEATERS_MEROPIDAE,Blue-moustached Bee-eater,,3,8.34458828,5.65286418,Africa,Nigeria,NG,,Nigeria - Akamkpa,2013-04-28,09:05
+Platysteira castanea,Animalia,WATTLEEYES_BATISES_PLATYSTEIRIDAE,Chestnut Wattle-eye,,1,4.43543,6.76161166666667,Africa,Nigeria,NG,,Nigeria - Odigbo,2018-07-29,08:31
+Platysteira castanea,Animalia,WATTLEEYES_BATISES_PLATYSTEIRIDAE,Chestnut Wattle-eye,,1,4.43591833333333,6.95003,Africa,Nigeria,NG,,Nigeria - Omo,2018-07-31,08:29
+Platysteira castanea,Animalia,WATTLEEYES_BATISES_PLATYSTEIRIDAE,Chestnut Wattle-eye,,1,4.32278833333333,6.71398,Africa,Nigeria,NG,,Nigeria - Omo,2018-08-01,08:55
+Platysteira castanea,Animalia,WATTLEEYES_BATISES_PLATYSTEIRIDAE,Chestnut Wattle-eye,,1,4.32271333333333,6.71729,Africa,Nigeria,NG,,Nigeria - Omo,2018-08-01,09:18
+Platysteira castanea,Animalia,WATTLEEYES_BATISES_PLATYSTEIRIDAE,Chestnut Wattle-eye,,1,4.43546166666667,6.76163,Africa,Nigeria,NG,,Nigeria - Odigbo,2018-07-29,08:30
+Platysteira castanea,Animalia,WATTLEEYES_BATISES_PLATYSTEIRIDAE,Chestnut Wattle-eye,,1,4.43598,6.95007833333333,Africa,Nigeria,NG,,Nigeria - Omo,2018-07-31,08:29
+Platysteira castanea,Animalia,WATTLEEYES_BATISES_PLATYSTEIRIDAE,Chestnut Wattle-eye,,1,4.322785,6.71384333333333,Africa,Nigeria,NG,,Nigeria - Omo,2018-08-01,08:51
+Platysteira castanea,Animalia,WATTLEEYES_BATISES_PLATYSTEIRIDAE,Chestnut Wattle-eye,,1,4.43606333333333,6.94962333333333,Africa,Nigeria,NG,,Nigeria - Omo,2018-07-31,08:29
+Platysteira castanea,Animalia,WATTLEEYES_BATISES_PLATYSTEIRIDAE,Chestnut Wattle-eye,,1,4.32097166666667,6.71107166666667,Africa,Nigeria,NG,,Nigeria - Omo,2018-08-01,08:55
+Platysteira castanea,Animalia,WATTLEEYES_BATISES_PLATYSTEIRIDAE,Chestnut Wattle-eye,,1,4.43597166666667,6.76090333333333,Africa,Nigeria,NG,,Nigeria - Odigbo,2018-07-29,08:31
+Platysteira castanea,Animalia,WATTLEEYES_BATISES_PLATYSTEIRIDAE,Chestnut Wattle-eye,,1,4.50527166666667,6.83382,Africa,Nigeria,NG,,Nigeria - Omo,2018-07-23,08:36
+Heraclia spec.,Animalia,Noctuidae,,,1,6.30058856,5.02744264,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-05,14:04
+Agrius convolvuli,Animalia,Sphingidae,Convolvulus Hawkmoth,,1,6.30275499,5.03165903,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-02-11,11:57
+Euchromia lethe,Animalia,EREBIDAE,The Basker,,1,7.32067288,5.06340925,Africa,Nigeria,NG,,Nigeria - Aba South,2013-11-06,17:22
+Metagarista maenas,Animalia,Noctuidae,,,1,6.66320042,5.38751683,Africa,Nigeria,NG,,Nigeria - Ogba/Egbema/Ndoni,2018-07-18,10:05
+Annona muricata,Plantae,ANNONACEAE,Soursop,,1,6.66398769,5.38680205,Africa,Nigeria,NG,,Nigeria - Ogba/Egbema/Ndoni,2018-07-14,17:36
+Sarcocephalus latifolius,Plantae,RUBIACEAE,Sierra Leone-peach,,1,6.66398769,5.38680205,Africa,Nigeria,NG,,Nigeria - Ogba/Egbema/Ndoni,2018-07-14,17:24
+Rhamphicarpa fistulosa,Plantae,OROBANCHACEAE,,,1,6.66304888,5.38708479,Africa,Nigeria,NG,,Nigeria - Ogba/Egbema/Ndoni,2018-07-14,08:50
+Senna occidentalis,Plantae,Fabaceae,Styptic Weed,,1,6.66367651,5.38825385,Africa,Nigeria,NG,,Nigeria - Ogba/Egbema/Ndoni,2018-07-14,08:42
+Caryatis hersilia,Animalia,EREBIDAE,,,1,6.66324602,5.38735146,Africa,Nigeria,NG,,Nigeria - Ogba/Egbema/Ndoni,2018-07-14,08:32
+Necrosyrtes monachus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Hooded Vulture,,2,6.66440696,5.38575622,Africa,Nigeria,NG,,Nigeria - Ogba/Egbema/Ndoni,2018-07-08,13:27
+Vitex doniana,Plantae,Lamiaceae,,,1,6.66489826,5.38396304,Africa,Nigeria,NG,,Nigeria - Ogba/Egbema/Ndoni,2018-07-07,16:00
+Peperomia pellucida,Plantae,Piperaceae,Man to man,,100,6.66312532,5.3876121,Africa,Nigeria,NG,,Nigeria - Ogba/Egbema/Ndoni,2018-07-07,12:33
+Acrida spec.,Animalia,SHORTHORNED_GRASSHOPPERS_ACRIDIDAE,,,1,6.66493669,5.38394437,Africa,Nigeria,NG,,Nigeria - Ogba/Egbema/Ndoni,2018-07-07,16:04
+Precis octavia octavia,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,6.66338503,5.38344101,Africa,Nigeria,NG,,Nigeria - Ogba/Egbema/Ndoni,2018-07-07,15:33
+Acraea serena,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Small Orange Acraea,,1,6.66442757,5.38690172,Africa,Nigeria,NG,,Nigeria - Ogba/Egbema/Ndoni,2018-07-07,16:45
+Precis octavia octavia,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,6.66509092,5.38452918,Africa,Nigeria,NG,,Nigeria - Ogba/Egbema/Ndoni,2018-07-02,14:22
+Commelina erecta,Plantae,COMMELINACEAE,Whitemouth dayflower,,20,6.66307926,5.3873798,Africa,Nigeria,NG,,Nigeria - Ogba/Egbema/Ndoni,2018-07-02,11:08
+Microsorum scolopendria,Plantae,POLYPODIACEAE,,,10,6.66332334,5.38741185,Africa,Nigeria,NG,,Nigeria - Ogba/Egbema/Ndoni,2018-07-02,10:53
+Plectranthus monostachyus,Plantae,Lamiaceae,,,1,6.66499528,5.38441565,Africa,Nigeria,NG,,Nigeria - Ogba/Egbema/Ndoni,2018-07-01,13:53
+Mitracarpus hirtus,Plantae,RUBIACEAE,Small squareweed,,100,6.66411191,5.38297102,Africa,Nigeria,NG,,Nigeria - Ogba/Egbema/Ndoni,2018-07-01,09:54
+Virectaria multiflora,Plantae,RUBIACEAE,,,20,6.66408333,5.38294962,Africa,Nigeria,NG,,Nigeria - Ogba/Egbema/Ndoni,2018-07-01,09:51
+Clappertonia ficifolia,Plantae,MALVACEAE,Bolo-bolo,,1,6.6624248,5.38517675,Africa,Nigeria,NG,,Nigeria - Ogba/Egbema/Ndoni,2018-07-01,09:40
+Hyptis lanceolata,Plantae,Lamiaceae,,,50,6.66270199,5.38590839,Africa,Nigeria,NG,,Nigeria - Ogba/Egbema/Ndoni,2018-07-01,09:30
+Eudocima divitiosa,Animalia,EREBIDAE,Spotless Underwing,,1,6.30077766,5.02731353,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-04-15,14:56
+Acraea bonasia,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,6.29872355,5.029956,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-04-15,14:23
+Indigofera hirsuta,Plantae,Fabaceae,Roughhairy indigo,,30,6.30215141,5.02913039,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-04-15,15:12
+Baphia nitida,Plantae,Fabaceae,African-sandalwood,,1,6.30046698,5.02679516,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-04-15,14:48
+Aniseia martinicensis,Plantae,CONVOLVULACEAE,Whitejacket,,100,6.29940705,5.02826606,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-04-15,14:31
+Hypolimnas anthedon anthedon,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,6.30294442,5.02748188,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-04-16,16:20
+Sauvagesia erecta,Plantae,OCHNACEAE,,,100,6.66356654,5.38521945,Africa,Nigeria,NG,,Nigeria - Ogba/Egbema/Ndoni,2018-06-28,16:06
+Sesamum indicum,Plantae,PEDALIACEAE,Sesame,,3,6.66484952,5.38390298,Africa,Nigeria,NG,,Nigeria - Ogba/Egbema/Ndoni,2018-06-28,15:50
+Aspilia kotschyi,Plantae,Asteraceae,,,1,6.66424158,5.38601787,Africa,Nigeria,NG,,Nigeria - Ogba/Egbema/Ndoni,2018-06-28,15:50
+Lophira alata,Plantae,OCHNACEAE,,,1,6.29845264,5.03014303,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-04-22,10:38
+Catuna crithea,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,6.29775167,5.03033011,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-04-22,10:47
+Persicaria spec.,Plantae,POLYGONACEAE,,,20,6.29922336,5.02911432,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-04-22,10:31
+Paullinia pinnata,Plantae,SAPINDACEAE,,,1,6.30107408,5.02790128,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-04-22,10:03
+Lindernia diffusa,Plantae,LINDERNIACEAE,Spreading false pimpernel,,50,6.30065206,5.03174081,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-04-25,17:03
+Ixora coccinea,Plantae,RUBIACEAE,Jungle-geranium,,1,6.94974974,5.00600888,Africa,Nigeria,NG,,Nigeria - Ikwerre,2018-04-26,11:54
+Ixora coccinea,Plantae,RUBIACEAE,Jungle-geranium,,1,6.94976315,5.00600487,Africa,Nigeria,NG,,Nigeria - Ikwerre,2018-04-26,11:53
+Aterica galene,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Forest Glade Nymph,,1,6.29808426,5.0307389,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-06-16,14:57
+Neptidopsis ophione ophione,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,6.30036414,5.02801893,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-06-22,15:54
+Hypolimnas anthedon,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Variable Eggfly,,1,6.30044997,5.0269288,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-06-22,15:34
+Acraea serena,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Small Orange Acraea,,10,6.30042499,5.02680046,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-06-22,15:30
+Fleroya stipulosa,Plantae,RUBIACEAE,,,1,6.29924297,5.02953656,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-06-22,16:10
+Dacryodes edulis,Plantae,Burseraceae,Eben tree,,1,6.30259397,5.02736694,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-06-17,17:36
+Acraea pseudegina,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Abadima Acraea,,1,6.30220061,5.02906088,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-06-18,11:34
+Danaus chrysippus,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,African Monarch,,1,6.30205041,5.02858528,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-06-18,11:44
+Acraea bonasia bonasia,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,5,6.30227479,5.02788262,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-06-18,11:47
+Euplectes afer,Animalia,WEAVERS_PLOCEIDAE,Yellow-crowned Bishop,,2,6.30380457,5.03057851,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-06-18,12:13
+Bocchoris inspersalis,Animalia,Crambidae,,,1,6.30065742,5.02728946,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-10-31,17:40
+Crinifer piscator,Animalia,TURACOS_MUSOPHAGIDAE,Western Plantain-eater,,7,3.8976220227778,7.44207909330726,Africa,Nigeria,NG,,Nigeria - Akinyele,2018-05-13,17:58
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,1,6.29780087,5.03042625,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-04-22,10:49
+Corythaeola cristata,Animalia,TURACOS_MUSOPHAGIDAE,Great Blue Turaco,,5,6.30090326,5.02737763,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-04-13,16:19
+Junonia terea terea,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,6,6.30158454,5.02789602,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-04-10,16:15
+Xerus erythropus,Animalia,SQUIRRELS_CHIPMUNKS_AND_PRAIRIEDOGS_SCIURIDAE,Striped Ground Squirrel,,2,6.30299807,5.02780916,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-04-10,16:51
+Microcarbo africanus,Animalia,CORMORANTS_PHALACROCORACIDAE,Reed Cormorant,,1,6.30080402,5.02772231,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-04-08,15:14
+Merops pusillus,Animalia,BEEEATERS_MEROPIDAE,Little Bee-eater,,4,6.3022095,5.02927463,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-03-10,15:01
+Euphorbia hirta,Plantae,EUPHORBIACEAE,Pill-bearing spurge,,1,6.3033092,5.03219503,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-04-08,09:41
+Microcarbo africanus,Animalia,CORMORANTS_PHALACROCORACIDAE,Reed Cormorant,,1,6.30086303,5.0274284,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-04-05,16:30
+Corythornis cristatus,Animalia,KINGFISHERS_ALCEDINIDAE,Malachite Kingfisher,,2,6.30081475,5.02775971,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-04-05,16:20
+Acraea bonasia,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,6.30091667,5.02790399,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-04-05,16:17
+Microsorum scolopendria,Plantae,POLYPODIACEAE,,,10,6.30381614,5.03226051,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-04-05,12:53
+Phalanta eurytis,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Forest leopard,,1,6.30102128,5.0279174,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-04-05,11:55
+Actophilornis africanus,Animalia,JACANAS_JACANIDAE,African Jacana,,1,6.30099714,5.02784788,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-04-05,11:48
+Dendrocygna viduata,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,White-faced Whistling Duck,,2,6.30083889,5.02746848,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-04-05,11:37
+Butorides striata,Animalia,HERONS_ARDEIDAE,Striated Heron,,1,6.29843295,5.03021789,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-04-02,16:08
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,1,4.32226,6.91793166666667,Africa,Nigeria,NG,,Nigeria - Omo,2018-03-29,08:10
+Symphonia globulifera,Plantae,CLUSIACEAE,Boarwood,,1,6.29836738,5.02979469,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-04-02,16:01
+Crinum jagus,Plantae,AMARYLLIDACEAE,,,3,6.30057007,5.0272541,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-03-31,14:40
+Pennisetum pedicellatum,Plantae,Poaceae,Kyasuwa grass,,1,6.30190849,5.03000763,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-03-31,11:42
+Hypolimnas anthedon anthedon,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,6.30111992,5.02794077,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-03-31,14:53
+Zehneria thwaitesii,Plantae,CUCURBITACEAE,,,4,6.30347148,5.03253173,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-10-15,09:07
+Zehneria thwaitesii,Plantae,CUCURBITACEAE,,,3,6.3034752,5.03254951,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-03-30,16:23
+Zehneria thwaitesii,Plantae,CUCURBITACEAE,,,4,6.3034752,5.03254951,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-12,09:02
+Musanga cecropioides,Plantae,URTICACEAE,Aga umbrella-tree,,6,6.29936844,5.03151842,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-01-21,16:38
+Anthocleista vogelii,Plantae,GENTIANACEAE,,,20,6.2978214,5.02785861,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-01-21,16:20
+Pterocarpus santalinoides,Plantae,Fabaceae,,,1,6.29781604,5.02839834,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-01-21,16:06
+Paullinia pinnata,Plantae,SAPINDACEAE,,,1,6.29785359,5.02849452,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-01-21,16:05
+Symphonia globulifera,Plantae,CLUSIACEAE,Boarwood,,6,6.29791141,5.02857097,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-01-21,16:03
+Burhinus vermiculatus,Animalia,THICKKNEES_BURHINIDAE,Water Thick-knee,,2,6.29893124,5.02985117,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-01-21,15:56
+Junonia sophia,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Little Comodore,,2,6.29803538,5.02876104,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-01-21,16:02
+Mapania spec.,Plantae,CYPERACEAE,,,1,6.3001442,5.02797083,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-03-25,14:41
+Anthocleista vogelii,Plantae,GENTIANACEAE,,,1,6.29997462,5.02716593,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-03-25,14:52
+Streptopelia semitorquata,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Red-eyed Dove,,1,6.2986051,5.02995117,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-03-25,15:41
+Nigrita canicapillus,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Grey-headed Nigrita,,1,6.29964847,5.03163445,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-03-25,09:50
+Centropus senegalensis,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,Senegal Coucal,,2,6.29931295,5.03139703,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-03-25,09:45
+Junonia oenone,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Dark Blue Pansy,,1,6.2985912,5.03005757,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-03-25,15:39
+Hamanumida daedalus,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Guineafowl,,1,6.30022515,5.02679567,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-03-25,14:48
+Acraea pseudegina,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Abadima Acraea,,2,6.29912788,5.03075651,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-03-25,10:09
+Nephele aequivalens,Animalia,Sphingidae,,,1,6.30227119,5.03059729,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-03-25,08:49
+Oriolus brachyrynchus,Animalia,ORIOLES_AND_FIG_BIRDS_ORIOLIDAE,Western Oriole,,2,4.35238166666667,6.84792166666667,Africa,Nigeria,NG,,Nigeria - Omo,2018-03-15,08:23
+Oriolus brachyrynchus,Animalia,ORIOLES_AND_FIG_BIRDS_ORIOLIDAE,Western Oriole,,1,4.32225666666667,6.91769833333333,Africa,Nigeria,NG,,Nigeria - Omo,2018-03-21,07:27
+Heinsia crinita,Plantae,RUBIACEAE,,,1,6.30020954,5.02805436,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-02-18,16:53
+Mapania spec.,Plantae,CYPERACEAE,,,6,6.30013883,5.02791205,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-02-18,16:51
+Heisteria parvifolia,Plantae,Olacaceae,,,1,6.30074282,5.02712699,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-02-18,16:39
+Bos taurus,Animalia,BOVIDS_BOVIDAE,Cattle,,60,6.29940439,5.0291241,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-02-18,15:36
+Stachytarpheta indica,Plantae,VERBENACEAE,,,5,6.30091716,5.03058708,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-03-18,11:23
+Alchornea cordifolia,Plantae,EUPHORBIACEAE,,,1,6.29898304,5.02979463,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-03-18,11:18
+Heliotropium indicum,Plantae,BORAGINACEAE,Indian heliotrope,,10,6.29869897,5.02990696,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-03-18,11:01
+Trachyphrynium braunianum,Plantae,MARANTACEAE,,,1,6.29980136,5.02760647,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-03-18,10:50
+Paullinia pinnata,Plantae,SAPINDACEAE,,,1,6.29996473,5.02740924,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-03-18,10:47
+Culcasia scandens,Plantae,ARACEAE,Culcasia,,1,6.29999131,5.027375,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-03-18,10:42
+Platycerium stemaria,Plantae,POLYPODIACEAE,Triangular staghorn fern,,2,6.29995693,5.02736479,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-03-18,10:38
+Danaus chrysippus,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,African Monarch,,6,6.30007763,5.02648695,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-03-18,10:33
+Ardea cinerea,Animalia,HERONS_ARDEIDAE,Grey Heron,,17,3.89031325466931,7.44408605620265,Africa,Nigeria,NG,,Nigeria - Akinyele,2018-03-08,17:00
+Cypsiurus parvus,Animalia,SWIFTS_APODIDAE,African Palm Swift,,1,3.53494825500714,6.43335194273156,Africa,Nigeria,NG,,Nigeria - Lekki Conservation Centre,2018-02-19,16:13
+Bubulcus ibis,Animalia,HERONS_ARDEIDAE,Western Cattle Egret,,5,7.0183967603176,4.84155370016801,Africa,Nigeria,NG,,Nigeria - Obio/Akpor,2018-02-20,08:51
+Lophoceros fasciatus,Animalia,HORNBILLS_BUCEROTIDAE,African Pied Hornbill,,2,7.01847343980195,4.8361648243889,Africa,Nigeria,NG,,Nigeria - Obio/Akpor,2018-02-20,09:29
+Lophoceros fasciatus,Animalia,HORNBILLS_BUCEROTIDAE,African Pied Hornbill,,2,7.0486884,4.8521965,Africa,Nigeria,NG,,Nigeria - Obio/Akpor,2018-02-20,17:45
+Lophoceros fasciatus,Animalia,HORNBILLS_BUCEROTIDAE,African Pied Hornbill,,2,7.04706945635338,4.85186003782127,Africa,Nigeria,NG,,Nigeria - Obio/Akpor,2018-02-20,17:55
+Streptopelia semitorquata,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Red-eyed Dove,,1,7.04695542321997,4.85084760790822,Africa,Nigeria,NG,,Nigeria - Obio/Akpor,2018-02-20,17:59
+Danaus chrysippus alcippus,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,2,6.30006909,5.02661351,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-02-11,09:26
+Milvus aegyptius parasitus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Yellow-billed Kite ssp parasitus,,50,6.30175352,5.02956862,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-02-11,08:58
+Heraclia geryon,Animalia,Noctuidae,,,4,6.30282153,5.02746219,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-05,14:31
+Anacardium occidentale,Plantae,ANACARDIACEAE,Cashewnut,,4,6.73654119,5.56136491,Africa,Nigeria,NG,,Nigeria - Ohaji /Egbema,2018-02-01,13:22
+Hamanumida daedalus,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Guineafowl,,4,6.30019248,5.0267284,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-02-04,14:22
+Platysteira castanea,Animalia,WATTLEEYES_BATISES_PLATYSTEIRIDAE,Chestnut Wattle-eye,,1,4.36816,6.83141666666667,Africa,Nigeria,NG,,Nigeria - Omo,2018-02-01,09:21
+Ipomoea aquatica,Plantae,CONVOLVULACEAE,Water spinach,,20,6.30355597,5.03251031,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-01-26,10:49
+Motacilla flava,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Western Yellow Wagtail,,5,6.30207002,5.02967007,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-01-28,17:06
+Burhinus vermiculatus,Animalia,THICKKNEES_BURHINIDAE,Water Thick-knee,,3,6.29893184,5.0298571,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-01-27,16:27
+Clamator levaillantii,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,Levaillant's Cuckoo,,2,3.96233735606074,6.84983481187373,Africa,Nigeria,NG,,Nigeria - Ijebu North-East,2018-01-30,07:59
+Clamator levaillantii,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,Levaillant's Cuckoo,,1,3.9630084,6.8480521,Africa,Nigeria,NG,,Nigeria - Ijebu North-East,2018-01-29,09:24
+Ceiba pentandra,Plantae,MALVACEAE,Silk cottontree,,1,6.30039096,5.02758057,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-01-21,11:44
+Neptidopsis ophione ophione,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,6.30026758,5.02790671,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-01-20,11:45
+Junonia terea terea,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,20,6.30018711,5.02790404,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-01-20,11:42
+Gloriosa superba,Plantae,COLCHICACEAE,Flame lily,,1,6.30320996,5.02771433,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-01-19,15:14
+Palpopleura lucia,Animalia,SKIMMERS_LIBELLULIDAE,Lucia Widow,,1,6.30299807,5.02757535,Africa,Nigeria,NG,,Nigeria - Yenegoa,2018-01-19,15:02
+Saliunca styx,Animalia,Zygaenidae,,,1,6.30119026,5.0279147,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-10,14:45
+Chiromachla leuconoe,Animalia,EREBIDAE,,,1,6.30361497,5.02756199,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-10-22,15:28
+Chiromachla leuconoe,Animalia,EREBIDAE,,,1,6.30098104,5.02793606,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-16,17:09
+Anchomanes difformis,Plantae,ARACEAE,,,2,6.30055994,5.02724404,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-12-08,15:09
+Melanitis leda,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Common Evening Brown,,1,6.30019516,5.02747649,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-12-10,11:31
+Acraea serena,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Small Orange Acraea,,4,6.30159527,5.02798148,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-12-10,11:01
+Acraea spec.,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,6.3013941,5.02880981,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-12-10,11:53
+Acraea serena,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Small Orange Acraea,,3,6.3010186,5.02808831,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-12-10,11:50
+Heisteria parvifolia,Plantae,Olacaceae,,,1,6.30086035,5.02731088,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-12-10,11:37
+Periploca nigrescens,Plantae,APOCYNACEAE,,,1,6.30149335,5.02855865,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-12-10,11:56
+Merremia umbellata,Plantae,CONVOLVULACEAE,Hogvine,,4,6.30156308,5.02854262,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-12-10,11:54
+Ipomoea pileata,Plantae,CONVOLVULACEAE,,,100,6.30106688,5.02806164,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-12-10,11:47
+Anchomanes difformis,Plantae,ARACEAE,,,1,6.30057603,5.02730553,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-12-16,11:32
+Hamanumida daedalus,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Guineafowl,,1,6.30230874,5.02785327,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-12-16,11:20
+Acraea serena,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Small Orange Acraea,,1,6.30238652,5.02782121,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-12-16,11:18
+Junonia sophia,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Little Comodore,,7,6.30258232,5.02777842,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-12-16,11:17
+Pterocarpus santalinoides,Plantae,Fabaceae,,,1,6.30079061,5.02778376,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-12-16,11:10
+Heinsia crinita,Plantae,RUBIACEAE,,,1,6.30019784,5.02740702,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-12-08,15:00
+Ipomoea aquatica,Plantae,CONVOLVULACEAE,Water spinach,,1,6.30345672,5.03244619,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-12-08,08:29
+Neptis agouale,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,6.30164355,5.0279227,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-12-08,14:53
+Junonia oenone,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Dark Blue Pansy,,4,6.30197346,5.02887126,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-12-08,14:49
+Acraea bonasia,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,6.30205393,5.02925597,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-12-08,14:46
+Pterocarpus santalinoides,Plantae,Fabaceae,,,1,6.3008067,5.0277891,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-12-07,17:16
+Heisteria parvifolia,Plantae,Olacaceae,,,1,6.30083352,5.02724408,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-12-07,17:04
+Bycanistes fistulator,Animalia,HORNBILLS_BUCEROTIDAE,Piping Hornbill,,2,6.30031586,5.02727071,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-12-07,16:59
+Hamanumida daedalus,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Guineafowl,,1,6.30137265,5.0288685,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-12-07,16:31
+Bunaea alcinoe,Animalia,Saturniidae,Cabbage tree emperor moth,,1,6.30189836,5.0300963,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-12-07,09:00
+Lophoceros fasciatus,Animalia,HORNBILLS_BUCEROTIDAE,African Pied Hornbill,,3,6.30088583,5.02738095,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-11-11,11:50
+Junonia oenone oenone,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,7,6.30348489,5.02957657,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-11-08,12:48
+Junonia sophia,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Little Comodore,,10,6.30080268,5.02781987,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-11-03,12:15
+Junonia terea terea,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,5,6.30374908,5.02753532,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-17,14:03
+Precis sinuata,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,4,6.30093411,5.02792602,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-08,14:52
+Neptidopsis ophione ophione,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,2,6.30272448,5.02761814,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-10,14:34
+Palpopleura portia,Animalia,SKIMMERS_LIBELLULIDAE,Portia Widow,,10,6.29869358,5.0298251,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-09,10:41
+Hypolimnas misippus,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Danaid Eggfly,,1,6.30303654,5.02853456,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-10,14:16
+Junonia terea,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Soldier Commodore,,1,6.30102932,5.02792007,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-23,14:14
+Junonia sophia,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Little Comodore,,3,6.30099714,5.02790671,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-10-22,14:57
+Hypolimnas salmacis salmacis,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,6.30052867,5.02751123,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-05,14:01
+Acraea pseudegina,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Abadima Acraea,,1,6.30099177,5.0285533,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-11-05,11:27
+Pseudoneptis bugandensis ianthe,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,6.30084517,5.02742305,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-11-05,11:20
+Hypolimnas salmacis salmacis,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,6.30054208,5.02758871,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-11-05,11:16
+Precis pelarga,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Fashion commodore,,4,6.30082279,5.02741508,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-11-01,14:19
+Mocis mayeri,Animalia,EREBIDAE,,,1,6.30083713,5.02736962,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-10-31,17:38
+Triumfetta rhomboidea,Plantae,MALVACEAE,Paroquet-bur,,1,6.30157159,5.02799085,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-10-31,17:55
+Corythornis cristatus,Animalia,KINGFISHERS_ALCEDINIDAE,Malachite Kingfisher,,1,6.30349474,5.03251701,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-10-30,15:48
+Ipomoea pileata,Plantae,CONVOLVULACEAE,,,50,6.30095246,5.02792003,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-11-01,14:22
+Vidua macroura,Animalia,INDIGOBIRDS_AND_WHYDAHS_VIDUIDAE,Pin-tailed Whydah,,1,6.30058056,5.02872831,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-10-22,14:35
+Vidua macroura,Animalia,INDIGOBIRDS_AND_WHYDAHS_VIDUIDAE,Pin-tailed Whydah,,1,6.30214697,5.03004822,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-10-21,16:08
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,1,6.30009416,5.02804765,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-10-21,15:45
+Scopus umbretta minor,Animalia,HAMERKOP_SCOPIDAE,Hamerkop ssp minor,,2,6.3015345,5.0281946,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-10-20,15:11
+Merops pusillus,Animalia,BEEEATERS_MEROPIDAE,Little Bee-eater,,4,6.30168471,5.02832285,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-10-14,17:33
+Corythaeola cristata,Animalia,TURACOS_MUSOPHAGIDAE,Great Blue Turaco,,5,6.30453497,5.03162597,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-17,13:47
+Lophoceros fasciatus,Animalia,HORNBILLS_BUCEROTIDAE,African Pied Hornbill,,1,6.30234721,5.02780184,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-17,11:59
+Corythaeola cristata,Animalia,TURACOS_MUSOPHAGIDAE,Great Blue Turaco,,1,6.3001183,5.02771634,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-17,11:21
+Vidua macroura,Animalia,INDIGOBIRDS_AND_WHYDAHS_VIDUIDAE,Pin-tailed Whydah,,1,6.3006565,5.02832085,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-16,17:32
+Acraea epaea,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,6.30069137,5.02763685,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-10-14,11:11
+Acraea pseudegina,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Abadima Acraea,,1,6.30061358,5.02773838,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-23,14:32
+Acraea orestia,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,6.30020857,5.0276983,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-23,14:24
+Acraea egina egina,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Elegant Acraea,,1,6.30092472,5.02790136,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-23,14:16
+Hypolimnas salmacis salmacis,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,6.30073696,5.02779449,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-23,14:12
+Leea guineensis,Plantae,VITACEAE,,,1,6.30040353,5.02887022,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-10-15,11:21
+Melanthera scandens,Plantae,Asteraceae,,,30,6.29856974,5.0295232,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-10-15,15:08
+Chamaecrista mimosoides,Plantae,Fabaceae,Chamaecrista,,3,6.30071106,5.03052449,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-10-15,14:59
+Clappertonia ficifolia,Plantae,MALVACEAE,Bolo-bolo,,20,6.30076647,5.0280884,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-10-15,11:06
+Aneilema beniniense,Plantae,COMMELINACEAE,,,30,6.30074325,5.02777927,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-10-15,10:40
+Milvus aegyptius,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Yellow-billed Kite,,3,6.30028015,5.0288435,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-10-15,11:17
+Apis mellifera,Animalia,Apidae,Western Honey Bee,,1,6.30096495,5.02792274,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-10-15,11:03
+Costus lucanusianus,Plantae,COSTACEAE,,,20,6.30085812,5.02784433,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-10-15,10:39
+Acraea epaea,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,6.30088809,5.02791554,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-10-15,10:37
+Precis pelarga,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Fashion commodore,,5,6.3007057,5.0277671,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-11,15:57
+Acraea bonasia,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,2,6.30099177,5.02798152,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-11,15:50
+Acraea bonasia,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,4,6.3004446,5.0276983,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-10,14:58
+Acraea bonasia,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,6.30332085,5.02745865,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-10,14:26
+Acraea bonasia,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,6.2985912,5.02984917,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-09,10:28
+Mussaenda incana,Plantae,RUBIACEAE,,,1,6.94975376,5.00594342,Africa,Nigeria,NG,,Nigeria - Ikwerre,2017-10-09,09:41
+Hypolimnas salmacis salmacis,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,6.30056798,5.02766089,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-25,13:36
+Aterica galene,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Forest Glade Nymph,,3,6.3007057,5.02771514,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-25,13:31
+Precis pelarga,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Fashion commodore,,5,6.30103293,5.02798531,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-25,13:30
+Aterica galene,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Forest Glade Nymph,,1,6.30058777,5.02767069,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-24,14:24
+Junonia oenone,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Dark Blue Pansy,,10,6.30081031,5.02784221,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-08,14:49
+Amauris damocles,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,6.30327882,5.02892659,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-06,12:57
+Vanellus albiceps,Animalia,PLOVERS_CHARADRIIDAE,White-crowned Lapwing,,3,6.30106243,5.03043275,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-13,12:17
+Euplectes afer,Animalia,WEAVERS_PLOCEIDAE,Yellow-crowned Bishop,,2,6.30370173,5.03047402,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-12,13:32
+Acraea bonasia,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,10,6.30255818,5.02764486,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-06,12:31
+Neptidopsis ophione ophione,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,4,6.3002193,5.02775174,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-10,15:09
+Ageratum conyzoides,Plantae,Asteraceae,Tropical whiteweed,,10,6.30389753,5.03123283,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-10,14:07
+Chamaecrista mimosoides,Plantae,Fabaceae,Chamaecrista,,10,6.30023723,5.03061288,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-10,11:48
+Protogoniomorpha anacardii,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Clouded mother-of-pearl,,1,6.30096856,5.02788377,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-08,14:30
+Cyperus cyperoides,Plantae,CYPERACEAE,Pacific island flatsedge,,200,6.30341113,5.02928807,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-06,12:58
+Dracaena arborea,Plantae,ASPARAGACEAE,,,1,5.72510633,5.52563366,Africa,Nigeria,NG,,Nigeria - Warri South,2007-07-12,17:05
+Ardea alba,Animalia,HERONS_ARDEIDAE,Great Egret,,1,6.3028005,5.02849059,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-06,12:55
+Acraea orestia,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,6.30088004,5.02819906,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-03-29,08:51
+Neptidopsis ophione ophione,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,6.30062792,5.02750169,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-05,03:58
+Fleroya stipulosa,Plantae,RUBIACEAE,,,1,6.30258861,5.02865714,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-05,14:38
+Melanthera scandens,Plantae,Asteraceae,,,10,6.30010933,5.02820062,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-05,14:21
+Eurema hecabe,Animalia,WHITES_PIERIDAE,Common Grass Yellow,,1,6.30095154,5.02812313,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-04,15:49
+Junonia oenone,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Dark Blue Pansy,,1,6.3008523,5.02787732,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-04,15:43
+Hypolimnas salmacis,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,6.30022734,5.02756203,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-04,15:32
+Aterica galene galene,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,6.30029976,5.02757005,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-04,15:31
+Junonia terea terea,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,3,6.30080938,5.02788533,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-04,15:19
+Eurema hecabe,Animalia,WHITES_PIERIDAE,Common Grass Yellow,,3,6.3024348,5.03012972,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-03,17:53
+Neptidopsis ophione ophione,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,6.30156225,5.02864638,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-07-31,13:00
+Pseudacraea semire,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,6.3002488,5.02751661,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-02,11:00
+Acraea egina egina,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Elegant Acraea,,1,6.30103469,5.02787999,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-02,10:47
+Acraea pseudegina,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Abadima Acraea,,1,6.30349528,5.02935932,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-09-01,12:37
+Junonia sophia,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Little Comodore,,1,6.30102396,5.02797618,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-08-02,10:31
+Hypoleucis spec.,Animalia,SKIPPERS_HESPERIIDAE,,,1,6.30133878,5.02855776,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-08-02,10:47
+Acraea bonasia,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,4,6.30071467,5.02783947,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-08-02,10:27
+Junonia oenone,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Dark Blue Pansy,,1,6.30068433,5.02763269,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-05-26,17:07
+Hedydipna collaris,Animalia,SUNBIRDS_NECTARINIIDAE,Collared Sunbird,,1,6.30219525,5.02812269,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-08-02,10:22
+Amauris spec.,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,6.30328238,5.02743111,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-07-30,09:58
+Aneilema beniniense,Plantae,COMMELINACEAE,,,10,6.30084341,5.02792497,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-07-30,09:31
+Acraea bonasia,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,6.30095422,5.02793877,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-07-30,09:27
+Scopula spec.,Animalia,Geometridae,,,1,6.3010025,5.02796549,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-07-30,09:25
+Crotalaria retusa,Plantae,Fabaceae,Rattleweed,,5,6.30320191,5.03110762,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-07-28,18:23
+Euplectes afer,Animalia,WEAVERS_PLOCEIDAE,Yellow-crowned Bishop,,3,6.30379384,5.03060754,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-07-26,12:44
+Musanga cecropioides,Plantae,URTICACEAE,Aga umbrella-tree,,3,6.30028367,5.02807237,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-07-29,12:26
+Palpopleura portia,Animalia,SKIMMERS_LIBELLULIDAE,Portia Widow,,10,6.30129755,5.02833421,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-07-29,12:32
+Palpopleura portia,Animalia,SKIMMERS_LIBELLULIDAE,Portia Widow,,20,6.30031234,5.02833644,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-07-29,12:10
+Zonocerus variegatus,Animalia,Pyrgomorphidae,Variegated grasshopper,,7,6.30187154,5.02789068,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-07-28,12:35
+Clappertonia ficifolia,Plantae,MALVACEAE,Bolo-bolo,,60,6.30135119,5.0283823,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-07-28,12:19
+Precis pelarga,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Fashion commodore,,1,6.30142461,5.02870738,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-07-28,12:34
+Passer griseus,Animalia,OLD_WORLD_SPARROWS_PASSERIDAE,Northern Grey-headed Sparrow,,2,6.30355421,5.03256013,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-07-25,13:09
+Euplectes afer,Animalia,WEAVERS_PLOCEIDAE,Yellow-crowned Bishop,,10,6.30365973,5.0302846,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-07-22,15:29
+Junonia sophia sophia,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,6.30105615,5.02814718,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-07-23,12:12
+Acraea pseudegina,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Abadima Acraea,,1,6.30133878,5.02855314,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-07-23,12:19
+Scopus umbretta minor,Animalia,HAMERKOP_SCOPIDAE,Hamerkop ssp minor,,1,6.30291592,5.03137464,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-07-18,18:04
+Scopus umbretta minor,Animalia,HAMERKOP_SCOPIDAE,Hamerkop ssp minor,,2,6.30087744,5.03009214,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-07-18,15:56
+Periploca nigrescens,Plantae,APOCYNACEAE,,,1,6.30171245,5.03323258,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-03-08,08:49
+Lantana camara,Plantae,VERBENACEAE,Largeleaf lantana,,1,3.35514575,6.59887889,Africa,Nigeria,NG,,Nigeria - Kosofe,2017-03-14,13:00
+Acraea serena,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Small Orange Acraea,,1,6.30151749,5.02845712,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-03-12,17:10
+Acraea bonasia,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,6.29994404,5.02869922,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-03-12,10:16
+Centropus senegalensis,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,Senegal Coucal,,2,6.30093545,5.02779716,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-03-12,10:03
+Lonchura cucullata,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Bronze Mannikin,,25,6.30093545,5.02779716,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-03-12,09:28
+Quelea erythrops,Animalia,WEAVERS_PLOCEIDAE,Red-headed Quelea,,60,6.30093545,5.02779716,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-03-12,09:23
+Ploceus melanocephalus,Animalia,WEAVERS_PLOCEIDAE,Black-headed Weaver,,1,6.30210053,5.02946872,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-03-06,16:18
+Ploceus melanocephalus,Animalia,WEAVERS_PLOCEIDAE,Black-headed Weaver,,100,6.30210053,5.02946872,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-03-07,18:06
+Euchromia spec.,Animalia,EREBIDAE,,,1,6.30106688,5.0279174,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-03-10,15:38
+Alpenus maculosa,Animalia,EREBIDAE,,,1,6.30081123,5.02788348,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-03-10,15:26
+Danaus chrysippus,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,African Monarch,,1,6.3026192,5.02905888,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-03-10,15:28
+Cecropis abyssinica,Animalia,SWALLOWS_HIRUNDINIDAE,Lesser Striped Swallow,,2,6.30227219,5.03309178,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-03-10,09:50
+Motacilla flava flava,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Blue-headed Wagtail,,1,6.3013532,5.02997801,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-03-10,08:35
+Gloriosa superba,Plantae,COLCHICACEAE,Flame lily,,1,6.30089169,5.02792623,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-03-09,10:55
+Scopus umbretta minor,Animalia,HAMERKOP_SCOPIDAE,Hamerkop ssp minor,,2,6.30073076,5.02762163,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-03-09,14:16
+Merops pusillus,Animalia,BEEEATERS_MEROPIDAE,Little Bee-eater,,11,6.30075574,5.03345887,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-03-05,10:03
+Milvus aegyptius,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Yellow-billed Kite,,3,6.29968286,5.03199468,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-03-05,10:09
+Lobobunaea spec.,Animalia,Saturniidae,,,1,6.30075943,5.03040922,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-02-26,11:51
+Bubulcus ibis,Animalia,HERONS_ARDEIDAE,Western Cattle Egret,,6,6.30146032,5.03002098,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-02-25,10:00
+Clamator jacobinus,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,Jacobin Cuckoo,,1,6.30306428,5.02770179,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-02-21,01:21
+Phaseolus vulgaris,Plantae,Fabaceae,French Bean,,1,6.30348447,5.03207243,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-11-25,09:00
+Chromolaena odorata,Plantae,Asteraceae,Siamweed,,50,6.30265474,5.02747386,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-02-11,11:03
+Ploceus cucullatus,Animalia,WEAVERS_PLOCEIDAE,Village Weaver,,50,6.30377683,5.03261897,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-02-07,08:41
+Scoparia dulcis,Plantae,PLANTAGINACEAE,Sweet-broom,,100,6.30227571,5.03088133,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-02-05,17:38
+Junonia terea terea,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,6.30103653,5.02800638,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-02-12,11:11
+Aves indet.,Animalia,unknown,Unidentified bird,,1,6.30109906,5.02794411,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-02-11,11:54
+Glyphaea brevis,Plantae,MALVACEAE,,,3,6.30250454,5.02753799,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-02-11,11:17
+Glyphaea brevis,Plantae,MALVACEAE,,,3,6.30093813,5.02793343,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-02-12,11:03
+Merremia umbellata,Plantae,CONVOLVULACEAE,Hogvine,,1,6.29929662,5.0296755,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-02-12,11:34
+Mitracarpus hirtus,Plantae,RUBIACEAE,Small squareweed,,10,6.30052339,5.03040922,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-02-12,11:40
+Junonia sophia sophia,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,10,6.30096327,5.02812684,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-02-11,11:00
+Junonia oenone oenone,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,6.30104911,5.02821828,Africa,Nigeria,NG,,Nigeria - Yenegoa,2017-02-04,10:55
+Anacardium occidentale,Plantae,ANACARDIACEAE,Cashewnut,,20,6.7381848,5.56910078,Africa,Nigeria,NG,,Nigeria - Ohaji /Egbema,2016-12-02,16:16
+Passiflora foetida,Plantae,PASSIFLORACEAE,,,20,6.73865318,5.56221894,Africa,Nigeria,NG,,Nigeria - Ohaji /Egbema,2016-12-02,13:34
+Crotalaria retusa,Plantae,Fabaceae,Rattleweed,,5,6.73805237,5.56691071,Africa,Nigeria,NG,,Nigeria - Ohaji /Egbema,2016-12-02,09:55
+Sida acuta,Plantae,MALVACEAE,Southern sida,,10,6.73826694,5.56659036,Africa,Nigeria,NG,,Nigeria - Ohaji /Egbema,2016-12-02,09:50
+Anacardium occidentale,Plantae,ANACARDIACEAE,Cashewnut,,1,6.73852444,5.56708156,Africa,Nigeria,NG,,Nigeria - Ohaji /Egbema,2016-12-02,09:46
+Mimosa pudica,Plantae,Fabaceae,Common sensitive-plant,,100,6.73865318,5.56236176,Africa,Nigeria,NG,,Nigeria - Ohaji /Egbema,2016-12-02,09:38
+Uraria picta,Plantae,Fabaceae,,,1,6.73825622,5.56616056,Africa,Nigeria,NG,,Nigeria - Ohaji /Egbema,2016-12-01,13:59
+Elaeis guineensis,Plantae,Arecaceae,African oil palm,,30,6.73929155,5.56856583,Africa,Nigeria,NG,,Nigeria - Ohaji /Egbema,2016-12-01,12:44
+Luffa cylindrica,Plantae,CUCURBITACEAE,,,30,6.73897505,5.56864058,Africa,Nigeria,NG,,Nigeria - Ohaji /Egbema,2016-12-01,11:10
+Stachytarpheta cayennensis,Plantae,VERBENACEAE,Snakeweed,,1,6.73798531,5.56539173,Africa,Nigeria,NG,,Nigeria - Ohaji /Egbema,2016-12-01,10:03
+Zonocerus variegatus,Animalia,Pyrgomorphidae,Variegated grasshopper,,23,6.30074501,5.02768761,Africa,Nigeria,NG,,Nigeria - Yenegoa,2015-04-06,08:49
+Roystonea regia,Plantae,Arecaceae,Royal palm,,4,6.64945364,5.32466582,Africa,Nigeria,NG,,Nigeria - Ogba/Egbema/Ndoni,2016-11-30,17:10
+Euphorbia milii,Plantae,EUPHORBIACEAE,Crown-of-thorns,,1,6.64856943,5.32488656,Africa,Nigeria,NG,,Nigeria - Ogba/Egbema/Ndoni,2016-11-30,17:07
+Carica papaya,Plantae,CARICACEAE,Papaya,,1,6.73711896,5.56464692,Africa,Nigeria,NG,,Nigeria - Ohaji /Egbema,2016-11-30,15:27
+Tridax procumbens,Plantae,Asteraceae,Coatbuttons,,100,6.73846903,5.56240355,Africa,Nigeria,NG,,Nigeria - Ohaji /Egbema,2016-11-30,10:59
+Croton hirtus,Plantae,EUPHORBIACEAE,,,50,6.73888385,5.56823481,Africa,Nigeria,NG,,Nigeria - Ohaji /Egbema,2016-11-30,11:55
+Urena lobata,Plantae,MALVACEAE,Urena-weed,,50,6.73837784,5.56586064,Africa,Nigeria,NG,,Nigeria - Ohaji /Egbema,2016-11-30,10:24
+Mimosa invisa,Plantae,Fabaceae,Giant sensitive-plant,,75,6.30138874,5.0279548,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-11-26,11:17
+Hibiscus hispidissimus,Plantae,MALVACEAE,,,3,6.30226146,5.02767321,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-11-26,11:12
+Ploceus cucullatus,Animalia,WEAVERS_PLOCEIDAE,Village Weaver,,100,6.30438837,5.03247054,Africa,Nigeria,NG,,Nigeria - Yenegoa,2015-11-03,07:45
+Junonia sophia sophia,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,,,1,7.32083738,5.06330292,Africa,Nigeria,NG,,Nigeria - Aba South,2014-08-30,10:51
+Dendrocygna viduata,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,White-faced Whistling Duck,,41,7.32242349,5.07093511,Africa,Nigeria,NG,,Nigeria - Aba South,2014-09-13,09:27
+Hirundo aethiopica,Animalia,SWALLOWS_HIRUNDINIDAE,Ethiopian Swallow,,10,6.30334139,5.03234203,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-11-26,08:34
+Melanthera scandens,Plantae,Asteraceae,,,30,6.29884969,5.03051016,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-11-25,11:03
+Spoladea recurvalis,Animalia,Crambidae,,,1,7.32069388,5.06336838,Africa,Nigeria,NG,,Nigeria - Aba South,2013-11-11,16:54
+Trigonodes hyppasia,Animalia,Noctuidae,,,1,7.32069971,5.06337726,Africa,Nigeria,NG,,Nigeria - Aba South,2014-04-25,09:43
+Pycnonotus barbatus,Animalia,BULBULS_PYCNONOTIDAE,Common Bulbul,,1,6.3039816,5.03253789,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-11-22,12:46
+Momordica charantia,Plantae,CUCURBITACEAE,Carilla gourd,,2,7.32118975,5.06868008,Africa,Nigeria,NG,,Nigeria - Aba South,2013-11-29,14:14
+Eriosema laurentii,Plantae,Fabaceae,,,1,6.3018680175992,5.0331470762954,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-11-20,09:08
+Corvus albus,Animalia,CROWS_AND_JAYS_CORVIDAE,Pied Crow,,8,6.3023043793146,5.0305481612445,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-11-15,12:15
+Ravenala madagascariensis,Plantae,STRELITZIACEAE,Traveler's tree,,15,7.1783388219774,4.3853330130262,Africa,Nigeria,NG,,Nigeria - Bonny,2013-05-11,17:12
+Delonix regia,Plantae,Fabaceae,Royal poinciana,,5,7.1780759654939,4.3847149392563,Africa,Nigeria,NG,,Nigeria - Bonny,2013-04-21,11:27
+Platycerium spec.,Plantae,POLYPODIACEAE,,,50,7.1784344593289,4.3837946992679,Africa,Nigeria,NG,,Nigeria - Bonny,2013-04-21,11:19
+Allamanda cathartica,Plantae,APOCYNACEAE,Common trumpetvine,,3,7.1735313812496,4.386347521992,Africa,Nigeria,NG,,Nigeria - Bonny,2013-03-03,14:59
+Lophoceros fasciatus,Animalia,HORNBILLS_BUCEROTIDAE,African Pied Hornbill,,3,6.2996077118441,5.0285936857134,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-11-13,11:06
+Zonocerus variegatus,Animalia,Pyrgomorphidae,Variegated grasshopper,,2,7.3212594071629,5.068360767596,Africa,Nigeria,NG,,Nigeria - Aba South,2014-08-23,08:23
+Zonocerus variegatus,Animalia,Pyrgomorphidae,Variegated grasshopper,,1,7.3206962265976,5.0633900476546,Africa,Nigeria,NG,,Nigeria - Aba South,2014-06-18,10:45
+Zonocerus variegatus,Animalia,Pyrgomorphidae,Variegated grasshopper,,1,7.3207230486878,5.0633098953858,Africa,Nigeria,NG,,Nigeria - Aba South,2014-06-16,14:20
+Anthocleista vogelii,Plantae,GENTIANACEAE,,,20,6.3026834091397,5.0288239816792,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-11-12,12:47
+Fleroya stipulosa,Plantae,RUBIACEAE,,,10,6.3027155956479,5.0288560442919,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-11-12,12:37
+Zonocerus variegatus,Animalia,Pyrgomorphidae,Variegated grasshopper,,1,6.3033325037213,5.0274185689375,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-11-12,12:22
+Newbouldia laevis,Plantae,BIGNONIACEAE,,,1,6.3033915123196,5.0274720067398,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-11-12,12:13
+Strigocossus crassa,Animalia,Cossidae,,,1,6.3030928652734,5.0320670845818,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-11-12,08:36
+Milvus aegyptius,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Yellow-billed Kite,,3,6.3011456650202,5.0314886614034,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-11-11,10:29
+Melanthera scandens,Plantae,Asteraceae,,,20,6.3008023425937,5.0279938412933,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-11-10,11:28
+Merops pusillus,Animalia,BEEEATERS_MEROPIDAE,Little Bee-eater,,5,6.3003446906805,5.0294008855377,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-11-09,16:26
+Corythaeola cristata,Animalia,TURACOS_MUSOPHAGIDAE,Great Blue Turaco,,1,6.3007808845941,5.0282182799983,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-11-09,08:52
+Estrilda melpoda,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Orange-cheeked Waxbill,,3,6.3006950539057,5.028271717735,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-11-09,08:57
+Luffa cylindrica,Plantae,CUCURBITACEAE,,,20,6.3029913591163,5.0304408410993,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-11-08,09:29
+Combretum racemosum,Plantae,Combretaceae,,,3,6.3036347553134,5.0296432661636,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-11-06,12:16
+Phaulopsis ciliata,Plantae,ACANTHACEAE,,,10,6.30263697,5.02759126,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-11-06,12:16
+Hibiscus hispidissimus,Plantae,MALVACEAE,,,5,6.3028658,5.02823794,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-11-06,12:29
+Lanius mackinnoni,Animalia,SHRIKES_LANIIDAE,Mackinnon's Shrike,,5,9.3053627009795,6.6161657321449,Africa,Nigeria,NG,,Nigeria - Obanliku,2014-03-17,
+Selaginella myosurus,Plantae,SELAGINELLACEAE,,,10,6.3006950542331,5.0276553835935,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-10-02,11:09
+Musanga cecropioides,Plantae,URTICACEAE,Aga umbrella-tree,,10,6.3000513240695,5.0280401355323,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-10-02,10:56
+Synedrella nodiflora,Plantae,Asteraceae,Nodeweed,,40,6.3043088279665,5.0324274438073,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-10-01,12:54
+Eclipta prostrata,Plantae,Asteraceae,White eclipta,,40,6.3042766414583,5.0324007251101,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-10-01,12:55
+Ageratum conyzoides,Plantae,Asteraceae,Tropical whiteweed,,50,6.3036543689668,5.0325289748467,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-10-01,13:01
+Tridax procumbens,Plantae,Asteraceae,Coatbuttons,,200,6.2995470687747,5.0300387044457,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-09-30,15:56
+Burhinus vermiculatus,Animalia,THICKKNEES_BURHINIDAE,Water Thick-knee,,2,6.3007486984134,5.0332983892396,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-09-29,17:56
+Solanum nigrum subsp. nigrum,Plantae,SOLANACEAE,Black Nightshade,,2,6.3021219891016,5.0296610973493,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-09-26,10:43
+Mitracarpus hirtus,Plantae,RUBIACEAE,Small squareweed,,25,6.302025429577,5.0292870338986,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-09-26,11:12
+Momordica charantia,Plantae,CUCURBITACEAE,Carilla gourd,,10,7.32277485542,5.0655195338696,Africa,Nigeria,NG,,Nigeria - Aba South,2014-08-16,10:01
+Glyphaea brevis,Plantae,MALVACEAE,,,1,6.3009632751346,5.0279439475689,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-09-25,11:09
+Aneilema beniniense,Plantae,COMMELINACEAE,,,5,6.3006306812167,5.0275591955733,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-09-25,10:41
+Calopogonium mucunoides,Plantae,Fabaceae,Calopo,,20,6.2992573902011,5.0298356415741,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-09-24,16:59
+Lycopodiella cernua,Plantae,LYCOPODIACEAE,,,200,6.3023831695318,5.0290873476657,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-09-24,13:40
+Emilia coccinea,Plantae,Asteraceae,Scarlet tasselflower,,50,6.3009884208441,5.0303698504237,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-09-24,13:34
+Lindernia spec.,Plantae,LINDERNIACEAE,,,100,6.3039601407945,5.0323205690119,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-09-23,12:30
+Ipomoea aquatica,Plantae,CONVOLVULACEAE,Water spinach,,50,6.3027871772647,5.0325716412574,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-09-21,08:17
+Momordica charantia,Plantae,CUCURBITACEAE,Carilla gourd,,10,7.3224932234734,5.0655230915298,Africa,Nigeria,NG,,Nigeria - Aba South,2014-06-23,14:05
+Ipomoea pileata,Plantae,CONVOLVULACEAE,,,50,6.2989175876828,5.0298286092973,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-09-18,09:33
+Vidua macroura,Animalia,INDIGOBIRDS_AND_WHYDAHS_VIDUIDAE,Pin-tailed Whydah,,5,6.2988871614562,5.0299230528565,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-09-18,10:07
+Lophoceros fasciatus,Animalia,HORNBILLS_BUCEROTIDAE,African Pied Hornbill,,3,6.2986351173822,5.0294473466693,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-09-17,14:01
+Euplectes afer,Animalia,WEAVERS_PLOCEIDAE,Yellow-crowned Bishop,,3,6.302744261593,5.0298641601123,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-09-17,11:36
+Merops pusillus,Animalia,BEEEATERS_MEROPIDAE,Little Bee-eater,,2,6.302744261593,5.0298641601123,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-09-17,11:32
+Corythaeola cristata,Animalia,TURACOS_MUSOPHAGIDAE,Great Blue Turaco,,3,6.3044751247617,5.0316668604538,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-09-15,13:11
+Gomphrena celosioides,Plantae,AMARANTHACEAE,Soft khakiweed,,50,6.3015300593452,5.0325966715201,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-09-12,10:24
+Urena lobata,Plantae,MALVACEAE,Urena-weed,,1,6.3003410029705,5.0286105984673,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-09-11,09:43
+Carica papaya,Plantae,CARICACEAE,Papaya,,5,6.3003839183148,5.0279319392389,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-09-11,09:37
+Elaeis guineensis,Plantae,Arecaceae,African oil palm,,30,6.300780885249,5.0275418434568,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-09-11,09:30
+Gloriosa superba,Plantae,COLCHICACEAE,Flame lily,,1,6.300780885249,5.0274456554198,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-09-11,09:18
+Costus lucanusianus,Plantae,COSTACEAE,,,50,6.300780885249,5.0273922176153,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-09-11,09:17
+Asystasia gangetica,Plantae,ACANTHACEAE,Philippine violet,,10,6.3041908107698,5.0316172063282,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-09-10,12:37
+Cyanthillium cinereum,Plantae,Asteraceae,Little ironweed,,30,6.3043143606774,5.0326125542513,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-09-10,13:07
+Symphonia globulifera,Plantae,CLUSIACEAE,Boarwood,,4,6.29842943,5.02986446,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-09-09,11:14
+Aspilia africana,Plantae,Asteraceae,,,50,6.3011652791647,5.0304095186964,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-09-09,11:22
+Actitis hypoleucos,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Common Sandpiper,,1,6.3011652791647,5.0304095186964,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-09-09,11:00
+Bubulcus ibis,Animalia,HERONS_ARDEIDAE,Western Cattle Egret,,2,6.3037956878543,5.0316137906148,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-09-07,17:34
+Bunaea alcinoe,Animalia,Saturniidae,Cabbage tree emperor moth,,1,6.301637348115,5.0300568307113,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-09-07,13:47
+Araliaceae spec.,Plantae,ARALIACEAE,,,50,6.3024690002203,5.0276846377143,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-09-04,10:25
+Chamaecrista mimosoides,Plantae,Fabaceae,Chamaecrista,,11,6.3022256316617,5.0278926180922,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-09-04,10:35
+Tringa glareola,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Wood Sandpiper,,1,6.3023508153856,5.0297395373722,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-08-03,13:49
+Vidua macroura,Animalia,INDIGOBIRDS_AND_WHYDAHS_VIDUIDAE,Pin-tailed Whydah,,5,6.3038313947618,5.030167038144,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-08-03,13:27
+Corythaeola cristata,Animalia,TURACOS_MUSOPHAGIDAE,Great Blue Turaco,,5,6.3044823333621,5.0313212053293,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-08-01,15:58
+Crotalaria retusa,Plantae,Fabaceae,Rattleweed,,1,6.3030698150396,5.0303912254482,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-07-31,18:09
+Dendrocygna viduata,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,White-faced Whistling Duck,,2,6.3038064166903,5.0302738297969,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-07-31,18:16
+Lophoceros fasciatus,Animalia,HORNBILLS_BUCEROTIDAE,African Pied Hornbill,,1,6.3004912063479,5.0284676374199,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-07-31,14:53
+Polyboroides typus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,African Harrier-Hawk,,1,6.3011134788394,5.0286493256372,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-07-31,14:47
+Scopus umbretta,Animalia,HAMERKOP_SCOPIDAE,Hamerkop,,1,6.3036277145147,5.0302202252321,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-07-31,13:20
+Euplectes afer,Animalia,WEAVERS_PLOCEIDAE,Yellow-crowned Bishop,,2,6.3036277145147,5.030177475171,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-07-31,10:11
+Estrilda melpoda,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Orange-cheeked Waxbill,,10,6.3022721931338,5.0293547029413,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-07-28,16:18
+Estrilda melpoda,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Orange-cheeked Waxbill,,10,6.3005378097296,5.028467470427,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-07-27,14:34
+Merops pusillus,Animalia,BEEEATERS_MEROPIDAE,Little Bee-eater,,3,6.3004734367132,5.0284888455141,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-07-24,15:54
+Motacilla aguimp,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,African Pied Wagtail,,3,6.3022507354617,5.0313746428113,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-07-17,10:21
+Croton hirtus,Plantae,EUPHORBIACEAE,,,50,6.3025010190904,5.0298090062667,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-07-03,10:29
+Canscora alata,Plantae,GENTIANACEAE,Canscora,,100,6.3026834093034,5.0301189443212,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-07-03,10:11
+Sphenoclea zeylanica,Plantae,SPHENOCLEACEAE,Chickenspike,,20,6.3036221824586,5.0306693511921,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-07-03,10:24
+Harungana madagascariensis,Plantae,Hypericaceae,Dragon's-blood-tree,,1,6.3023258373141,5.0287455134963,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-06-05,15:09
+Costus spec.,Plantae,COSTACEAE,,,6,6.3007379695773,5.0276126333641,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-06-05,14:53
+Bunaea alcinoe,Animalia,Saturniidae,Cabbage tree emperor moth,,1,6.3032520376146,5.0322030067167,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-06-04,13:31
+Sarcocephalus latifolius,Plantae,RUBIACEAE,Sierra Leone-peach,,10,6.6649962030351,5.3836331902795,Africa,Nigeria,NG,,Nigeria - Ogba/Egbema/Ndoni,2016-05-31,04:52
+Gloriosa superba,Plantae,COLCHICACEAE,Flame lily,,1,6.6648245416582,5.3838361389183,Africa,Nigeria,NG,,Nigeria - Ogba/Egbema/Ndoni,2016-05-31,02:52
+Clappertonia ficifolia,Plantae,MALVACEAE,Bolo-bolo,,25,6.6645670495927,5.3837667091285,Africa,Nigeria,NG,,Nigeria - Ogba/Egbema/Ndoni,2016-06-01,09:32
+Heinsia crinita,Plantae,RUBIACEAE,,,1,6.300618108362,5.027500497495,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-05-22,11:52
+Manihot esculenta,Plantae,EUPHORBIACEAE,Tapioca,,1,6.3038386028711,5.0272350250238,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-05-14,10:08
+Hibiscus hispidissimus,Plantae,MALVACEAE,,,5,6.30274426,5.02839997,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-05-14,10:35
+Urena lobata,Plantae,MALVACEAE,Urena-weed,,5,6.301177851692,5.0289343451424,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-05-08,10:23
+Dicrurus divaricatus divaricatus,Animalia,DRONGOS_DICRURIDAE,Glossy-backed Drongo ssp divaricatus,,1,7.9936,9.4333,Africa,Nigeria,NG,,Nigeria - Jaba,2016-04-22,09:22
+Asystasia gangetica,Plantae,ACANTHACEAE,Philippine violet,,30,6.30291592297,5.0278489657246,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-04-03,12:04
+Glyphaea brevis,Plantae,MALVACEAE,,,1,6.2981880268308,5.0291446077352,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-04-03,14:17
+Agapornis pullarius,Animalia,PSITTACULIDAE,Red-headed Lovebird,,1,3.8945554668317,7.487191936096,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2011-10-22,07:58
+Ludwigia spec.,Plantae,ONAGRACEAE,,,50,6.3031179270001,5.0312927982374,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-04-06,09:22
+Passiflora foetida,Plantae,PASSIFLORACEAE,,,10,6.303268130705,5.0319233602726,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-04-06,09:12
+Alchornea cordifolia,Plantae,EUPHORBIACEAE,,,2,6.2978197258417,5.028261030188,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-04-03,09:29
+Emilia coccinea,Plantae,Asteraceae,Scarlet tasselflower,,3,6.29982970524,5.0285672581178,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-04-03,09:49
+Ipomoea pileata,Plantae,CONVOLVULACEAE,,,10,6.2987675504701,5.0303307001674,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-04-03,09:40
+Dracaena aubryana,Plantae,ASPARAGACEAE,,,1,6.2977697687165,5.0285458830334,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-04-03,09:33
+Heinsia crinita,Plantae,RUBIACEAE,,,1,6.2982311086671,5.0286527584486,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-04-03,09:13
+Cleome rutidosperma,Plantae,CLEOMACEAE,Fringed spiderflower,,3,6.2987083753796,5.0298660156209,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-03-30,17:39
+Mitracarpus hirtus,Plantae,RUBIACEAE,Small squareweed,,100,6.2987083753796,5.0298660156209,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-03-30,17:34
+Halcyon malimbica,Animalia,KINGFISHERS_ALCEDINIDAE,Blue-breasted Kingfisher,,1,3.5357385632233,6.4402724979837,Africa,Nigeria,NG,,Nigeria - Lekki Conservation Centre,2010-12-05,10:36
+Ptilopachus petrosus,Animalia,NEW_WORLD_QUAILS_ODONTOPHORIDAE,Stone Partridge,,4,4.0228642523289,10.086663832151,Africa,Nigeria,NG,,Nigeria - Borgu Forest Reserve,2011-06-01,17:15
+Bycanistes fistulator,Animalia,HORNBILLS_BUCEROTIDAE,Piping Hornbill,,1,3.5360192260123,6.4346945660305,Africa,Nigeria,NG,,Nigeria - Lekki Conservation Centre,2011-05-22,09:28
+Cercopithecus mona,Animalia,OLD_WORLD_MONKEYS_CERCOPITHECIDAE,Mona Monkey,,1,3.5371077775562,6.4378576399398,Africa,Nigeria,NG,,Nigeria - Lekki Conservation Centre,2011-05-22,08:51
+Pyrenestes ostrinus,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Black-bellied Seedcracker,,1,3.5371077775562,6.4378576399398,Africa,Nigeria,NG,,Nigeria - Lekki Conservation Centre,2011-05-22,08:46
+Corythornis cristatus,Animalia,KINGFISHERS_ALCEDINIDAE,Malachite Kingfisher,,1,3.8972082646037665,7.4964727163586,Africa,Nigeria,NG,,Nigeria - Ibadan - IITA Ibadan Campus,2011-05-14,15:47
+Actophilornis africanus,Animalia,JACANAS_JACANIDAE,African Jacana,,1,3.5373390259037,6.4344106298763,Africa,Nigeria,NG,,Nigeria - Lekki Conservation Centre,2011-05-01,09:55
+Thescelocichla leucopleura,Animalia,BULBULS_PYCNONOTIDAE,Swamp Palm Bulbul,,1,3.53616772,6.43816841,Africa,Nigeria,NG,,Nigeria - Lekki Conservation Centre,2011-05-01,09:50
+Cercopithecus mona,Animalia,OLD_WORLD_MONKEYS_CERCOPITHECIDAE,Mona Monkey,,1,3.5373390259037,6.4344106298763,Africa,Nigeria,NG,,Nigeria - Lekki Conservation Centre,2011-02-10,
+Eclipta prostrata,Plantae,Asteraceae,White eclipta,,20,6.3008559864465,5.0301740984667,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-03-27,12:11
+Euphorbia hyssopifolia,Plantae,EUPHORBIACEAE,Hyssopleaf sandmat,,50,6.30093109,5.03027029,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-03-27,12:13
+Pentodon pentandrus,Plantae,RUBIACEAE,Hale's pentodon,,100,6.3007272407413,5.0299924103488,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-03-27,12:07
+Fleroya stipulosa,Plantae,RUBIACEAE,,,5,6.2996650856439,5.0286564693096,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-03-27,11:56
+Heliotropium indicum,Plantae,BORAGINACEAE,Indian heliotrope,,40,6.2985849939287,5.0299194532223,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-03-27,11:29
+Heliotropium indicum,Plantae,BORAGINACEAE,Indian heliotrope,,3,6.3010526260587,5.0299087657024,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-03-23,08:54
+Stachytarpheta indica,Plantae,VERBENACEAE,,,1,6.301117166222,5.0295505109176,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-03-23,08:51
+Ananas comosus,Plantae,BROMELIACEAE,Pineapple,,25,6.3031733313801,5.032097959541,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-03-19,16:49
+Spigelia anthelmia,Plantae,Loganiaceae,West Indian pinkroot,,10,6.3034612499177,5.0324203282257,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-03-12,08:30
+Tridax procumbens,Plantae,Asteraceae,Coatbuttons,,100,7.3205459397286,5.0632485565609,Africa,Nigeria,NG,,Nigeria - Aba South,2013-10-17,11:23
+Bos taurus,Animalia,BOVIDS_BOVIDAE,Cattle,,20,7.3222661575528,5.0614789327973,Africa,Nigeria,NG,,Nigeria - Aba South,2012-10-30,11:39
+Necrosyrtes monachus,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Hooded Vulture,,2,7.3208973091045,5.0634192419461,Africa,Nigeria,NG,,Nigeria - Aba South,2012-08-15,15:22
+Alchornea cordifolia,Plantae,EUPHORBIACEAE,,,1,7.3188481014222,5.0658641874282,Africa,Nigeria,NG,,Nigeria - Aba South,2014-02-19,09:38
+Indigofera hirsuta,Plantae,Fabaceae,Roughhairy indigo,,20,6.3021471338288,5.029016134566,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-02-13,11:47
+Calopogonium mucunoides,Plantae,Fabaceae,Calopo,,1,6.3026477023959,5.0287099070103,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-02-07,10:33
+Mimosa invisa,Plantae,Fabaceae,Giant sensitive-plant,,20,6.3021863624454,5.0290519081911,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-02-07,10:14
+Mimosa pudica,Plantae,Fabaceae,Common sensitive-plant,,30,6.3022078201175,5.0291160333925,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-02-07,10:16
+Bos taurus,Animalia,BOVIDS_BOVIDAE,Cattle,,30,6.3030339401666,5.0291374084582,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-01-31,16:33
+Luffa cylindrica,Plantae,CUCURBITACEAE,,,30,6.3028730072983,5.0304626611117,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-01-14,12:19
+Eichhornia crassipes,Plantae,PONTEDERIACEAE,Water Hyacinth,,100,6.3032592457239,5.0273205253664,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-01-17,16:45
+Daphnis nerii,Animalia,Sphingidae,Oleander Hawk-moth,,1,6.30175176,5.03032769,Africa,Nigeria,NG,,Nigeria - Yenegoa,2015-12-09,15:21
+Merremia umbellata,Plantae,CONVOLVULACEAE,Hogvine,,50,6.3037884792539,5.0299699221366,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-01-14,15:04
+Musaceae spec.,Plantae,MUSACEAE,,,50,7.3241213243455,5.0639898162842,Africa,Nigeria,NG,,Nigeria - Aba South,2014-09-07,14:56
+Carica papaya,Plantae,CARICACEAE,Papaya,,3,7.3243359010667,5.0638924462141,Africa,Nigeria,NG,,Nigeria - Aba South,2014-09-07,15:23
+Bunaea alcinoe,Animalia,Saturniidae,Cabbage tree emperor moth,,1,7.3239174763785,5.0640100027759,Africa,Nigeria,NG,,Nigeria - Aba South,2014-10-14,09:09
+Costus lucanusianus,Plantae,COSTACEAE,,,50,7.3221069852116,5.0712904520594,Africa,Nigeria,NG,,Nigeria - Aba South,2014-09-13,09:09
+Colocasia esculenta,Plantae,ARACEAE,Taro,,100,6.30349519646,5.02764393529,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-01-31,11:58
+Ipomoea pileata,Plantae,CONVOLVULACEAE,,,50,6.3003838340001,5.02846153291,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-01-31,11:49
+Hibiscus hispidissimus,Plantae,MALVACEAE,,,3,6.3029373,5.02799128,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-01-31,12:09
+Marantochloa congensis,Plantae,MARANTACEAE,,,1,6.3034934362599,5.02938507709,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-01-30,12:31
+Sphenoclea zeylanica,Plantae,SPHENOCLEACEAE,Chickenspike,,1,6.30224537104,5.02918550235,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-01-30,14:33
+Aniseia martinicensis,Plantae,CONVOLVULACEAE,Whitejacket,,2,6.30212015,5.0288507,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-01-30,14:14
+Anthocleista vogelii,Plantae,GENTIANACEAE,,,30,6.30271207508,5.02909465833,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-01-23,16:38
+Glyphaea brevis,Plantae,MALVACEAE,,,1,6.30077015609,5.02760908949,Africa,Nigeria,NG,,Nigeria - Yenegoa,2015-04-05,09:01
+Costus lucanusianus,Plantae,COSTACEAE,,,20,6.3009418174599,5.02696783571,Africa,Nigeria,NG,,Nigeria - Yenegoa,2015-03-10,11:12
+Ludwigia spec.,Plantae,ONAGRACEAE,,,100,6.3010098785201,5.0305408506,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-01-29,
+Clathrus ruber,Fungi,PHALLACEAE,,,7,6.30186709575,5.03268131312,Africa,Nigeria,NG,,Nigeria - Yenegoa,2015-07-14,08:54
+Hyptis lanceolata,Plantae,Lamiaceae,,,1,6.30210405216,5.02954716193,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-01-28,17:13
+Melastomataceae spec.,Plantae,MELASTOMATACEAE,,,100,6.30272649229,5.02970722431,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-01-14,12:11
+Merremia umbellata,Plantae,CONVOLVULACEAE,Hogvine,,30,6.30008719862,5.02827509461,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-01-27,14:17
+Combretum racemosum,Plantae,Combretaceae,,,1,6.30401026458,5.0303593299,Africa,Nigeria,NG,,Nigeria - Yenegoa,2015-12-04,16:14
+Ceriagrion glabrum,Animalia,POND_DAMSELS_COENAGRIONIDAE,Common Orange,,25,6.30118137226,5.02790662463,Africa,Nigeria,NG,,Nigeria - Yenegoa,2015-11-15,16:28
+Palpopleura portia,Animalia,SKIMMERS_LIBELLULIDAE,Portia Widow,,20,6.30118137226,5.02790662463,Africa,Nigeria,NG,,Nigeria - Yenegoa,2015-11-15,16:28
+Combretum racemosum,Plantae,Combretaceae,,,1,6.30244385451,5.02765538359,Africa,Nigeria,NG,,Nigeria - Yenegoa,2015-12-03,17:03
+Gloriosa superba,Plantae,COLCHICACEAE,Flame lily,,3,6.30098288879,5.02786387442,Africa,Nigeria,NG,,Nigeria - Yenegoa,2015-11-15,16:11
+Crocothemis erythraea,Animalia,SKIMMERS_LIBELLULIDAE,Broad Scarlet,,5,6.30163735,5.02780509,Africa,Nigeria,NG,,Nigeria - Yenegoa,2015-11-15,15:59
+Chromolaena odorata,Plantae,Asteraceae,Siamweed,,10,6.30075942725,5.02808288573,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-01-24,13:42
+Danaus chrysippus,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,African Monarch,,20,6.30235802382,5.02779432182,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-01-24,13:46
+Aspilia africana,Plantae,Asteraceae,,,100,6.30039464682,5.0278691347,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-01-24,13:58
+Lophoceros fasciatus,Animalia,HORNBILLS_BUCEROTIDAE,African Pied Hornbill,,8,6.30289815366,5.02754834102,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-01-24,13:36
+Merremia umbellata,Plantae,CONVOLVULACEAE,Hogvine,,1,6.30246900022,5.02769796683,Africa,Nigeria,NG,,Nigeria - Yenegoa,2016-01-24,13:41
+Corvus albus,Animalia,CROWS_AND_JAYS_CORVIDAE,Pied Crow,,10,7.32055666856,5.06309715313,Africa,Nigeria,NG,,Nigeria - Aba South,2014-10-24,15:47
+Bubulcus ibis,Animalia,HERONS_ARDEIDAE,Western Cattle Egret,,20,7.32055130415,5.06310249661,Africa,Nigeria,NG,,Nigeria - Aba South,2014-10-24,15:36
+Telfairia occidentalis,Plantae,CUCURBITACEAE,Fluted-pumpkin,,3,7.32481425628,5.06481504007,Africa,Nigeria,NG,,Nigeria - Aba South,2014-07-06,16:04
+Telfairia occidentalis,Plantae,CUCURBITACEAE,Fluted-pumpkin,,5,7.3201811593,5.06638071735,Africa,Nigeria,NG,,Nigeria - Aba South,2014-10-22,08:25
+Clappertonia ficifolia,Plantae,MALVACEAE,Bolo-bolo,,25,6.30102764815,5.02811494838,Africa,Nigeria,NG,,Nigeria - Yenegoa,2015-03-10,11:09
+Clappertonia ficifolia,Plantae,MALVACEAE,Bolo-bolo,,50,6.3006450980899,5.02829646971,Africa,Nigeria,NG,,Nigeria - Yenegoa,2014-10-26,15:06
+Eichhornia crassipes,Plantae,PONTEDERIACEAE,Water Hyacinth,,1,6.3029625266799,5.03039122545,Africa,Nigeria,NG,,Nigeria - Yenegoa,2015-11-04,13:44
+Urena lobata,Plantae,MALVACEAE,Urena-weed,,1,7.32106628828,5.06908450222,Africa,Nigeria,NG,,Nigeria - Aba South,2013-10-20,11:57
+Crotalaria retusa,Plantae,Fabaceae,Rattleweed,,1,7.32106453,5.06912186,Africa,Nigeria,NG,,Nigeria - Aba South,2013-10-20,11:58
+Asystasia gangetica,Plantae,ACANTHACEAE,Philippine violet,,1,7.32082664967,5.06323879726,Africa,Nigeria,NG,,Nigeria - Aba South,2013-10-24,11:18

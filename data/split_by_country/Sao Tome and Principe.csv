@@ -1,0 +1,658 @@
+scientificName,kingdom,family,vernacularName,previousIdentifications,individualCount,longitudeDecimal,latitudeDecimal,continent,country,countryCode,stateProvince,locality,eventDate,eventTime
+Zosterops feae,Animalia,WHITEEYES_ZOSTEROPIDAE,Sao Tome White-eye,,1,6.5988350477856175,-0.0933830949375,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2011-11-29,
+Treron sanctithomae,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Sao Tome Green Pigeon,,1,6.5478515625,0.0988769040467,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2011-11-19,
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.64269447327,0.298014250561,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe,2009-07-30,
+Ploceus velatus,Animalia,WEAVERS_PLOCEIDAE,Southern Masked Weaver,,1,6.61213874817,0.288567276651,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe,2009-07-30,
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.61233186722,0.288701027865,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe,2009-07-30,
+Speirops lugubris,Animalia,WHITEEYES_ZOSTEROPIDAE,,,2,6.61233186722,0.288701027865,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe,2009-07-30,
+Turdus olivaceofuscus,Animalia,THRUSHES_TURDIDAE,Sao Tome Thrush,,1,6.61233186722,0.288701027865,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe,2009-07-30,
+Zosterops feae,Animalia,WHITEEYES_ZOSTEROPIDAE,Sao Tome White-eye,,1,6.54699325562,0.037176129419,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe,2009-07-28,
+Egretta gularis,Animalia,HERONS_ARDEIDAE,Western Reef Heron,,1,6.53137207031,0.0297088607988,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe,2009-07-28,
+Estrilda astrild,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Common Waxbill,,20,6.59781038761,0.110888531113,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe,2009-07-27,
+Egretta gularis,Animalia,HERONS_ARDEIDAE,Western Reef Heron,,1,6.54622077942,0.0366497014802,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe,2009-07-27,
+Corythornis cristatus thomensis,Animalia,KINGFISHERS_ALCEDINIDAE,Sao Tome Kingfisher,,1,6.66969359,0.16016057,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe,2009-07-27,
+Vidua macroura,Animalia,INDIGOBIRDS_AND_WHYDAHS_VIDUIDAE,Pin-tailed Whydah,,1,6.64552688599,0.369541467127,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe,2009-07-25,
+Phaethon lepturus,Animalia,TROPICBIRDS_PHAETHONTIDAE,White-tailed Tropicbird,,2,6.64373517036,0.369188138124,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe,2009-07-25,
+Milvus aegyptius,Animalia,HAWKS_AND_EAGLES_ACCIPITRIDAE,Yellow-billed Kite,,1,6.60867333412,0.403824323776,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe,2009-07-25,
+Treron sanctithomae,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Sao Tome Green Pigeon,,2,6.54631733894,0.0355499960024,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe,2009-07-27,
+Lonchura cucullata,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Bronze Mannikin,,1,6.5947814982,0.280462936,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2007-03-13,
+Butorides striata,Animalia,HERONS_ARDEIDAE,Striated Heron,,1,6.5373797723,0.0498334651,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2007-03-14,
+Egretta gularis,Animalia,HERONS_ARDEIDAE,Western Reef Heron,,1,6.5373537803,0.0506106603,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2007-03-14,
+Uraeginthus angolensis,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Blue Waxbill,,1,6.610094943,0.4061223786,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2007-03-11,
+Vidua macroura,Animalia,INDIGOBIRDS_AND_WHYDAHS_VIDUIDAE,Pin-tailed Whydah,,1,6.6099382352,0.4067740157,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2007-03-11,
+Crithagra mozambica,Animalia,FINCHES_FRINGILLIDAE,Yellow-fronted Canary,,1,6.7402620564,0.3407218005,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2007-03-12,
+Hemidactylus mabouia,Animalia,Gekkonidae,Tropical House Gecko,,1,6.7401970957,0.3406948026,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2007-03-10,
+Hemidactylus mabouia,Animalia,Gekkonidae,Tropical House Gecko,,1,6.7402286098,0.3406919505,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2007-03-15,
+Corythornis cristatus thomensis,Animalia,KINGFISHERS_ALCEDINIDAE,Sao Tome Kingfisher,,1,6.6445069068,0.1341495602,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2007-03-14,
+Turdus olivaceofuscus,Animalia,THRUSHES_TURDIDAE,Sao Tome Thrush,,1,6.5972501725,0.2785040677,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2007-03-13,
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.5929903716,0.280235041,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2007-03-13,
+Halcyon malimbica,Animalia,KINGFISHERS_ALCEDINIDAE,Blue-breasted Kingfisher,,4,7.40261257,1.69181761,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2020-01-30,
+Corythornis cristatus nais,Animalia,KINGFISHERS_ALCEDINIDAE,Principe Kingfisher,,2,7.40235373,1.69181962,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2020-01-30,
+Phaethon lepturus,Animalia,TROPICBIRDS_PHAETHONTIDAE,White-tailed Tropicbird,,10,6.650974299897505,0.37599247761503274,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2020-02-01,13:50
+Anabathmis hartlaubii,Animalia,SUNBIRDS_NECTARINIIDAE,Principe Sunbird,,2,7.391199426848635,1.6196971141899457,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2020-01-31,12:49
+Zosterops leucophaeus,Animalia,WHITEEYES_ZOSTEROPIDAE,Principe Speirops,,4,7.39122885561625,1.6196615646207313,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2020-01-31,12:49
+Zosterops ficedulinus,Animalia,WHITEEYES_ZOSTEROPIDAE,Principe White-eye,,5,7.391596131136942,1.6196344076940559,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2020-01-31,12:07
+Anabathmis hartlaubii,Animalia,SUNBIRDS_NECTARINIIDAE,Principe Sunbird,,1,7.402632877011287,1.6914242362203054,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2020-01-30,15:37
+Egretta gularis,Animalia,HERONS_ARDEIDAE,Western Reef Heron,,2,7.402742921393775,1.6929561926621974,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2020-01-30,13:12
+Egretta gularis,Animalia,HERONS_ARDEIDAE,Western Reef Heron,,1,7.368286776388363,1.6298552361462317,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2020-01-29,10:33
+Treron calvus,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,African Green Pigeon,,2,7.38277687882241,1.6455405932789453,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2020-01-28,16:10
+Lonchura cucullata,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Bronze Mannikin,,10,7.382493352868617,1.6458652994118763,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2020-01-28,16:05
+Psittacus timneh,Animalia,PARROTS_PSITTACIDAE,Timneh Parrot,,6,7.387471029437987,1.6485986243334965,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2020-01-28,15:07
+Anabathmis hartlaubii,Animalia,SUNBIRDS_NECTARINIIDAE,Principe Sunbird,,2,7.390734819283622,1.650288893098283,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2020-01-28,14:20
+Corythornis cristatus nais,Animalia,KINGFISHERS_ALCEDINIDAE,Principe Kingfisher,,1,7.39203184852881,1.6487115770076064,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2020-01-28,12:51
+Halcyon malimbica,Animalia,KINGFISHERS_ALCEDINIDAE,Blue-breasted Kingfisher,,1,7.3920736047162885,1.6492770474807859,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2020-01-28,12:46
+Lamprotornis ornatus,Animalia,STARLINGS_STURNIDAE,Principe Starling,,3,7.391929962650145,1.6493472535413498,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2020-01-28,12:42
+Horizorhinus dohrni,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Dohrn's Thrush-Babbler,,2,7.391894014514635,1.6494758133791867,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2020-01-28,12:41
+Ploceus princeps,Animalia,WEAVERS_PLOCEIDAE,Principe Weaver,,2,7.396308951206449,1.6445590635697702,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2020-01-28,10:52
+Vidua macroura,Animalia,INDIGOBIRDS_AND_WHYDAHS_VIDUIDAE,Pin-tailed Whydah,,4,6.6842806941717745,0.3991766192182665,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2020-01-27,15:27
+Anous minutus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Black Noddy,,101,6.624028750097024,0.0936883340572163,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2020-01-27,11:22
+Chrysococcyx cupreus,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,African Emerald Cuckoo,,2,6.5788159051623225,0.1452337759374292,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2020-01-25,16:41
+Otus hartlaubi,Animalia,OWLS_STRIGIDAE,Sao Tome Scops Owl,,1,6.578660688080292,0.14535552476541627,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2020-01-25,12:35
+Motacilla bocagii,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Sao Tome Shorttail,,1,6.551665192539178,0.1528224401572594,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2020-01-25,09:20
+Lanius newtoni,Animalia,SHRIKES_LANIIDAE,Sao Tome Fiscal,,2,6.551888920945487,0.15284165771813601,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2020-01-25,09:20
+Cypsiurus parvus,Animalia,SWIFTS_APODIDAE,African Palm Swift,,5,6.578677326779692,0.14519922506006677,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2020-01-24,17:17
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,4,6.579008794882726,0.14520434524733045,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2020-01-24,17:15
+Microcarbo africanus,Animalia,CORMORANTS_PHALACROCORACIDAE,Reed Cormorant,,1,6.578722806331465,0.145309988877244,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2020-01-24,17:14
+Chrysococcyx cupreus,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,African Emerald Cuckoo,,1,6.57882499343557,0.14521070241030262,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2020-01-24,17:12
+Corythornis cristatus thomensis,Animalia,KINGFISHERS_ALCEDINIDAE,Sao Tome Kingfisher,,4,6.57866588,0.14530273,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2020-01-24,17:09
+Terpsiphone atrochalybeia,Animalia,MONARCHS_MONARCHIDAE,Sao Tome Paradise Flycatcher,,5,6.578959355782949,0.14518809120174758,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2020-01-24,17:09
+Otus hartlaubi,Animalia,OWLS_STRIGIDAE,Sao Tome Scops Owl,,2,6.578936953889202,0.1452438412335528,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2020-01-24,17:08
+Oriolus crassirostris,Animalia,ORIOLES_AND_FIG_BIRDS_ORIOLIDAE,Sao Tome Oriole,,2,6.5786491979131965,0.14521194546660232,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2020-01-24,17:08
+Ploceus sanctithomae,Animalia,WEAVERS_PLOCEIDAE,Sao Tome Weaver,,5,6.578893857442572,0.14532025688778966,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2020-01-24,17:08
+Ploceus grandis,Animalia,WEAVERS_PLOCEIDAE,Giant Weaver,,5,6.578839323942454,0.1452354248672859,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2020-01-24,17:08
+Bostrychia bocagei,Animalia,IBISSES_AND_SPOONBILLS_THRESKIORNITHIDAE,Sao Tome Ibis,,5,6.578852185259331,0.14520502595736343,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2020-01-24,17:07
+Turdus olivaceofuscus,Animalia,THRUSHES_TURDIDAE,Sao Tome Thrush,,2,6.578921376192387,0.14513759035861912,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2020-01-24,17:06
+Zoonavena thomensis,Animalia,SWIFTS_APODIDAE,Sao Tome Spinetail,,3,6.578820811127627,0.14525553108962544,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2020-01-24,17:06
+Treron sanctithomae,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Sao Tome Green Pigeon,,2,6.57876258859678,0.14522224865760167,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2020-01-24,17:06
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.578947213230018,0.14516020776139685,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2020-01-24,17:06
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.64014482498169,0.30069300532341,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-06-23,07:15
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.63864278793335,0.300577700138092,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-06-23,07:37
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.63851261138916,0.300439596176147,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-06-23,07:59
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,5,6.62959337234497,0.284763485193253,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-06-23,12:44
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,3,6.63567352294922,0.288457602262497,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-06-23,12:59
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.59191846847534,0.280700713396072,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-06-24,09:25
+Ploceus sanctithomae,Animalia,WEAVERS_PLOCEIDAE,Sao Tome Weaver,,1,6.66226673126221,0.150643602013588,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-06-28,08:42
+Zoonavena thomensis,Animalia,SWIFTS_APODIDAE,Sao Tome Spinetail,,5,6.66226673126221,0.150643602013588,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-06-28,08:42
+Cypsiurus parvus,Animalia,SWIFTS_APODIDAE,African Palm Swift,,5,6.65528535842896,0.141667798161507,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-06-28,08:45
+Ploceus sanctithomae,Animalia,WEAVERS_PLOCEIDAE,Sao Tome Weaver,,1,6.64604234695435,0.132064193487167,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-06-28,15:41
+Ploceus princeps,Animalia,WEAVERS_PLOCEIDAE,Principe Weaver,,1,7.4127631187439,1.66131401062012,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-06-29,10:02
+Horizorhinus dohrni,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Dohrn's Thrush-Babbler,,5,7.44158792495728,1.6883761882782,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-06-29,15:00
+Lamprotornis ornatus,Animalia,STARLINGS_STURNIDAE,Principe Starling,,1,7.44204950332642,1.6869945526123,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-06-29,15:12
+Ploceus princeps,Animalia,WEAVERS_PLOCEIDAE,Principe Weaver,,10,7.44129276275635,1.69011044502258,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-06-29,15:33
+Lamprotornis ornatus,Animalia,STARLINGS_STURNIDAE,Principe Starling,,15,7.44219446182251,1.68659520149231,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-06-29,16:12
+Ploceus princeps,Animalia,WEAVERS_PLOCEIDAE,Principe Weaver,,1,7.44335222244263,1.68831408023834,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-06-29,16:26
+Ploceus grandis,Animalia,WEAVERS_PLOCEIDAE,Giant Weaver,,1,6.57483339309692,0.0917207971215248,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-07-02,14:29
+Treron sanctithomae,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Sao Tome Green Pigeon,,1,6.57483339309692,0.0917207971215248,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-07-02,14:29
+Microcarbo africanus,Animalia,CORMORANTS_PHALACROCORACIDAE,Reed Cormorant,,1,6.57483339309692,0.0917207971215248,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-07-02,14:30
+Terpsiphone atrochalybeia,Animalia,MONARCHS_MONARCHIDAE,Sao Tome Paradise Flycatcher,,1,6.57483339309692,0.0917207971215248,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-07-02,14:30
+Bostrychia bocagei,Animalia,IBISSES_AND_SPOONBILLS_THRESKIORNITHIDAE,Sao Tome Ibis,,1,6.57663535326719,0.147317150340792,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-07-03,11:00
+Oriolus crassirostris,Animalia,ORIOLES_AND_FIG_BIRDS_ORIOLIDAE,Sao Tome Oriole,,5,6.57663535326719,0.147317150340792,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-07-03,11:30
+Motacilla bocagii,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Sao Tome Shorttail,,1,6.57094573974609,0.151358395814896,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-07-03,11:58
+Motacilla bocagii,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Sao Tome Shorttail,,1,6.56663179397583,0.152458906173706,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-07-03,12:50
+Otus hartlaubi,Animalia,OWLS_STRIGIDAE,Sao Tome Scops Owl,,1,6.56510925292969,0.152912497520447,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-07-03,13:08
+Bostrychia bocagei,Animalia,IBISSES_AND_SPOONBILLS_THRESKIORNITHIDAE,Sao Tome Ibis,,1,6.564612865448,0.153531104326248,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-07-03,13:18
+Otus hartlaubi,Animalia,OWLS_STRIGIDAE,Sao Tome Scops Owl,,2,6.57884359359741,0.145272299647331,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-07-03,18:56
+Bostrychia bocagei,Animalia,IBISSES_AND_SPOONBILLS_THRESKIORNITHIDAE,Sao Tome Ibis,,1,6.56905889511108,0.151827305555344,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-07-04,08:43
+Oriolus crassirostris,Animalia,ORIOLES_AND_FIG_BIRDS_ORIOLIDAE,Sao Tome Oriole,,3,6.56882238388062,0.151885598897934,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-07-04,08:44
+Ploceus sanctithomae,Animalia,WEAVERS_PLOCEIDAE,Sao Tome Weaver,,10,6.56869268417358,0.15197280049324,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-07-04,08:44
+Turdus olivaceofuscus,Animalia,THRUSHES_TURDIDAE,Sao Tome Thrush,,1,6.56863069534302,0.151987493038177,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-07-04,08:44
+Bostrychia bocagei,Animalia,IBISSES_AND_SPOONBILLS_THRESKIORNITHIDAE,Sao Tome Ibis,,2,6.5761342048645,0.148474395275116,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-07-04,09:09
+Ploceus grandis,Animalia,WEAVERS_PLOCEIDAE,Giant Weaver,,1,6.57508707046509,0.0916512981057167,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-07-05,09:35
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.57508707046509,0.0916512981057167,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-07-05,09:36
+Ploceus sanctithomae,Animalia,WEAVERS_PLOCEIDAE,Sao Tome Weaver,,6,6.57508707046509,0.0916512981057167,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-07-05,09:37
+Cypsiurus parvus,Animalia,SWIFTS_APODIDAE,African Palm Swift,,4,6.57508707046509,0.0916512981057167,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-07-05,09:37
+Turdus olivaceofuscus,Animalia,THRUSHES_TURDIDAE,Sao Tome Thrush,,1,6.63885927200317,0.133140802383423,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-07-05,10:06
+Motacilla bocagii,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Sao Tome Shorttail,,4,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-29,
+Vidua macroura,Animalia,INDIGOBIRDS_AND_WHYDAHS_VIDUIDAE,Pin-tailed Whydah,,6,6.643288,0.406228,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-02-03,
+Vidua macroura,Animalia,INDIGOBIRDS_AND_WHYDAHS_VIDUIDAE,Pin-tailed Whydah,,15,6.643288,0.406228,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-21,
+Ploceus sanctithomae,Animalia,WEAVERS_PLOCEIDAE,Sao Tome Weaver,,10,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-30,
+Ploceus sanctithomae,Animalia,WEAVERS_PLOCEIDAE,Sao Tome Weaver,,4,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-29,
+Ploceus sanctithomae,Animalia,WEAVERS_PLOCEIDAE,Sao Tome Weaver,,5,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-28,
+Ploceus sanctithomae,Animalia,WEAVERS_PLOCEIDAE,Sao Tome Weaver,,4,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-27,
+Ploceus grandis,Animalia,WEAVERS_PLOCEIDAE,Giant Weaver,,2,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-30,
+Ploceus grandis,Animalia,WEAVERS_PLOCEIDAE,Giant Weaver,,1,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-29,
+Ploceus grandis,Animalia,WEAVERS_PLOCEIDAE,Giant Weaver,,2,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-28,
+Ploceus velatus,Animalia,WEAVERS_PLOCEIDAE,Southern Masked Weaver,,3,6.643288,0.406228,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-02-03,
+Ploceus velatus,Animalia,WEAVERS_PLOCEIDAE,Southern Masked Weaver,,40,6.643288,0.406228,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-21,
+Ploceus princeps,Animalia,WEAVERS_PLOCEIDAE,Principe Weaver,,12,7.424047,1.640124,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2018-01-26,
+Ploceus princeps,Animalia,WEAVERS_PLOCEIDAE,Principe Weaver,,2,7.424047,1.640124,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2018-01-25,
+Ploceus princeps,Animalia,WEAVERS_PLOCEIDAE,Principe Weaver,,10,7.402546,1.691643,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2018-01-25,
+Ploceus princeps,Animalia,WEAVERS_PLOCEIDAE,Principe Weaver,,2,7.412674,1.662173,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2018-01-25,
+Ploceus princeps,Animalia,WEAVERS_PLOCEIDAE,Principe Weaver,,10,7.424047,1.640124,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2018-01-24,
+Ploceus princeps,Animalia,WEAVERS_PLOCEIDAE,Principe Weaver,,1,7.424047,1.640124,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2018-01-22,
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,8,6.608783,0.288395,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2018-02-02,
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,15,6.608783,0.288395,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2018-02-01,
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,9,6.608783,0.288395,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2018-01-31,
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,5,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-30,
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,7,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-29,
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,2,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-28,
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,2,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-27,
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,2,6.608783,0.288395,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2018-01-21,
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,2,6.63582,0.290026,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-21,
+Anabathmis hartlaubii,Animalia,SUNBIRDS_NECTARINIIDAE,Principe Sunbird,,1,7.424047,1.640124,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2018-01-26,
+Anabathmis hartlaubii,Animalia,SUNBIRDS_NECTARINIIDAE,Principe Sunbird,,5,7.402546,1.691643,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2018-01-25,
+Turdus xanthorhynchus,Animalia,THRUSHES_TURDIDAE,Principe Thrush,,1,7.389457,1.549779,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2018-01-23,
+Turdus olivaceofuscus,Animalia,THRUSHES_TURDIDAE,Sao Tome Thrush,,4,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-30,
+Turdus olivaceofuscus,Animalia,THRUSHES_TURDIDAE,Sao Tome Thrush,,3,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-29,
+Turdus olivaceofuscus,Animalia,THRUSHES_TURDIDAE,Sao Tome Thrush,,4,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-28,
+Turdus olivaceofuscus,Animalia,THRUSHES_TURDIDAE,Sao Tome Thrush,,3,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-27,
+Lamprotornis ornatus,Animalia,STARLINGS_STURNIDAE,Principe Starling,,1,7.424047,1.640124,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2018-01-26,
+Lamprotornis ornatus,Animalia,STARLINGS_STURNIDAE,Principe Starling,,6,7.424047,1.640124,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2018-01-24,
+Zosterops leucophaeus,Animalia,WHITEEYES_ZOSTEROPIDAE,Principe Speirops,,5,7.424047,1.640124,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2018-01-25,
+Zosterops leucophaeus,Animalia,WHITEEYES_ZOSTEROPIDAE,Principe Speirops,,20,7.402546,1.691643,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2018-01-25,
+Zosterops leucophaeus,Animalia,WHITEEYES_ZOSTEROPIDAE,Principe Speirops,,5,7.412674,1.662173,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2018-01-25,
+Horizorhinus dohrni,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Dohrn's Thrush-Babbler,,2,7.424047,1.640124,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2018-01-26,
+Horizorhinus dohrni,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Dohrn's Thrush-Babbler,,10,7.402546,1.691643,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2018-01-25,
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,4,6.643288,0.406228,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-02-03,
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.613081,0.18636,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-21,
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,20,6.608783,0.288395,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2018-02-02,
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,20,6.608783,0.288395,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2018-02-01,
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,14,6.608783,0.288395,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2018-01-31,
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,10,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-30,
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-29,
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-28,
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-27,
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,3,6.608783,0.288395,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2018-01-21,
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,3,6.63582,0.290026,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-21,
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,25,6.643288,0.406228,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-21,
+Terpsiphone atrochalybeia,Animalia,MONARCHS_MONARCHIDAE,Sao Tome Paradise Flycatcher,,8,6.608783,0.288395,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2018-02-02,
+Terpsiphone atrochalybeia,Animalia,MONARCHS_MONARCHIDAE,Sao Tome Paradise Flycatcher,,12,6.608783,0.288395,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2018-02-01,
+Terpsiphone atrochalybeia,Animalia,MONARCHS_MONARCHIDAE,Sao Tome Paradise Flycatcher,,3,6.608783,0.288395,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2018-01-31,
+Terpsiphone atrochalybeia,Animalia,MONARCHS_MONARCHIDAE,Sao Tome Paradise Flycatcher,,4,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-30,
+Terpsiphone atrochalybeia,Animalia,MONARCHS_MONARCHIDAE,Sao Tome Paradise Flycatcher,,4,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-29,
+Terpsiphone atrochalybeia,Animalia,MONARCHS_MONARCHIDAE,Sao Tome Paradise Flycatcher,,2,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-28,
+Terpsiphone atrochalybeia,Animalia,MONARCHS_MONARCHIDAE,Sao Tome Paradise Flycatcher,,4,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-27,
+Terpsiphone atrochalybeia,Animalia,MONARCHS_MONARCHIDAE,Sao Tome Paradise Flycatcher,,1,6.541085,0.349924,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-26,
+Terpsiphone atrochalybeia,Animalia,MONARCHS_MONARCHIDAE,Sao Tome Paradise Flycatcher,,2,6.608783,0.288395,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2018-01-21,
+Terpsiphone atrochalybeia,Animalia,MONARCHS_MONARCHIDAE,Sao Tome Paradise Flycatcher,,2,6.63582,0.290026,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-21,
+Oriolus crassirostris,Animalia,ORIOLES_AND_FIG_BIRDS_ORIOLIDAE,Sao Tome Oriole,,2,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-30,
+Oriolus crassirostris,Animalia,ORIOLES_AND_FIG_BIRDS_ORIOLIDAE,Sao Tome Oriole,,3,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-29,
+Oriolus crassirostris,Animalia,ORIOLES_AND_FIG_BIRDS_ORIOLIDAE,Sao Tome Oriole,,4,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-28,
+Oriolus crassirostris,Animalia,ORIOLES_AND_FIG_BIRDS_ORIOLIDAE,Sao Tome Oriole,,5,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-27,
+Lanius newtoni,Animalia,SHRIKES_LANIIDAE,Sao Tome Fiscal,,5,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-29,
+Corythornis cristatus nais,Animalia,KINGFISHERS_ALCEDINIDAE,Principe Kingfisher,,1,7.424047,1.640124,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2018-01-24,
+Halcyon malimbica dryas,Animalia,KINGFISHERS_ALCEDINIDAE,Blue-breasted Kingfisher ssp dryas,,1,7.402546,1.691643,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2018-01-25,
+Halcyon malimbica dryas,Animalia,KINGFISHERS_ALCEDINIDAE,Blue-breasted Kingfisher ssp dryas,,4,7.389457,1.549779,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2018-01-24,
+Halcyon malimbica dryas,Animalia,KINGFISHERS_ALCEDINIDAE,Blue-breasted Kingfisher ssp dryas,,4,7.389457,1.549779,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2018-01-23,
+Halcyon malimbica dryas,Animalia,KINGFISHERS_ALCEDINIDAE,Blue-breasted Kingfisher ssp dryas,,2,7.389457,1.549779,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2018-01-22,
+Cypsiurus parvus,Animalia,SWIFTS_APODIDAE,African Palm Swift,,1,6.613081,0.18636,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-21,
+Zoonavena thomensis,Animalia,SWIFTS_APODIDAE,Sao Tome Spinetail,,1,6.613081,0.18636,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-21,
+Zoonavena thomensis,Animalia,SWIFTS_APODIDAE,Sao Tome Spinetail,,10,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-30,
+Zoonavena thomensis,Animalia,SWIFTS_APODIDAE,Sao Tome Spinetail,,8,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-28,
+Zoonavena thomensis,Animalia,SWIFTS_APODIDAE,Sao Tome Spinetail,,10,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-27,
+Otus hartlaubi,Animalia,OWLS_STRIGIDAE,Sao Tome Scops Owl,,1,6.608783,0.288395,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2018-01-31,
+Chrysococcyx cupreus,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,African Emerald Cuckoo,,2,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-30,
+Chrysococcyx cupreus,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,African Emerald Cuckoo,,1,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-29,
+Chrysococcyx cupreus,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,African Emerald Cuckoo,,1,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-28,
+Treron sanctithomae,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Sao Tome Green Pigeon,,1,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-30,
+Treron sanctithomae,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Sao Tome Green Pigeon,,1,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-28,
+Treron calvus virescens,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,African Green Pigeon ssp virescens,,8,7.424047,1.640124,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2018-01-26,
+Treron calvus virescens,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,African Green Pigeon ssp virescens,,2,7.424047,1.640124,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2018-01-25,
+Treron calvus virescens,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,African Green Pigeon ssp virescens,,8,7.402546,1.691643,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2018-01-25,
+Columba larvata principalis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Lemon Dove ssp principalis,,2,7.424047,1.640124,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2018-01-26,
+Columba larvata principalis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Lemon Dove ssp principalis,,4,7.402546,1.691643,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2018-01-25,
+Columba larvata principalis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Lemon Dove ssp principalis,,1,7.424047,1.640124,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2018-01-24,
+Columba thomensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Sao Tome Olive Pigeon,,2,6.608783,0.288395,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2018-02-01,
+Columba thomensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Sao Tome Olive Pigeon,,1,6.608783,0.288395,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2018-01-31,
+Egretta gularis,Animalia,HERONS_ARDEIDAE,Western Reef Heron,,5,7.402546,1.691643,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2018-01-25,
+Egretta gularis,Animalia,HERONS_ARDEIDAE,Western Reef Heron,,2,7.424047,1.640124,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2018-01-24,
+Egretta gularis,Animalia,HERONS_ARDEIDAE,Western Reef Heron,,1,7.424047,1.640124,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2018-01-22,
+Bostrychia bocagei,Animalia,IBISSES_AND_SPOONBILLS_THRESKIORNITHIDAE,Sao Tome Ibis,,5,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-27,
+Bostrychia bocagei,Animalia,IBISSES_AND_SPOONBILLS_THRESKIORNITHIDAE,Sao Tome Ibis,,1,6.585296,0.145595,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2018-01-29,
+Uraeginthus angolensis,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Blue Waxbill,,5,6.71061849594116,0.367723286151886,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-01-30,06:06
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.61241483688354,0.289090305566788,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-31,06:34
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.61240720748901,0.289114505052567,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-31,06:35
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.61193084716797,0.289139211177826,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-31,07:23
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,2,6.61249542236328,0.288858413696289,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-31,09:53
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.6123104095459,0.288465410470963,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-31,10:28
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.61219358444214,0.288431406021118,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-31,10:28
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.61009836196899,0.286304712295532,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-31,10:45
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.61007785797119,0.286285489797592,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-31,10:45
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,3,6.60958099365234,0.285692512989044,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-31,10:51
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.6055154800415,0.288596510887146,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-31,13:31
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,3,6.60478544235229,0.288677394390106,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-31,13:34
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.59203052520752,0.280720412731171,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-31,15:23
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.59208822250366,0.280822992324829,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-31,18:03
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,4,6.59115743637085,0.280733913183212,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-01,05:59
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.5908579826355,0.280211985111237,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-01,08:27
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.58989572525024,0.280258387327194,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-01,08:32
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.58958721160889,0.280726194381714,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-01,08:37
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.58893394470215,0.280489385128021,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-01,09:01
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.58863067626953,0.280595988035202,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-01,09:08
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.58805513381958,0.280693709850311,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-01,09:16
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.58740663528442,0.281391888856888,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-01,09:26
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.58725595474243,0.281901299953461,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-01,09:37
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.58700799942017,0.282472491264343,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-01,09:54
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.58672571182251,0.283691197633743,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-01,10:01
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.58781433105469,0.286935687065125,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-01,10:28
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.5894889831543,0.288340210914612,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-01,10:44
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.59035348892212,0.289263099431992,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-01,10:59
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.59142589569092,0.289301812648773,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-01,11:08
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.59181690216064,0.289263486862183,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-01,11:11
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.59344148635864,0.290791094303131,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-01,12:02
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.59430551528931,0.291351407766342,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-01,12:06
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,4,6.59571933746338,0.291795611381531,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-01,12:21
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.59931039810181,0.292593091726303,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-01,12:43
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.61485528945923,0.308667600154877,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-01,14:31
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.6315860748291,0.297081798315048,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-01,15:18
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.59194087982178,0.280847698450089,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-02,05:43
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.58994102478027,0.280215412378311,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-02,06:21
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.58966398239136,0.280468910932541,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-02,06:28
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.59137010574341,0.280602902173996,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-02,06:59
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.59374809265137,0.279289692640305,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-02,10:22
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.60195302963257,0.287792086601257,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-02,11:03
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.60436534881592,0.288530886173248,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-02,11:10
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,2,6.60527276992798,0.288705199956894,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-02,11:15
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.60624361038208,0.288092106580734,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-02,11:18
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.60816431045532,0.288177192211151,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-02,11:23
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.61247539520264,0.288941085338593,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-02,12:14
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.61181497573853,0.288260698318481,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-02,13:01
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,3,6.59206676483154,0.280757695436478,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-03,06:14
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.59233903884888,0.280772894620895,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-03,06:37
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.59192276000977,0.280128389596939,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-03,08:14
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.59347152709961,0.279486089944839,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-03,08:23
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.59363555908203,0.279351890087128,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-03,08:28
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.59354543685913,0.279939502477646,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-03,08:40
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,3,6.59123373031616,0.280685186386108,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-03,14:59
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,4,6.59015130996704,0.280214309692383,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-03,15:23
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,5,6.5922703742981,0.280841708183289,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-04,05:37
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.6125020980835,0.28883171081543,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-04,09:20
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.61217069625854,0.288444697856903,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-04,10:38
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,3,6.61061573028564,0.286783188581467,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-04,11:16
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.61246776580811,0.288676887750626,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-04,13:55
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.61247062683105,0.288848489522934,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-04,14:28
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,3,6.61045742034912,0.286649107933044,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-05,05:35
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,6,6.60960721969604,0.285757213830948,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-05,05:42
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.60949373245239,0.285212099552155,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-05,05:49
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,5,6.60931301116943,0.283304303884506,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-05,05:57
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,3,6.60838270187378,0.282166689634323,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-05,06:04
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.60830497741699,0.282034307718277,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-05,06:04
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,3,6.60898113250732,0.280901700258255,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-05,06:12
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.60898113250732,0.280901789665222,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-05,06:13
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.60926389694214,0.28024160861969,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-05,06:24
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.60803174972534,0.279711008071899,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-05,06:36
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.60698318481445,0.277970105409622,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-05,06:52
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,3,6.60541486740112,0.275670498609543,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-05,07:05
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,3,6.60534048080444,0.275870889425278,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-05,07:08
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.61625671386719,0.289576411247253,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-05,09:44
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.63138580322266,0.290143698453903,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-05,09:51
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.61244773864746,0.288783609867096,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-06,08:39
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,2,6.61205339431763,0.289223104715347,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-06,08:48
+Phaethon lepturus,Animalia,TROPICBIRDS_PHAETHONTIDAE,White-tailed Tropicbird,,1,6.67100048065186,0.162927195429802,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-06,11:40
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.66696548461914,0.147150903940201,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-06,11:44
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.66208982467651,0.143401101231575,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-06,11:46
+Ploceus sanctithomae,Animalia,WEAVERS_PLOCEIDAE,Sao Tome Weaver,,4,6.65792322158813,0.140723198652267,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-06,11:53
+Turdus olivaceofuscus,Animalia,THRUSHES_TURDIDAE,Sao Tome Thrush,,6,6.6578516960144,0.139134794473648,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-06,12:01
+Chrysococcyx cupreus,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,African Emerald Cuckoo,,1,6.65790319442749,0.14106459915638,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-06,12:14
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.65789318084717,0.141085296869278,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-06,12:16
+Cypsiurus parvus,Animalia,SWIFTS_APODIDAE,African Palm Swift,,1,6.65791177749634,0.141087293624878,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-06,12:27
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.63862705230713,0.132520005106926,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-06,12:46
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.63474988937378,0.122766196727753,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-06,12:49
+Ploceus sanctithomae,Animalia,WEAVERS_PLOCEIDAE,Sao Tome Weaver,,1,6.63329982757568,0.112246602773666,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-06,12:53
+Ploceus sanctithomae,Animalia,WEAVERS_PLOCEIDAE,Sao Tome Weaver,,2,6.58246421813965,0.0939638987183571,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-06,14:09
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.58246040344238,0.0939536988735199,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-06,14:09
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.55312919616699,0.0677433013916016,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-06,14:28
+Terpsiphone atrochalybeia,Animalia,MONARCHS_MONARCHIDAE,Sao Tome Paradise Flycatcher,,1,6.551842212677,0.0663381963968277,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-06,14:28
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.55524826049805,0.0608218982815742,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-06,14:30
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.62737035751343,0.111286297440529,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-07,10:00
+Turdus olivaceofuscus,Animalia,THRUSHES_TURDIDAE,Sao Tome Thrush,,1,6.67917680740356,0.17004719376564,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-07,10:40
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.68741798400879,0.321379691362381,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-07,11:29
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.63947200775146,0.29984039068222,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-08,05:46
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.6394681930542,0.299848794937134,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-08,05:47
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.6391077041626,0.300533413887024,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-08,05:49
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,4,6.63835906982422,0.300084292888641,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-08,05:51
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.63774156570435,0.300674587488174,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-08,05:57
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,4,6.63742399215698,0.301821291446686,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-08,06:02
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,4,6.63575839996338,0.304504901170731,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-08,06:18
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,3,6.63454294204712,0.306488811969757,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-08,06:27
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,3,6.63445234298706,0.306800305843353,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-08,06:32
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.63354253768921,0.307326287031174,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-08,06:37
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.63326120376587,0.307496309280396,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-08,06:40
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.63282489776611,0.308130085468292,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-08,06:45
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.63236999511719,0.30891340970993,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-08,06:54
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.63234901428223,0.308934390544891,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-08,06:54
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.64147567749023,0.299939513206482,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-08,11:02
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.64144659042358,0.299936085939407,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-09,09:31
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.64145278930664,0.299937903881073,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-09,09:31
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.6415433883667,0.300266802310944,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-09,11:52
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.61243486404419,0.288941293954849,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-09,12:26
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.61181688308716,0.288246989250183,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-09,12:56
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.6108546257019,0.286856293678284,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-09,13:38
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.61044359207153,0.286645412445068,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-09,13:40
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.60833644866943,0.281973302364349,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-09,13:58
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,3,6.60934591293335,0.280318886041641,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-02-09,14:03
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.6078085899353,0.278629809617996,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-09,14:23
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,3,6.60683012008667,0.277579307556152,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-09,14:33
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.60553646087646,0.275622695684433,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-09,14:45
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.60535478591919,0.275850594043732,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-09,14:46
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.61255598068237,0.288794696331024,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-10,05:35
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.61143589019775,0.288525611162186,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-10,05:40
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.61045455932617,0.289622992277145,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-10,05:53
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,3,6.61119556427002,0.288835912942886,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-10,05:58
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.61119270324707,0.288837313652039,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-10,05:58
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.60591173171997,0.288431495428085,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-10,06:40
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,3,6.60497331619263,0.288780212402344,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-10,06:58
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.61216926574707,0.2891725897789,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-10,10:25
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,2,6.61277770996094,0.288792610168457,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-10,10:43
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.61303853988647,0.288940399885178,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-10,10:45
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.61187839508057,0.288361698389053,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-02-10,13:01
+Hypolimnas misippus,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Danaid Eggfly,,1,6.633,0.287,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-01-19,12:43
+Burhinus oedicnemus,Animalia,THICKKNEES_BURHINIDAE,Eurasian Stone-curlew,,1,7.40128319710493,1.69560625094239,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-16,12:00
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.613,0.289,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-18,08:46
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.633,0.288,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-01-19,12:30
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.63399934768677,0.286802589893341,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-01-19,15:27
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.64603853225708,0.132161498069763,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-01-17,07:55
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.61114978790283,0.287151485681534,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-18,09:21
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.55282068252563,0.154314994812012,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,08:46
+Ploceus grandis,Animalia,WEAVERS_PLOCEIDAE,Giant Weaver,,1,6.55289793014526,0.154362693428993,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,08:49
+Lanius newtoni,Animalia,SHRIKES_LANIIDAE,Sao Tome Fiscal,,1,6.55197763442993,0.152900204062462,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,09:10
+Oriolus crassirostris,Animalia,ORIOLES_AND_FIG_BIRDS_ORIOLIDAE,Sao Tome Oriole,,1,6.5520281791687,0.152924492955208,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,09:18
+Otus hartlaubi,Animalia,OWLS_STRIGIDAE,Sao Tome Scops Owl,,1,6.56674242019653,0.150400504469872,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,12:10
+Turdus olivaceofuscus,Animalia,THRUSHES_TURDIDAE,Sao Tome Thrush,,1,6.56749200820923,0.14890019595623,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,12:32
+Ploceus sanctithomae,Animalia,WEAVERS_PLOCEIDAE,Sao Tome Weaver,,1,6.5675048828125,0.148952096700668,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,12:35
+Horizorhinus dohrni,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Dohrn's Thrush-Babbler,,4,7.41173028945923,1.63488745689392,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-15,07:25
+Ploceus princeps,Animalia,WEAVERS_PLOCEIDAE,Principe Weaver,,1,7.41237306594849,1.63514673709869,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-15,07:29
+Phaethon lepturus,Animalia,TROPICBIRDS_PHAETHONTIDAE,White-tailed Tropicbird,,3,6.63334512710571,0.120761699974537,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-01-15,13:17
+Turdus olivaceofuscus,Animalia,THRUSHES_TURDIDAE,Sao Tome Thrush,,1,6.57863330841064,0.145339995622635,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-15,15:11
+Terpsiphone atrochalybeia,Animalia,MONARCHS_MONARCHIDAE,Sao Tome Paradise Flycatcher,,2,6.57855033874512,0.145225301384926,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-15,15:42
+Ploceus sanctithomae,Animalia,WEAVERS_PLOCEIDAE,Sao Tome Weaver,,1,6.57857799530029,0.145257204771042,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-15,15:44
+Motacilla bocagii,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Sao Tome Shorttail,,1,6.56749820709229,0.149860605597496,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-15,16:49
+Bostrychia bocagei,Animalia,IBISSES_AND_SPOONBILLS_THRESKIORNITHIDAE,Sao Tome Ibis,,2,6.57525587081909,0.149746403098106,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-15,17:36
+Otus hartlaubi,Animalia,OWLS_STRIGIDAE,Sao Tome Scops Owl,,1,6.57865142822266,0.145315200090408,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-15,18:24
+Treron sanctithomae,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Sao Tome Green Pigeon,,1,6.56344270706177,0.153820797801018,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,07:27
+Lanius newtoni,Animalia,SHRIKES_LANIIDAE,Sao Tome Fiscal,,1,6.55446243286133,0.153662502765656,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,08:17
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,2,6.55436086654663,0.153630599379539,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,08:31
+Dicrurus modestus,Animalia,DRONGOS_DICRURIDAE,Velvet-mantled Drongo,,2,7.4255952835083,1.63668584823608,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-14,15:38
+Psittacus timneh,Animalia,PARROTS_PSITTACIDAE,Timneh Parrot,,3,7.42556047439575,1.63664722442627,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-14,15:44
+Psittacus timneh,Animalia,PARROTS_PSITTACIDAE,Timneh Parrot,,2,7.42548751831055,1.63672351837158,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-14,15:54
+Lamprotornis ornatus,Animalia,STARLINGS_STURNIDAE,Principe Starling,,2,7.41542863845825,1.6364312171936,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-15,06:14
+Anabathmis hartlaubii,Animalia,SUNBIRDS_NECTARINIIDAE,Principe Sunbird,,1,7.41045951843262,1.63392305374146,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-15,06:52
+Treron calvus,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,African Green Pigeon,,4,7.4117259979248,1.63488781452179,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-15,07:25
+Halcyon malimbica dryas,Animalia,KINGFISHERS_ALCEDINIDAE,Blue-breasted Kingfisher ssp dryas,,1,7.36171770095825,1.55638229846954,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-13,08:01
+Egretta gularis,Animalia,HERONS_ARDEIDAE,Western Reef Heron,,3,7.37638902664185,1.54927575588226,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-13,10:28
+Anabathmis hartlaubii,Animalia,SUNBIRDS_NECTARINIIDAE,Principe Sunbird,,1,7.38052845001221,1.54877626895905,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-13,11:43
+Turdus xanthorhynchus,Animalia,THRUSHES_TURDIDAE,Principe Thrush,,2,7.38114833831787,1.54858756065369,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-13,11:48
+Turdus xanthorhynchus,Animalia,THRUSHES_TURDIDAE,Principe Thrush,,1,7.38931655883789,1.5426412820816,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-14,09:06
+Halcyon malimbica dryas,Animalia,KINGFISHERS_ALCEDINIDAE,Blue-breasted Kingfisher ssp dryas,,1,7.38930368423462,1.54266154766083,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-14,09:07
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.62804889678955,0.284081399440765,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-01-11,16:01
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.63312196731567,0.287070602178574,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-01-11,16:36
+Psittacus timneh,Animalia,PARROTS_PSITTACIDAE,Timneh Parrot,,2,7.41578388214111,1.6452465057373,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-12,10:07
+Ploceus princeps,Animalia,WEAVERS_PLOCEIDAE,Principe Weaver,,1,7.42046546936035,1.64528143405914,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-12,10:14
+Lamprotornis ornatus,Animalia,STARLINGS_STURNIDAE,Principe Starling,,1,7.42046737670898,1.6452876329422,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-12,10:14
+Anabathmis hartlaubii,Animalia,SUNBIRDS_NECTARINIIDAE,Principe Sunbird,,1,7.42046689987183,1.64524817466736,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-12,10:28
+Egretta gularis,Animalia,HERONS_ARDEIDAE,Western Reef Heron,,1,7.42309999465942,1.64699614048004,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-12,11:08
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.59505987167358,0.281293898820877,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-11,09:53
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.63396739959717,0.286809295415878,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-01-11,05:33
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.63368892669678,0.286851704120636,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-01-11,06:04
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.6328715533079885,0.28741076588657444,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-01-19,12:17
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.63396739959717,0.286809295415878,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-01-11,05:33
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.63368892669678,0.286851704120636,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-01-11,06:04
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.59505987167358,0.281293898820877,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-11,09:53
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.62804889678955,0.284081399440765,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-01-11,16:01
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.63312196731567,0.287070602178574,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-01-11,16:36
+Psittacus timneh,Animalia,PARROTS_PSITTACIDAE,Timneh Parrot,,2,7.41578388214111,1.6452465057373,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-12,10:07
+Ploceus princeps,Animalia,WEAVERS_PLOCEIDAE,Principe Weaver,,1,7.42046546936035,1.64528143405914,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-12,10:14
+Lamprotornis ornatus,Animalia,STARLINGS_STURNIDAE,Principe Starling,,1,7.42046737670898,1.6452876329422,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-12,10:14
+Anabathmis hartlaubii,Animalia,SUNBIRDS_NECTARINIIDAE,Principe Sunbird,,1,7.42046689987183,1.64524817466736,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-12,10:28
+Egretta gularis,Animalia,HERONS_ARDEIDAE,Western Reef Heron,,1,7.42309999465942,1.64699614048004,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-12,11:08
+Halcyon malimbica dryas,Animalia,KINGFISHERS_ALCEDINIDAE,Blue-breasted Kingfisher ssp dryas,,1,7.36171770095825,1.55638229846954,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-13,08:01
+Egretta gularis,Animalia,HERONS_ARDEIDAE,Western Reef Heron,,3,7.37638902664185,1.54927575588226,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-13,10:28
+Anabathmis hartlaubii,Animalia,SUNBIRDS_NECTARINIIDAE,Principe Sunbird,,1,7.38052845001221,1.54877626895905,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-13,11:43
+Turdus xanthorhynchus,Animalia,THRUSHES_TURDIDAE,Principe Thrush,,2,7.38114833831787,1.54858756065369,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-13,11:48
+Turdus xanthorhynchus,Animalia,THRUSHES_TURDIDAE,Principe Thrush,,1,7.38931655883789,1.5426412820816,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-14,09:06
+Halcyon malimbica dryas,Animalia,KINGFISHERS_ALCEDINIDAE,Blue-breasted Kingfisher ssp dryas,,1,7.38930368423462,1.54266154766083,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-14,09:07
+Psittacus timneh,Animalia,PARROTS_PSITTACIDAE,Timneh Parrot,,3,7.42556047439575,1.63664722442627,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-14,15:44
+Psittacus timneh,Animalia,PARROTS_PSITTACIDAE,Timneh Parrot,,2,7.42548751831055,1.63672351837158,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-14,15:54
+Lamprotornis ornatus,Animalia,STARLINGS_STURNIDAE,Principe Starling,,2,7.41542863845825,1.6364312171936,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-15,06:14
+Anabathmis hartlaubii,Animalia,SUNBIRDS_NECTARINIIDAE,Principe Sunbird,,1,7.41045951843262,1.63392305374146,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-15,06:52
+Horizorhinus dohrni,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Dohrn's Thrush-Babbler,,4,7.41173028945923,1.63488745689392,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-15,07:25
+Treron calvus,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,African Green Pigeon,,4,7.4117259979248,1.63488781452179,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-15,07:25
+Ploceus princeps,Animalia,WEAVERS_PLOCEIDAE,Principe Weaver,,1,7.41237306594849,1.63514673709869,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-15,07:29
+Phaethon lepturus,Animalia,TROPICBIRDS_PHAETHONTIDAE,White-tailed Tropicbird,,3,6.63334512710571,0.120761699974537,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-01-15,13:17
+Turdus olivaceofuscus,Animalia,THRUSHES_TURDIDAE,Sao Tome Thrush,,1,6.57863330841064,0.145339995622635,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-15,15:11
+Terpsiphone atrochalybeia,Animalia,MONARCHS_MONARCHIDAE,Sao Tome Paradise Flycatcher,,2,6.57855033874512,0.145225301384926,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-15,15:42
+Ploceus sanctithomae,Animalia,WEAVERS_PLOCEIDAE,Sao Tome Weaver,,1,6.57857799530029,0.145257204771042,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-15,15:44
+Motacilla bocagii,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Sao Tome Shorttail,,1,6.56749820709229,0.149860605597496,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-15,16:49
+Bostrychia bocagei,Animalia,IBISSES_AND_SPOONBILLS_THRESKIORNITHIDAE,Sao Tome Ibis,,2,6.57525587081909,0.149746403098106,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-15,17:36
+Otus hartlaubi,Animalia,OWLS_STRIGIDAE,Sao Tome Scops Owl,,1,6.57865142822266,0.145315200090408,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-15,18:24
+Treron sanctithomae,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Sao Tome Green Pigeon,,1,6.56344270706177,0.153820797801018,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,07:27
+Lanius newtoni,Animalia,SHRIKES_LANIIDAE,Sao Tome Fiscal,,1,6.55446243286133,0.153662502765656,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,08:17
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,2,6.55436086654663,0.153630599379539,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,08:31
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.55282068252563,0.154314994812012,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,08:46
+Ploceus grandis,Animalia,WEAVERS_PLOCEIDAE,Giant Weaver,,1,6.55289793014526,0.154362693428993,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,08:49
+Lanius newtoni,Animalia,SHRIKES_LANIIDAE,Sao Tome Fiscal,,1,6.55197763442993,0.152900204062462,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,09:10
+Oriolus crassirostris,Animalia,ORIOLES_AND_FIG_BIRDS_ORIOLIDAE,Sao Tome Oriole,,1,6.5520281791687,0.152924492955208,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,09:18
+Otus hartlaubi,Animalia,OWLS_STRIGIDAE,Sao Tome Scops Owl,,1,6.56674242019653,0.150400504469872,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,12:10
+Turdus olivaceofuscus,Animalia,THRUSHES_TURDIDAE,Sao Tome Thrush,,1,6.56749200820923,0.14890019595623,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,12:32
+Ploceus sanctithomae,Animalia,WEAVERS_PLOCEIDAE,Sao Tome Weaver,,1,6.5675048828125,0.148952096700668,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,12:35
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.64603853225708,0.132161498069763,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-01-17,07:55
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.61114978790283,0.287151485681534,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-18,09:21
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.634195139637807,0.2868104120719124,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-01-18,10:17
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,10,6.611872874206502,0.28825033921775245,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-18,09:02
+Vidua macroura,Animalia,INDIGOBIRDS_AND_WHYDAHS_VIDUIDAE,Pin-tailed Whydah,,1,6.643347255891788,0.4060853971172181,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-01-17,10:50
+Vidua macroura,Animalia,INDIGOBIRDS_AND_WHYDAHS_VIDUIDAE,Pin-tailed Whydah,,1,6.652745883918044,0.4109121160585535,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-01-17,10:31
+Chrysococcyx cupreus,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,African Emerald Cuckoo,,1,6.684832228353884,0.1818886399270798,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-01-17,08:52
+Turdus olivaceofuscus,Animalia,THRUSHES_TURDIDAE,Sao Tome Thrush,,2,6.684761065995958,0.18120685592310615,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-01-17,08:51
+Apis mellifera,Animalia,Apidae,Western Honey Bee,,1,6.645777085802187,0.13278699014348236,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-01-17,08:19
+Ploceus sanctithomae,Animalia,WEAVERS_PLOCEIDAE,Sao Tome Weaver,,1,6.646029632544747,0.13207754585904263,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-01-17,07:00
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,2,6.645947657531728,0.1320825330914297,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-01-17,07:00
+Chrysococcyx cupreus,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,African Emerald Cuckoo,,3,6.645982777706018,0.1320683257655539,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-01-17,07:00
+Terpsiphone atrochalybeia,Animalia,MONARCHS_MONARCHIDAE,Sao Tome Paradise Flycatcher,,1,6.575717115780875,0.1490041287617283,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,13:16
+Turdus olivaceofuscus,Animalia,THRUSHES_TURDIDAE,Sao Tome Thrush,,1,6.5665857028277275,0.15053290408118677,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,12:13
+Otus hartlaubi,Animalia,OWLS_STRIGIDAE,Sao Tome Scops Owl,,1,6.5657513681860316,0.15045931097134058,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,12:13
+Ploceus sanctithomae,Animalia,WEAVERS_PLOCEIDAE,Sao Tome Weaver,,1,6.566588971769964,0.1514097349719623,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,11:59
+Oriolus crassirostris,Animalia,ORIOLES_AND_FIG_BIRDS_ORIOLIDAE,Sao Tome Oriole,,4,6.563688078901324,0.15390905085965423,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,11:16
+Treron sanctithomae,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Sao Tome Green Pigeon,,1,6.5562252514125365,0.15414659399553587,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,10:06
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.552737373864793,0.1542905531825072,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,09:35
+Lanius newtoni,Animalia,SHRIKES_LANIIDAE,Sao Tome Fiscal,,2,6.551690222701572,0.15296223107739626,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,09:10
+Ploceus grandis,Animalia,WEAVERS_PLOCEIDAE,Giant Weaver,,1,6.55262581073358,0.154457646422232,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,08:50
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.552564706659459,0.1543350610883481,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,08:46
+Ploceus sanctithomae,Animalia,WEAVERS_PLOCEIDAE,Sao Tome Weaver,,1,6.554225496953869,0.15346191823496805,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,08:33
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.554226167506123,0.153508773073697,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,08:31
+Oriolus crassirostris,Animalia,ORIOLES_AND_FIG_BIRDS_ORIOLIDAE,Sao Tome Oriole,,1,6.556237991905357,0.1541246334092264,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,08:03
+Chrysococcyx cupreus,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,African Emerald Cuckoo,,1,6.5726140514077365,0.15077237505479787,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,06:38
+Ploceus sanctithomae,Animalia,WEAVERS_PLOCEIDAE,Sao Tome Weaver,,1,6.572892498231095,0.15085711609586222,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,06:37
+Oriolus crassirostris,Animalia,ORIOLES_AND_FIG_BIRDS_ORIOLIDAE,Sao Tome Oriole,,3,6.572691248735946,0.15080443583442904,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,06:37
+Ploceus sanctithomae,Animalia,WEAVERS_PLOCEIDAE,Sao Tome Weaver,,1,6.578694870701598,0.1453526364640755,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,06:08
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.5788223594488375,0.14529823791249216,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,06:08
+Zoonavena thomensis,Animalia,SWIFTS_APODIDAE,Sao Tome Spinetail,,3,6.57878095284717,0.14528327621533096,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,06:08
+Turdus olivaceofuscus,Animalia,THRUSHES_TURDIDAE,Sao Tome Thrush,,6,6.57865388319509,0.14543293509645894,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,06:07
+Treron sanctithomae,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Sao Tome Green Pigeon,,6,6.579054202890562,0.14533490873886767,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,06:06
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.579182865104245,0.14554433058960878,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-16,06:05
+Otus hartlaubi,Animalia,OWLS_STRIGIDAE,Sao Tome Scops Owl,,1,6.578647177672552,0.14536558650447554,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-15,18:22
+Oriolus crassirostris,Animalia,ORIOLES_AND_FIG_BIRDS_ORIOLIDAE,Sao Tome Oriole,,2,6.576434941968486,0.14819112606360407,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-15,17:48
+Bostrychia bocagei,Animalia,IBISSES_AND_SPOONBILLS_THRESKIORNITHIDAE,Sao Tome Ibis,,2,6.575292404747172,0.14973083976670143,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-15,17:39
+Oriolus crassirostris,Animalia,ORIOLES_AND_FIG_BIRDS_ORIOLIDAE,Sao Tome Oriole,,1,6.5675825625719195,0.1498197298498357,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-15,16:49
+Motacilla bocagii,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Sao Tome Shorttail,,1,6.56750536524371,0.1498736673967446,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-15,16:48
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.57890165225284,0.14553355984403335,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-15,15:56
+Ploceus sanctithomae,Animalia,WEAVERS_PLOCEIDAE,Sao Tome Weaver,,1,6.578949177643823,0.1455245073886081,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-15,15:56
+Chrysococcyx cupreus,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,African Emerald Cuckoo,,1,6.578756812966036,0.14524002559496577,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-15,15:48
+Rhynchium marginellum,Animalia,Vespidae,,,1,7.41262098,1.6651711,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-15,09:10
+Hypolimnas misippus,Animalia,BRUSHFOOTED_BUTTERFLIES_NYMPHALIDAE,Danaid Eggfly,,1,7.41924175993299,1.6390904271990425,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-15,07:59
+Horizorhinus dohrni,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Dohrn's Thrush-Babbler,,2,7.413045857108583,1.6354128252730102,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-15,07:36
+Lonchura cucullata,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Bronze Mannikin,,20,7.412115801132668,1.6350501822322934,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-15,07:28
+Psittacus timneh,Animalia,PARROTS_PSITTACIDAE,Timneh Parrot,,3,7.410707473761784,1.6344021353885851,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-15,07:16
+Horizorhinus dohrni,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Dohrn's Thrush-Babbler,,1,7.410791879526721,1.6338696330800968,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-15,06:53
+Horizorhinus dohrni,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Dohrn's Thrush-Babbler,,2,7.410973431549418,1.6343568731114588,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-15,06:46
+Anabathmis hartlaubii,Animalia,SUNBIRDS_NECTARINIIDAE,Principe Sunbird,,4,7.4109643790939925,1.6342925000951012,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-15,06:46
+Ploceus princeps,Animalia,WEAVERS_PLOCEIDAE,Principe Weaver,,3,7.41093152203356,1.6342693660423477,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-15,06:45
+Anabathmis hartlaubii,Animalia,SUNBIRDS_NECTARINIIDAE,Principe Sunbird,,3,7.412022007636178,1.6350619168967335,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-15,06:37
+Horizorhinus dohrni,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Dohrn's Thrush-Babbler,,2,7.412282433367718,1.6351295588553278,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-15,06:34
+Anabathmis hartlaubii,Animalia,SUNBIRDS_NECTARINIIDAE,Principe Sunbird,,1,7.412608405582059,1.635444425047967,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-15,06:33
+Treron calvus,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,African Green Pigeon,,4,7.413007719449152,1.6356360772639844,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-15,06:26
+Lamprotornis ornatus,Animalia,STARLINGS_STURNIDAE,Principe Starling,,4,7.415677774704449,1.6364481160432438,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-15,06:15
+Treron calvus,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,African Green Pigeon,,2,7.41563091986572,1.6364647960305554,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-15,06:15
+Lonchura cucullata,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Bronze Mannikin,,4,7.417338732636922,1.6369039239377126,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-15,06:11
+Horizorhinus dohrni,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Dohrn's Thrush-Babbler,,1,7.425113199285627,1.6372512280956257,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-14,17:08
+Treron calvus,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,African Green Pigeon,,6,7.424876745797158,1.6371421795353638,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-14,17:03
+Anabathmis hartlaubii,Animalia,SUNBIRDS_NECTARINIIDAE,Principe Sunbird,,2,7.4256371520528806,1.6365875490025026,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-14,16:46
+Treron calvus,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,African Green Pigeon,,2,7.425578227273585,1.6366113536075098,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-14,16:41
+Dicrurus modestus,Animalia,DRONGOS_DICRURIDAE,Velvet-mantled Drongo,,1,7.425782410434843,1.6368621401504024,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-14,16:41
+Psittacus timneh,Animalia,PARROTS_PSITTACIDAE,Timneh Parrot,,5,7.425788948319317,1.6366547718659383,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-14,16:36
+Anabathmis hartlaubii,Animalia,SUNBIRDS_NECTARINIIDAE,Principe Sunbird,,1,7.425679732120992,1.6366478987053377,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-14,16:36
+Ploceus princeps,Animalia,WEAVERS_PLOCEIDAE,Principe Weaver,,1,7.425478063530685,1.636813986116682,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-14,15:57
+Psittacus timneh,Animalia,PARROTS_PSITTACIDAE,Timneh Parrot,,3,7.425485607243539,1.636778907851909,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-14,15:57
+Ploceus princeps,Animalia,WEAVERS_PLOCEIDAE,Principe Weaver,,10,7.42443954572773,1.6380726546064373,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-14,15:31
+Corythornis cristatus nais,Animalia,KINGFISHERS_ALCEDINIDAE,Principe Kingfisher,,1,7.421358022845743,1.6382361017182825,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-14,15:23
+Egretta gularis,Animalia,HERONS_ARDEIDAE,Western Reef Heron,,2,7.421250399209019,1.6391381621376044,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-14,15:02
+Sceliphron spirifex,Animalia,Sphecidae,,,15,7.42322233,1.64736823,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-14,13:22
+Corythornis cristatus nais,Animalia,KINGFISHERS_ALCEDINIDAE,Principe Kingfisher,,1,7.399000888697243,1.5447059227168045,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-14,10:55
+Halcyon malimbica dryas,Animalia,KINGFISHERS_ALCEDINIDAE,Blue-breasted Kingfisher ssp dryas,,1,7.389550460509387,1.542715472170657,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-14,09:08
+Halcyon malimbica dryas,Animalia,KINGFISHERS_ALCEDINIDAE,Blue-breasted Kingfisher ssp dryas,,1,7.3860116209903595,1.5437108650817943,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-14,08:47
+Halcyon malimbica dryas,Animalia,KINGFISHERS_ALCEDINIDAE,Blue-breasted Kingfisher ssp dryas,,2,7.382022086537798,1.5468535758569342,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-14,07:25
+Halcyon malimbica dryas,Animalia,KINGFISHERS_ALCEDINIDAE,Blue-breasted Kingfisher ssp dryas,,1,7.382202213636955,1.5469919191687804,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-13,13:32
+Turdus xanthorhynchus,Animalia,THRUSHES_TURDIDAE,Principe Thrush,,1,7.3811179306426835,1.5486948704361436,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-13,11:50
+Anabathmis hartlaubii,Animalia,SUNBIRDS_NECTARINIIDAE,Principe Sunbird,,2,7.381294034428318,1.5484805870815632,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-13,11:49
+Egretta gularis,Animalia,HERONS_ARDEIDAE,Western Reef Heron,,4,7.376380981884315,1.549264504575682,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-13,10:42
+Halcyon malimbica dryas,Animalia,KINGFISHERS_ALCEDINIDAE,Blue-breasted Kingfisher ssp dryas,,1,7.367112943909473,1.5522173233344705,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-13,09:27
+Halcyon malimbica dryas,Animalia,KINGFISHERS_ALCEDINIDAE,Blue-breasted Kingfisher ssp dryas,,2,7.3613014351645125,1.5561819635346124,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-13,08:00
+Halcyon malimbica dryas,Animalia,KINGFISHERS_ALCEDINIDAE,Blue-breasted Kingfisher ssp dryas,,1,7.361449962488712,1.5568927908330754,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-13,06:41
+Halcyon malimbica dryas,Animalia,KINGFISHERS_ALCEDINIDAE,Blue-breasted Kingfisher ssp dryas,,2,7.361562112353147,1.5565850492581321,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-12,16:14
+Egretta gularis,Animalia,HERONS_ARDEIDAE,Western Reef Heron,,1,7.34652439133017,1.556975981222053,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-12,13:11
+Ploceus princeps,Animalia,WEAVERS_PLOCEIDAE,Principe Weaver,,2,7.423054520047663,1.6473591327682577,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-12,11:20
+Lamprotornis ornatus,Animalia,STARLINGS_STURNIDAE,Principe Starling,,2,7.420229986316915,1.6452934965506618,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-12,10:15
+Ploceus princeps,Animalia,WEAVERS_PLOCEIDAE,Principe Weaver,,1,7.420051032684203,1.6451868787423196,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2019-01-12,10:14
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.63402230479441,0.28678283561047796,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-01-12,06:07
+Asota speciosa,Animalia,EREBIDAE,,,1,6.63404066,0.2868939,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-01-11,19:11
+Euchloron megaera,Animalia,Sphingidae,,,1,6.63395039,0.28682542,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-01-11,19:09
+Basiothia medea,Animalia,Sphingidae,Small Verdant Hawk,,1,6.63404217,0.28698618,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-01-11,18:58
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.633091745904302,0.2871438860895923,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-01-11,16:37
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.626976896083566,0.28408620972212784,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-01-11,15:39
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.593379378324927,0.2793083153667667,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-11,10:31
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.595120299613657,0.2812450798231002,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-11,09:41
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.603728765627931,0.28922934550818913,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-11,08:16
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.6053433716358665,0.2885389281439488,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2019-01-11,07:52
+Anticarsia rubricans,Animalia,EREBIDAE,,,1,6.633978299802759,0.286795198917656,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-01-11,06:50
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,2,6.633810829377392,0.2868309896441985,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-01-11,06:09
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.634056083864191,0.2869639685380151,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2019-01-11,05:22
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.60717487,0.28640723,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2017-11-28,
+Terpsiphone atrochalybeia,Animalia,MONARCHS_MONARCHIDAE,Sao Tome Paradise Flycatcher,,1,6.60717487,0.28640723,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2017-11-28,
+Vidua macroura,Animalia,INDIGOBIRDS_AND_WHYDAHS_VIDUIDAE,Pin-tailed Whydah,,1,6.7129,0.3744,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-09-23,17:06
+Ploceus grandis,Animalia,WEAVERS_PLOCEIDAE,Giant Weaver,,1,6.5909,0.1279,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-09-23,13:42
+Motacilla bocagii,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Sao Tome Shorttail,,1,6.5726,0.1495,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2017-09-23,12:20
+Bostrychia bocagei,Animalia,IBISSES_AND_SPOONBILLS_THRESKIORNITHIDAE,Sao Tome Ibis,,2,6.5679,0.1494,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2017-09-23,11:09
+Lanius newtoni,Animalia,SHRIKES_LANIIDAE,Sao Tome Fiscal,,1,6.5545,0.1538,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2017-09-23,09:59
+Lanius newtoni,Animalia,SHRIKES_LANIIDAE,Sao Tome Fiscal,,1,6.5519,0.1522,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2017-09-23,09:20
+Treron sanctithomae,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Sao Tome Green Pigeon,,1,6.5663,0.1523,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2017-09-23,07:37
+Bostrychia bocagei,Animalia,IBISSES_AND_SPOONBILLS_THRESKIORNITHIDAE,Sao Tome Ibis,,2,6.5696,0.1521,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2017-09-23,07:20
+Oriolus crassirostris,Animalia,ORIOLES_AND_FIG_BIRDS_ORIOLIDAE,Sao Tome Oriole,,1,6.5829,0.1439,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-09-23,06:30
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.6333,0.1101,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-09-17,15:19
+Zoonavena thomensis,Animalia,SWIFTS_APODIDAE,Sao Tome Spinetail,,1,6.6333,0.1101,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-09-17,15:17
+Ploceus grandis,Animalia,WEAVERS_PLOCEIDAE,Giant Weaver,,1,6.6333,0.1102,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-09-17,14:57
+Treron sanctithomae,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Sao Tome Green Pigeon,,1,6.5962,0.1008,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-09-17,13:51
+Turdus olivaceofuscus,Animalia,THRUSHES_TURDIDAE,Sao Tome Thrush,,1,6.6335,0.1206,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-09-17,13:12
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.6335,0.1207,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-09-17,13:10
+Terpsiphone atrochalybeia,Animalia,MONARCHS_MONARCHIDAE,Sao Tome Paradise Flycatcher,,1,6.6374,0.1256,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-09-17,12:19
+Ploceus sanctithomae,Animalia,WEAVERS_PLOCEIDAE,Sao Tome Weaver,,1,6.637,0.1263,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-09-17,12:10
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,1,6.6371,0.1262,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-09-17,12:08
+Ploceus velatus,Animalia,WEAVERS_PLOCEIDAE,Southern Masked Weaver,,1,6.7369,0.3385,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-09-17,09:21
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.7359,0.3385,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-09-17,09:00
+Treron calvus,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,African Green Pigeon,,1,7.4423,1.6864,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2017-09-16,12:32
+Ploceus princeps,Animalia,WEAVERS_PLOCEIDAE,Principe Weaver,,1,7.4017,1.6954,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2017-09-15,17:30
+Zosterops leucophaeus,Animalia,WHITEEYES_ZOSTEROPIDAE,Principe Speirops,,4,7.4017,1.6955,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2017-09-15,17:30
+Egretta gularis gularis,Animalia,HERONS_ARDEIDAE,Western Reef Heron ssp gularis,,1,7.4024,1.694,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2017-09-15,16:58
+Halcyon malimbica dryas,Animalia,KINGFISHERS_ALCEDINIDAE,Blue-breasted Kingfisher ssp dryas,,1,7.4005,1.6447,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2017-09-12,12:13
+Treron calvus,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,African Green Pigeon,,1,7.3831,1.6695,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2017-09-11,15:09
+Zosterops leucophaeus,Animalia,WHITEEYES_ZOSTEROPIDAE,Principe Speirops,,1,7.383,1.6699,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2017-09-11,13:02
+Horizorhinus dohrni,Animalia,OLD_WORLD_WARBLERS_SYLVIIDAE,Dohrn's Thrush-Babbler,,1,7.3975,1.6506,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2017-09-11,11:53
+Lamprotornis ornatus,Animalia,STARLINGS_STURNIDAE,Principe Starling,,1,7.3973,1.6506,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2017-09-11,11:47
+Anabathmis hartlaubii,Animalia,SUNBIRDS_NECTARINIIDAE,Principe Sunbird,,1,7.3965,1.6508,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2017-09-11,11:19
+Halcyon malimbica dryas,Animalia,KINGFISHERS_ALCEDINIDAE,Blue-breasted Kingfisher ssp dryas,,1,7.3948,1.651,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2017-09-11,11:11
+Columba larvata principalis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Lemon Dove ssp principalis,,1,7.3806,1.6496,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2017-09-11,11:01
+Ploceus princeps,Animalia,WEAVERS_PLOCEIDAE,Principe Weaver,,1,7.4138,1.6248,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2017-09-11,10:12
+Columba larvata principalis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Lemon Dove ssp principalis,,1,7.4145,1.6576,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2017-09-11,08:58
+Lonchura cucullata,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Bronze Mannikin,,1,7.4127,1.6651,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2017-09-11,08:55
+Uraeginthus angolensis,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Blue Waxbill,,1,6.7127,0.3741,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-09-11,07:32
+Uraeginthus angolensis,Animalia,WAXBILLS_MUNIAS_ALLIES_ESTRILDIDAE,Blue Waxbill,,2,6.74341719632143,0.339943342786175,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-08-02,16:40
+Treron sanctithomae,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Sao Tome Green Pigeon,,2,6.64660941462119,0.134347103558389,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-08-03,06:00
+Chrysococcyx cupreus,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,African Emerald Cuckoo,,1,6.64609267791567,0.134986686538517,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-08-03,07:06
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,10,6.64611599200059,0.133873687661017,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-08-03,07:06
+Cypsiurus parvus,Animalia,SWIFTS_APODIDAE,African Palm Swift,,10,6.64608416419913,0.133799594434554,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-08-03,07:06
+Ploceus sanctithomae,Animalia,WEAVERS_PLOCEIDAE,Sao Tome Weaver,,5,6.6460611729989,0.133675949785824,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-08-03,07:07
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.64605998628455,0.133626785551411,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-08-03,07:07
+Zoonavena thomensis,Animalia,SWIFTS_APODIDAE,Sao Tome Spinetail,,5,6.64595481596446,0.140338573771787,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-08-03,10:44
+Cypsiurus parvus,Animalia,SWIFTS_APODIDAE,African Palm Swift,,10,6.645877407357,0.140259261172678,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-08-03,10:44
+Terpsiphone atrochalybeia,Animalia,MONARCHS_MONARCHIDAE,Sao Tome Paradise Flycatcher,,5,6.64101745741983,0.146993266113328,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-08-03,11:17
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,2,6.6409965922417,0.14696630803346,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-08-03,11:17
+Turdus olivaceofuscus,Animalia,THRUSHES_TURDIDAE,Sao Tome Thrush,,2,6.64102526195154,0.146866312823194,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-08-03,11:18
+Phaethon lepturus,Animalia,TROPICBIRDS_PHAETHONTIDAE,White-tailed Tropicbird,,2,6.6838740090471,0.178887242781338,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-08-03,13:03
+Zoonavena thomensis,Animalia,SWIFTS_APODIDAE,Sao Tome Spinetail,,2,6.69636817130023,0.190417023140186,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-08-03,13:09
+Phaethon lepturus,Animalia,TROPICBIRDS_PHAETHONTIDAE,White-tailed Tropicbird,,1,6.71201145319184,0.20203857615393,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-08-03,13:14
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,3,6.64604272068714,0.133017555272839,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-07-30,10:52
+Terpsiphone atrochalybeia,Animalia,MONARCHS_MONARCHIDAE,Sao Tome Paradise Flycatcher,,1,6.59274253246226,0.11540462337494,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-07-30,11:34
+Turdus olivaceofuscus,Animalia,THRUSHES_TURDIDAE,Sao Tome Thrush,,1,6.59274253246226,0.11540462337494,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-07-30,11:35
+Ploceus sanctithomae,Animalia,WEAVERS_PLOCEIDAE,Sao Tome Weaver,,1,6.59038592953875,0.127643107364107,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-07-30,12:09
+Ploceus sanctithomae,Animalia,WEAVERS_PLOCEIDAE,Sao Tome Weaver,,3,6.57262101775937,0.141291724527632,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2017-07-30,13:12
+Oriolus crassirostris,Animalia,ORIOLES_AND_FIG_BIRDS_ORIOLIDAE,Sao Tome Oriole,,2,6.57296959936538,0.141070606621575,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2017-07-30,13:13
+Terpsiphone atrochalybeia,Animalia,MONARCHS_MONARCHIDAE,Sao Tome Paradise Flycatcher,,2,6.57296959936538,0.141070606621575,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2017-07-30,13:13
+Turdus olivaceofuscus,Animalia,THRUSHES_TURDIDAE,Sao Tome Thrush,,1,6.57282186561215,0.140983931416688,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2017-07-30,13:20
+Bostrychia bocagei,Animalia,IBISSES_AND_SPOONBILLS_THRESKIORNITHIDAE,Sao Tome Ibis,,1,6.57222194798038,0.141564611406041,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2017-07-30,13:33
+Bostrychia bocagei,Animalia,IBISSES_AND_SPOONBILLS_THRESKIORNITHIDAE,Sao Tome Ibis,,3,6.56885957826778,0.144951578917233,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2017-07-30,13:51
+Bostrychia bocagei,Animalia,IBISSES_AND_SPOONBILLS_THRESKIORNITHIDAE,Sao Tome Ibis,,3,6.56768457622519,0.145460939672033,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2017-07-30,14:00
+Motacilla bocagii,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Sao Tome Shorttail,,2,6.56751961934143,0.147885466502869,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2017-07-30,14:26
+Bostrychia bocagei,Animalia,IBISSES_AND_SPOONBILLS_THRESKIORNITHIDAE,Sao Tome Ibis,,1,6.56865629058184,0.152906876975588,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2017-07-30,14:43
+Turdus olivaceofuscus,Animalia,THRUSHES_TURDIDAE,Sao Tome Thrush,,2,6.56451191320775,0.154249314716281,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2017-07-30,15:45
+Otus hartlaubi,Animalia,OWLS_STRIGIDAE,Sao Tome Scops Owl,,2,6.56352909460413,0.154043060094214,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2017-07-30,15:45
+Ploceus sanctithomae,Animalia,WEAVERS_PLOCEIDAE,Sao Tome Weaver,,1,6.56352909460413,0.154043060094214,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2017-07-30,15:45
+Otus hartlaubi,Animalia,OWLS_STRIGIDAE,Sao Tome Scops Owl,,10,6.56358425272573,0.153759960466268,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2017-07-30,18:19
+Motacilla bocagii,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Sao Tome Shorttail,,3,6.56355046774514,0.153902824145951,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2017-07-31,07:15
+Oriolus crassirostris,Animalia,ORIOLES_AND_FIG_BIRDS_ORIOLIDAE,Sao Tome Oriole,,1,6.56352893300411,0.153912500453521,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2017-07-31,07:15
+Ploceus grandis,Animalia,WEAVERS_PLOCEIDAE,Giant Weaver,,1,6.55267693930538,0.148567226207221,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2017-07-31,11:15
+Lanius newtoni,Animalia,SHRIKES_LANIIDAE,Sao Tome Fiscal,,1,6.55168759195949,0.152841603643781,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2017-07-31,12:31
+Turdus olivaceofuscus,Animalia,THRUSHES_TURDIDAE,Sao Tome Thrush,,2,6.55168759195949,0.152841603643781,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2017-07-31,12:31
+Terpsiphone atrochalybeia,Animalia,MONARCHS_MONARCHIDAE,Sao Tome Paradise Flycatcher,,10,6.55168759195949,0.152841603643781,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2017-07-31,12:31
+Otus hartlaubi,Animalia,OWLS_STRIGIDAE,Sao Tome Scops Owl,,3,6.5635061429151,0.15452998613662,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2017-07-31,17:10
+Bostrychia bocagei,Animalia,IBISSES_AND_SPOONBILLS_THRESKIORNITHIDAE,Sao Tome Ibis,,2,6.56581971136095,0.14881100325247,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2017-08-01,08:35
+Oriolus crassirostris,Animalia,ORIOLES_AND_FIG_BIRDS_ORIOLIDAE,Sao Tome Oriole,,5,6.56999799925017,0.144216967755711,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2017-08-01,08:51
+Ploceus sanctithomae,Animalia,WEAVERS_PLOCEIDAE,Sao Tome Weaver,,1,6.56984185428165,0.144204847613934,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2017-08-01,08:52
+Zoonavena thomensis,Animalia,SWIFTS_APODIDAE,Sao Tome Spinetail,,4,6.57791683168127,0.136993664090987,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2017-08-01,09:20
+Ploceus grandis,Animalia,WEAVERS_PLOCEIDAE,Giant Weaver,,3,6.57988248125717,0.13502348913379,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-08-01,09:26
+Turdus olivaceofuscus,Animalia,THRUSHES_TURDIDAE,Sao Tome Thrush,,2,6.57999370712048,0.134931045799557,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-08-01,09:26
+Ploceus sanctithomae,Animalia,WEAVERS_PLOCEIDAE,Sao Tome Weaver,,3,6.59069962229179,0.128089217198549,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-08-01,10:12
+Chrysococcyx cupreus,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,African Emerald Cuckoo,,1,6.64625008165931,0.13264645288758,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-08-01,11:30
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.64644699202425,0.132227966529898,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-08-02,06:17
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,2,6.64617796109541,0.132236820516828,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-08-02,06:17
+Ploceus sanctithomae,Animalia,WEAVERS_PLOCEIDAE,Sao Tome Weaver,,1,6.64617796109541,0.132236820516828,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-08-02,06:18
+Phaethon lepturus,Animalia,TROPICBIRDS_PHAETHONTIDAE,White-tailed Tropicbird,,1,6.70520678349833,0.200362227614662,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-08-02,08:47
+Phaethon lepturus,Animalia,TROPICBIRDS_PHAETHONTIDAE,White-tailed Tropicbird,,1,6.72210083218888,0.208679529627982,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-08-02,08:53
+Phaethon lepturus,Animalia,TROPICBIRDS_PHAETHONTIDAE,White-tailed Tropicbird,,1,6.73489442772503,0.243849698725247,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-08-02,09:00
+Zosterops feae,Animalia,WHITEEYES_ZOSTEROPIDAE,Sao Tome White-eye,,3,6.61228582292382,0.288425124982321,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2017-08-02,10:18
+Terpsiphone atrochalybeia,Animalia,MONARCHS_MONARCHIDAE,Sao Tome Paradise Flycatcher,,2,6.60847035641649,0.288420368635013,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2017-08-02,12:02
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,2,6.60869993377313,0.288485349734822,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2017-08-02,12:03
+Ploceus velatus,Animalia,WEAVERS_PLOCEIDAE,Southern Masked Weaver,,1,6.64650502550631,0.409784769395651,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-08-02,14:38
+Vidua macroura,Animalia,INDIGOBIRDS_AND_WHYDAHS_VIDUIDAE,Pin-tailed Whydah,,1,6.64650502550631,0.409784769395651,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-08-02,14:39
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.72854639743717,0.333119997679918,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2017-07-30,06:52
+Cypsiurus parvus,Animalia,SWIFTS_APODIDAE,African Palm Swift,,2,6.5810412168503,0.15208911916437,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2016-04-09,
+Zoonavena thomensis,Animalia,SWIFTS_APODIDAE,Sao Tome Spinetail,,5,6.5810412168503,0.15208911916437,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2016-04-09,
+Chrysococcyx cupreus,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,African Emerald Cuckoo,,1,6.5810412168503,0.15208911916437,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2016-04-09,
+Terpsiphone atrochalybeia,Animalia,MONARCHS_MONARCHIDAE,Sao Tome Paradise Flycatcher,,4,6.5810412168503,0.15208911916437,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2016-04-09,
+Motacilla bocagii,Animalia,PIPITS_EN_WAGTAILS_MOTACILLIDAE,Sao Tome Shorttail,,1,6.5810412168503,0.15208911916437,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2016-04-09,
+Bostrychia bocagei,Animalia,IBISSES_AND_SPOONBILLS_THRESKIORNITHIDAE,Sao Tome Ibis,,2,6.5810412168503,0.15208911916437,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2016-04-09,
+Oriolus crassirostris,Animalia,ORIOLES_AND_FIG_BIRDS_ORIOLIDAE,Sao Tome Oriole,,3,6.5810412168503,0.15208911916437,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2016-04-09,
+Turdus olivaceofuscus,Animalia,THRUSHES_TURDIDAE,Sao Tome Thrush,,5,6.5810412168503,0.15208911916437,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2016-04-09,
+Ploceus velatus,Animalia,WEAVERS_PLOCEIDAE,Southern Masked Weaver,,10,6.7382535338402,0.34065865437472,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2016-04-08,
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,5,6.7382535338402,0.34065865437472,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2016-04-07,
+Ploceus princeps,Animalia,WEAVERS_PLOCEIDAE,Principe Weaver,,10,7.36387342215,1.60447991362,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2015-08-10,
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,10,6.651,0.377,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2015-08-11,14:55
+Columba thomensis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Sao Tome Olive Pigeon,,3,6.6059,0.2752,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2015-08-14,06:29
+Oriolus crassirostris,Animalia,ORIOLES_AND_FIG_BIRDS_ORIOLIDAE,Sao Tome Oriole,,3,6.56,0.1427,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2015-08-13,10:14
+Bostrychia bocagei,Animalia,IBISSES_AND_SPOONBILLS_THRESKIORNITHIDAE,Sao Tome Ibis,,1,6.565,0.1377,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2015-08-13,08:10
+Lanius newtoni,Animalia,SHRIKES_LANIIDAE,Sao Tome Fiscal,,1,6.5534,0.1479,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2015-08-12,12:55
+Corythornis cristatus thomensis,Animalia,KINGFISHERS_ALCEDINIDAE,Sao Tome Kingfisher,,2,6.638,0.1346,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2015-08-12,07:46
+Chrysococcyx cupreus,Animalia,CUCKOOS_AND_COUCALS_CUCULIDAE,African Emerald Cuckoo,,1,6.651,0.3764,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2015-08-11,17:38
+Agapornis pullarius pullarius,Animalia,PSITTACULIDAE,Red-headed Lovebird ssp pullarius,,4,6.651,0.377,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2015-08-11,14:55
+Ploceus velatus,Animalia,WEAVERS_PLOCEIDAE,Southern Masked Weaver,,1,6.7138,0.3609,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2015-08-11,11:34
+Zosterops leucophaeus,Animalia,WHITEEYES_ZOSTEROPIDAE,Principe Speirops,,3,7.4028,1.6929,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2015-08-11,07:56
+Turdus xanthorhynchus,Animalia,THRUSHES_TURDIDAE,Principe Thrush,,1,7.36038923264,1.59280523346,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2015-08-10,10:05
+Ploceus princeps,Animalia,WEAVERS_PLOCEIDAE,Principe Weaver,,20,7.4059,1.6874,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2015-08-09,16:04
+Zosterops leucophaeus,Animalia,WHITEEYES_ZOSTEROPIDAE,Principe Speirops,,4,7.4019,1.6955,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2015-08-09,13:01
+Egretta gularis gularis,Animalia,HERONS_ARDEIDAE,Western Reef Heron ssp gularis,,1,7.402,1.6957,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2015-08-09,13:00
+Corythornis cristatus nais,Animalia,KINGFISHERS_ALCEDINIDAE,Principe Kingfisher,,2,7.4027,1.6906,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2015-08-09,11:39
+Columba larvata principalis,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,Lemon Dove ssp principalis,,1,7.4024,1.6902,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2015-08-09,11:31
+Anabathmis hartlaubii,Animalia,SUNBIRDS_NECTARINIIDAE,Principe Sunbird,,4,7.4025,1.6905,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2015-08-09,11:23
+Treron calvus virescens,Animalia,PIGEONS_AND_DOVES_COLUMBIDAE,African Green Pigeon ssp virescens,,2,7.4029,1.6909,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2015-08-09,11:23
+Halcyon malimbica dryas,Animalia,KINGFISHERS_ALCEDINIDAE,Blue-breasted Kingfisher ssp dryas,,6,7.4028,1.6909,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Principe,2015-08-09,15:33
+Anabathmis newtonii,Animalia,SUNBIRDS_NECTARINIIDAE,Newton's Sunbird,,2,6.7137,0.3608,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2015-08-09,06:39
+Prinia molleri,Animalia,CISTICOLAS_AND_ALLIES_CISTICOLIDAE,Sao Tome Prinia,,1,6.6982,0.3785,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Sao Tome,2015-08-08,16:53
+Otus hartlaubi,Animalia,OWLS_STRIGIDAE,Sao Tome Scops Owl,,1,6.6004,0.2859,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2015-08-08,09:13
+Terpsiphone atrochalybeia,Animalia,MONARCHS_MONARCHIDAE,Sao Tome Paradise Flycatcher,,4,6.6017,0.2877,Africa,Sao Tome and Principe,ST,,Sao Tome and Principe - Obo NP,2015-08-08,08:56

@@ -1,0 +1,48 @@
+scientificName,kingdom,family,vernacularName,previousIdentifications,individualCount,longitudeDecimal,latitudeDecimal,continent,country,countryCode,stateProvince,locality,eventDate,eventTime
+Zosterops maderaspatanus voeltzkowi,Animalia,WHITEEYES_ZOSTEROPIDAE,Malagasy White-eye ssp voeltzkowi,,6,40.36468551,-22.34642415,Antarctica,French Southern & Antarctic Lands,TF,,TAAF - Europe Island,2014-04-14,
+Calidris ferruginea,Animalia,SANDPIPERS_AND_ALLIES_SCOLOPACIDAE,Curlew Sandpiper,,2,70.514945983,-49.1608712235,Antarctica,French Southern & Antarctic Lands,TF,,French Southern and Antarctic Lands,2013-10-16,
+Leucocarbo verrucosus,Animalia,CORMORANTS_PHALACROCORACIDAE,Kerguelen Shag,,10,70.4237937892,-49.383736153,Antarctica,French Southern & Antarctic Lands,TF,,TAAF - Kerguelen Islands,2013-07-29,
+Sterna virgata,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Kerguelen Tern,,30,70.2235078803,-49.3595195967,Antarctica,French Southern & Antarctic Lands,TF,,TAAF - Kerguelen Islands,2013-11-27,
+Diomedea epomophora,Animalia,ALBATROSSES_DIOMEDEIDAE,Southern Royal Albatross,,1,75.882,-48.682,Antarctica,French Southern & Antarctic Lands,TF,,French Southern and Antarctic Lands,2013-11-24,
+Diomedea epomophora,Animalia,ALBATROSSES_DIOMEDEIDAE,Southern Royal Albatross,,2,75.781,-48.903,Antarctica,French Southern & Antarctic Lands,TF,,TAAF - Antarctique francaise NP,2013-11-24,
+Phoebetria palpebrata,Animalia,ALBATROSSES_DIOMEDEIDAE,Light-mantled Albatross,,1,70.2450084651,-49.6853788052,Antarctica,French Southern & Antarctic Lands,TF,,French Southern and Antarctic Lands,2013-10-30,
+Thalassarche melanophris,Animalia,ALBATROSSES_DIOMEDEIDAE,Black-browed Albatross,,1,70.2450084651,-49.6853788052,Antarctica,French Southern & Antarctic Lands,TF,,French Southern and Antarctic Lands,2013-10-30,
+Thalassarche chrysostoma,Animalia,ALBATROSSES_DIOMEDEIDAE,Grey-headed Albatross,,4,70.2450084651,-49.6853788052,Antarctica,French Southern & Antarctic Lands,TF,,French Southern and Antarctic Lands,2013-10-30,
+Thalassarche carteri,Animalia,ALBATROSSES_DIOMEDEIDAE,Indian Yellow-nosed Albatross,,1,71.9247436523,-37.4410644246,Antarctica,French Southern & Antarctic Lands,TF,,TAAF - Antarctique francaise NP,2015-12-23,
+Arctocephalus tropicalis,Animalia,FUR_SEALS_OTARIIDAE,Subantarctic Fur Seal,,1,71.9247436523,-37.4410644246,Antarctica,French Southern & Antarctic Lands,TF,,TAAF - Antarctique francaise NP,2015-12-23,
+Mirounga leonina,Animalia,SEALS_PHOCIDAE,Southern Elephant Seal,,1,70.2319908142,-49.343075944,Antarctica,French Southern & Antarctic Lands,TF,,French Southern and Antarctic Lands,2015-12-18,
+Pygoscelis papua,Animalia,PENGUINS_SPHENISCIDAE,Gentoo Penguin,,1,70.0287437439,-49.3215975493,Antarctica,French Southern & Antarctic Lands,TF,,French Southern and Antarctic Lands,2015-12-18,
+Stercorarius antarcticus,Animalia,SKUAS_STERCORARIIDAE,Brown Skua,,1,70.0287437439,-49.3215975493,Antarctica,French Southern & Antarctic Lands,TF,,TAAF - Kerguelen Islands,2015-12-18,
+Larus dominicanus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Kelp Gull,,1,70.0287437439,-49.3215975493,Antarctica,French Southern & Antarctic Lands,TF,,French Southern and Antarctic Lands,2015-12-18,
+Anas eatoni,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Eaton's Pintail,,1,70.0287437439,-49.3215975493,Antarctica,French Southern & Antarctic Lands,TF,,TAAF - Kerguelen Islands,2015-12-18,
+Leucocarbo verrucosus,Animalia,CORMORANTS_PHALACROCORACIDAE,Kerguelen Shag,,1,69.8768234253,-49.4468119034,Antarctica,French Southern & Antarctic Lands,TF,,TAAF - Kerguelen Islands,2015-12-19,
+Phoebetria fusca,Animalia,ALBATROSSES_DIOMEDEIDAE,Sooty Albatross,,1,77.31,-38.43,Antarctica,French Southern & Antarctic Lands,TF,,French Southern and Antarctic Lands,2015-12-23,
+Sterna vittata,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Antarctic Tern,,1,77.31,-38.43,Antarctica,French Southern & Antarctic Lands,TF,,French Southern and Antarctic Lands,2015-12-23,
+Thalassarche chrysostoma,Animalia,ALBATROSSES_DIOMEDEIDAE,Grey-headed Albatross,,1,72.617,-46.482,Antarctica,French Southern & Antarctic Lands,TF,,French Southern and Antarctic Lands,2015-12-21,
+Diomedea epomophora,Animalia,ALBATROSSES_DIOMEDEIDAE,Southern Royal Albatross,,1,72.617,-46.482,Antarctica,French Southern & Antarctic Lands,TF,,French Southern and Antarctic Lands,2015-12-21,
+Pachyptila salvini,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Salvin's Prion,,1,51.877,-46.428,Antarctica,French Southern & Antarctic Lands,TF,,TAAF - Crozet Islands - Possession Island,2015-12-15,
+Daption capense,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Cape Petrel,,1,51.877,-46.428,Antarctica,French Southern & Antarctic Lands,TF,,French Southern and Antarctic Lands,2015-12-15,
+Macronectes halli,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Northern Giant Petrel,,1,51.877,-46.428,Antarctica,French Southern & Antarctic Lands,TF,,TAAF - Crozet Islands - Possession Island,2015-12-14,
+Eudyptes chrysocome,Animalia,PENGUINS_SPHENISCIDAE,Southern Rockhopper Penguin,,1,51.877,-46.428,Antarctica,French Southern & Antarctic Lands,TF,,French Southern and Antarctic Lands,2015-12-14,
+Pygoscelis papua,Animalia,PENGUINS_SPHENISCIDAE,Gentoo Penguin,,1,51.877,-46.428,Antarctica,French Southern & Antarctic Lands,TF,,French Southern and Antarctic Lands,2015-12-14,
+Anas eatoni,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Eaton's Pintail,,2,51.877,-46.428,Antarctica,French Southern & Antarctic Lands,TF,,French Southern and Antarctic Lands,2015-12-14,
+Arctocephalus gazella,Animalia,FUR_SEALS_OTARIIDAE,Antarctic Fur Seal,,1,51.877,-46.428,Antarctica,French Southern & Antarctic Lands,TF,,French Southern and Antarctic Lands,2015-12-14,
+Chionis minor crozettensis,Animalia,SHEATHBILLS_AND_ALLIES_CHIONIDAE,Black-faced Sheathbill ssp crozettensis,,1,51.877,-46.428,Antarctica,French Southern & Antarctic Lands,TF,,French Southern and Antarctic Lands,2015-12-14,
+Larus dominicanus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Kelp Gull,,1,51.877,-46.428,Antarctica,French Southern & Antarctic Lands,TF,,French Southern and Antarctic Lands,2015-12-13,
+Daption capense,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,Cape Petrel,,1,51.877,-46.428,Antarctica,French Southern & Antarctic Lands,TF,,French Southern and Antarctic Lands,2015-12-13,
+Diomedea exulans,Animalia,ALBATROSSES_DIOMEDEIDAE,Wandering Albatross,,1,51.877,-46.428,Antarctica,French Southern & Antarctic Lands,TF,,French Southern and Antarctic Lands,2015-12-13,
+Aptenodytes patagonicus,Animalia,PENGUINS_SPHENISCIDAE,King Penguin,,1,51.877,-46.428,Antarctica,French Southern & Antarctic Lands,TF,,French Southern and Antarctic Lands,2015-12-13,
+Mirounga leonina,Animalia,SEALS_PHOCIDAE,Southern Elephant Seal,,1,51.877,-46.428,Antarctica,French Southern & Antarctic Lands,TF,,French Southern and Antarctic Lands,2015-12-13,
+Orcinus orca,Animalia,DOLPHINS_DELPHINIDAE,Killer Whale,,1,51.877,-46.428,Antarctica,French Southern & Antarctic Lands,TF,,TAAF - Crozet Islands - Possession Island,2015-12-13,
+Procellaria aequinoctialis,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,White-chinned Petrel,,1,57.978875,-47.5140275682,Antarctica,French Southern & Antarctic Lands,TF,,French Southern and Antarctic Lands,2015-12-12,
+Diomedea exulans,Animalia,ALBATROSSES_DIOMEDEIDAE,Wandering Albatross,,1,57.978875,-47.5140275682,Antarctica,French Southern & Antarctic Lands,TF,,French Southern and Antarctic Lands,2015-12-12,
+Procellaria aequinoctialis,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,White-chinned Petrel,,10,53.057,-38.269,Antarctica,French Southern & Antarctic Lands,TF,,French Southern and Antarctic Lands,2015-12-11,
+Thalassarche melanophris,Animalia,ALBATROSSES_DIOMEDEIDAE,Black-browed Albatross,,1,70.6007,-49.363,Antarctica,French Southern & Antarctic Lands,TF,,TAAF - Antarctique francaise NP,2015-12-20,17:13
+Leucocarbo verrucosus,Animalia,CORMORANTS_PHALACROCORACIDAE,Kerguelen Shag,,1,70.4618,-49.4807,Antarctica,French Southern & Antarctic Lands,TF,,TAAF - Antarctique francaise NP,2015-12-20,16:29
+Diomedea exulans,Animalia,ALBATROSSES_DIOMEDEIDAE,Wandering Albatross,,1,70.365,-49.4957,Antarctica,French Southern & Antarctic Lands,TF,,TAAF - Antarctique francaise NP,2015-12-20,16:11
+Larus dominicanus,Animalia,GULLS_TERNS_AND_SKIMMERS_LARIDAE,Kelp Gull,,1,70.18066373,-49.37119617,Antarctica,French Southern & Antarctic Lands,TF,,TAAF - Kerguelen Islands,2015-12-20,14:55
+Anas eatoni,Animalia,DUCKS_GEESE_AND_SWANS_ANATIDAE,Eaton's Pintail,,2,51.80603027,-46.40377617,Antarctica,French Southern & Antarctic Lands,TF,,TAAF - Crozet Islands - Possession Island,2015-12-20,14:46
+Pterodroma lessonii,Animalia,PETRELS_AND_SHEARWATERS_PROCELLARIIDAE,White-headed Petrel,,1,70.0253,-48.985,Antarctica,French Southern & Antarctic Lands,TF,,TAAF - Antarctique francaise NP,2015-12-17,18:37
+Thalassarche chrysostoma,Animalia,ALBATROSSES_DIOMEDEIDAE,Grey-headed Albatross,,1,67.4349,-48.3731,Antarctica,French Southern & Antarctic Lands,TF,,TAAF - Antarctique francaise NP,2015-12-16,17:06
+Fregetta tropica,Animalia,OCEANITIDAE,Black-bellied Storm Petrel,,1,65.7652,-48.1748,Antarctica,French Southern & Antarctic Lands,TF,,French Southern and Antarctic Lands,2015-12-16,11:51
+Leucocarbo melanogenis,Animalia,CORMORANTS_PHALACROCORACIDAE,Crozet Shag,,1,51.8766,-46.4275,Antarctica,French Southern & Antarctic Lands,TF,,TAAF - Crozet Islands - Possession Island,2015-12-13,06:51
