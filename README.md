@@ -10,19 +10,13 @@ This R Shiny dashboard helps visualize the biodiversity data from [Global Biodiv
 
 1. Species Visualization Map: Biodiversity observations can be viewed on the map by selecting a country and a species or vernacular name. 
 
-2. Species Visualization Timeline: The timeline of when indivuduals were spotted can be seen as an interactive plotly plot.
+2. Species Visualization Timeline: The timeline of when individuals were spotted can be seen as an interactive plotly plot.
 
 Additional Features:
 
-- Get a count of total number of individuals spotted in a certain area by hovering over the map markers.
+- Hover over the map markers to count the total number of individuals spotted in a certain area.
 
 - Compare the timeline of a species with other species by using the sidebar in the timeline plot.
-
-## Data
-
-The data has been pre-processed and is present as multiple csv files. Each country has a unique CSV file which is loaded on demand when the user selects that country.
-
-This preprocessing ensures that the app is optimized and also ensures fast processing speed of the dataset.
 
 ## Extras
 
@@ -36,6 +30,12 @@ This preprocessing ensures that the app is optimized and also ensures fast proce
   - Ability to add and compare the timeline of multiple species
 
 - Infrastructure: This app has also been deployed on Posit Connect @ [Biodiversity Dashboard](https://connect.posit.cloud/parv-sachdeva/content/01926389-7248-1872-23fa-dbfb66268249).
+
+## Data
+
+The data has been pre-processed and cleaned and is present as multiple CSV files. Each country has a unique CSV file loaded on demand when the user selects that country.
+
+This preprocessing ensures that the app is optimized and that the dataset is processed quickly.
 
 ## Running the app locally
 
@@ -52,4 +52,3 @@ Tests for this app can be run using the following command:
 ```{R}
 shiny::runTests()
 ```
-
