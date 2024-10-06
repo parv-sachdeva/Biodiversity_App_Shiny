@@ -39,9 +39,6 @@ inputModuleServer <- function(id, data_path="data/split_by_country") {
                     data_path = data_path,
                     country = input$country
                 )
-                # Make the eventDate column a Data data type
-                localReactiveValues$data <- localReactiveValues$data %>%
-                    mutate(eventDate = as.Date(eventDate))
             },
             error=function(cond) {
                 localReactiveValues$data <- NULL
