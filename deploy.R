@@ -1,5 +1,7 @@
 library(rsconnect)
 
+# rsconnect::writeManifest()
+
 rsconnect::setAccountInfo(
     name=Sys.getenv("SHINYAPPS_IO_NAME"), 
     token=Sys.getenv("SHINYAPPS_IO_TOKEN"), 
@@ -7,5 +9,3 @@ rsconnect::setAccountInfo(
 )
 
 deployApp()
-
-rsconnect::writeManifest()
