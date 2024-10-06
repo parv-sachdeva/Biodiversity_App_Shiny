@@ -6,7 +6,8 @@ ui <- page_sidebar(
     img(
       src="https://cdn.prod.website-files.com/6525256482c9e9a06c7a9d3c/6539655f4ca172cfc5deaad8_Appsilon_logo.svg",
       style="position: absolute; bottom: 10px; "
-    )
+    ),
+    open = TRUE
   ),
   layout_column_wrap(
     width = 1/2,
