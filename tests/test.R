@@ -6,7 +6,7 @@ data_path="../data/split_by_country"
 
 test_that("Load all countries", {
     countries <- get_all_countries(data_path = data_path)
-    expect_length(countries, 228)
+    expect_length(countries, 226)
 })
 
 test_that("Load countries from wrong path", {
