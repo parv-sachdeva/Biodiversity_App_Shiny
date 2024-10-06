@@ -37,7 +37,7 @@ The data has been pre-processed and cleaned and is present as multiple CSV files
 
 This preprocessing ensures that the app is optimized and that the dataset is processed quickly.
 
-Note: Data for two countries (France and Spain) were excluded from the app since their sizes were larger than GitHub's file limit of 100MB.
+Note: Data for two countries (France and Spain) were excluded from the app since their sizes were larger than GitHub's file limit of 100MB. Apart from this all deformed data has been filtered out.
 
 ## Running the app locally
 
