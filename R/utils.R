@@ -34,7 +34,7 @@ add_total_individuals_per_locality <- function(data) {
 
 plot_animal_timeline_plot <- function(plotData) {
     p <- ggplot(plotData, aes(x = eventDate, y = individualCount, color = scientificName)) +
-        geom_line(size = 0.5, alpha = 0.5) +
+        geom_line(linewidth = 0.8, alpha = 0.5) +
         geom_point(alpha = 0.5) +
         ylab("Animal Spottings") +
         xlab("Date")
