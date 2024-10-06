@@ -10,6 +10,12 @@ get_all_countries <- function(data_path) {
 read_country_data <- function(data_path, country) {
     data <- fread(
         input = file.path(data_path, glue("{country}.csv")), sep=","
+    ) %>%
+    # Add datatypes for important variables
+    mutate(
+        latitudeDecimal = as.numeric(latitudeDecimal),
+        longitudeDecimal = as.numeric(longitudeDecimal),
+        eventDate = as.Date(eventDate)
     )
     return(data)
 }
