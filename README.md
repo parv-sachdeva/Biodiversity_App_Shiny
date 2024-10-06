@@ -1,8 +1,8 @@
 # Biodiversity Shiny App for Appsilon
 
 This app is deployed at:
-- Possit Connect Cloud: [Biodiversity Dashboard](https://connect.posit.cloud/parv-sachdeva/content/01926389-7248-1872-23fa-dbfb66268249)
 - shinyapps.io: [Biodiversity Dashboard](http://parvsachdeva.shinyapps.io/shiny_biodiversity_app)
+- Possit Connect Cloud: [Biodiversity Dashboard](https://connect.posit.cloud/parv-sachdeva/content/01926389-7248-1872-23fa-dbfb66268249)
 
 This R Shiny dashboard helps visualize the biodiversity data from [Global Biodiversity Information Facility](https://www.gbif.org/occurrence/search?dataset_key=8a863029-f435-446a-821e-275f4f641165).
 
