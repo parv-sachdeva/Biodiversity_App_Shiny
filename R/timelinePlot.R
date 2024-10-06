@@ -36,15 +36,19 @@ timelinePlotServer <- function(id, biodiversity_data, country, animal) {
         })
         output$time_plot <- renderPlotly({
             req(biodiversity_data(), country(), animal())
-            
-            # Prepare data
-            plotData <- biodiversity_data() %>% 
-                filter(scientificName %in% c(animal(), input$other_animals)) %>% 
-                select(individualCount, eventDate, scientificName) %>% 
-                mutate(eventDate=as.Date(eventDate))
+            tryCatch({
+                # Prepare data
+                plotData <- biodiversity_data() %>% 
+                    filter(scientificName %in% c(animal(), input$other_animals)) %>% 
+                    select(individualCount, eventDate, scientificName) %>% 
+                    mutate(eventDate=as.Date(eventDate))
 
-            # Create plot
-            p <- plot_animal_timeline_plot(plotData) %>% convert_timeplot_to_plotly_with_legend()
+                # Create plot and convert to plotly
+                p <- plot_animal_timeline_plot(plotData) %>% convert_timeplot_to_plotly_with_legend()
+            },
+            error=function(cond) {
+                warning(paste0("Error in processing timeline with the selected inputs: ", cond, "Proceeding!"))
+            })
         })
     })
 }
