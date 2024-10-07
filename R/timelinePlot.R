@@ -7,7 +7,7 @@ timelinePlotUI <- function(id) {
             layout_sidebar(
                 sidebar = sidebar(
                 selectizeInput(
-                    ns("other_animals"), "Add Animals To Plot",
+                    ns("other_animals"), "Add Organisms To Plot",
                     choices = NULL, multiple = TRUE
                 ),
                     position = "right", open = FALSE

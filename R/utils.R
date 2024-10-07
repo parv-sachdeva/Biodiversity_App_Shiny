@@ -42,8 +42,9 @@ plot_animal_timeline_plot <- function(plotData) {
     p <- ggplot(plotData, aes(x = eventDate, y = individualCount, color = scientificName)) +
         geom_line(linewidth = 0.8, alpha = 0.5) +
         geom_point(alpha = 0.5) +
-        ylab("Animal Spottings") +
-        xlab("Date")
+        ylab("Number of Individuals Observed") +
+        xlab("Date") +
+        ggtitle("Timeline Plot of Organism Observations")
 }
 
 convert_timeplot_to_plotly_with_legend <- function(p) {
