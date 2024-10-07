@@ -6,7 +6,7 @@ inputModuleUI <- function(id) {
         choices = NULL
         ),
         selectizeInput(
-        ns("animal"), "Select Animal",
+        ns("animal"), "Select Organism",
         choices = NULL
         )
     )
@@ -14,8 +14,6 @@ inputModuleUI <- function(id) {
 
 
 inputModuleServer <- function(id, data_path="data/split_by_country") {
-    # stopifnot(is.reactive(country))
-    # stopifnot(is.reactive(animal))
     moduleServer(id, function(input, output, session) {
         ns <- session$ns
         returnValues <- reactiveValues()
