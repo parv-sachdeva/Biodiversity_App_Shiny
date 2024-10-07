@@ -1,6 +1,6 @@
 library(rsconnect)
 
-# rsconnect::writeManifest()
+rsconnect::writeManifest()
 
 rsconnect::setAccountInfo(
     name=Sys.getenv("SHINYAPPS_IO_NAME"), 
