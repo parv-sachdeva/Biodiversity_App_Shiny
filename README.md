@@ -21,7 +21,8 @@ Additional Features:
 
 - Compare the timeline of a species with other species by using the `Add Animals To Plot` option in the sidebar of the timeline plot. This will add multiple timelines, one for each selected species (colored by species).
 
-![image](https://github.com/user-attachments/assets/d5c5e495-965d-4ad0-929b-1d57edfb95d8)
+![image](https://github.com/user-attachments/assets/2a40aa0b-cb8c-4c94-a68f-a8f33acb4af5)
+
 
 
 
