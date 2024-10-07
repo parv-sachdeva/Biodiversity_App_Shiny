@@ -16,15 +16,21 @@ Additional Features:
 
 - Hover over the map markers to count the total number of individuals spotted in a certain area.
 
-- Compare the timeline of a species with other species by using the sidebar in the timeline plot.
+  ![image](https://github.com/user-attachments/assets/dc67f078-5945-40f5-823a-4f5669b846f9)
+
+
+- Compare the timeline of a species with other species by using the `Add Animals To Plot` option in the sidebar of the timeline plot. This will add multiple timelines, one for each selected species (colored by species).
+
+  ![image](https://github.com/user-attachments/assets/914fe996-6323-4e84-9c93-fe964ff84954)
+
 
 ## Extras
 
 - Beautiful UI: This app includes a custom theme made using [bslib](https://rstudio.github.io/bslib/) and custom CSS styling. This ensures that the app matches the Appsilon theme.
 
-- Performance Optimization: This app is optimized to load data on demand. This ensures that the plots and map are fast to load.
+- Performance Optimization: This app is optimized to load data on demand. This ensures that the map and the plots are fast to load.
 
-- JavaScript: I have used interactive elements in the app such as
+- JavaScript: Interactive elements have been utilized in the app such as
   - Hover to display additional data on map markers
   - Interactive plotly js plot for the timeline
   - Ability to add and compare the timeline of multiple species
@@ -33,18 +39,18 @@ Additional Features:
 
 ## Data
 
-The data has been pre-processed and cleaned and is present as multiple CSV files. Each country has a unique CSV file loaded on demand when the user selects that country.
+The data has been pre-processed and cleaned and is split by country into multiple CSV files in the `data` folder. Each country has a unique CSV file loaded on demand when the user selects that country.
 
 This preprocessing ensures that the app is optimized and that the dataset is processed quickly.
 
-Note: Data for two countries (France and Spain) were excluded from the app since their sizes were larger than GitHub's file limit of 100MB. Apart from this all deformed data has been filtered out.
+Note: Data for two countries (France and Spain) has been excluded from the app since their sizes were larger than GitHub's file limit of 100MB. Apart from this, all deformed data has been filtered out.
 
 ## Running the app locally
 
-The app can be launched by using the following command:
+The app can be launched locally using the following command:
 
 ```{R}
-shiny::runApp()
+shiny::runApp("<path to app folder>")
 ```
 
 ## Tests
@@ -52,5 +58,5 @@ shiny::runApp()
 Tests for this app can be run using the following command:
 
 ```{R}
-shiny::runTests()
+shiny::runTests("<path to app folder>")
 ```
