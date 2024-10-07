@@ -47,6 +47,21 @@ Note: Data for two countries (France and Spain) has been excluded from the app s
 
 ## Running the app locally
 
+
+Note: Before running make sure to have the following dependencies installed:
+
+```
+glue
+shiny
+bslib
+dplyr
+plotly
+ggplot2
+leaflet
+stringr
+data.table
+```
+
 The app can be launched locally using the following command:
 
 ```{R}
