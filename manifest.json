@@ -2797,9 +2797,6 @@
     "data/split_by_country/Afghanistan.csv": {
       "checksum": "6c1b290be3c2e1be08b03525da54dd75"
     },
-    "data/split_by_country/Africa.csv": {
-      "checksum": "0e55efe4864cee0e4d1950a345e1aa13"
-    },
     "data/split_by_country/Albania.csv": {
       "checksum": "f3fa0067c981e817b1778b40cf7c2c07"
     },
@@ -2826,9 +2823,6 @@
     },
     "data/split_by_country/Armenia.csv": {
       "checksum": "b2a18f2e5469a6bca01955f14aa302cd"
-    },
-    "data/split_by_country/Asia.csv": {
-      "checksum": "92ca86cebddaa102ff2c351ca40895e8"
     },
     "data/split_by_country/Australia.csv": {
       "checksum": "4f634ef49b5ed8a04438ec148f42f135"
@@ -2935,9 +2929,6 @@
     "data/split_by_country/Costa Rica.csv": {
       "checksum": "8f854e3a3ac0a74a796b90a497dd62ed"
     },
-    "data/split_by_country/country.csv": {
-      "checksum": "808cf06c70cf5c2341f8c9d8bb92b150"
-    },
     "data/split_by_country/Croatia.csv": {
       "checksum": "99590dc1709e4c9d078bb24e21265b56"
     },
@@ -3003,9 +2994,6 @@
     },
     "data/split_by_country/Finland.csv": {
       "checksum": "998d396923162bc64501407834abf20d"
-    },
-    "data/split_by_country/France.csv": {
-      "checksum": "798c43fec958788d576e3ec57b7d9f38"
     },
     "data/split_by_country/French Guiana.csv": {
       "checksum": "8f0a2a4383f572dc23d8538937853d66"
@@ -3358,9 +3346,6 @@
     "data/split_by_country/South Korea.csv": {
       "checksum": "d891ab967b1d98332ac52a3fe27d334e"
     },
-    "data/split_by_country/Spain.csv": {
-      "checksum": "c973f5e239cdd986db936d117306cd56"
-    },
     "data/split_by_country/Sri Lanka.csv": {
       "checksum": "ebc18f852a560178c9fa5f020258133c"
     },
@@ -3479,34 +3464,34 @@
       "checksum": "450363574b362a5063f7afa4dd5b63de"
     },
     "deploy.R": {
-      "checksum": "4a91b7e59ca4235ba90f43614709c783"
+      "checksum": "fa3de64e88eff04deea583e6e7792951"
     },
     "global.R": {
       "checksum": "6701d4aaff1642242922e7ccfbbd4f0e"
     },
     "R/inputModule.R": {
-      "checksum": "bbd8d2d82b70c5b5764196a131d3add6"
+      "checksum": "e80d67430bb057d4c139268837462caf"
     },
     "R/leafletMap.R": {
-      "checksum": "85bdb1859c9b95620b261ac62b4013e2"
+      "checksum": "947e55126bcceec7f3851f6e748ded40"
     },
     "R/timelinePlot.R": {
-      "checksum": "6d73d378e4f680d4bbfbfff93c38b534"
+      "checksum": "cdd9d36e9a1429f6dd919e14faa9839f"
     },
     "R/utils.R": {
-      "checksum": "3d85805ead1bea0fd2e5923972e30d1e"
+      "checksum": "2c3620276e82c55e54dfe0d4648c5e64"
     },
     "README.md": {
-      "checksum": "f363b33f4cd210ba7592ea9b04d36cbd"
+      "checksum": "2de2a458d387edcac351f5de6cd121ea"
     },
     "server.R": {
-      "checksum": "9749094be2e26bfdd62a16d0ee0269d8"
+      "checksum": "1530ce03bebf8bb90ee963b3698e076c"
     },
     "tests/test.R": {
-      "checksum": "f7652a64c0f9b5c791453adce967ba39"
+      "checksum": "cb69d65b742cc5994d783b342131dce0"
     },
     "ui.R": {
-      "checksum": "cdbefc4bfa9e3e384545a09f870a839e"
+      "checksum": "5415a4788f4ef3a269b2c241b0cd3baa"
     }
   },
   "users": null
